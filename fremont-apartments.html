@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fremont 选公寓 · Belle 的看房清单</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans+SC:wght@400;500;700;900&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0d0f14;
+    --bg-soft:#141821;
+    --card:#191e2a;
+    --card-hover:#1e2536;
+    --line:#2a3142;
+    --ink:#eef1f7;
+    --ink-soft:#aeb7c7;
+    --ink-dim:#6f7a8d;
+    --brand:#7c8cff;
+    --brand-2:#5ce0c6;
+    --gold:#ffce5c;
+    --green:#4ad991;
+    --amber:#ffb454;
+    --red:#ff6b81;
+    --radius:18px;
+    --shadow:0 10px 40px -12px rgba(0,0,0,.55);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:"Inter","Noto Sans SC",system-ui,sans-serif;
+    background:
+      radial-gradient(1200px 600px at 85% -10%, rgba(124,140,255,.18), transparent 60%),
+      radial-gradient(900px 500px at 0% 0%, rgba(92,224,198,.12), transparent 55%),
+      var(--bg);
+    color:var(--ink);
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+
+  /* ---------- HERO ---------- */
+  header.hero{padding:64px 0 30px;position:relative;overflow:hidden}
+  .eyebrow{
+    display:inline-flex;align-items:center;gap:8px;
+    font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--brand-2);background:rgba(92,224,198,.1);
+    border:1px solid rgba(92,224,198,.25);padding:7px 14px;border-radius:999px;
+  }
+  h1{
+    font-family:"Fraunces",serif;
+    font-size:clamp(34px,6vw,62px);line-height:1.05;font-weight:700;
+    margin:18px 0 14px;letter-spacing:-.01em;
+  }
+  h1 .grad{background:linear-gradient(100deg,var(--brand),var(--brand-2));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .lede{font-size:18px;color:var(--ink-soft);max-width:680px}
+  .meta-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+  .pill{
+    font-size:13px;color:var(--ink-soft);background:var(--bg-soft);
+    border:1px solid var(--line);padding:8px 14px;border-radius:999px;display:inline-flex;gap:7px;align-items:center
+  }
+  .pill b{color:var(--ink);font-weight:700}
+
+  /* ---------- STAT STRIP ---------- */
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:34px 0 8px}
+  .stat{background:linear-gradient(180deg,var(--card),var(--bg-soft));border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px}
+  .stat .n{font-family:"Fraunces",serif;font-size:30px;font-weight:700;color:var(--ink)}
+  .stat .l{font-size:12.5px;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.06em;margin-top:2px}
+  .stat .n .unit{font-size:15px;color:var(--ink-soft);font-family:"Inter",sans-serif;font-weight:600}
+
+  /* ---------- SECTION ---------- */
+  section{padding:42px 0}
+  .sec-head{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:8px}
+  h2{font-family:"Fraunces",serif;font-size:clamp(24px,3.4vw,34px);font-weight:700;letter-spacing:-.01em}
+  .sec-sub{color:var(--ink-dim);font-size:15px;margin-bottom:24px;max-width:720px}
+
+  /* ---------- CONTROLS ---------- */
+  .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:24px;
+    position:sticky;top:0;z-index:30;padding:14px 0;background:linear-gradient(180deg,var(--bg) 60%,transparent)}
+  .ctl-label{font-size:13px;color:var(--ink-dim);margin-right:2px}
+  .chip{cursor:pointer;font-size:13.5px;font-weight:600;color:var(--ink-soft);
+    background:var(--bg-soft);border:1px solid var(--line);padding:9px 15px;border-radius:999px;transition:.18s}
+  .chip:hover{color:var(--ink);border-color:var(--brand)}
+  .chip.active{background:linear-gradient(100deg,var(--brand),#6a7bff);color:#0d0f14;border-color:transparent;box-shadow:0 6px 18px -6px rgba(124,140,255,.7)}
+  .spacer{flex:1}
+
+  /* ---------- CARD GRID ---------- */
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+  .card{
+    background:linear-gradient(180deg,var(--card),var(--bg-soft));
+    border:1px solid var(--line);border-radius:var(--radius);padding:22px;
+    position:relative;transition:.2s;display:flex;flex-direction:column;
+  }
+  .card:hover{transform:translateY(-3px);border-color:rgba(124,140,255,.5);box-shadow:var(--shadow)}
+  .rank{position:absolute;top:-12px;left:22px;font-family:"Fraunces",serif;font-weight:700;font-size:14px;
+    background:linear-gradient(100deg,var(--brand),var(--brand-2));color:#0d0f14;padding:4px 12px;border-radius:999px}
+  .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:4px}
+  .name{font-size:20px;font-weight:800;letter-spacing:-.01em}
+  .mgmt{font-size:12.5px;color:var(--ink-dim);margin-top:1px}
+  .rating{flex-shrink:0;text-align:center;background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:7px 11px;min-width:62px}
+  .rating .score{font-size:19px;font-weight:800;line-height:1}
+  .rating .stars{font-size:11px;letter-spacing:1px;margin-top:2px}
+  .rating .cnt{font-size:10px;color:var(--ink-dim);margin-top:2px}
+  .addr{font-size:13px;color:var(--ink-soft);margin:6px 0 14px;display:flex;gap:6px;align-items:flex-start}
+
+  .prices{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px}
+  .pbox{background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:11px 13px}
+  .pbox .t{font-size:11px;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.05em}
+  .pbox .v{font-size:18px;font-weight:800;margin-top:2px}
+  .pbox .v.na{color:var(--ink-dim);font-size:15px;font-weight:600}
+  .pbox.studio{border-color:rgba(92,224,198,.3)}
+  .pbox.oneb{border-color:rgba(124,140,255,.3)}
+
+  .movein{display:flex;align-items:center;gap:8px;font-size:13.5px;margin-bottom:14px;
+    background:rgba(74,217,145,.08);border:1px solid rgba(74,217,145,.22);border-radius:10px;padding:9px 12px}
+  .movein.soon{background:rgba(255,180,84,.08);border-color:rgba(255,180,84,.22)}
+  .movein .k{color:var(--ink-dim);font-size:12px}
+  .movein .v{font-weight:700;color:var(--ink)}
+
+  .special{font-size:12.5px;color:var(--gold);background:rgba(255,206,92,.08);border:1px dashed rgba(255,206,92,.35);
+    border-radius:10px;padding:8px 12px;margin-bottom:14px;display:flex;gap:7px;align-items:center}
+
+  .tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+  .tag{font-size:11.5px;color:var(--ink-soft);background:var(--bg);border:1px solid var(--line);padding:4px 10px;border-radius:7px}
+
+  .proscons{display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:12.5px;margin-top:auto}
+  .pc h4{font-size:11px;text-transform:uppercase;letter-spacing:.05em;margin-bottom:5px}
+  .pc.pro h4{color:var(--green)} .pc.con h4{color:var(--red)}
+  .pc ul{list-style:none} .pc li{display:flex;gap:6px;color:var(--ink-soft);margin-bottom:3px}
+  .pc.pro li::before{content:"+";color:var(--green);font-weight:800}
+  .pc.con li::before{content:"–";color:var(--red);font-weight:800}
+
+  .card-foot{display:flex;gap:10px;margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}
+  .btn{flex:1;text-align:center;font-size:13px;font-weight:700;padding:10px;border-radius:10px;text-decoration:none;transition:.18s}
+  .btn.primary{background:linear-gradient(100deg,var(--brand),#6a7bff);color:#0d0f14}
+  .btn.primary:hover{filter:brightness(1.1)}
+  .btn.ghost{background:var(--bg);color:var(--ink-soft);border:1px solid var(--line)}
+  .btn.ghost:hover{color:var(--ink);border-color:var(--brand)}
+
+  /* ---------- COMPARISON TABLE ---------- */
+  .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);background:var(--bg-soft)}
+  table{border-collapse:collapse;width:100%;min-width:880px;font-size:13.5px}
+  th,td{padding:13px 15px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+  thead th{position:sticky;top:0;background:var(--card);color:var(--ink-soft);font-size:12px;text-transform:uppercase;letter-spacing:.05em;z-index:1}
+  tbody tr:hover{background:var(--card-hover)}
+  td.nm{font-weight:700;color:var(--ink)}
+  .mini-star{color:var(--gold)}
+  .cell-na{color:var(--ink-dim)}
+  .best{color:var(--green);font-weight:800}
+
+  /* ---------- DECISION GUIDE ---------- */
+  .guide{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .gcard{background:linear-gradient(180deg,var(--card),var(--bg-soft));border:1px solid var(--line);border-radius:var(--radius);padding:20px}
+  .gcard .ic{font-size:22px;margin-bottom:8px}
+  .gcard h3{font-size:16px;font-weight:800;margin-bottom:8px}
+  .gcard p{font-size:13.5px;color:var(--ink-soft)}
+  .gcard ul{margin-top:8px;padding-left:2px;list-style:none}
+  .gcard li{font-size:13px;color:var(--ink-soft);display:flex;gap:7px;margin-bottom:5px}
+  .gcard li::before{content:"›";color:var(--brand);font-weight:800}
+
+  /* ---------- CHECKLIST ---------- */
+  .checklist{background:linear-gradient(180deg,var(--card),var(--bg-soft));border:1px solid var(--line);border-radius:var(--radius);padding:26px}
+  .checklist h3{font-size:18px;margin-bottom:6px}
+  .cl-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px 28px;margin-top:16px}
+  .cl-item{display:flex;gap:11px;align-items:flex-start;font-size:14px;color:var(--ink-soft);cursor:pointer;padding:7px 8px;border-radius:9px;transition:.15s}
+  .cl-item:hover{background:var(--bg)}
+  .cl-item input{appearance:none;width:19px;height:19px;border:2px solid var(--line);border-radius:6px;flex-shrink:0;margin-top:2px;cursor:pointer;transition:.15s;position:relative}
+  .cl-item input:checked{background:var(--brand);border-color:var(--brand)}
+  .cl-item input:checked::after{content:"✓";position:absolute;color:#0d0f14;font-size:13px;font-weight:900;left:3px;top:-1px}
+  .cl-item input:checked + span{color:var(--ink-dim);text-decoration:line-through}
+
+  /* ---------- FOOTER ---------- */
+  footer{padding:42px 0 60px;color:var(--ink-dim);font-size:13px;border-top:1px solid var(--line);margin-top:30px}
+  footer a{color:var(--brand)}
+  .disclaimer{background:rgba(255,180,84,.06);border:1px solid rgba(255,180,84,.2);border-radius:12px;padding:14px 16px;margin-bottom:20px;font-size:13px;color:var(--ink-soft)}
+
+  @media(max-width:880px){
+    .stats{grid-template-columns:repeat(2,1fr)}
+    .grid{grid-template-columns:1fr}
+    .guide{grid-template-columns:1fr}
+    .cl-grid{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <span class="eyebrow">🏡 Fremont · Belle Apartments Shortlist</span>
+    <h1>在 Fremont 找一个家<br><span class="grad">10 个公寓，一张表看懂</span></h1>
+    <p class="lede">从 Google Maps 收藏夹里整理出来的 10 个 Fremont 公寓——价格、评分、最早入住时间，外加一份「选房会纠结的所有事」清单。按你的优先级排序、勾选，慢慢挑。</p>
+    <div class="meta-row">
+      <span class="pill">📍 区域 <b>Fremont, CA</b></span>
+      <span class="pill">🗓️ 数据截至 <b>2026-05-30</b></span>
+      <span class="pill">🏢 共 <b>10 个公寓</b></span>
+      <span class="pill">💵 价格区间 <b>$2,492 – $3,355/mo</b></span>
+    </div>
+
+    <div class="stats">
+      <div class="stat"><div class="n">10</div><div class="l">候选公寓</div></div>
+      <div class="stat"><div class="n">$2,492<span class="unit">起</span></div><div class="l">最低 1B1B（Avalon）</div></div>
+      <div class="stat"><div class="n">$2,525<span class="unit">起</span></div><div class="l">最低 Studio（Beacon）</div></div>
+      <div class="stat"><div class="n">4.9<span class="unit">★ 最高</span></div><div class="l">评分最高（Tolman*）</div></div>
+    </div>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head"><h2>公寓清单</h2></div>
+    <p class="sec-sub">每张卡片都包含评分、Studio / 1B1B 最低价、最早可入住时间、当前优惠、关键标签和优缺点。点上面的按钮可以重新排序。</p>
+
+    <div class="controls">
+      <span class="ctl-label">排序：</span>
+      <button class="chip active" data-sort="rank">推荐顺序</button>
+      <button class="chip" data-sort="rating">评分高→低</button>
+      <button class="chip" data-sort="one">1B1B 便宜→贵</button>
+      <button class="chip" data-sort="studio">Studio 便宜→贵</button>
+      <span class="spacer"></span>
+      <span class="ctl-label">筛选：</span>
+      <button class="chip" data-filter="studio">有 Studio</button>
+      <button class="chip" data-filter="now">立即可入住</button>
+      <button class="chip" data-filter="bart">近 BART</button>
+    </div>
+
+    <div class="grid" id="grid"></div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head"><h2>横向对比</h2></div>
+    <p class="sec-sub">一眼看全部。绿色 = 该列里最优。Studio「—」表示该公寓不提供开间户型。</p>
+    <div class="tablewrap">
+      <table>
+        <thead><tr>
+          <th>公寓</th><th>评分</th><th>Studio 起价</th><th>1B1B 起价</th>
+          <th>最早入住</th><th>当前优惠</th><th>建成年份</th><th>通勤</th>
+        </tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head"><h2>选房会纠结的所有事</h2></div>
+    <p class="sec-sub">价格只是开始。下面是在 Fremont 租房时真正会影响生活质量的因素——结合本地特点给你一份参考。</p>
+    <div class="guide">
+      <div class="gcard">
+        <div class="ic">🚉</div><h3>通勤 & BART</h3>
+        <p>Fremont 有三个 BART 站：Fremont、Warm Springs/South Fremont、以及 Centerville Amtrak。</p>
+        <ul>
+          <li>去 SF / Silicon Valley 上班 → 优先 Warm Springs 站附近（Aya / Embark / Leya）</li>
+          <li>去 Tesla 工厂 → The Asher、Embark 离得近</li>
+          <li>Downtown 步行可达 BART → Archstone、Avalon、Mission Peaks、Beacon、Tolman</li>
+        </ul>
+      </div>
+      <div class="gcard">
+        <div class="ic">💰</div><h3>真实月成本</h3>
+        <p>挂牌价之外，记得算上这些隐形支出：</p>
+        <ul>
+          <li>停车位（车位常常另收 $100–200/位）</li>
+          <li>水电网 / 垃圾（多数不含，gas 部分公寓含）</li>
+          <li>宠物押金 + 宠物月租（约 $50/只）</li>
+          <li>看房优惠：多家给 4–8 周 free rent，摊到 12 个月能省不少</li>
+        </ul>
+      </div>
+      <div class="gcard">
+        <div class="ic">🎓</div><h3>学区 & 安全</h3>
+        <p>Fremont 常年是全美最安全的大城市之一；学区差异主要看 neighborhood。</p>
+        <ul>
+          <li>Mission San Jose 学区最强（清单里这几个不在该片区）</li>
+          <li>Warm Springs 是新兴科技片区，房子新</li>
+          <li>看房时留意：门禁是否都能用、停车场监控、夜间照明</li>
+        </ul>
+      </div>
+      <div class="gcard">
+        <div class="ic">🏗️</div><h3>新旧 & 户型</h3>
+        <p>清单里新盘（2020 后）隔音和设施明显更好，但价格也更高。</p>
+        <ul>
+          <li>新盘：Embark(2021)、Aya(2020)、Leya、Tolman、Beacon、Asher</li>
+          <li>老牌成熟社区：Mission Peaks、Archstone、Avalon、Artist Walk</li>
+          <li>多份评价提到「隔音薄」——看房务必楼上跺脚测一下</li>
+        </ul>
+      </div>
+      <div class="gcard">
+        <div class="ic">🐾</div><h3>宠物 & 生活</h3>
+        <p>清单里基本都 pet-friendly，但细则差很多。</p>
+        <ul>
+          <li>确认犬种 / 体重限制、几只上限</li>
+          <li>是否有 dog park / pet spa</li>
+          <li>泳池、健身房、lounge、快递柜是否齐全</li>
+          <li>洗烘是否 in-unit（这几家基本都是）</li>
+        </ul>
+      </div>
+      <div class="gcard">
+        <div class="ic">📝</div><h3>签约前必做</h3>
+        <p>定金前的最后核对：</p>
+        <ul>
+          <li>实地看「将要入住的那一套」，不是样板间</li>
+          <li>问清退租时的清洁 / 地毯费（多份差评在这）</li>
+          <li>确认 free-rent 优惠写进合同、是否需 12+ 月租期</li>
+          <li>问真实可入住日期，别只看挂牌「Available Now」</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="checklist">
+      <h3>📋 我的看房 Checklist</h3>
+      <p style="color:var(--ink-soft);font-size:14px">每去看一个公寓，照着勾一遍。状态只存在这个页面里，刷新会重置。</p>
+      <div class="cl-grid" id="checklist"></div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="disclaimer">
+      ⚠️ <b>关于数据：</b>价格、入住时间和优惠为 2026-05-30 前后从 Apartments.com / Zillow / 各公寓官网及评分站点整理，<b>会随市场每天变动</b>，且常因户型和楼层不同而异。Studio「—」代表该公寓不提供开间。评分综合 Google / Yelp / ApartmentRatings 等，*标注表示评价样本很少（如 Tolman 仅 3 条），仅供参考。<b>最终请以各公寓官网和 leasing office 报价为准。</b>
+    </div>
+    <p>整理自 Belle 的 <a href="https://maps.app.goo.gl/Ekvsdu3Fud8Qqphr8">Google Maps 收藏列表</a> · 为「在 Fremont 选公寓」场景定制 · 数据 2026-05-30</p>
+  </div>
+</footer>
+
+<script>
+const DATA=[
+  {rank:1,name:"Leya",mgmt:"3301 Innovation Way · 94538",rating:4.6,cnt:"22 条",studio:3003,one:3355,
+   movein:"Studio 6/18 起 · 部分立即",moveinSoon:false,now:false,bart:true,
+   special:"4 周免租",year:2023,commute:"Warm Springs BART",
+   tags:["新盘","Studio 576sqft","泳池","健身房"],
+   pros:["评分高、安全感强(4.8)","有真实 Studio 报价","staff 评价好"],
+   cons:["整体偏贵","gas 等需自付"],
+   link:"https://liveleya.com/"},
+
+  {rank:2,name:"The Tolman",mgmt:"39176 Fremont Blvd · 94538",rating:4.9,star:"少量",cnt:"3 条*",studio:2977,one:3243,
+   movein:"立即可入住",moveinSoon:false,now:true,bart:true,
+   special:"最高 7 周免租",year:2023,commute:"近 Fremont BART",
+   tags:["新盘","Studio–2B","552–1202sqft","可短租"],
+   pros:["新、设施好","入住即送大额免租","近 downtown/BART"],
+   cons:["评价样本极少","水电全自付"],
+   link:"https://thetolmanapts.com/"},
+
+  {rank:3,name:"The Beacon",mgmt:"3510 Beacon Ave · 94538",rating:4.0,star:"新",cnt:"少量",studio:2525,one:2800,
+   movein:"立即可入住",moveinSoon:false,now:true,bart:true,
+   special:"8 周免租 + $2000",year:2022,commute:"近 Fremont BART",
+   tags:["最低 Studio","新盘","步行可达商圈","in-unit 洗烘"],
+   pros:["Studio 全场最低 $2,525","优惠力度最大","高层大窗"],
+   cons:["开业不久、评价少","热门户型抢手"],
+   link:"https://www.thebeaconfremont.com/"},
+
+  {rank:4,name:"Archstone Fremont Center",mgmt:"39410 Civic Center Dr · 94538 · Equity",rating:3.9,cnt:"180+ 条",studio:null,one:3026,
+   movein:"详询 leasing",moveinSoon:false,now:false,bart:true,
+   special:"—",year:2002,commute:"距 BART 一个街区",
+   tags:["Downtown 核心","楼下 Starbucks","gas 含","泳池"],
+   pros:["位置极佳、楼下配套全","成熟大社区","gas 包含"],
+   cons:["无 Studio","部分差评提到治安/涨租"],
+   link:"https://www.equityapartments.com/san-francisco-bay/fremont/archstone-fremont-center-apartments"},
+
+  {rank:5,name:"Aya",mgmt:"45147 Lopes Rd · 94538 · Quarterra",rating:3.7,cnt:"29 条",studio:2948,one:3263,
+   movein:"4 套立即 · 19 套近 2 月",moveinSoon:false,now:true,bart:true,
+   special:"5/10 前签最高 4 周免租",year:2020,commute:"Warm Springs BART",
+   tags:["新盘","Studio–3B","576–1351sqft","Junior 奥运泳池"],
+   pros:["有 Studio、空间大","设施豪华、近 BART","当前可立即入住"],
+   cons:["早晨施工噪音反馈","泳池区夜间吵"],
+   link:"https://www.ayaapts.com/"},
+
+  {rank:6,name:"Embark",mgmt:"44762 Old Warm Springs Blvd · 94538",rating:3.5,cnt:"16+ 条",studio:null,one:2862,
+   movein:"立即可入住",moveinSoon:false,now:true,bart:true,
+   special:"—",year:2021,commute:"Warm Springs BART · 近 Tesla",
+   tags:["新盘 422 户","gas 含","近 Tesla","宠物友好"],
+   pros:["新、近 Tesla/高速","gas 包含","modern 设施多"],
+   cons:["无 Studio","反馈隔音薄、走廊清洁"],
+   link:"https://www.rentcafe.com/apartments/ca/fremont/embark/default.aspx"},
+
+  {rank:7,name:"Avalon Fremont",mgmt:"39939 Stevenson Cmn · 94538 · AvalonBay",rating:3.5,cnt:"90+ 条",studio:null,one:2492,
+   movein:"部分立即",moveinSoon:false,now:true,bart:true,
+   special:"最高省 $54/mo",year:2014,commute:"近 Fremont BART",
+   tags:["1B1B 全场最低","成熟社区","泳池/SPA","近高速 880/680"],
+   pros:["1B1B 最便宜 $2,492","品牌成熟、维修快","位置方便"],
+   cons:["无 Studio","退租地毯费投诉"],
+   link:"https://www.avaloncommunities.com/california/fremont-apartments/avalon-fremont/"},
+
+  {rank:8,name:"Artist Walk",mgmt:"3888 Artist Walk Cmn · 94536 · Greystar",rating:3.5,cnt:"37 条",studio:null,one:2762,
+   movein:"详询 leasing",moveinSoon:false,now:false,bart:false,
+   special:"—",year:2017,commute:"North Fremont / Centerville",
+   tags:["艺术主题","泳池/SPA","bike shop","gourmet 厨房"],
+   pros:["户型宽敞、设施好","主题社区有特色","维修评价好"],
+   cons:["无 Studio","停车被吐槽","离 BART 较远"],
+   link:"https://www.rentartistwalk.com/"},
+
+  {rank:9,name:"Mission Peaks",mgmt:"1401 Red Hawk Cir · 94538 · Essex",rating:3.1,cnt:"150+ 条",studio:null,one:2419,
+   movein:"1 套立即 · 21 套近 2 月",moveinSoon:false,now:true,bart:true,
+   special:"—",year:1986,commute:"近 Fremont BART",
+   tags:["大社区","健身房","石英台面","空调"],
+   pros:["1B1B 价格友好 $2,419 起","可立即入住房源多","位置方便"],
+   cons:["有臭虫/维修慢投诉","Essex 规则较死板"],
+   link:"https://www.essexapartmenthomes.com/apartments/fremont/mission-peaks"},
+
+  {rank:10,name:"The Asher",mgmt:"1031 Walnut Ave · 94536 · Greystar",rating:2.0,cnt:"13 条",studio:null,one:2950,
+   movein:"详询 leasing",moveinSoon:false,now:false,bart:true,
+   special:"最高 4 周免租",year:2018,commute:"步行 Fremont BART · 近 Tesla",
+   tags:["近 BART & Tesla","屋顶活动","in-unit 洗烘","花园景"],
+   pros:["位置好、步行到 BART","屋顶 concert 等活动","有免租优惠"],
+   cons:["staff/维修评分低","噪音、安全反馈差"],
+   link:"https://www.theasherfremont.com/"},
+];
+
+const money=v=>v?("$"+v.toLocaleString()):null;
+const stars=r=>{const f=Math.round(r);return "★★★★★".slice(0,f)+"☆☆☆☆☆".slice(0,5-f)};
+const ratingColor=r=> r>=4.3?"var(--green)": r>=3.6?"var(--gold)": r>=3.0?"var(--amber)":"var(--red)";
+
+let curFilter=null, curSort="rank";
+
+function render(){
+  let rows=[...DATA];
+  if(curFilter==="studio") rows=rows.filter(d=>d.studio);
+  if(curFilter==="now") rows=rows.filter(d=>d.now);
+  if(curFilter==="bart") rows=rows.filter(d=>d.bart);
+  if(curSort==="rank") rows.sort((a,b)=>a.rank-b.rank);
+  if(curSort==="rating") rows.sort((a,b)=>b.rating-a.rating);
+  if(curSort==="one") rows.sort((a,b)=>(a.one||1e9)-(b.one||1e9));
+  if(curSort==="studio") rows.sort((a,b)=>(a.studio||1e9)-(b.studio||1e9));
+
+  document.getElementById("grid").innerHTML=rows.map(d=>`
+    <div class="card">
+      <span class="rank">#${d.rank} 推荐</span>
+      <div class="card-top">
+        <div>
+          <div class="name">${d.name}</div>
+          <div class="mgmt">${d.mgmt}</div>
+        </div>
+        <div class="rating">
+          <div class="score" style="color:${ratingColor(d.rating)}">${d.rating.toFixed(1)}</div>
+          <div class="stars" style="color:${ratingColor(d.rating)}">${stars(d.rating)}</div>
+          <div class="cnt">${d.cnt}</div>
+        </div>
+      </div>
+      <div class="addr">📍 <span>${d.commute}</span></div>
+      <div class="prices">
+        <div class="pbox studio"><div class="t">Studio 起</div>
+          <div class="v ${d.studio?'':'na'}">${d.studio?money(d.studio):"不提供"}</div></div>
+        <div class="pbox oneb"><div class="t">1B1B 起</div>
+          <div class="v">${money(d.one)}</div></div>
+      </div>
+      <div class="movein ${d.now?'':'soon'}">
+        <span>${d.now?'🟢':'🟡'}</span>
+        <span class="k">最早入住</span><span class="v">${d.movein}</span>
+      </div>
+      ${d.special!=="—"?`<div class="special">🎁 ${d.special}</div>`:""}
+      <div class="tags">${d.tags.map(t=>`<span class="tag">${t}</span>`).join("")}</div>
+      <div class="proscons">
+        <div class="pc pro"><h4>优点</h4><ul>${d.pros.map(p=>`<li>${p}</li>`).join("")}</ul></div>
+        <div class="pc con"><h4>注意</h4><ul>${d.cons.map(c=>`<li>${c}</li>`).join("")}</ul></div>
+      </div>
+      <div class="card-foot">
+        <a class="btn primary" href="${d.link}" target="_blank" rel="noopener">官网 ↗</a>
+        <a class="btn ghost" href="https://www.google.com/maps/search/${encodeURIComponent(d.name+' apartments Fremont CA')}" target="_blank" rel="noopener">地图</a>
+      </div>
+    </div>`).join("");
+}
+
+// comparison table
+function renderTable(){
+  const minStudio=Math.min(...DATA.filter(d=>d.studio).map(d=>d.studio));
+  const minOne=Math.min(...DATA.map(d=>d.one));
+  const maxR=Math.max(...DATA.map(d=>d.rating));
+  document.getElementById("tbody").innerHTML=[...DATA].sort((a,b)=>a.rank-b.rank).map(d=>`
+    <tr>
+      <td class="nm">${d.name}</td>
+      <td><span class="mini-star">★</span> <b class="${d.rating===maxR?'best':''}">${d.rating.toFixed(1)}</b> <span style="color:var(--ink-dim)">(${d.cnt})</span></td>
+      <td class="${d.studio===minStudio?'best':(d.studio?'':'cell-na')}">${d.studio?money(d.studio):'—'}</td>
+      <td class="${d.one===minOne?'best':''}">${money(d.one)}</td>
+      <td>${d.now?'🟢 ':''}${d.movein}</td>
+      <td>${d.special==="—"?'<span class="cell-na">—</span>':'🎁 '+d.special}</td>
+      <td>${d.year}</td>
+      <td>${d.commute}</td>
+    </tr>`).join("");
+}
+
+// checklist
+const CHECK=["确认实际入住房源（非样板间）","量好 Studio/1B 真实面积","楼上跺脚测隔音","看停车位价格 & 数量",
+ "问水电网/gas 是否含","宠物犬种/体重/只数限制","退租清洁 & 地毯费","free-rent 是否写进合同",
+ "确认真实可入住日期","门禁/监控/夜间照明","到 BART 实测步行/车程","到公司通勤时间实测",
+ "快递柜 & 包裹安全","泳池/健身房开放时间","邻里 & 噪音（晚上再去一次）","押金 & 申请费总额"];
+document.getElementById("checklist").innerHTML=CHECK.map((c,i)=>`
+  <label class="cl-item"><input type="checkbox" id="ck${i}"><span>${c}</span></label>`).join("");
+
+// events
+document.querySelectorAll('[data-sort]').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('[data-sort]').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');curSort=b.dataset.sort;render();
+});
+document.querySelectorAll('[data-filter]').forEach(b=>b.onclick=()=>{
+  if(curFilter===b.dataset.filter){curFilter=null;b.classList.remove('active');}
+  else{document.querySelectorAll('[data-filter]').forEach(x=>x.classList.remove('active'));
+       b.classList.add('active');curFilter=b.dataset.filter;}
+  render();
+});
+
+render();renderTable();
+</script>
+</body>
+</html>
