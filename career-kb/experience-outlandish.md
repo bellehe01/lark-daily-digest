@@ -1,0 +1,77 @@
+# Outlandish(现职)— 项目弹药库
+
+**公司**:Outlandish,美区 TikTok Shop 代理(agency),startup 节奏
+**时间**:Sep 2025 – Present
+**官方头衔**:Senior Data Analyst(唯一背调可核实的头衔;后缀描述可按人设变化,见 personas.md)
+**协作面**:直接对接 C-suite;横跨 BD、Operations、Legal、Finance、US/UK region 团队
+**服务对象**:内部团队(AM/Ops/Finance 等)+ 外部(brand 客户、creator/sponsor)——内外兼有,不是纯 internal
+
+---
+
+## P1 · Creator CRM(0→1)
+- 管理 **44,000+ creators** 及其品牌 campaign 全生命周期:onboarding、GMV-based tiering/segmentation、recruitment、video-performance tracking、per-campaign P&L
+- 公司 account/ops 团队的 operating backbone
+- **角度**:DA=数据资产;PM=0→1 产品;Ops=生态运营底座;Support=被支持的核心平台
+
+## P2 · AI 规划工具
+- 把 campaign 表现数据转成每个品牌的月度 creator 策略 + GMV 目标
+- **Pilot 故事**(PM 人设用):先小范围 AM 试点→按反馈迭代→推广 **300+ brands**
+- 规划周期 **~1 个月 → 7 天**
+- 背后是公司 **single source of truth** 报表体系 + client-facing **monthly benchmark**(US/UK)
+
+## P3 · 推荐引擎
+- **LLM pain-point tagging(=labeling/categorization)+ GMV-weighted scoring**
+- 为品牌匹配已验证的 creator,替代人工跨渠道搜索;一次性合作→长期关系(生态健康角度)
+
+## P4 · SCF(Social Commerce Festival)check-in & tiering 平台
+- 5,000+ TikTok creators 与品牌对接的线下活动
+- **痛点链**:按 creator handle 人工查 GMV 分 Tier → 3,000+ creator 两周查不完 → **20+ creator 提交 technical support ticket** 投诉 tier 错误
+- **方案**:Eventbrite webhook + TikTok API,报名即自动分级入库;AI vision 读 GMV 截图核验
+- **结果**:check-in 排队 **4 小时 → 20 分钟**;工单类别消灭
+- 另含:creator training + 现场实时支持(高压场景素材)
+- **这是支持岗的王牌 STAR 故事**(工单激增→根因→自动化→类别消灭)
+
+## P5 · 指标自动化(250h 故事的真实出处)
+- 原状:AE 人工从 TikTok 摘 GMV/Ads Spend/AOV 填 tracker,频繁漏填错填,需专人盯
+- 方案:TikTok API 直连,自动更新各品牌看板
+- 结果:**~250 小时/月**人力消灭 + 一整类数据错误消灭
+- ⚠️ 面试会被问 250h 怎么算的:AE 人数 × 每日耗时,提前把账算顺
+
+## P6 · Weekly report 自助编辑
+- 痛点:**30 个用户里 5 人**先后提出同类需求(不同 account 需要不同排版/内容/格式)
+- 方案:自由编辑功能——拖拽模块排序、自助添加模块
+- 结果:该类请求归零
+- **角度**:Support=复盘共性需求→产品化;PM=用户反馈→功能决策
+
+## P7 · AI 会议 pipeline(公司 repo creatorsamples_web,代码验证过的事实)
+- Laravel Artisan 命令 `meetings:sync-weekly`,**每 30 分钟**自动跑,端到端无人工
+- 链路:Lark Calendar API(14 天滚动窗)发现会议 → 4 层模糊匹配归属品牌 → VC/Minutes API 拉带发言人的官方转写 → LLM 按严格 JSON 提取 summary(2-4 句)+ action_items(含 assignee_name、due_date)→ Lark Task v2 自动建任务并指派(人名 ILIKE 模糊匹配到 open_id,失败回退店铺第一个 AM)→ 每天 06:00 把任务完成/删除状态回同步 DB
+- 工程细节:owner-first token 轮换链(AM→CGL→LSM→LSS→AE→4 个全局兜底)、分级退避(3×30min → ≥6h 间隔 → 5 次标记 unavailable;token 过期单独计数 48 次提示重授权)、JSON 校验+降级、事务化写入;核心代码 **~3,260 行 PHP + 10+ 测试文件**
+- tasklist 无法自动匹配时发交互卡片给指定负责人(配置注释=Belle He)选择
+- 🔴 红线:模型是 **google/gemini-2.5-flash-lite via OpenRouter**(代码方法名叫 callClaude 是误导)→ 简历/面试只说 "an LLM";摘要只展示在内部 Ops SPA,**不发群不发邮件**
+
+## P8 · Lark Daily Digest(给 C-suite 做的,开源)
+- https://github.com/bellehe01/lark-daily-digest —— **唯一可公开验证的作品**
+- 每工作日早晨 LaunchAgent 自动跑:扫全部 Lark 群聊(24h,周一 72h)→ **一次 Claude API 调用**(此处真的是 Claude:claude-sonnet-4-6)对所有群做 🔴🟡🟢 紧急度分诊 → 提取每群一句话摘要 + Key Decisions + Action Items → 组装 Lark 交互卡片发 DM
+- 工程:15 分钟超时守护、失败重试、JSON 校验、降级 fallback、日志
+- 打包成 Claude Code skill,同事可向导式一键安装(个人工具→团队工具的产品化)
+- **角度**:Support=triage 同构;AI=分诊/提取/路由完整链;PM=发现高管痛点→产品化→推广
+
+## P9 · 日常用户支持(用户口头确认的事实)
+- **10–30 条咨询/天**;渠道:多个(chat + 内部平台/IM)
+- 用户构成:内部团队(AM、Ops、Finance)+ 外部 brand/creator 合作方
+- 问题分类:数据不一致、权限、工具报错、操作咨询(四类都有)
+- 响应:基本秒回;绝大多数当天解决;跟进确认;是最终解决方(几乎全部自己解决),懂 escalation
+- 固定复盘:确认解决 + 定期总结高频问题改工具/流程
+- 认可:用户和领导都多次认可响应速度(非正式 CSAT)
+- 配套:SOP、user guides、内部培训(BD/Ops/Legal/Finance/regional)、role-based dashboards
+
+---
+
+## Portfolio 候选案例(problem → build → impact 三段式)
+1. **AI 会议 pipeline**(最完整的工程叙事,但注意公司代码不可展示,讲架构图即可)
+2. **Lark Daily Digest**(可直接放 GitHub 链接,唯一可公开 demo)
+3. **SCF 自动化**(最好的业务故事:工单→根因→自动化)
+4. **250h 指标自动化**(ROI 最直观)
+5. **推荐引擎**(AI/算法叙事)
+- 可展示资产:GitHub repo、Tableau Public、(架构图/流程图需新画,不可截公司系统)
