@@ -38,6 +38,15 @@
 - **特色**:Web & APIs 技能行(HTML/JS/REST/HTTP);Lark/Feishu 显式列出;ByteDance 只留治理条
 - **适用**:User Ops、Technical Support、Platform Ops、Trust & Safety Ops
 
+## 人设 E · AI Product Builder(另一会话产出,2026-07 并入)
+- **成品**:`belle-he-resume-ai-product-builder.docx`(docx 格式,与其他版本的 HTML 管线不同)
+- **头衔**:Outlandish = Senior Data Analyst & Internal AI Product Builder;页眉 headline = "AI Product Builder"
+- **Summary 主线**:"ship production-grade AI systems end-to-end — data model → multi-agent LLM/vision pipeline → live UI"
+- **独有内容**:包含 **IntelliPro AI Sourcing 经历**(Jun–Sep 2025,见 experience-intellipro.md)——多智能体 LLM、nDCG 评估、模型选型成本工程
+- **结构差异**:无 ByteDance B3;Skills 首行为 AI & ML(含 Multi-Agent LLM Systems、LLM Evaluation (nDCG)、Model Selection & Cost Optimization);页眉带 GitHub 链接
+- **适用**:AI PM、AI Product、LLM 应用产品、Forward-deployed AI 类岗位
+- ⚠️ 待办:IntelliPro 数字未经本会话确认(见 experience-intellipro.md 待确认清单);此人设并入 HTML 管线可获得统一排版
+
 ---
 
 ## 求职快照(截至 2026-07-14,新会话先跟用户核实最新状态)

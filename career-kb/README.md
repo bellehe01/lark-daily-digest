@@ -10,6 +10,7 @@
 |---|---|
 | `profile.md` | 联系方式、教育、语言、地理偏好等基础信息 |
 | `experience-outlandish.md` | 现职全部项目的完整事实(核心弹药库) |
+| `experience-intellipro.md` | IntelliPro AI Sourcing PM 实习(2025.6–9,AI PM 王牌) |
 | `experience-early-career.md` | TikTok PM / TikTok DA / ByteDance 三段实习 |
 | `metrics-and-redlines.md` | 全部数字的台账(含出处)+ 诚实红线清单 |
 | `personas.md` | 已建成的 4 个简历人设 + 求职进行时快照 |
