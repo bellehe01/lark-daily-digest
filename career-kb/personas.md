@@ -45,7 +45,8 @@
 - **独有内容**:包含 **IntelliPro AI Sourcing 经历**(Jun–Sep 2025,见 experience-intellipro.md)——多智能体 LLM、nDCG 评估、模型选型成本工程
 - **结构差异**:无 ByteDance B3;Skills 首行为 AI & ML(含 Multi-Agent LLM Systems、LLM Evaluation (nDCG)、Model Selection & Cost Optimization);页眉带 GitHub 链接
 - **适用**:AI PM、AI Product、LLM 应用产品、Forward-deployed AI 类岗位
-- ⚠️ 待办:IntelliPro 数字未经本会话确认(见 experience-intellipro.md 待确认清单);此人设并入 HTML 管线可获得统一排版
+- ✅ IntelliPro 数字已全量核查入库(见 experience-intellipro.md,带来源标签和红线)
+- ⚠️ 遗留两项:①2025 年 9 月 IntelliPro/Outlandish 边界日期需日级确认;②docx 里 "~5–10 minutes" 是分阶段加总的推断值,答辩时报分阶段耗时更稳
 
 ---
 
