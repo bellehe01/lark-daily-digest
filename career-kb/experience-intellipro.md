@@ -55,8 +55,18 @@
 - 与 TikTok/ByteDance(2023–2024)无重叠 ✅;毕业(2025.05)后入职自洽 ✅
 - ✅ **9 月边界已确认(Belle, 2026-07)**:IntelliPro 至 9 月上旬结束,Outlandish 9 月中旬入职——无缝衔接、无并行。简历双写 "Sep 2025" 没问题,被问就按此口径答
 
-## 六、明确未提及(面试与写作均不得声称)
-- golden-standard 如何构建(谁标、标准、30 人怎么选)——**面试若被问,需 Belle 提前回忆或准备诚实说法**
+## 六、Golden-standard 构建(Belle 2026-07 回忆确认,面试可讲)
+- **标签**:每个候选人按 6 维 rubric 各维 **1–5 分**,取**总平均分**作为相关度(graded relevance,天然适配 nDCG)
+- **30 人来源**:混合——该 JD 的搜索结果取样 **+** 历史上实际推进过的候选人(有真实结果做锚)
+- **谁标**:**Belle 和 recruiter 各标一遍,然后对齐**(交叉标注,有 inter-rater 校验意识——面试加分点)
+- **两组验证的关系**:5 个 JD 都有 recruiter 人工排序(用于 98%+ 重合率);其中 Job 8038、9527 标注最完整,单独用于 nDCG@30
+- **@30 的依据**:recruiter 实际工作中一般看前 30 个候选人(业务合理性,非拍脑袋)
+
+**面试标准答案(中)**:"评估集是我设计的:每个岗位选 30 个候选人——搜索结果取样加上历史真实推进过的候选人——我和 recruiter 各自按 6 维 rubric 每维 1 到 5 打分再对齐,取平均分作相关度标签。选 nDCG@30 是因为 recruiter 实际只看前 30 个,而 nDCG 同时惩罚漏掉好候选人和排序错位,比准确率更贴近 sourcing 的真实目标。"
+
+**EN**: "I built the golden standard myself: 30 candidates per job — sampled from search results plus candidates who had actually advanced historically. A recruiter and I labeled independently on the 6-dimension rubric, 1–5 per dimension, then reconciled; the averaged score became the graded relevance label. I chose nDCG@30 because recruiters realistically review about 30 candidates, and nDCG penalizes both missing good candidates and misordering them — closer to the real sourcing objective than plain accuracy."
+
+## 七、仍然未提及(不得声称)
 - $0.0075 路径中 cache/batch 的作用(deck 仅写换 GPT-5-mini;cache 是搜索提速,与成本无关)
 - pilot 之后的状态(转正式/停掉均未知)
 - recruiter 具体反馈(无原话、无满意度/采纳率)
