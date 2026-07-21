@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Belle He — Resume</title>
+<style>
+  @page { size: letter; margin: 0.42in 0.53in; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 8.9pt;
+    line-height: 1.21;
+    color: #1a1a1a;
+  }
+  h1 {
+    font-size: 18pt;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin-bottom: 2pt;
+  }
+  .contact {
+    text-align: center;
+    font-size: 8.9pt;
+    color: #333;
+    margin-bottom: 5pt;
+  }
+  .contact a { color: #333; text-decoration: none; }
+  h2 {
+    font-size: 10pt;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    border-bottom: 1.2px solid #1a1a1a;
+    padding-bottom: 1pt;
+    margin: 5.5pt 0 3pt;
+  }
+  .job { margin-bottom: 4pt; }
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .job-title { font-size: 9.5pt; }
+  .job-title .co { font-weight: 700; }
+  .job-title .role { font-style: italic; font-weight: 600; }
+  .dates { font-weight: 700; font-size: 9.0pt; white-space: nowrap; }
+  ul { margin: 1.5pt 0 0 11.5pt; }
+  li { margin-bottom: 1.2pt; text-align: justify; }
+  .summary { margin-bottom: 2pt; text-align: justify; }
+  .skills li { margin-bottom: 1.2pt; text-align: left; }
+  .edu { display: flex; justify-content: space-between; align-items: baseline; margin-top: 3pt; }
+  .edu .school { font-weight: 700; }
+  .edu-detail { font-style: italic; }
+</style>
+</head>
+<body>
+
+<h1>Belle He</h1>
+<div class="contact">
+  San Francisco Bay Area, CA&nbsp;|&nbsp;+1-602-813-8134&nbsp;|&nbsp;<a href="mailto:hebeier@163.com">hebeier@163.com</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/beierhe">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/bellehe01">GitHub</a>&nbsp;|&nbsp;<a href="https://public.tableau.com/app/profile/beier.he/vizzes">Tableau Public</a>
+</div>
+
+<h2>Summary</h2>
+<p class="summary">
+AI product builder with hands-on LLM evaluation depth: designed weighted scoring rubrics and golden-standard labeled sets with cross-annotator calibration, ran nDCG-based offline evaluations and 8-model quality/cost benchmarks, and ship automated LLM workflows used daily in production operations. Earlier TikTok/ByteDance experience includes defining generative-model training datasets and content quality standards. Strong SQL and Python; native Chinese and fluent English for global, cross-time-zone collaboration.
+</p>
+
+<h2>Work Experience</h2>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">Outlandish (TikTok Shop Agency)</span> | <span class="role">Senior Data Analyst &amp; AI Product Builder</span></div>
+    <div class="dates">Sep 2025 – Present</div>
+  </div>
+  <ul>
+    <li><b>AI products in production:</b> own an internal AI product portfolio used daily across 300+ brands and 44,000+ creators — an AI-guided planning tool (planning cycle ~1 month → 7 days), a Creator CRM, and a recommendation engine that uses LLM labeling/categorization of creator pain points with GMV-weighted scoring.</li>
+    <li><b>Automated LLM workflows:</b> shipped a fully automated pipeline turning every brand's weekly client meetings into LLM-extracted structured summaries and auto-assigned Lark tasks (strict JSON schema with validation, daily status sync-back); built Lark Daily Digest for the C-suite (open-sourced: <a href="https://github.com/bellehe01/lark-daily-digest">github.com/bellehe01/lark-daily-digest</a>), an AI triage tool classifying every group chat by urgency; deployed AI-vision parsing that replaced manual data verification.</li>
+    <li><b>Data quality &amp; QA:</b> consolidate metrics into the company's single source of truth with QA sampling and data-validation checks; automated error-prone manual tracking with TikTok API feeds, eliminating an entire error class and ~250 hours/month; analyze usage data to prioritize each product iteration.</li>
+    <li><b>Global cross-functional delivery:</b> work directly with the C-suite and coordinate BD, Operations, Legal, Finance, and US/UK regional teams across time zones; deliver role-based dashboards, SOPs, and internal training.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">IntelliPro Group</span> | <span class="role">Product Manager Intern, AI Sourcing</span></div>
+    <div class="dates">May 2025 – Sep 2025</div>
+  </div>
+  <ul>
+    <li><b>0→1 AI product:</b> designed and drove an AI candidate-sourcing tool — raw job description to a ranked, scored LinkedIn shortlist — piloted inside IntelliPro's ATS and tested by working recruiters; built with a three-engineer team reporting directly to the CTO and CEO; architected as a multi-agent LLM pipeline with dedicated skill/seniority/location agents to counter accuracy decay on long, multi-objective prompts.</li>
+    <li><b>LLM evaluation &amp; labeling standards:</b> designed a weighted six-dimension scoring rubric and wrote the scoring prompts; built golden-standard sets — 30 candidates per job, graded 1–5 per dimension, labeled independently by me and a recruiter then reconciled — and ran offline evals: rubric-guided GPT-4 reached ~94% nDCG@30, with 98%+ overlap against recruiters' manual top-30 ranking across 5 JDs.</li>
+    <li><b>Model selection &amp; cost:</b> benchmarked 8+ LLMs (GPT-4/4.1/5, Gemini 2.5, DeepSeek V3/R1, Qwen 3) on quality vs. cost, landing ~$4–8 per JD with an optimization path to ~$0.0075 per candidate.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">TikTok</span> | <span class="role">Product Manager Intern, Effect Creation Tools Team</span></div>
+    <div class="dates">Jan 2024 – Jun 2024</div>
+  </div>
+  <ul>
+    <li><b>Model training data:</b> partnered with AI PMs and ML engineers to define generative-model training datasets for 2D/3D assets; curated benchmark visuals, built prompt libraries, and translated content quality standards into labeling guidance for model output.</li>
+    <li><b>0→1 creative product:</b> drove TikTok's next-gen effect asset library — 4,000+ categorized assets launched with engineering, design, ops, QA, and legal — lifting submission penetration 38% and per-user content creation 55%; validated via A/B tests and creator interviews.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">TikTok</span> | <span class="role">Data Analyst Intern, Music User Product Team</span></div>
+    <div class="dates">Aug 2023 – Jan 2024</div>
+  </div>
+  <ul>
+    <li>Analyzed 5M+ playlist records with SQL/Python using profiling and validation checks; weekly insights cut curation time from 4 days to 2 and drove an 18% WAU increase; self-service Tableau dashboards reduced ad-hoc data requests by 70%.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">ByteDance</span> | <span class="role">Product Operations Intern, Photo &amp; Text Community Team</span></div>
+    <div class="dates">Jan 2023 – Aug 2023</div>
+  </div>
+  <ul>
+    <li>Built a standardized creator-evaluation system and content-governance flagging on moderation data and behavioral signals, cutting high-risk content exposure 12% and lifting submission frequency 10%.</li>
+  </ul>
+</div>
+
+<h2>Skills</h2>
+<ul class="skills">
+  <li><b>AI &amp; LLM:</b> LLM Evaluation (nDCG, golden-standard sets, rubric design), Inter-annotator Calibration, Prompt Engineering, Multi-Agent LLM Systems, Model Selection &amp; Cost Optimization, LLM Labeling &amp; Categorization, Training-Dataset Curation, AI Vision, RAG</li>
+  <li><b>Data &amp; Analytics:</b> SQL (joins, CTEs, window functions), Python (pandas, numpy), Excel, QA Sampling &amp; Data Validation, KPI Definition, A/B Testing, Dashboard Construction</li>
+  <li><b>Product &amp; Delivery:</b> 0-to-1 Product Development, Roadmap Prioritization, Project &amp; Timeline Management, Workflow Automation, Global Stakeholder Management, SOP Development</li>
+  <li><b>Tools:</b> BigQuery, Snowflake, Tableau, Power BI, Lark/Feishu (incl. Open API integrations), Amplitude, Mixpanel</li>
+  <li><b>Languages:</b> English (fluent), Chinese (native)</li>
+</ul>
+
+<h2>Education</h2>
+<div class="edu">
+  <div><span class="school">University of Arizona</span> — <span class="edu-detail">Master of Science, Business Analytics</span></div>
+  <div class="dates">May 2025</div>
+</div>
+<ul>
+  <li><b>Coursework (all A/A+):</b> Statistics, Python, Database, Econometrics, Data Mining, Data Visualization, Big Data, Enterprise AI</li>
+</ul>
+<div class="edu">
+  <div><span class="school">Shanghai Business School</span> — <span class="edu-detail">Bachelor of Management, Business Administration</span></div>
+  <div class="dates">Jun 2024</div>
+</div>
+<div class="edu">
+  <div><span class="school">Shanghai University of Finance and Economics</span> — <span class="edu-detail">Exchange Program, Business Administration</span></div>
+  <div class="dates">Jun 2023</div>
+</div>
+
+</body>
+</html>
