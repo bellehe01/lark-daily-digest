@@ -1,4 +1,4 @@
-# IntelliPro — Product Manager Intern, AI Sourcing(Jun 2025 – Sep 2025)
+# IntelliPro — Product Manager Intern, AI Sourcing(May 2025 – Sep 2025)
 
 > 来源:另一会话的完整事实核查(2026-07-18 确认),含来源标签。本页为权威版本。
 > 标签:**[Belle-said]** 聊天确认 · **[Belle-deck]** 本人演示稿截图 · **[Claude-inferred]** 推断 · **[Unconfirmed]** 未确认
@@ -7,7 +7,8 @@
 
 ## 一、角色基本信息
 - 公司:IntelliPro Group — 招聘/人力服务公司;工具内嵌于其自有 ATS(Jobs/Candidates/Companies/Finance/Report 模块)[Belle-deck]
-- 性质:实习 [Belle-said];时间:2025.06 – 2025.09(月精度)[Belle-said]
+- 性质:实习 [Belle-said];时间:**2025.05 – 2025.09**(Belle 2026-07 修正:5 月开始,与毕业月重叠属正常)
+- ⚠️ docx 简历(belle-he-resume-ai-product-builder.docx)写的是 "Jun 2025 – Sep 2025",与修正后不一致,**下次改版时更新为 May 2025**
 - **团队:Belle + 3 名工程师;直接汇报 CTO 和 CEO** [Belle 确认]——初创直报高管,是好细节
 - 分工:她主导产品/系统设计、亲写 scoring prompts、亲跑离线评估;代码实现与工程合作 [Belle-said]
 - 地点/远程、公司规模:[Unconfirmed]
@@ -52,7 +53,7 @@
 7. **头衔**:官方 Product Manager Intern
 
 ## 五、时间线
-- 与 TikTok/ByteDance(2023–2024)无重叠 ✅;毕业(2025.05)后入职自洽 ✅
+- 与 TikTok/ByteDance(2023–2024)无重叠 ✅;2025.05 毕业当月入职 IntelliPro,自洽 ✅
 - ✅ **9 月边界已确认(Belle, 2026-07)**:IntelliPro 至 9 月上旬结束,Outlandish 9 月中旬入职——无缝衔接、无并行。简历双写 "Sep 2025" 没问题,被问就按此口径答
 
 ## 六、Golden-standard 构建(Belle 2026-07 回忆确认,面试可讲)
