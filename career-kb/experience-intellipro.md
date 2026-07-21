@@ -72,7 +72,7 @@
 - pilot 之后的状态(转正式/停掉均未知)
 - recruiter 具体反馈(无原话、无满意度/采纳率)
 
-## 七、角度标注
+## 八、角度标注
 - **AI PM**:最强对口(设计+rubric+prompt+评估+模型选型)
 - **AI Product Builder/应用 AI**:适用,带"工程写代码"的诚实边界
 - **LLM 评估/数据**:nDCG golden-standard 评估是稀缺差异化信号
