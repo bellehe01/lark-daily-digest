@@ -27,6 +27,9 @@
 | ~3,260 行 / 10+ 测试 | 会议 pipeline 代码量 | 代码验证 | 别主动报,被问工程深度时用 |
 | 每 30 分钟 / 06:00 | pipeline 频率 / 状态回同步 | 代码验证 | — |
 | all A/A+ | 研究生课程成绩 | 用户确认 | — |
+| 5 人 | BD Proposal Agent 用户(BD 团队) | 用户确认 | — |
+| ~2 小时→15 分钟 | 单份 proposal 起草时间 | 用户确认 | — |
+| ~5 份/周 | BD Proposal Agent 产出量 | 用户确认 | — |
 
 ## 🔴 诚实红线(绝不越界的表述)
 
@@ -40,6 +43,8 @@
 8. **认可是非正式的**(用户+领导口头/群里认可),没有正式 CSAT 分数,别编分数。
 9. **HTML/JS 是 working knowledge**(公司 React SPA 有实际参与,AI 辅助开发),别写 proficient。
 10. 公司代码/内部系统截图**不可用于 portfolio**;架构图自己重画。
+11. **"Embedding Search" 技能词的准确边界**:BD Proposal Agent 架构中**设计**了 embedding 语义检索(混合检索 V2 路径),但**实现停在 V1**(metadata+词法)——技能表可写 "Hybrid Retrieval Design (metadata/lexical/embedding)",❌ 不可声称已实现 embedding 检索。
+12. **BD_Proposal_Agent repo 含真实客户提案**(Honeylove/Skims 等)——若 public 立即转 private;不可在 portfolio 公开展示原始内容。
 
 ## 面试必被追问点(每个准备 30 秒展开)
 - 250h 的计算方式

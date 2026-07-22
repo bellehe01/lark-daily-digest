@@ -66,10 +66,22 @@
 - 认可:用户和领导都多次认可响应速度(非正式 CSAT)
 - 配套:SOP、user guides、内部培训(BD/Ops/Legal/Finance/regional)、role-based dashboards
 
+## P10 · BD Proposal Agent(RAG 提案推荐系统,代码验证+本人确认 2026-07)
+- Repo:github.com/bellehe01/BD_Proposal_Agent(⚠️ 含真实客户 proposal PDF——Honeylove/Skims/CNKR 等,**若为 public 需立即转 private**)
+- **本人确认的业务事实(2026-07)**:用户=BD 团队 **5 人**,已实际用起来;一份 proposal 起草 **~2 小时 → 15 分钟**;**每周产出 ~5 份**;赢单率提高(定性,无数字勿量化)+ 客户赞赏;构建于 **~2026 年 3 月**
+- 语料:历史 proposal 库 + case study 库 + 公司数据(与代码一致:pages.jsonl / case_studies.jsonl / markdown proof library)
+- ~9,400 行 Python + Web UI(stdlib http.server + vanilla JS)+ Dockerfile + 中英文档(含中文团队同步文档)
+- **链路**:PDF 提案库 → 页级 ingestion(pdftotext/pdftoppm,OCR 三档 off/fallback/full)→ **多模态页面理解**(slide 渲染图+抽取文本 → summary/tags/section/evidence/confidence,prompt 含反幻觉约束)→ deck+page 双层索引 → 结构化 brief(公司/行业/痛点/预算/时间线/市场)→ 策略建议 + proposal 骨架 + **每页配历史参考 slide** + 改写建议 + case proof → PPT 导出
+- Scenario heuristic builder:离线 LLM 合成可复用路由场景(默认 gpt-5.4);标注/合成用 gpt-4.1-mini(OpenAI/OpenRouter)
+- **Whole-context 对照实验**:专设"整库进 context"实验路径作为 retrieval-first 的受控反例(token 成本/噪声/失败模式分析)——评估思维实证
+- 🔴 红线(embedding,已澄清):架构文档设计了**混合检索**(metadata 过滤+词法匹配+embedding 语义相似度),并把 embedding retrieval 列为 **V2 路径**;**当前实现是 V1(结构化标注+词法/启发式),embedding 未落地**。✅ 可说"设计了含 embedding 语义层的混合检索架构,V1 落地 metadata+词法,embedding 是规划的 V2";❌ 不可说"用 embedding 检索找相似案例"(实现层面不成立)
+- 角度:AI PM(架构决策+对照实验)、RAG 应用、多模态文档理解
+
 ---
 
 ## Portfolio 候选案例(problem → build → impact 三段式)
 1. **AI 会议 pipeline**(最完整的工程叙事,但注意公司代码不可展示,讲架构图即可)
+1.5 **BD Proposal Agent**(RAG+多模态,~9.4k 行,有对照实验——转 private 后可用脱敏架构图讲)
 2. **Lark Daily Digest**(可直接放 GitHub 链接,唯一可公开 demo)
 3. **SCF 自动化**(最好的业务故事:工单→根因→自动化)
 4. **250h 指标自动化**(ROI 最直观)
