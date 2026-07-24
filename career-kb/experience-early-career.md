@@ -101,7 +101,20 @@
 
 **M6 · 内容供给项目文档**(截图分辨率低,细节待补;如需入库请发可读版本)
 
-**Music 段落面试金句素材**:①指标体系设计(finish rate/skip rate/stream duration per UV/stay duration per subscriber 张口即来);②五市场 genre 结构差异驱动本地化(BR Sertanejo vs ID Dangdut);③周度 Top50 WAU playlist 洞察 → 歌单更新建议的运营闭环;④2023 年就用 GPT 辅助歌单洞察
+**M7 · Track Performance 监控(Playlist Key Metrics Dashboard 的 Track tab)**
+- 单曲级监控:Streams by Release Date、Source of Streams by Scene Type(explore 等场景来源拆分)、Track Streams/Skip Rate/Finish Rate/Collects/Comments/Shares/Downloads 趋势图 + 逐曲明细,支持按国家/语言/genre/发行日期/External Source 多维筛选——歌曲热度分析的操作台
+
+**M8 · 《Your music JOJO / 音乐世界的另一个你》产品共创提案(Group 5)**
+- 面向 GenZ 的音乐产品概念:个性化身份表达(虚拟形象、消费数据总结、定制推荐器)、explore(AI 互动、场景化推荐)、社区(join groups)、chat 反馈闭环——产品 sense/共创项目素材,2023 年就在提 AI 互动玩法
+
+**M9 · 《国际化音乐内容运营实习生-README》——她入组时给团队写的自我介绍文档(求职素材金矿)**
+- 主动给团队写 README 自我介绍(简历+作品集+音乐热情+趋势洞察+匹配优势四部分)——本身就是"主动性/文化融入"的面试故事
+- 从中挖出的**未入库早期经历**:①**eShopper 大型超市一站式服务平台 - Product Operations(2021.09-12)**:SPSS 数据分析、Mockingbird 原型设计、用户调研、问卷分析;②**Business Data Club President(2021.10-2023.06)**:组织覆盖全流程的数据分析大赛(概念化→实施→评审),产出 ~100 份分析项目;社群管理与跨校协作
+- 其他可用信息:GitHub 作品集 **BelleHolmes/Data-Realms**;GPA 3.81/4.00;CET-6 528、NTU 学术英语词汇赛一等奖、2022 全国大学生英语竞赛二等奖;个人歌单(Future Grooves 等);深度使用中外音乐产品(Spotify/Apple Music/Tidal/Resso/网易云/汽水 等)+ 乐评网站(Pitchfork/RYM/NME)——音乐行业岗位的热情证据
+
+**M10 · SQL 学习笔记文档**(长篇代码笔记)——自学体系化的佐证,细节无需入库
+
+**Music 段落面试金句素材**:①指标体系设计(finish rate/skip rate/stream duration per UV/stay duration per subscriber 张口即来);②五市场 genre 结构差异驱动本地化(BR Sertanejo vs ID Dangdut);③周度 Top50 WAU playlist 洞察 → 歌单更新建议的运营闭环;④2023 年就用 GPT 辅助歌单洞察;⑤入组主动写 README 自我介绍(主动性/文化故事)
 
 ## ByteDance · Product Operations Intern, Photo & Text Community Team(Jan 2023 – Aug 2023)
 
