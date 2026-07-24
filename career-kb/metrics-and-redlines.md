@@ -51,6 +51,7 @@
 10. 公司代码/内部系统截图**不可用于 portfolio**;架构图自己重画。
 11. **"Embedding Search" 技能词的准确边界**:BD Proposal Agent 架构中**设计**了 embedding 语义检索(混合检索 V2 路径),但**实现停在 V1**(metadata+词法)——技能表可写 "Hybrid Retrieval Design (metadata/lexical/embedding)",❌ 不可声称已实现 embedding 检索。
 12. **BD_Proposal_Agent repo 含真实客户提案**(Honeylove/Skims 等)——若 public 立即转 private;不可在 portfolio 公开展示原始内容。
+13. **字节内部文档截图(L2-内部周报、L4-机密垂类筛选表)仅限个人使用**——严禁公开、入 portfolio、发给任何人;面试只讲方法论(三维垂类筛选框架、四维精美图片标准),**不报内部具体数值**(各垂类 VV 占比等)。
 
 ## 面试必被追问点(每个准备 30 秒展开)
 - 250h 的计算方式
