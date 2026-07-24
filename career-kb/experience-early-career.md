@@ -43,6 +43,7 @@
 - **面试讲法(安全版)**:"我们用供给占比、投稿占比和两者比值给特效品类排 ROI,发现编辑类严重供给不足,把它提为 P1"——不报内部具体百分比
 
 **E3 · 拍转编(Shooting-to-Editing)搬运链路优化——她署名的策略文档 + 配套链路文档(最硬核的漏斗优化故事)**
+- **2026-07 本人确认:这是当时组里特别重要的项目,她主要负责其中偏垂类(品类)的方向**——内容策略角度:观察哪些**高热度特效被规则误杀**(如美颜美妆类被"开拍触发类"规则错误过滤),通过改策略恢复高质量、高人气特效的供给
 - 背景:拍转编搬运路径 **数仓送审 → Loki 过滤 → 测试 → 人审 → 上线**;80%+ 的特效被"开拍触发类"规则过滤,最终上线量仅剩个位数/极少
 - 她的《拍转编审核策略优化》(2024-03,署名何贝尔):重设数仓与 Loki 过滤逻辑——数仓取数时去除不适合编辑页的开拍触发类但**保留被误判的美颜美妆类**(靠提示语 Blink eyes/Multi-faces/Show cat 等识别,并指出提示语判断不精确、建议改用道具包参数或 Loki 业务标签);搬运条件 7 天内投稿 top4k;设计 Trending Tab(与拍摄页共用推荐逻辑)与 New Tab(按人审上线顺序)下发逻辑
 - 配套《拍转编搬运链路优化-促供给》:**全漏斗量化管理**——倒推公式"每日需上线 4,000 ÷ 审核通过率 80% ÷ 测试通过率 50% ÷ 过滤通过率 64% ≈ 15,625 送审需求";分阶段把送审量 **1,000 → 4,000 → 12,000**;Loki 过滤通过率 **70%→90%**(数据驱动:分析过滤不通过原因分布——定帧类 74.8%、肢体表情触发 12.4%、抠五官 6.7%、声音 3.2%,逐类评估可否放开);测试通过率 **50%→80%**(改内存/帧率阈值);人审 manpower **1 → 13-15**(并测算单人时审 ~90 条);发现"全球 top4k"选品对小国不公平(美国 trending 20+ 条 vs 巴西 7 条)提出分国家拆分
@@ -94,7 +95,8 @@
 **M4 · 跨市场内容洞察产出**
 - 《Top Consumed Genres/Searches/Tracks/Artists in Each Market》看板 + 《TTM Top Tracks/Playlists/Genres/Searches/Artists》词云 dashboard(5 Markets Dashboard):Top genres/tracks/artists/EN search queries
 - 《Top consumed Genres/Scenes/Search queries》电子表:**五市场 × Top20 genre 排名矩阵**(高亮跨市场共性 genre)——"本地化策略"的分析实物(BR 重 Sertanejo/Baile Funk/Forró,ID 重 Indo Pop/Dangdut,MX 重 Latin,AU/SG 偏 Pop/EDM/Hip Hop 等结构差异)
-- 《Insights of Top 50 WAU playlists (GPT)》**周度洞察报告**:popular genres/categories 分布、更新时间分布、Metrics Rising Playlists(WoW)、**Playlists to be updated 建议清单**+文字 insights——**"歌曲热度分析→歌单内容建议"的直接证据**,且标题带 GPT(2023 年即用 GPT 辅助分析,可作早期 AI 应用素材)
+- 《Insights of Top 50 WAU playlists (GPT)》**周度洞察报告**:popular genres/categories 分布、更新时间分布、Metrics Rising Playlists(WoW)、**Playlists to be updated 建议清单**+文字 insights——**"歌曲热度分析→歌单内容建议"的直接证据**
+- ⚠️ **2026-07 本人澄清:GPT = Global Programming Team(全球音乐运营团队),不是 AI!** 严禁在任何场合把它讲成"用 GPT 做分析"。团队构成:Global Music 编辑(负责英文 + 韩语 K-pop 歌单)+ 本地化歌单编辑(印尼语、巴西葡语、墨西哥西语、澳洲本地)——这就是"cross-regional editorial teams"的实指
 
 **M5 · Musixmatch 竞品调研(她写的文档,2023-09)**
 - 拆解 Musixmatch 的用户/艺术家双边服务、歌词分发链路(Instagram/Apple Music/Tidal/Google 等)、社区贡献机制、歌词上传全流程规范(Transcription/Sync/Format/Structured 段落标注/Performer 标注规则)——竞对产品机制研究能力实证
@@ -114,7 +116,17 @@
 
 **M10 · SQL 学习笔记文档**(长篇代码笔记)——自学体系化的佐证,细节无需入库
 
-**Music 段落面试金句素材**:①指标体系设计(finish rate/skip rate/stream duration per UV/stay duration per subscriber 张口即来);②五市场 genre 结构差异驱动本地化(BR Sertanejo vs ID Dangdut);③周度 Top50 WAU playlist 洞察 → 歌单更新建议的运营闭环;④2023 年就用 GPT 辅助歌单洞察;⑤入组主动写 README 自我介绍(主动性/文化故事)
+### New Release 市场分化——面试展开框架(2026-07 整理,数值仅口头相对表述)
+**现象**(她自己看板里的发现):同一个 New Release 功能,五市场健康度分化——印尼完播率最高、墨西哥/澳洲 skip rate 明显偏高、巴西贡献大盘绝大部分流量;语言面板显示葡语流媒体占比过半、英语仅约两成。
+**归因假设(四个可讲方向)**:
+1. **内容供给匹配度**:新歌池的语言/本地厂牌构成 vs 该市场语言消费结构(她的语言占比面板就是证据)——英语新歌为主的池子在葡语/印尼语主导市场天然 skip 高
+2. **消费场景差异**:mood & activity 面板(Party/Commute/Work 等)显示各市场听歌场景不同,新歌排序未按场景本地化
+3. **发行节奏**:本地厂牌 vs 国际厂牌的发行密度不同,固定刷新逻辑对小市场不友好
+4. **feature 本地化不足**:排序/内容位逻辑全球统一,未按市场调
+**讲法(最少可讲版,只 claim 实际做过的)**:"我建的五市场看板让新歌功能第一次能横向对比市场健康度,我发现完播/跳过显著分化,把归因假设和分市场内容组合建议带给了负责各语言的编辑团队"——若她确实推动过后续实验/调整,可升级为完整 STAR(**待本人确认**是否有后续动作)
+**这个故事的价值**:证明"指标体系不是摆设——建看板的人第一个从里面看出业务问题"
+
+**Music 段落面试金句素材**:①指标体系设计(finish rate/skip rate/stream duration per UV/stay duration per subscriber 张口即来);②五市场 genre 结构差异驱动本地化(BR Sertanejo vs ID Dangdut);③周度 Top50 WAU playlist 洞察 → 歌单更新建议的运营闭环;④以 Data Scientist 角色定指标口径、教 non-technical 歌单编辑看数(cross-functional 合作故事);⑤入组主动写 README 自我介绍(主动性/文化故事)
 
 ## ByteDance · Product Operations Intern, Photo & Text Community Team(Jan 2023 – Aug 2023)
 
