@@ -45,7 +45,7 @@
 4. **Lark Daily Digest 用的才是真 Claude**(config: claude-sonnet-4-6),这个可以说。它是**给 C-suite 做的工作产出**后开源,不是纯个人项目。
 5. **没有直播(LIVE)直接经验**——TikTok Shop 生态含直播电商是"相邻",面试话术:机制(分层/教育/匹配/ROI)可迁移。
 6. **没有移动广告(mobile ads)经验**——同上,讲可迁移逻辑。
-7. **官方头衔只有 Senior Data Analyst**。后缀(Platform & User Operations / Creator Operations 等)是职责描述,面试口径:"官方 title 是 Senior Data Analyst,工作横跨数据、内部产品建设和运营支持"。
+7. **官方头衔:Senior Data Analyst,所属 AI Development Team**(2026-07 本人补充精确版)。简历后缀(Platform & User Operations / Creator Operations / Product Builder 等)是职责描述,合规。面试口径(精确版):"官方 title 是 AI Development Team 的 Senior Data Analyst,这个团队用 AI 给公司建运营系统,我负责 Creator Operations 这套,所以简历写了职责描述"——主动报团队名反而加分(证明"会建系统的运营")。
 8. **认可是非正式的**(用户+领导口头/群里认可),没有正式 CSAT 分数,别编分数。
 9. **HTML/JS 是 working knowledge**(公司 React SPA 有实际参与,AI 辅助开发),别写 proficient。
 10. 公司代码/内部系统截图**不可用于 portfolio**;架构图自己重画。

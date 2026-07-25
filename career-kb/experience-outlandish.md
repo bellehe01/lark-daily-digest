@@ -2,7 +2,8 @@
 
 **公司**:Outlandish,美区 TikTok Shop 代理(agency),startup 节奏
 **时间**:Sep 2025 – Present
-**官方头衔**:Senior Data Analyst(唯一背调可核实的头衔;后缀描述可按人设变化,见 personas.md)
+**官方头衔**:Senior Data Analyst,**所属 AI Development Team**(2026-07 精确版;背调核头衔+时间,团队名几乎不核;后缀描述可按人设变化,见 personas.md)
+**全流程 ownership(2026-07 本人确认,AI PM/Builder 人设核心弹药)**:作为 AI Product Builder 搭建 Creator Operation System,全链路一人负责——AI agent/workflow/system 概念设计 → **用 Claude 辅助 coding** → **Railway/Laravel 部署** → 用户教育(SOP/培训)→ **观测使用指标** → 收集用户反馈持续迭代。价值点:不是"会用 AI 的分析师",而是"从概念到部署到运营指标闭环的 builder";AI 岗面试讲"我自己观测 adoption 指标来决定迭代方向"是稀缺信号
 **协作面**:直接对接 C-suite;横跨 BD、Operations、Legal、Finance、US/UK region 团队
 **服务对象**:内部团队(AM/Ops/Finance 等)+ 外部(brand 客户、creator/sponsor)——内外兼有,不是纯 internal
 
