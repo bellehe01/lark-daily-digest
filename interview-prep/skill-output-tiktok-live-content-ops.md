@@ -1,7 +1,8 @@
-# 面试准备文档(interview-prep skill 标准模式)— TikTok LIVE Content Operations & Creator Growth Manager
+# 面试准备索引 — TikTok LIVE Content Operations & Creator Growth Manager
 
-> 按 github.com/lan1177/interview-prep 的 8 章结构生成。已有深度内容挂接到 hr-screen / biz-interview 两个包,不重复。
-> ⚡ 如果面试就在明天,只看:第 4 章(自我介绍)+ 第 5 章(三个 STAR)+ 第 6 章(高频题)+ 第 8 章(Gap 清单)。
+> 本文件是**索引/速查版**。每章的完整口述版见 **skill-output-tiktok-live-content-ops-detailed.md**(同目录)。
+> 其他文档:hr-screen(HR 面)/ biz-interview(业务面方法论)/ KB 各经历文件(故事原文)。
+> ⚡ 如果面试就在明天,只看详细版的:第 4 章(自我介绍)+ 第 5 章(三个 STAR)+ 第 6 章(高频题)+ 第 8 章(Gap 清单)。
 
 ## 1|JD 摘要(原文已存 biz-interview 包)
 Content Operations & Creator Growth Manager - TikTok LIVE;团队 User Ops (TikTok LIVE);LA on-site;$103,360–$273,600。
