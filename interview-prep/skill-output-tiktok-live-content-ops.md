@@ -5,7 +5,7 @@
 > ⚡ 如果面试就在明天,只看详细版的:第 4 章(自我介绍)+ 第 5 章(三个 STAR)+ 第 6 章(高频题)+ 第 8 章(Gap 清单)。
 
 ## 1|JD 摘要(原文已存 biz-interview 包)
-Content Operations & Creator Growth Manager - TikTok LIVE;团队 User Ops (TikTok LIVE);LA on-site;$103,360–$273,600。
+Content Operations & Creator Growth Manager - TikTok LIVE;团队 User Ops (TikTok LIVE);LA on-site;$103,360–$273,600。**负责垂类:Just Chatting / Performance & Entertainment / Beauty, Fashion & Lifestyle——变现主场是打赏+订阅,不是 Shop**(详细版第 1、11 章)。
 七条职责核心词:own content verticals / optimize content supply / creator lifecycle strategies / analyze creators+content+user metrics / campaigns & operational frameworks / vertical SME / cross-functional (Product, DS, Engineering, Marketing, Policy, regional) / define success metrics + experimentation。
 
 ## 2|公司与产品调研 + 竞争格局(2026-07 检索)
