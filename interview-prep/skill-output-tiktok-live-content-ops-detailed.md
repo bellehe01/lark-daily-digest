@@ -284,3 +284,29 @@ TikTok 官方的直播代理机构(公会)体系:机构负责 LIVE 创作者的�
 **11.1 的 Shop 数据使用修正**:美妆 22.5% GMV、LIVE 卖货 14%→26% 这些数字**不再作为岗位主论据**,只在两个场景用:①证明 Beauty 垂类 creator 的成长出口宽;②证明你对相邻业务有认知。
 
 **来源**:Dashboardly/MarketingLTB/RankingTour(品类与 GMV)、Muvi/TikTok Stats/InfluencerFee(打赏经济)、Wikipedia Pinkydoll、De Gruyter 董宇辉话语分析、DAO Insights(直播电商三巨头)。
+
+### 11.4 三垂类侦察卡(2026-07 检索;按"谁在播/哪一刻留人/礼物在什么互动后出现"整理)
+
+**卡 1 · Just Chatting**
+- **谁在播**:①NPC 主播(Pinkydoll 是发明者:每场 $2,000-3,000、峰值日入 $7,000,头部 NPC 主播日入数千美元)②陪伴型闲聊主播(手机直出、无布景、回应评论)③连麦房/PK 房
+- **哪一刻留人**:"被看见"的瞬间——主播念出你的 ID、回答你的评论;NPC 房是"我的礼物立刻触发表演"的确定性。**留人的不是内容,是互动的即时确定性**
+- **礼物触发点**:NPC = 礼物→动作的即时兑换(直播间变投币机);普通聊天房 = 被点名感谢后的社交回报、PK 的胜负冲刺时刻
+- **变现结构**:纯打赏,重度依赖少数大额金主(whale 结构),不稳定、天花板低;订阅渗透几乎为零 ← **升级空间所在:话题化/栏目化把随机陪伴变成可预约的节目,才能长出订阅**
+
+**卡 2 · Performance & Entertainment**
+- **谁在播**:素人歌手/乐器手(singing lives)、舞者、喜剧演员;以及**平台官方赛事体系**——TikTok LIVE Fest 2026(拉斯维加斯,Keke Palmer 主持,音乐人+舞者主舞台)、Music On Stage '25(全球新人音乐赛,Sam Ryder 主持,冠军获 SoundOn 歌曲制作/发行资源 + LIVE Fest 2026 表演位)、TikTok × iHeartRadio "Next Up: Live Music"(2025 年 7-9 月,决赛在 LA iHeartRadio 剧场)
+- **🎯 关键洞察(面试重磅)**:**平台已经在官方下场做这个垂类的"内容升级+赛事化"**——说明供给专业化不是你的一厢情愿,是平台现行战略。你的 Q4 "Talent Fest" 方案可以这么说:"我注意到 Music On Stage 和 LIVE Fest 已经在顶层做赛事化,我的方案是把这个逻辑**下沉到垂类的日常运营**——官方赛事一年一次,垂类运营要把'赛事感'做成每周都在发生的事。"
+- **哪一刻留人**:点歌被回应、副歌/绝活高光瞬间、比赛悬念
+- **礼物触发点**:点歌答谢、表演结束的"鼓掌"时刻、赛事投票(礼物即选票)
+- **变现结构**:打赏+订阅(才艺=内容价值→粉丝愿意订阅,比 Just Chatting 可持续);官方赛事另提供非金钱激励(制作资源/曝光/唱片支持)——**变现阶梯最完整的垂类**
+
+**卡 3 · Beauty, Fashion & Lifestyle**
+- **谁在播**:GRWM 型主播(边化妆边答问,archetype 如 Manel,1.2M 粉,GRWM+护肤流程)、教程型化妆师、试穿/穿搭主播
+- **哪一刻留人**:GRWM 的过程陪伴 + 提问被即时回答("这个粉底什么色号?");妆前妆后 reveal 时刻
+- **礼物触发点**:提问被回答后的答谢、reveal 时刻、抽奖/giveaway
+- **变现结构**:打赏 + **三垂类中最宽的商业化出口**(桥接 Shop/品牌合作;数据佐证:GRWM 格式转化率 8.4% vs haul 式 2.3%)——天花板最高,但要求内容专业化
+- **2026 趋势**:clean girl 美学转向 no-makeup makeup(tinted SPF/cream blush/brown mascara)——看播时可验证
+
+**三垂类变现结构对比一句话**:Just Chatting 靠大 R 打赏(脆弱)→ Performance 打赏+订阅+官方资源(阶梯完整)→ Beauty 打赏+商业化出口(天花板最高)。**运营含义:三个垂类的"内容升级"回报路径不同,策略不能一套打三家**——这句本身就是面试观点。
+
+**来源**:CBS News(NPC 现象)、Dexerto/Wikipedia(Pinkydoll 收入)、TikTok Newsroom(Music On Stage)、Social Media Today(LIVE Fest)、iHeartMedia(Next Up)、Favikon(美妆创作者)、BeautyShopCreators(GRWM 转化数据)。
