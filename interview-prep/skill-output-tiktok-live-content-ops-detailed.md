@@ -10,6 +10,11 @@
 **团队**:User Ops (TikTok LIVE) | **地点**:Los Angeles, on-site | **薪资公示**:$103,360 – $273,600 + 奖金/RSU
 **负责垂类(2026-07 本人确认)**:①**Just Chatting**(真实对话与社区连接,LIVE 最活跃的社交品类)②**Performance & Entertainment**(音乐/舞蹈/表演/喜剧等才艺内容)③**Beauty, Fashion & Lifestyle**(增长最快的 lifestyle 社区)
 **⚠️ 关键定位修正**:这三个垂类的变现主场是**打赏(Gifts)+ 订阅(Subscriptions)**,不是 Shop 带货——Beauty 垂类有桥接 Shop 的相邻路径,但岗位核心是内容型/社交型直播的供给与增长。
+**🎯 三个垂类 × 三段经历的一一对应(面试开场可用)**:
+- **Beauty, Fashion & Lifestyle** ↔ 字节图文(一模一样的垂类名,直接对口)
+- **Performance & Entertainment** ↔ TikTok Music(歌曲/歌单内容运营)+ 特效团队(创作表达工具、S 级特效造热点)——音乐、表演、创意内容我都运营过
+- **Just Chatting** ↔ 社群运营与创作者社区经验(图文作者社群、44k creator 关系管理)——三个里最需要补形态知识的,看播重点放这里
+面试句:"这三个垂类和我的三段经历几乎一一对应:Beauty 是我图文的原垂类,Performance 对着我的 Music 和特效经历,Just Chatting 的本质是社区运营——正好是我从图文作者社群到 4 万 creator 关系一直在做的事。"
 
 **七条职责(原文大意)**:
 1. Own 所分配内容垂类的增长策略和运营表现:识别生态机会、优化内容供给、驱动可持续业务增长
