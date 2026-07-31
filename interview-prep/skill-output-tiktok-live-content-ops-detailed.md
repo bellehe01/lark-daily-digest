@@ -444,3 +444,16 @@ TikTok 官方的直播代理机构(公会)体系:机构负责 LIVE 创作者的�
 **三垂类变现结构对比一句话**:Just Chatting 靠大 R 打赏(脆弱)→ Performance 打赏+订阅+官方资源(阶梯完整)→ Beauty 打赏+商业化出口(天花板最高)。**运营含义:三个垂类的"内容升级"回报路径不同,策略不能一套打三家**——这句本身就是面试观点。
 
 **来源**:CBS News(NPC 现象)、Dexerto/Wikipedia(Pinkydoll 收入)、TikTok Newsroom(Music On Stage)、Social Media Today(LIVE Fest)、iHeartMedia(Next Up)、Favikon(美妆创作者)、BeautyShopCreators(GRWM 转化数据)。
+
+### 11.5 官方 campaign 实拍观察(2026-07 本人在 DJ 直播间 SELEKTA 截图,一手材料)
+
+**三个官方活动 = creator lifecycle 三个环节的运营体系:**
+1. **On Deck: Breakaway**(赛事化+线下出口):与 Breakaway 音乐节官方联名的 DJ 比赛;奖励阶梯 = 周边/Diamonds/限定头像框/VIP 音乐节门票(含机酒)/**终极奖励:9 月登上 Breakaway 真实舞台与顶级 DJ 同台**——奖励设计以职业资本为主、钱为辅,正面印证 Q8"打动主播靠确定性和成长,不是钱"
+2. **Songs of LIVE**(变现工具产品化):歌手原创歌曲变成专属 LIVE Gift,送礼即传播音乐(TikTok Studio > LIVE Center > Tools and Resources 提交)——Q7"变现与内容价值绑定"的产品级实现;与她 TikTok Music 背景天然亲和
+3. **In Sync: LIVE Music**(7/24-7/31,主播协作网络):Quick Invite: Music Preferences 按音乐偏好匹配 Co-Host——Q6"老带新"渠道的产品化,平台主动织主播协作网络
+
+**直播间内的机制实装(SELEKTA 房,111.5K 赞)**:campaign 专属礼物计数(70)、进度条(148/5000)、实时排名(No. 42)、SHOUT OUT 环节——**"礼物即投票"赛制正在生产环境运行**(Q4 方案的现实印证)
+
+**面试高光观点(从"做得好"看出"还没做"):**
+> "Performance 垂类的官方运营已经成体系——On Deck 打成长通道、Songs of LIVE 打变现工具、In Sync 打协作网络。但两个 gap:一是这些 campaign 主要服务成熟主播——我试着报名,资格门槛直接挡住,'差一步'主播够不到,腰尾部成长通道还是空的;二是 Just Chatting 没有对等的运营体系——它可能才是三个垂类里运营空间最大的。"
+(实机验证细节可自然带出:"我自己点了 Sign up,提示 not eligible——所以我知道它有资格门槛")
