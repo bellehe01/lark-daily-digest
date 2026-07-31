@@ -74,12 +74,29 @@ TikTok 官方的直播代理机构(公会)体系:机构负责 LIVE 创作者的�
 
 ---
 
-## 4|自我介绍(三个长度)
+## 4|自我介绍(2026-07 按"定位→两段证据→匹配"框架重写,四版)
 
-**250 字版**(HR/开场快版):见索引版第 4 章。
-**60-90 秒版**(业务面默认):见 biz-interview 包第三节(定位+图文/拍转编两段证据+匹配段)。
-**英文 60 秒版**:
-"I work on vertical content supply and creator growth. At ByteDance I ran vertical strategy for Douyin's photo-and-text platform across Beauty, Fashion and Lifestyle: built the vertical prioritization framework, defined quality standards, coached top creators, and lifted submission frequency 10% and vertical views 7%. At TikTok's Effects team I led a department P0 content supply project as an intern, scaling daily review submissions about 12x. At TikTok Music I built the metrics system for editorial teams across five markets. Now I'm at a US TikTok Shop agency where I built our Creator CRM from zero and run operations for 44,000+ creators. I've done this work from both the platform side and the agency side, and I'd love to bring both perspectives to TikTok LIVE."
+### 4.1 简略版 · 中文(约 40 秒,HR 面/快节奏)
+> 【定位】我是何贝尔,做垂类内容供给和创作者增长的运营。我最擅长解决的问题是:一个垂类的内容供给不足或质量不行,怎么用数据找到机会点、把它拉起来。
+> 【证据×2】两段最相关的经历:在字节抖音图文中台,我负责 Beauty、Fashion & Lifestyle 垂类——建垂类筛选框架、定优质内容标准、做头部作者 1v1 帮扶,投稿频次提升 10%、垂类播放提升 7%。在 TikTok 特效团队,我作为实习生负责了部门 P0 的内容供给项目,用漏斗诊断找到被规则误杀的热门内容,把日送审量提升了约 12 倍。
+> 【匹配】这个岗位的三个垂类和我的经历几乎一一对应:Beauty 是我图文的原垂类,Performance 对应我的 Music 和特效经历,Just Chatting 本质是社区运营——我现在还在 agency 侧管着 44,000 个 creator。你们要的,我正好都做过。
+
+### 4.2 简略版 · 英文(约 45 秒)
+> [Positioning] I'm Belle. I work on vertical content supply and creator growth, and the problem I'm best at solving is this: when a vertical's content supply is thin or low-quality, how do you use data to find the opportunity and pull it up.
+> [Evidence x2] Two most relevant experiences. At ByteDance, I owned Beauty, Fashion and Lifestyle verticals on Douyin's photo-and-text platform: built the vertical prioritization framework, defined quality standards, coached top creators one-on-one, and lifted submission frequency 10% and vertical views 7%. At TikTok's Effects team, I led a department P0 content supply project as an intern: diagnosed the review funnel, found popular content wrongly filtered out by rules, and scaled daily review submissions about 12x.
+> [Match] The three verticals of this role map almost one-to-one onto my background: Beauty is literally my old vertical, Performance maps to my Music and Effects experience, and Just Chatting is community operations at heart, which is what I do now managing 44,000 creators on the agency side. What this role needs, I've done.
+
+### 4.3 详细版 · 中文(约 2.5 分钟,业务面开场)
+> 【定位,20 秒】我是何贝尔,做垂类内容供给和创作者增长的运营。平台侧我在字节和 TikTok 做过三段——图文、特效、音乐;agency 侧我现在管着 44,000 个 TikTok creator。我最擅长解决的问题是:一个垂类供给不足或质量不行的时候,用数据找到机会点,再用策略和创作者运营把它拉起来。
+> 【证据一:图文,50 秒】第一段证据是字节抖音图文中台。图文横跨所有垂类但资源有限,我建了一个垂类优先级框架——用图文不可替代性、赛道规模、单稿效率三个维度筛选——摄影艺术因不可替代性最高被选为切入点,再扩展到 Beauty、Fashion & Lifestyle。选定垂类后,我把"有用&好看"的抽象标准操作化成可标注的四维体系,用它圈定优质作者,每个垂类挑约 20 个头部做 1v1 诊断帮扶,配合社群和投稿活动规模化。结果:圈定作者群体投稿频次提升 10%,垂类播放提升 7%,这套框架成了团队的标准工具。
+> 【证据二:拍转编,50 秒】第二段是 TikTok 特效团队的部门 P0 项目,我作为实习生被委任为负责人。当时所有人只能看到"编辑页特效供给特别少"这个表象——消费需求是供给的近十倍,用户永远刷到重复的旧特效,但卡在哪没人说得清。我把五层链路逐层量化通过率,再钻进内容池分析过滤失败的分布,发现是筛选规则把大量高热内容系统性误杀了。重设规则、推动阈值和人力调整之后,日送审量提升了约 12 倍,编辑页终于能持续上新热门内容——供给问题从规则层根治。
+> 【匹配,30 秒】为什么我适合这个岗位:三个垂类和我的三段经历几乎一一对应——Beauty 是我图文的原垂类,Performance 对应我的 Music 和特效经历,Just Chatting 本质是社区运营,正好是我从图文作者社群做到 4 万 creator 关系一直在做的事。而且我两边视角都有:平台侧做过策略,agency 侧知道策略落到 creator 身上会变成什么。如果我入职,前 30 天我会先把垂类的供给诊断做出来——这套方法我已经用过两遍了。
+
+### 4.4 详细版 · 英文(约 2 分钟)
+> [Positioning] I'm Belle. I work on vertical content supply and creator growth: three platform-side roles at ByteDance and TikTok, across photo-text, effects, and music, and now on the agency side running operations for 44,000+ TikTok creators. The problem I'm best at: when a vertical's supply is thin or low-quality, use data to find the opportunity, then pull it up through strategy and creator operations.
+> [Evidence 1: Douyin] At ByteDance I owned vertical strategy for Douyin's photo-and-text platform. With limited resources across all verticals, I built a prioritization framework using irreplaceability, market size, and per-post efficiency, entered through photography and art, then expanded to Beauty, Fashion and Lifestyle. I turned an abstract quality bar into a four-dimension labeling standard, used it to identify top creators, coached about 20 per vertical one-on-one, and scaled through community and campaigns. Submission frequency rose 10 percent, vertical views 7 percent, and the framework became the team's standard tool.
+> [Evidence 2: Effects] At TikTok's Effects team, I led a department P0 project as an intern. Everyone could see the symptom: the editing page had almost no effect supply while demand was nearly ten times higher, and users kept seeing the same stale effects. Nobody could explain where it was stuck. I quantified pass rates across the five-stage review funnel, then dug into the content pool and found the filtering rules were systematically killing popular content. After redesigning the rules and pushing threshold and staffing changes, daily review submissions scaled about 12x, and fresh trending content finally flowed.
+> [Match] Why this role: the three verticals map one-to-one onto my background — Beauty is literally my old vertical, Performance maps to Music and Effects, Just Chatting is community operations at heart. And I bring both sides: platform-side strategy, plus agency-side knowledge of how strategy actually lands on creators. In my first 30 days I'd run the vertical supply diagnosis — I've done it twice before.
 
 ---
 
