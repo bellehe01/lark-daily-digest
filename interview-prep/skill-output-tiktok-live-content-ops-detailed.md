@@ -150,24 +150,24 @@ TikTok 官方的直播代理机构(公会)体系:机构负责 LIVE 创作者的�
 ### 4.1 简略版 · 中文(约 40 秒,HR 面/快节奏)
 > 【定位】我是何贝尔,做垂类内容供给和创作者增长的运营。我最擅长解决的问题是:一个垂类的内容供给不足或质量不行,怎么用数据找到机会点、把它拉起来。
 > 【证据×2】两段最相关的经历:在字节抖音图文中台,我负责 Beauty、Fashion & Lifestyle 垂类——建垂类筛选框架、定优质内容标准、做头部作者 1v1 帮扶,投稿频次提升 10%、垂类播放提升 7%。在 TikTok 特效团队,我作为实习生负责了部门 P0 的内容供给项目,用漏斗诊断找到被规则误杀的热门内容,把日送审量提升了约 12 倍。
-> 【匹配】匹配上说三点:方法现成——这套垂类打法我跑过两遍;视角双边——平台侧定过策略,agency 侧管着 44,000 个 creator,知道策略落到 creator 身上什么样;垂类熟悉——Beauty 我做过,音乐和创意内容我运营过。所以我觉得我和这个岗位是非常匹配的。
+> 【匹配】匹配上一句话:你们要的三样——own 垂类供给、规模化 creator 运营、数据驱动定指标——正好对应我的图文和特效、我的 44,000 creator 系统、和我在 Music 建的指标体系。所以我觉得非常匹配。
 
 ### 4.2 简略版 · 英文(约 45 秒)
 > [Positioning] I'm Belle. I work on vertical content supply and creator growth, and the problem I'm best at solving is this: when a vertical's content supply is thin or low-quality, how do you use data to find the opportunity and pull it up.
 > [Evidence x2] Two most relevant experiences. At ByteDance, I owned Beauty, Fashion and Lifestyle verticals on Douyin's photo-and-text platform: built the vertical prioritization framework, defined quality standards, coached top creators one-on-one, and lifted submission frequency 10% and vertical views 7%. At TikTok's Effects team, I led a department P0 content supply project as an intern: diagnosed the review funnel, found popular content wrongly filtered out by rules, and scaled daily review submissions about 12x.
-> [Match] On fit, three things: the method is ready, I've run this vertical playbook twice; the perspective is two-sided, platform strategy plus agency-side reality of running 44,000 creators and seeing how strategy lands on them; and the verticals are familiar, I've operated Beauty, music, and creative content. That's why I think I'm a good fit for this role.
+> [Match] On fit, one sentence: the three things this role needs — owning vertical supply, scaling creator operations, and defining metrics — map directly to my Douyin and Effects work, my forty-four-thousand-creator system, and the metrics framework I built at TikTok Music. That's why I think we're a great match.
 
 ### 4.3 详细版 · 中文(约 2.5 分钟,业务面开场)
 > 【定位,20 秒】我是何贝尔,做垂类内容供给和创作者增长的运营。平台侧我在字节和 TikTok 做过三段——图文、特效、音乐;agency 侧我现在管着 44,000 个 TikTok creator。我最擅长解决的问题是:一个垂类供给不足或质量不行的时候,用数据找到机会点,再用策略和创作者运营把它拉起来。
 > 【证据一:图文,50 秒】第一段证据是字节抖音图文中台。图文横跨所有垂类但资源有限,我建了一个垂类优先级框架——用图文不可替代性、赛道规模、单稿效率三个维度筛选——摄影艺术因不可替代性最高被选为切入点,再扩展到 Beauty、Fashion & Lifestyle。选定垂类后,我把"有用&好看"的抽象标准操作化成可标注的四维体系,用它圈定优质作者,每个垂类挑约 20 个头部做 1v1 诊断帮扶,配合社群和投稿活动规模化。结果:圈定作者群体投稿频次提升 10%,垂类播放提升 7%,这套框架成了团队的标准工具。
 > 【证据二:拍转编,50 秒】第二段是 TikTok 特效团队的部门 P0 项目,我作为实习生被委任为负责人。当时所有人只能看到"编辑页特效供给特别少"这个表象——消费需求是供给的近十倍,用户永远刷到重复的旧特效,但卡在哪没人说得清。我把五层链路逐层量化通过率,再钻进内容池分析过滤失败的分布,发现是筛选规则把大量高热内容系统性误杀了。重设规则、推动阈值和人力调整之后,日送审量提升了约 12 倍,编辑页终于能持续上新热门内容——供给问题从规则层根治。
-> 【匹配,30 秒】最后说匹配。这个岗位要的是有人能把三个垂类的供给和创作者增长**按方法做出来**,而不是碰运气。我能给的是三样:**方法是现成的**——从垂类诊断、标准定义、头部帮扶到规模化,这套我完整跑过两遍;**视角是双边的**——我在平台侧定过策略,也在 agency 侧天天看策略落到 creator 身上的真实样子,什么激励有效、什么会变形,我有一线体感;**垂类是熟悉的**——Beauty 我做过,音乐和创意内容我运营过,这几天我每天都在看这三个垂类的直播。所以我觉得我和这个岗位是非常匹配的。
+> 【匹配,25 秒】最后说匹配。这个岗位要的东西,JD 里写得很清楚,就三样:第一,**要有人能 own 垂类的内容供给**——这件事我做过两遍,图文和特效,一次靠运营策略,一次靠改规则;第二,**要懂创作者、能把 creator lifecycle 做到规模化**——我从每垂类 20 个头部的精耕,做到了 44,000 人的系统化;第三,**要数据驱动、自己能定义指标**——我在 Music 给五个市场建过整套指标体系。你们要的这三样,正好是我几段经历里各自最硬的部分。所以我觉得我们是非常匹配的。
 
 ### 4.4 详细版 · 英文(约 2 分钟)
 > [Positioning] I'm Belle. I work on vertical content supply and creator growth: three platform-side roles at ByteDance and TikTok, across photo-text, effects, and music, and now on the agency side running operations for 44,000+ TikTok creators. The problem I'm best at: when a vertical's supply is thin or low-quality, use data to find the opportunity, then pull it up through strategy and creator operations.
 > [Evidence 1: Douyin] At ByteDance I owned vertical strategy for Douyin's photo-and-text platform. With limited resources across all verticals, I built a prioritization framework using irreplaceability, market size, and per-post efficiency, entered through photography and art, then expanded to Beauty, Fashion and Lifestyle. I turned an abstract quality bar into a four-dimension labeling standard, used it to identify top creators, coached about 20 per vertical one-on-one, and scaled through community and campaigns. Submission frequency rose 10 percent, vertical views 7 percent, and the framework became the team's standard tool.
 > [Evidence 2: Effects] At TikTok's Effects team, I led a department P0 project as an intern. Everyone could see the symptom: the editing page had almost no effect supply while demand was nearly ten times higher, and users kept seeing the same stale effects. Nobody could explain where it was stuck. I quantified pass rates across the five-stage review funnel, then dug into the content pool and found the filtering rules were systematically killing popular content. After redesigning the rules and pushing threshold and staffing changes, daily review submissions scaled about 12x, and fresh trending content finally flowed.
-> [Match] Last, the match. This role needs someone who can grow these verticals by method, not by luck. I bring three things. The method is ready: vertical diagnosis, quality standards, top-creator coaching, then scaling — I've run this loop twice end to end. The perspective is two-sided: I've set strategy on the platform side, and on the agency side I see daily how strategy actually lands on creators — which incentives work and which ones backfire. And the verticals are familiar: I've operated Beauty, I've operated music and creative content, and I've been watching LIVE in these three verticals every day. That's why I think I'm a good fit for this role.
+> [Match] Finally, on fit. What this role needs is written right in the JD, and it's three things. First, someone to own vertical content supply — I've done that twice, once through operations and once through rules. Second, someone who knows creators and can scale the creator lifecycle — I've gone from coaching twenty top creators per vertical to running a system for forty-four thousand. Third, someone data-driven who can define success metrics — I built the metrics system for editorial teams across five markets. The three things you need happen to be the strongest parts of my past roles. That's why I think we're a great match.
 
 ---
 
@@ -218,7 +218,7 @@ TikTok 官方的直播代理机构(公会)体系:机构负责 LIVE 创作者的�
 > "把变现激励和质量标准绑在一起,而不是对立起来。图文的教训是激励一猛低质内容就来,所以我们把'精美图片'四维标准做成激励活动的准入门槛——激励的是'优质且投稿',不是'投稿'。LIVE 的打赏反馈更即时,诱导低质的压力更大,我的思路一样:变现权益的分配向质量分倾斜,让'做好内容'成为变现效率最高的路径。"
 
 **Q8 "你管 4 万 creator,规模化运营、提升 GMV 的方法论是什么?"(75 秒,简历必引题)**
-> "一句话:**标准 + 分层 + 自动化,人力只花在头部和例外**。展开是四步:第一,**诊断**——用 GMV 和表现数据搞清楚谁值得投入,44,000 人里真正贡献大盘的结构是什么;第二,**定标准**——什么是优质 creator、分层怎么切,我们按 GMV 贡献加视频表现分层,每层对应不同的资源和触达方式;第三,**试点**——所有策略先小范围验证,比如规划工具先给几个 AM 用,迭代完再推 300 多个品牌;第四,**系统化**——CRM 自动分层、自动触达,体系自己跑,人只管头部和异常。GMV 的核心杠杆其实是**匹配效率**:我做了推荐引擎把对的 creator 配给对的品牌,一次性合作变长期合作——复购式合作才是 GMV 可持续的来源,拉新合作永远比不上让好的合作重复发生。"
+> "一句话:**标准 + 分层 + 自动化,人力只花在头部和例外**。展开是四步:第一,**诊断**——用 GMV 和表现数据搞清楚谁值得投入,44,000 人里真正贡献大盘的结构是什么;第二,**定标准**——什么是优质 creator、分层怎么切,我们按 GMV 贡献加视频表现分层,每层对应不同的资源和触达方式;第三,**试点**——所有策略先小范围验证,比如规划工具先给几个 AM 用,迭代完再推 300 多个品牌;第四,**系统化**——CRM 自动分层、自动触达,体系自己跑,人只管头部和异常。GMV 的核心杠杆其实是**匹配效率**:我做了推荐引擎把对的 creator 配给对的品牌,一次性合作变长期合作——复购式合作才是 GMV 可持续的来源,拉新合作永远比不上让好的合作重复发生。最直观的效率结果:AM 原来一人只能管 1 个品牌,现在能管 2-3 个。"
 
 **Q9 "怎么定义、筛选、评判优质 LIVE 主播?"(75 秒,HR 面真题变体,最重业务题)**
 > "先说 LIVE 的特殊性:图文的优质是'内容好',LIVE 的优质是**内容好 × 稳定播 × 会互动**——直播内容即产即逝,不稳定开播的主播再有才华也不构成供给。
