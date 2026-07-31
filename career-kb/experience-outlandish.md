@@ -23,6 +23,7 @@
 ## P3 · 推荐引擎
 - **LLM pain-point tagging(=labeling/categorization)+ GMV-weighted scoring**
 - 为品牌匹配已验证的 creator,替代人工跨渠道搜索;一次性合作→长期关系(生态健康角度)
+- **2026-07 mock 中本人口述的新结果指标(⚠️ 待本人确认后转正)**:匹配效率提升使 **AM 从只能管 1 个品牌 → 能管 2-3 个品牌**——比"节省时间"更有说服力的效率表述,确认后可用于简历/面试
 
 ## P4 · SCF(Social Commerce Festival)check-in & tiering 平台
 - 5,000+ TikTok creators 与品牌对接的线下活动
