@@ -6,6 +6,7 @@
 
 ## 1|JD 摘要(原文已存 biz-interview 包)
 Content Operations & Creator Growth Manager - TikTok LIVE;团队 User Ops (TikTok LIVE);LA on-site;$103,360–$273,600。**负责垂类:Just Chatting / Performance & Entertainment / Beauty, Fashion & Lifestyle——变现主场是打赏+订阅,不是 Shop**(详细版第 1、11 章)。
+**岗位理解四维(全文见详细版 1.1)**:①矛盾=不缺流量缺优质供给(时段/垂类覆盖不均 + 打赏诱导低质 + 腰尾部没人管);②目的=垂类生态健康,"陪伴感流量"升级"内容价值生态";③解法=诊断→标准→供给(存量→差一步→拉新)→机制(赛事/激励绑质量/机构/产品协作);④指标=供给侧先行(稳定开播数/优质占比/时段覆盖)→参与过程→变现滞后验收,金句"供给和留存是因,变现是果"。
 七条职责核心词:own content verticals / optimize content supply / creator lifecycle strategies / analyze creators+content+user metrics / campaigns & operational frameworks / vertical SME / cross-functional (Product, DS, Engineering, Marketing, Policy, regional) / define success metrics + experimentation。
 
 ## 2|公司与产品调研 + 竞争格局(2026-07 检索)
