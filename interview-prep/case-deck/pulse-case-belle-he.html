@@ -5,20 +5,21 @@
 <title>Pulse Music Festival x TikTok LIVE — Belle He</title>
 <style>
   :root {
-    --accent: #FE2C55;
-    --ink: #0b0b0b;
-    --ink2: #52514e;
-    --muted: #898781;
-    --grid: #e1e0d9;
-    --surface: #ffffff;
-    --wash: #f7f6f4;
-    --blue: #2a78d6;
-    --orange: #eb6834;
-    --aqua: #1baf7a;
-    --good: #006300;
+    --accent: #FE2C55;   /* TikTok red */
+    --cyan: #25F4EE;     /* TikTok cyan, chrome only */
+    --ink: #FFFFFF;
+    --ink2: #B8BCC8;
+    --muted: #7A8091;
+    --grid: rgba(255,255,255,0.14);
+    --surface: #161823;  /* TikTok dark */
+    --wash: rgba(255,255,255,0.06);
+    --blue: #3987e5;
+    --orange: #FE2C55;   /* declining archetype = brand red */
+    --aqua: #149e99;     /* validated dark step of brand cyan */
+    --good: #0ca30c;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  html, body { background: #e8e8e6; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); }
+  html, body { background: #0b0c12; font-family: "TikTok Sans", "Proxima Nova", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); }
   .slide {
     width: 1280px; height: 720px; background: var(--surface);
     margin: 24px auto; padding: 52px 64px 44px;
@@ -28,20 +29,20 @@
   }
   @page { size: 1280px 720px; margin: 0; }
   @media print {
-    html, body { background: #fff; }
+    html, body { background: #161823; }
     .slide { margin: 0; box-shadow: none; }
   }
-  .kicker { font-size: 13px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
-  h1 { font-size: 44px; line-height: 1.15; letter-spacing: -0.01em; }
-  h2.action { font-size: 27px; line-height: 1.2; letter-spacing: -0.01em; margin-bottom: 6px; }
+  .kicker { font-size: 13px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--cyan); margin-bottom: 10px; }
+  h1 { font-size: 46px; line-height: 1.12; letter-spacing: -0.015em; font-weight: 800; text-shadow: -3px 0 rgba(37,244,238,0.85), 3px 0 rgba(254,44,85,0.85); }
+  h2.action { font-size: 27px; line-height: 1.2; letter-spacing: -0.01em; margin-bottom: 6px; font-weight: 800; }
   .sub { font-size: 15px; color: var(--ink2); margin-bottom: 22px; }
   .footer { position: absolute; bottom: 20px; left: 64px; right: 64px; display: flex; justify-content: space-between; font-size: 11.5px; color: var(--muted); }
   .body { flex: 1; display: flex; flex-direction: column; min-height: 0; }
   .cols { display: flex; gap: 28px; flex: 1; min-height: 0; }
-  .card { background: var(--wash); border: 1px solid var(--grid); border-radius: 10px; padding: 18px 20px; }
+  .card { background: var(--wash); border: 1px solid rgba(255,255,255,0.10); border-radius: 10px; padding: 18px 20px; }
   .tag { display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; padding: 3px 9px; border-radius: 999px; margin-bottom: 10px; }
   table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
-  th { text-align: left; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; padding: 7px 10px; border-bottom: 1.5px solid var(--ink); }
+  th { text-align: left; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; padding: 7px 10px; border-bottom: 1.5px solid rgba(255,255,255,0.6); }
   td:first-child { white-space: nowrap; }
   td { padding: 8px 10px; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; }
   .num { text-align: right; }
@@ -62,17 +63,17 @@
   <div class="kicker">TikTok LIVE &times; Pulse Music Festival &middot; Case Study</div>
   <h1>Fix the portfolio's efficiency.<br>Use the festival as the engine.</h1>
   <div class="sub" style="margin-top:14px; font-size:16px;">My first month as Music Creator Manager &middot; Belle He &middot; August 2026</div>
-  <div class="cols" style="margin-top:26px; align-items:stretch;">
+  <div class="cols" style="margin-top:40px; align-items:flex-start; flex:0 0 auto;">
     <div class="card" style="flex:1;">
-      <div class="tag" style="background:#eaf1fb; color:var(--blue);">1 &middot; Coach by archetype</div>
+      <div class="tag" style="background:rgba(57,135,229,0.16); color:#5EA3F5;">1 &middot; Coach by archetype</div>
       <div style="font-size:15.5px; line-height:1.5;">The portfolio's problem is <strong>efficiency, not effort</strong>: the most active creators are declining. Two failure patterns, two coaching plans.</div>
     </div>
     <div class="card" style="flex:1;">
-      <div class="tag" style="background:#fdeef0; color:var(--accent);">2 &middot; Festival as engine, not event</div>
+      <div class="tag" style="background:rgba(254,44,85,0.16); color:#FF7A93;">2 &middot; Festival as engine, not event</div>
       <div style="font-size:15.5px; line-height:1.5;">A <strong>"Road to Pulse" competition</strong> recruits new music creators and gives existing ones the discovery they are starved of; one mechanic, two funnels.</div>
     </div>
     <div class="card" style="flex:1;">
-      <div class="tag" style="background:#e9f6f1; color:#0d7a55;">3 &middot; Supply-first metrics</div>
+      <div class="tag" style="background:rgba(37,244,238,0.12); color:var(--cyan);">3 &middot; Supply-first metrics</div>
       <div style="font-size:15.5px; line-height:1.5;">Revenue follows retention and discovery. <strong>Leading indicators gate every dollar</strong> of the $80K budget, with a go/no-go checkpoint at week 4.</div>
     </div>
   </div>
@@ -91,9 +92,9 @@
         <tbody>
           <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--aqua);margin-right:7px;"></span><strong>Echo Music</strong></td><td class="num">38</td><td class="num">1,250</td><td class="num">$12,100</td><td class="num"><strong>$318</strong></td><td class="num" style="color:var(--good);">+22%</td><td class="num">48%</td></tr>
           <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--blue);margin-right:7px;"></span><strong>Luna Live</strong></td><td class="num">58</td><td class="num">910</td><td class="num">$17,600</td><td class="num"><strong>$303</strong></td><td class="num" style="color:var(--good);">+9%</td><td class="num">60%</td></tr>
-          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>DJ Nova</strong></td><td class="num">115</td><td class="num">430</td><td class="num">$14,200</td><td class="num"><strong>$123</strong></td><td class="num" style="color:#d03b3b;">&minus;18%</td><td class="num">81%</td></tr>
-          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>BeatTheory</strong></td><td class="num">90</td><td class="num">310</td><td class="num">$10,400</td><td class="num"><strong>$116</strong></td><td class="num" style="color:#d03b3b;">&minus;7%</td><td class="num">75%</td></tr>
-          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>Vinyl Nights</strong></td><td class="num">126</td><td class="num">185</td><td class="num">$7,800</td><td class="num"><strong>$62</strong></td><td class="num" style="color:#d03b3b;">&minus;20%</td><td class="num">87%</td></tr>
+          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>DJ Nova</strong></td><td class="num">115</td><td class="num">430</td><td class="num">$14,200</td><td class="num"><strong>$123</strong></td><td class="num" style="color:#FF5A76;">&minus;18%</td><td class="num">81%</td></tr>
+          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>BeatTheory</strong></td><td class="num">90</td><td class="num">310</td><td class="num">$10,400</td><td class="num"><strong>$116</strong></td><td class="num" style="color:#FF5A76;">&minus;7%</td><td class="num">75%</td></tr>
+          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>Vinyl Nights</strong></td><td class="num">126</td><td class="num">185</td><td class="num">$7,800</td><td class="num"><strong>$62</strong></td><td class="num" style="color:#FF5A76;">&minus;20%</td><td class="num">87%</td></tr>
         </tbody>
       </table>
       <div class="takeaway" style="margin-top:20px;">Hours and growth are <strong>inversely related</strong>: the two creators streaming the most (126h, 115h) are declining fastest. The portfolio needs <strong>better hours, not more hours</strong>.</div>
@@ -102,42 +103,42 @@
       <div class="mini-h">Returning viewers vs. revenue growth (MoM)</div>
       <svg viewBox="0 0 520 380" style="width:100%; height:auto;">
         <!-- quadrant washes -->
-        <rect x="60" y="20" width="215" height="160" fill="#fdf3ef"/>
-        <rect x="275" y="180" width="215" height="160" fill="#eef8f4"/>
+        <rect x="60" y="20" width="215" height="160" fill="rgba(254,44,85,0.08)"/>
+        <rect x="275" y="180" width="215" height="160" fill="rgba(37,244,238,0.06)"/>
         <!-- grid -->
-        <line x1="60" y1="340" x2="490" y2="340" stroke="#c3c2b7" stroke-width="1.5"/>
-        <line x1="60" y1="20" x2="60" y2="340" stroke="#c3c2b7" stroke-width="1.5"/>
-        <line x1="275" y1="20" x2="275" y2="340" stroke="#e1e0d9" stroke-width="1" stroke-dasharray="4 4"/>
+        <line x1="60" y1="340" x2="490" y2="340" stroke="rgba(255,255,255,0.38)" stroke-width="1.5"/>
+        <line x1="60" y1="20" x2="60" y2="340" stroke="rgba(255,255,255,0.38)" stroke-width="1.5"/>
+        <line x1="275" y1="20" x2="275" y2="340" stroke="rgba(255,255,255,0.16)" stroke-width="1" stroke-dasharray="4 4"/>
         <!-- axis ticks: x = MoM -25..+25 mapped 60..490 ; y = returning 40..95 mapped 340..20 -->
-        <text x="60" y="360" font-size="11" fill="#898781" text-anchor="middle">-25%</text>
-        <text x="275" y="360" font-size="11" fill="#898781" text-anchor="middle">0%</text>
-        <text x="490" y="360" font-size="11" fill="#898781" text-anchor="middle">+25%</text>
-        <text x="52" y="344" font-size="11" fill="#898781" text-anchor="end">40</text>
-        <text x="52" y="172" font-size="11" fill="#898781" text-anchor="end">70</text>
-        <text x="52" y="27" font-size="11" fill="#898781" text-anchor="end">95</text>
-        <text x="275" y="378" font-size="11.5" fill="#52514e" text-anchor="middle" font-weight="600">MoM revenue growth &rarr;</text>
-        <text x="20" y="180" font-size="11.5" fill="#52514e" text-anchor="middle" font-weight="600" transform="rotate(-90 20 180)">Returning viewers % &rarr;</text>
+        <text x="60" y="360" font-size="11" fill="#7A8091" text-anchor="middle">-25%</text>
+        <text x="275" y="360" font-size="11" fill="#7A8091" text-anchor="middle">0%</text>
+        <text x="490" y="360" font-size="11" fill="#7A8091" text-anchor="middle">+25%</text>
+        <text x="52" y="344" font-size="11" fill="#7A8091" text-anchor="end">40</text>
+        <text x="52" y="172" font-size="11" fill="#7A8091" text-anchor="end">70</text>
+        <text x="52" y="27" font-size="11" fill="#7A8091" text-anchor="end">95</text>
+        <text x="275" y="378" font-size="11.5" fill="#B8BCC8" text-anchor="middle" font-weight="600">MoM revenue growth &rarr;</text>
+        <text x="20" y="180" font-size="11.5" fill="#B8BCC8" text-anchor="middle" font-weight="600" transform="rotate(-90 20 180)">Returning viewers % &rarr;</text>
         <!-- annotations -->
-        <text x="70" y="40" font-size="12" fill="#b64a1f" font-weight="700">DISCOVERY-STARVED</text>
-        <text x="70" y="55" font-size="10.5" fill="#b64a1f">loyal core, no new viewers</text>
-        <text x="285" y="312" font-size="12" fill="#0d7a55" font-weight="700">LEAKY BUCKET</text>
-        <text x="285" y="327" font-size="10.5" fill="#0d7a55">new viewers don't stick</text>
+        <text x="70" y="40" font-size="12" fill="#FF7A93" font-weight="700">DISCOVERY-STARVED</text>
+        <text x="70" y="55" font-size="10.5" fill="#FF7A93">loyal core, no new viewers</text>
+        <text x="285" y="312" font-size="12" fill="#25F4EE" font-weight="700">LEAKY BUCKET</text>
+        <text x="285" y="327" font-size="10.5" fill="#25F4EE">new viewers don't stick</text>
         <!-- points: x=60+ (mom+25)/50*430 ; y=340 - (ret-40)/55*320 -->
         <!-- Vinyl (-20,87): x=103, y=66  -->
-        <circle cx="103" cy="66" r="9" fill="#eb6834" stroke="#fff" stroke-width="2"/>
-        <text x="118" y="70" font-size="12.5" font-weight="600" fill="#0b0b0b">Vinyl Nights</text>
+        <circle cx="103" cy="66" r="9" fill="#FE2C55" stroke="#161823" stroke-width="2"/>
+        <text x="118" y="70" font-size="12.5" font-weight="600" fill="#FFFFFF">Vinyl Nights</text>
         <!-- Nova (-18,81): x=120, y=101 -->
-        <circle cx="120" cy="101" r="9" fill="#eb6834" stroke="#fff" stroke-width="2"/>
-        <text x="135" y="105" font-size="12.5" font-weight="600" fill="#0b0b0b">DJ Nova</text>
+        <circle cx="120" cy="101" r="9" fill="#FE2C55" stroke="#161823" stroke-width="2"/>
+        <text x="135" y="105" font-size="12.5" font-weight="600" fill="#FFFFFF">DJ Nova</text>
         <!-- BeatTheory (-7,75): x=215, y=136 -->
-        <circle cx="215" cy="136" r="9" fill="#eb6834" stroke="#fff" stroke-width="2"/>
-        <text x="230" y="140" font-size="12.5" font-weight="600" fill="#0b0b0b">BeatTheory</text>
+        <circle cx="215" cy="136" r="9" fill="#FE2C55" stroke="#161823" stroke-width="2"/>
+        <text x="230" y="140" font-size="12.5" font-weight="600" fill="#FFFFFF">BeatTheory</text>
         <!-- Luna (+9,60): x=352, y=224 -->
-        <circle cx="352" cy="224" r="9" fill="#2a78d6" stroke="#fff" stroke-width="2"/>
-        <text x="367" y="228" font-size="12.5" font-weight="600" fill="#0b0b0b">Luna Live</text>
+        <circle cx="352" cy="224" r="9" fill="#3987e5" stroke="#161823" stroke-width="2"/>
+        <text x="367" y="228" font-size="12.5" font-weight="600" fill="#FFFFFF">Luna Live</text>
         <!-- Echo (+22,48): x=464, y=293 -->
-        <circle cx="464" cy="293" r="9" fill="#1baf7a" stroke="#fff" stroke-width="2"/>
-        <text x="455" y="278" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">Echo Music</text>
+        <circle cx="464" cy="293" r="9" fill="#149e99" stroke="#161823" stroke-width="2"/>
+        <text x="455" y="278" font-size="12.5" font-weight="600" fill="#FFFFFF" text-anchor="end">Echo Music</text>
       </svg>
       <div style="font-size:12.5px; color:var(--ink2); margin-top:6px;">87% returning viewers with &minus;20% revenue isn't loyalty. <strong>It's a ceiling.</strong></div>
     </div>
@@ -152,15 +153,15 @@
   <div class="sub">Each archetype gets a different playbook. Coaching effort is a scarce resource; it goes where it bends the curve.</div>
   <div class="cols" style="flex:0 0 auto; gap:18px;">
     <div class="card" style="flex:1; border-top:4px solid var(--aqua);">
-      <div class="tag" style="background:#e9f6f1; color:#0d7a55;">Grow</div>
+      <div class="tag" style="background:rgba(37,244,238,0.12); color:var(--cyan);">Grow</div>
       <div style="font-size:13.5px; line-height:1.5;"><strong>Echo Music (first priority)</strong>: momentum is perishable. Fixed schedule, fan club &amp; subscriptions push, welcome rituals, convert surge viewers into followers.<br><strong>Luna Live</strong>: codify her playbook for the whole portfolio; scale hours gently (58 &rarr; ~75).</div>
     </div>
     <div class="card" style="flex:1; border-top:4px solid var(--orange);">
-      <div class="tag" style="background:#fdf3ef; color:#b64a1f;">Fix</div>
+      <div class="tag" style="background:rgba(254,44,85,0.16); color:#FF7A93;">Fix</div>
       <div style="font-size:13.5px; line-height:1.5;"><strong>Vinyl Nights</strong>: fewer, better hours (126 &rarr; ~80); format refresh; co-host slots with rising creators.<br><strong>DJ Nova</strong>: content refresh, off-peak experiments, festival-stage exposure as a new-audience injection.</div>
     </div>
     <div class="card" style="flex:1; border-top:4px solid var(--blue);">
-      <div class="tag" style="background:#eaf1fb; color:var(--blue);">Sustain</div>
+      <div class="tag" style="background:rgba(57,135,229,0.16); color:#5EA3F5;">Sustain</div>
       <div style="font-size:13.5px; line-height:1.5;"><strong>BeatTheory</strong>: group coaching and monitoring; watch for drift into the discovery-starved pattern (returning % rising while growth falls).</div>
     </div>
   </div>
@@ -202,7 +203,7 @@
         <div style="font-size:15.5px;"><strong>ENERGIZE</strong> &middot; 4-week bootcamp + archetype coaching; portfolio creators mentor and compete</div>
       </div>
       <div class="card" style="margin-bottom:16px; padding:24px 22px; border-left:4px solid var(--aqua);">
-        <div style="font-size:15.5px;"><strong>SHOWCASE</strong> &middot; TikTok LIVE stage at Pulse — finals + top-talent performances, all streamed</div>
+        <div style="font-size:15.5px;"><strong>SHOWCASE</strong> &middot; TikTok LIVE stage at Pulse: finals + top-talent performances, all streamed</div>
       </div>
       <div class="opt" style="margin-top:8px;">Spreading budget evenly across five workstreams: rejected. Stage + competition compound each other; marketing amplifies a story the competition creates for free.</div>
     </div>
@@ -210,12 +211,12 @@
       <div class="mini-h">$80K activation budget</div>
       <!-- budget bars: max 28k = 100% width -->
       <div style="font-size:14px;">
-        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>LIVE stage &amp; on-site production</span><strong>$28K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:100%;height:100%;background:var(--blue);border-radius:4px;"></div></div></div>
-        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Competition prizes &amp; finalist travel</span><strong>$18K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:64%;height:100%;background:var(--blue);border-radius:4px;"></div></div></div>
-        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Marketing &amp; community</span><strong>$16K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:57%;height:100%;background:var(--blue);border-radius:4px;"></div></div></div>
-        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Creator bootcamp &amp; education</span><strong>$8K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:29%;height:100%;background:var(--blue);border-radius:4px;"></div></div></div>
-        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>On-site ops &amp; logistics</span><strong>$4K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:14%;height:100%;background:var(--blue);border-radius:4px;"></div></div></div>
-        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Contingency (~8%)</span><strong>$6K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:21%;height:100%;background:#9ec5f4;border-radius:4px;"></div></div></div>
+        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>LIVE stage &amp; on-site production</span><strong>$28K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:100%;height:100%;background:var(--cyan);border-radius:4px;"></div></div></div>
+        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Competition prizes &amp; finalist travel</span><strong>$18K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:64%;height:100%;background:var(--cyan);border-radius:4px;"></div></div></div>
+        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Marketing &amp; community</span><strong>$16K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:57%;height:100%;background:var(--cyan);border-radius:4px;"></div></div></div>
+        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Creator bootcamp &amp; education</span><strong>$8K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:29%;height:100%;background:var(--cyan);border-radius:4px;"></div></div></div>
+        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>On-site ops &amp; logistics</span><strong>$4K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:14%;height:100%;background:var(--cyan);border-radius:4px;"></div></div></div>
+        <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Contingency (~8%)</span><strong>$6K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:21%;height:100%;background:rgba(37,244,238,0.35);border-radius:4px;"></div></div></div>
       </div>
       <div style="font-size:12px; color:var(--muted); margin-top:10px;">Assumption: platform traffic and product support are in-kind and outside this cash budget.</div>
     </div>
@@ -277,7 +278,7 @@
       </ul>
     </div>
     <div class="card" style="flex:1; padding:26px 24px;">
-      <div class="mini-h" style="color:var(--blue);">Marketing &amp; community</div>
+      <div class="mini-h" style="color:#5EA3F5;">Marketing &amp; community</div>
       <ul class="tight">
         <li>Co-branded hashtag challenge with Pulse, seeded by competition entrants</li>
         <li>Weekly competition highlights clipped to short-form; short-form reach feeds LIVE viewership</li>
@@ -285,7 +286,7 @@
       </ul>
     </div>
     <div class="card" style="flex:1; padding:26px 24px;">
-      <div class="mini-h" style="color:#0d7a55;">External partner management</div>
+      <div class="mini-h" style="color:var(--cyan);">External partner management</div>
       <ul class="tight">
         <li><strong>Festival org</strong>: deliverables SLA + weekly sync; stage specs locked by week 6</li>
         <li><strong>Agencies / Creator Networks</strong>: recruitment channels with entry targets per partner</li>
@@ -306,15 +307,15 @@
       <div></div>
       <div style="text-align:center; color:var(--muted); font-weight:600;">W1</div><div style="text-align:center; color:var(--muted); font-weight:600;">W2</div><div style="text-align:center; color:var(--muted); font-weight:600;">W3</div><div style="text-align:center; color:var(--muted); font-weight:600;">W4</div><div style="text-align:center; color:var(--muted); font-weight:600;">W5</div><div style="text-align:center; color:var(--muted); font-weight:600;">W6</div><div style="text-align:center; color:var(--muted); font-weight:600;">W7</div><div style="text-align:center; color:var(--muted); font-weight:600;">W8</div>
       <div style="font-weight:600; align-self:center;">Portfolio coaching</div>
-      <div style="grid-column: span 1; height:22px; background:#9ec5f4; border-radius:4px 0 0 4px;"></div><div style="grid-column: span 7; height:22px; background:var(--blue); border-radius:0 4px 4px 0;"></div>
+      <div style="grid-column: span 1; height:22px; background:rgba(57,135,229,0.45); border-radius:4px 0 0 4px;"></div><div style="grid-column: span 7; height:22px; background:var(--blue); border-radius:0 4px 4px 0;"></div>
       <div style="font-weight:600; align-self:center;">Competition</div>
-      <div style="height:22px;"></div><div style="grid-column: span 5; height:22px; background:var(--accent); border-radius:4px;"></div><div style="grid-column: span 2; height:22px; background:#fb8da5; border-radius:4px;"></div>
+      <div style="height:22px;"></div><div style="grid-column: span 5; height:22px; background:var(--accent); border-radius:4px;"></div><div style="grid-column: span 2; height:22px; background:rgba(254,44,85,0.45); border-radius:4px;"></div>
       <div style="font-weight:600; align-self:center;">Bootcamp &amp; education</div>
       <div style="height:22px;"></div><div style="grid-column: span 4; height:22px; background:var(--aqua); border-radius:4px;"></div><div style="grid-column: span 3; height:22px;"></div>
       <div style="font-weight:600; align-self:center;">Marketing</div>
-      <div style="grid-column: span 2; height:22px;"></div><div style="grid-column: span 6; height:22px; background:#86b6ef; border-radius:4px;"></div>
+      <div style="grid-column: span 2; height:22px;"></div><div style="grid-column: span 6; height:22px; background:rgba(57,135,229,0.55); border-radius:4px;"></div>
       <div style="font-weight:600; align-self:center;">On-site &amp; partners</div>
-      <div style="grid-column: span 1; height:22px; background:#e1e0d9; border-radius:4px;"></div><div style="grid-column: span 4; height:22px;"></div><div style="grid-column: span 3; height:22px; background:#52514e; border-radius:4px;"></div>
+      <div style="grid-column: span 1; height:22px; background:rgba(255,255,255,0.18); border-radius:4px;"></div><div style="grid-column: span 4; height:22px;"></div><div style="grid-column: span 3; height:22px; background:#8890A4; border-radius:4px;"></div>
     </div>
     <div style="display:flex; gap:12px; font-size:13px; color:var(--ink2); margin:10px 0 24px; flex-wrap:wrap;">
       <span>&#9670; <strong>W1</strong> kickoff, metrics locked, licensing started</span>
@@ -357,9 +358,9 @@
     <table style="font-size:13.5px;">
       <thead><tr><th style="width:20%;">Layer</th><th>Metric</th><th style="width:34%;">Illustrative target</th></tr></thead>
       <tbody>
-        <tr><td style="color:#0d7a55; font-weight:700;">Leading &middot; supply</td><td>Competition entries &middot; first-time LIVE creators &middot; portfolio quality-weighted hours &middot; bootcamp completion</td><td>500+ entries; 150+ first LIVEs; completion &ge; 60%</td></tr>
-        <tr><td style="color:var(--blue); font-weight:700;">Process &middot; engagement</td><td>Music-vertical watch time during campaign &middot; portfolio new-viewer share &middot; average concurrent viewers</td><td>New-viewer share &uarr; for Nova &amp; Vinyl; ACV &uarr; portfolio-wide</td></tr>
-        <tr><td style="color:var(--accent); font-weight:700;">Lagging &middot; revenue &amp; health</td><td>Portfolio revenue MoM &middot; revenue per LIVE hour &middot; D30 retention of newly recruited creators</td><td>MoM positive by W8; rev/hr &uarr;; D30 retention &ge; 40%</td></tr>
+        <tr><td style="color:var(--cyan); font-weight:700;">Leading &middot; supply</td><td>Competition entries &middot; first-time LIVE creators &middot; portfolio quality-weighted hours &middot; bootcamp completion</td><td>500+ entries; 150+ first LIVEs; completion &ge; 60%</td></tr>
+        <tr><td style="color:#5EA3F5; font-weight:700;">Process &middot; engagement</td><td>Music-vertical watch time during campaign &middot; portfolio new-viewer share &middot; average concurrent viewers</td><td>New-viewer share &uarr; for Nova &amp; Vinyl; ACV &uarr; portfolio-wide</td></tr>
+        <tr><td style="color:#FF7A93; font-weight:700;">Lagging &middot; revenue &amp; health</td><td>Portfolio revenue MoM &middot; revenue per LIVE hour &middot; D30 retention of newly recruited creators</td><td>MoM positive by W8; rev/hr &uarr;; D30 retention &ge; 40%</td></tr>
       </tbody>
     </table>
     <div class="takeaway" style="margin-top:22px; font-size:16px;"><strong>Supply and retention are the cause; revenue is the effect.</strong> I act on leading metrics and am judged by lagging ones.</div>
