@@ -39,7 +39,8 @@ Echo 优先理由:"momentum is perishable — a surge unconverted this month is 
 ### S5 Road to Pulse(2.5 min)
 第一句:"'Road to Pulse' is an eight-week open competition where the prize is real: the top three perform on the actual festival stage."
 必讲三点:①报名池含未开播的站内音乐人(拉新真正来源);②混合赛制:"wherever an incentive points, distortion appears right next to it — so gift votes drive heat, but a judge-score gate protects quality";③"the festival is a pipeline, not a finish line."
-提 On Deck: Breakaway 先例一句。
+先例段(S5 底部的 proven-mechanics 条,展开讲 20 秒):"None of these mechanics are invented. The prize ladder mirrors On Deck: Breakaway, distribution prizes mirror Music On Stage, co-hosting uses In Sync, and gift-integrated tracks come from Songs of LIVE. I'm assembling validated parts, not gambling the budget on new ones."
+一手细节(评审记住你的时刻,视时间选用):"I actually tried to sign up for On Deck: Breakaway myself, and the eligibility gate blocked me. That told me something: the official campaigns serve established streamers. The entry-level runway is the gap — and that's exactly the gap Road to Pulse opens, by letting musicians who have never gone LIVE enter."
 过渡:"That's the eight weeks before. Here's what happens on the ground."
 
 ### S6 现场+伙伴(1.5 min,讲快)
