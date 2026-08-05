@@ -70,3 +70,11 @@ Echo 优先理由:"momentum is perishable — a surge unconverted this month is 
 - 每页第一句 = 背诵;页间过渡句 = 背诵;其余允许变体
 - ▸ 停顿代替 like;说错就地修正不倒回句首
 - 语速降 20%,尤其 S2 的数字段
+
+
+## 补充(2026-08-04,On Deck 全文两批核对后)
+- 赛制口径修正:第一阶段是**多信号积分榜**(开播时长 + 专属礼物 + 短视频 views/likes + 原创音乐发布),**双赛道 Rising/Headliner** 各自排位、任务权重相反(新人短视频为主,成熟主播开播变现为主);第二阶段**评审审原创音乐作品**。热度筛人、评审把关,是串联不是乘法。
+- 防刷量答法更新:"Gifts only decide who gets seen; judges decide who takes the stage. And the exclusive gifts are priced at 10 and 100 coins — On Deck itself is designed for mass participation, not whales."
+- 点睛句(S5 底条已入 deck):"On Deck runs different missions per tier — the platform already coaches by archetype. I apply the same logic inside the portfolio."
+- **必备 Q&A:"这不就是抄 On Deck 吗?"** → "On Deck proves the mechanics work — the ladder, the gifts, the divisions. So I copy them deliberately, and spend my innovation where On Deck has gaps: it doesn't fix a portfolio, it doesn't recruit people who've never streamed, and it doesn't care what happens on day 31. Those three gaps are exactly my job description."
+- QR 归因讲法(被问 measurement 时):"A festival's classic failure is that impact stays physical. Creator-level QR codes turn every scan into an attributable follow or LIVE visit, so I can tell leadership exactly what the $80K bought — per touchpoint, per creator."
