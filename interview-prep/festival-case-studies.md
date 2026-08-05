@@ -21,3 +21,10 @@ Slogan 候选:**"From your room to the main stage."**
 
 ## 来源
 Hollywood Reporter(Coachella 2019 viewership)、allkpop(BLACKPINK 2023)、AMW/BrandVision(Tomorrowland aftermovie/TikTok 合作)、Sportskeeda(In The Mix)、公开报道(Fortnite Astronomical、Fyre)。
+
+## 老师的草莓音乐节方案(乙方媒体视角,选择性吸收)
+- 阶段化预算 40%(预热)/40%(活动期)/20%(长尾)+ 备用金 5-10% 动态使用——面试被问预算节奏时用
+- KOL/KOC 1:2 备选资源库(应对爽约)——与我们 10% backup roster / 20-30% 招募预留同源
+- 评估环:预设标准 → 分层执行 → 实时校准(日/周/阶段复盘,未达标立即调整)→ 结果输出——我们的 W4 checkpoint + 周会即此
+- Big idea 原则:所有热点词、挑战话题围绕一个主题——我们的 tagline 即 big idea
+- 其余(蓝V矩阵/分平台投放/公关稿)为乙方媒体代理 scope,平台方 case 不采用——边界感本身是答点

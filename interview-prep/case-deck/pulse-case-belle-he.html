@@ -81,112 +81,65 @@
   <div class="footer"><span>Belle He &middot; Music Creator Manager Case Study</span><span>1 / 8</span></div>
 </section>
 
-<!-- ============ SLIDE 2 — DIAGNOSIS ============ -->
+<!-- ============ SLIDE 2 — OBJECTIVES, DEFINITIONS & BASELINE ============ -->
 <section class="slide">
-  <div class="kicker">Portfolio Diagnosis</div>
-  <h2 class="action">The most active creators are declining: an efficiency problem, not an effort problem</h2>
-  <div class="sub">Last 30 days. Revenue per LIVE hour spans 5&times; across the portfolio.</div>
-  <div class="cols">
-    <div style="flex:1.15; min-width:0;">
-      <table>
-        <thead><tr><th>Creator</th><th class="num">LIVE hrs</th><th class="num">Avg CCV</th><th class="num">Revenue</th><th class="num">Rev / hr</th><th class="num">MoM</th><th class="num">Returning</th></tr></thead>
-        <tbody>
-          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--aqua);margin-right:7px;"></span><strong>Echo Music</strong></td><td class="num">38</td><td class="num">1,250</td><td class="num">$12,100</td><td class="num"><strong>$318</strong></td><td class="num" style="color:var(--good);">+22%</td><td class="num">48%</td></tr>
-          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--blue);margin-right:7px;"></span><strong>Luna Live</strong></td><td class="num">58</td><td class="num">910</td><td class="num">$17,600</td><td class="num"><strong>$303</strong></td><td class="num" style="color:var(--good);">+9%</td><td class="num">60%</td></tr>
-          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>DJ Nova</strong></td><td class="num">115</td><td class="num">430</td><td class="num">$14,200</td><td class="num"><strong>$123</strong></td><td class="num" style="color:#FF5A76;">&minus;18%</td><td class="num">81%</td></tr>
-          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>BeatTheory</strong></td><td class="num">90</td><td class="num">310</td><td class="num">$10,400</td><td class="num"><strong>$116</strong></td><td class="num" style="color:#FF5A76;">&minus;7%</td><td class="num">75%</td></tr>
-          <tr><td><span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--orange);margin-right:7px;"></span><strong>Vinyl Nights</strong></td><td class="num">126</td><td class="num">185</td><td class="num">$7,800</td><td class="num"><strong>$62</strong></td><td class="num" style="color:#FF5A76;">&minus;20%</td><td class="num">87%</td></tr>
-        </tbody>
-      </table>
-      <div class="takeaway" style="margin-top:20px;">Hours and growth are <strong>inversely related</strong>: the two creators streaming the most (126h, 115h) are declining fastest. The portfolio needs <strong>better hours, not more hours</strong>. Portfolio-level: <strong>$62.1K</strong> total, weighted MoM <strong>&minus;3.4%</strong>; Luna + Echo generate <strong>48% of revenue on 23% of the hours</strong>.</div>
-      <div style="font-size:11.5px; color:var(--muted); margin-top:8px;">Note: MoM values 0.09 and 0.22 in the source table are read as +9% and +22%. Scope assumption: &ldquo;music creators&rdquo; spans singing, instruments and DJ sets; the table implies existing LIVE music streamers, and recruitment extends to short-video musicians.</div>
+  <div class="kicker">Objectives &amp; Baseline</div>
+  <h2 class="action">Define the pond before fishing: vertical scope, baseline discipline, targets with a basis</h2>
+  <div class="sub">Scope and metric conventions come first; every number later in this deck traces back to this page.</div>
+  <div class="cols" style="gap:20px; flex:0 0 auto;">
+    <div class="card" style="flex:1;">
+      <div class="mini-h" style="color:var(--cyan);">1 &middot; Vertical definition &amp; sizing</div>
+      <ul class="tight" style="margin:0;">
+        <li><strong>Pan-music creators</strong>: singing, instruments, DJ sets, production. Broad at the vertical level, precise per creator</li>
+        <li>The five managed creators are the vertical&rsquo;s showcase anchors; recruitment extends to short-video musicians</li>
+        <li>The definition sets the size of the pond: recruitable pool estimated from tagged music content (tooling + manual tagging)</li>
+      </ul>
     </div>
-    <div style="flex:1; min-width:0;">
-      <div class="mini-h">Returning viewers vs. revenue growth (MoM)</div>
-      <svg viewBox="0 0 520 380" style="width:100%; height:auto;">
-        <!-- quadrant washes -->
-        <rect x="60" y="20" width="215" height="160" fill="rgba(254,44,85,0.08)"/>
-        <rect x="275" y="180" width="215" height="160" fill="rgba(37,244,238,0.06)"/>
-        <!-- grid -->
-        <line x1="60" y1="340" x2="490" y2="340" stroke="rgba(255,255,255,0.38)" stroke-width="1.5"/>
-        <line x1="60" y1="20" x2="60" y2="340" stroke="rgba(255,255,255,0.38)" stroke-width="1.5"/>
-        <line x1="275" y1="20" x2="275" y2="340" stroke="rgba(255,255,255,0.16)" stroke-width="1" stroke-dasharray="4 4"/>
-        <!-- axis ticks: x = MoM -25..+25 mapped 60..490 ; y = returning 40..95 mapped 340..20 -->
-        <text x="60" y="360" font-size="11" fill="#7A8091" text-anchor="middle">-25%</text>
-        <text x="275" y="360" font-size="11" fill="#7A8091" text-anchor="middle">0%</text>
-        <text x="490" y="360" font-size="11" fill="#7A8091" text-anchor="middle">+25%</text>
-        <text x="52" y="344" font-size="11" fill="#7A8091" text-anchor="end">40</text>
-        <text x="52" y="172" font-size="11" fill="#7A8091" text-anchor="end">70</text>
-        <text x="52" y="27" font-size="11" fill="#7A8091" text-anchor="end">95</text>
-        <text x="275" y="378" font-size="11.5" fill="#B8BCC8" text-anchor="middle" font-weight="600">MoM revenue growth &rarr;</text>
-        <text x="20" y="180" font-size="11.5" fill="#B8BCC8" text-anchor="middle" font-weight="600" transform="rotate(-90 20 180)">Returning viewers % &rarr;</text>
-        <!-- annotations -->
-        <text x="70" y="40" font-size="12" fill="#FF7A93" font-weight="700">DISCOVERY-STARVED</text>
-        <text x="70" y="55" font-size="10.5" fill="#FF7A93">loyal core, no new viewers</text>
-        <text x="285" y="312" font-size="12" fill="#25F4EE" font-weight="700">LEAKY BUCKET</text>
-        <text x="285" y="327" font-size="10.5" fill="#25F4EE">new viewers don't stick</text>
-        <!-- points: x=60+ (mom+25)/50*430 ; y=340 - (ret-40)/55*320 -->
-        <!-- Vinyl (-20,87): x=103, y=66  -->
-        <circle cx="103" cy="66" r="9" fill="#FE2C55" stroke="#161823" stroke-width="2"/>
-        <text x="118" y="70" font-size="12.5" font-weight="600" fill="#FFFFFF">Vinyl Nights</text>
-        <!-- Nova (-18,81): x=120, y=101 -->
-        <circle cx="120" cy="101" r="9" fill="#FE2C55" stroke="#161823" stroke-width="2"/>
-        <text x="135" y="105" font-size="12.5" font-weight="600" fill="#FFFFFF">DJ Nova</text>
-        <!-- BeatTheory (-7,75): x=215, y=136 -->
-        <circle cx="215" cy="136" r="9" fill="#FE2C55" stroke="#161823" stroke-width="2"/>
-        <text x="230" y="140" font-size="12.5" font-weight="600" fill="#FFFFFF">BeatTheory</text>
-        <!-- Luna (+9,60): x=352, y=224 -->
-        <circle cx="352" cy="224" r="9" fill="#3987e5" stroke="#161823" stroke-width="2"/>
-        <text x="367" y="228" font-size="12.5" font-weight="600" fill="#FFFFFF">Luna Live</text>
-        <!-- Echo (+22,48): x=464, y=293 -->
-        <circle cx="464" cy="293" r="9" fill="#149e99" stroke="#161823" stroke-width="2"/>
-        <text x="455" y="278" font-size="12.5" font-weight="600" fill="#FFFFFF" text-anchor="end">Echo Music</text>
-      </svg>
-      <div style="font-size:12.5px; color:var(--ink2); margin-top:6px;">87% returning viewers with &minus;20% revenue isn't loyalty. <strong>It's a ceiling.</strong></div>
+    <div class="card" style="flex:1;">
+      <div class="mini-h" style="color:#5EA3F5;">2 &middot; Baseline discipline</div>
+      <ul class="tight" style="margin:0;">
+        <li>Baseline = <strong>7-day averages</strong> at period start and end, outlier days (platform mega-campaigns) removed</li>
+        <li>Success is read as <strong>campaign period vs baseline</strong>, never raw totals</li>
+        <li>Key campaign actions are scheduled to <strong>cover the measurement window</strong>, not drift past it</li>
+      </ul>
+    </div>
+    <div class="card" style="flex:1.1;">
+      <div class="mini-h" style="color:#FF7A93;">3 &middot; Targets, with a basis</div>
+      <ul class="tight" style="margin:0;">
+        <li><strong>Vertical</strong>: daily streaming actives and daily revenue, both up vs baseline</li>
+        <li><strong>Campaign top creators</strong>: revenue +100%+ during campaign, paying-user share +30&ndash;40%, per-payer spend +20&ndash;45%, follower growth</li>
+        <li><strong>ROI &asymp; 5&ndash;6&times;</strong>: campaign-period revenue &divide; $80K (convention to confirm)</li>
+      </ul>
     </div>
   </div>
+  <div class="takeaway" style="margin-top:20px;">Targets come from comparable-campaign history and get locked against internal baseline data in week 1. <strong>A target without a baseline convention is an opinion.</strong></div>
   <div class="footer"><span>Belle He &middot; Music Creator Manager Case Study</span><span>2 / 8</span></div>
 </section>
 
-<!-- ============ SLIDE 3 — CREATOR STRATEGY ============ -->
+<!-- ============ SLIDE 3 — DIAGNOSIS TO CREATOR STRATEGY ============ -->
 <section class="slide">
-  <div class="kicker">Creator Strategy</div>
-  <h2 class="action">Grow two, fix two, sustain one: prioritized by where coaching changes the trajectory</h2>
-  <div class="sub">Each archetype gets a different playbook. Coaching effort is a scarce resource; it goes where it bends the curve.</div>
-  <div class="cols" style="flex:0 0 auto; gap:18px;">
-    <div class="card" style="flex:1; border-top:4px solid var(--aqua);">
-      <div class="tag" style="background:rgba(37,244,238,0.12); color:var(--cyan);">Grow</div>
-      <div style="font-size:13.5px; line-height:1.5;"><strong>Echo Music (first priority)</strong>: momentum is perishable. Fixed schedule, fan club &amp; subscriptions push, welcome rituals, convert surge viewers into followers.<br><strong>Luna Live</strong>: codify her playbook for the whole portfolio; scale hours gently (58 &rarr; ~75).</div>
-    </div>
-    <div class="card" style="flex:1; border-top:4px solid var(--orange);">
-      <div class="tag" style="background:rgba(254,44,85,0.16); color:#FF7A93;">Fix</div>
-      <div style="font-size:13.5px; line-height:1.5;"><strong>Vinyl Nights</strong>: fewer, better hours (126 &rarr; ~80); format refresh; co-host slots with rising creators.<br><strong>DJ Nova</strong>: content refresh, off-peak experiments, festival-stage exposure as a new-audience injection.</div>
-    </div>
-    <div class="card" style="flex:1; border-top:4px solid var(--blue);">
-      <div class="tag" style="background:rgba(57,135,229,0.16); color:#5EA3F5;">Sustain</div>
-      <div style="font-size:13.5px; line-height:1.5;"><strong>BeatTheory</strong>: prevention, not rescue. Runs Luna&rsquo;s codified playbook, one new-format experiment per month; alert if returning % keeps rising while growth falls (early discovery-starved pattern).</div>
-    </div>
-  </div>
-  <div class="opt">Coaching all five equally: rejected. Echo comes first because momentum decays fastest; a surge unconverted this month is gone next month.</div>
-  <div style="margin-top:10px; font-size:13px; background:var(--wash); border:1px solid rgba(255,255,255,0.10); border-radius:8px; padding:10px 14px;"><strong style="color:var(--cyan);">Festival roles are part of the fix:</strong> Echo &amp; Luna showcase on the LIVE stage &middot; Nova gets a stage slot as a new-audience injection &middot; Vinyl co-hosts the semifinal events &middot; BeatTheory mentors the bootcamp.</div>
-  <div class="cols" style="margin-top:16px; flex:1;">
+  <div class="kicker">Diagnosis &rarr; Creator Strategy</div>
+  <h2 class="action">Back the winners, fix the leaks: one verdict per creator</h2>
+  <div class="sub">Hours and growth run inverse; revenue per LIVE hour spans $62&ndash;$318 (5&times;). Portfolio: $62.1K total, weighted MoM &minus;3.4%. <span style="color:var(--muted);">MoM 0.09/0.22 read as +9%/+22%.</span></div>
+  <table style="font-size:12px;">
+    <thead><tr><th>Creator</th><th class="num">Hrs</th><th class="num">Rev/hr</th><th class="num">MoM</th><th class="num">Return</th><th style="width:52%;">Verdict &amp; key moves</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Echo Music</strong></td><td class="num">38</td><td class="num">$318</td><td class="num" style="color:var(--good);">+22%</td><td class="num">48%</td><td style="white-space:normal;"><strong style="color:var(--cyan);">BACK &middot; P1</strong> &mdash; momentum is perishable. Fixed schedule; welcome rituals and fresh hooks for new-viewer conversion; fan-community VIP events (themed parties, birthdays, creator-planned) to consolidate paying users</td></tr>
+      <tr><td><strong>Luna Live</strong></td><td class="num">58</td><td class="num">$303</td><td class="num" style="color:var(--good);">+9%</td><td class="num">60%</td><td style="white-space:normal;"><strong style="color:var(--cyan);">BACK</strong> &mdash; codify her playbook portfolio-wide; gentle hours increase. Balance can also mean a ceiling: content review before scaling</td></tr>
+      <tr><td><strong>DJ Nova</strong></td><td class="num">115</td><td class="num">$123</td><td class="num" style="color:#FF5A76;">&minus;18%</td><td class="num">81%</td><td style="white-space:normal;"><strong style="color:#FF7A93;">FIX</strong> &mdash; refreshed show formats and new segments; off-peak tests; festival stage slot as a new-audience injection</td></tr>
+      <tr><td><strong>BeatTheory</strong></td><td class="num">90</td><td class="num">$116</td><td class="num" style="color:#FF5A76;">&minus;7%</td><td class="num">75%</td><td style="white-space:normal;"><strong style="color:#B8BCC8;">HOLD</strong> &mdash; prevention: run Luna&rsquo;s playbook, one new-format experiment per month, alert on early echo-chamber signals</td></tr>
+      <tr><td><strong>Vinyl Nights</strong></td><td class="num">126</td><td class="num">$62</td><td class="num" style="color:#FF5A76;">&minus;20%</td><td class="num">87%</td><td style="white-space:normal;"><strong style="color:#FF7A93;">FIX</strong> &mdash; fewer, better hours (126 &rarr; ~80); new show formats; co-streams with rising creators; creator&times;fan second-creation missions</td></tr>
+    </tbody>
+  </table>
+  <div class="takeaway" style="margin-top:12px; font-size:13px;">These five generalize to three patterns: <strong>leaky-bucket risers, discovery-starved loyalists, balanced</strong>. The actions suit creators whose data is stable but needs a breakthrough or a stop-loss; avoid homogenizing content. Execution reality: <strong>keep a 10% backup roster</strong>, outreach never converts 100%.</div>
+  <div class="cols" style="margin-top:12px; gap:24px; flex:0 0 auto;">
     <div style="flex:1;">
-      <div class="mini-h">Additional data I would request</div>
-      <ul class="tight">
-        <li>Traffic source split: For You feed vs. followers (separates the two archetypes cleanly)</li>
-        <li>New vs. returning viewers in absolute counts, and viewer &rarr; follower conversion</li>
-        <li>Gifting concentration: how much revenue depends on top gifters</li>
-        <li>Subscription penetration, time-slot performance, 90-day trend (30 days can mislead)</li>
-      </ul>
+      <div class="mini-h">Additional information I would request</div>
+      <div style="font-size:12.5px; line-height:1.55; color:var(--ink2);">Internal tier standards (top / mid / tail / new) and where these five sit &middot; the five creators&rsquo; actual content profiles &middot; ROI and measurement conventions (campaign vs baseline?) &middot; traffic-source split, payer concentration, 90-day trends</div>
     </div>
     <div style="flex:1;">
-      <div class="mini-h">How I measure success</div>
-      <ul class="tight">
-        <li><strong>Portfolio revenue per LIVE hour</strong>: the efficiency north star</li>
-        <li>New-viewer share &uarr; for Nova &amp; Vinyl (discovery fix working)</li>
-        <li>Returning-viewer rate &uarr; for Echo (retention fix working)</li>
-        <li>Portfolio MoM revenue positive within 60 days (lagging validation)</li>
-      </ul>
+      <div class="mini-h">How I measure coaching success</div>
+      <div style="font-size:12.5px; line-height:1.55; color:var(--ink2);">Per creator: streaming actives &amp; hours, watch UV, follower growth &middot; revenue, paying-user share, per-payer spend &middot; watch &rarr; pay conversion</div>
     </div>
   </div>
   <div class="footer"><span>Belle He &middot; Music Creator Manager Case Study</span><span>3 / 8</span></div>
@@ -196,7 +149,8 @@
 <section class="slide">
   <div class="kicker">Festival Activation &middot; Overview</div>
   <h2 class="action">One festival, three funnels: recruit the new, energize the existing, showcase the top</h2>
-  <div class="sub">Excitement isn't a separate workstream; it's the output of the other three, clipped and amplified.</div>
+  <div class="sub">The plan: <strong style="color:var(--ink);">&ldquo;From Your Room to the Main Stage&rdquo; &middot; the Road to Pulse Creator Program</strong>, in five phases. Excitement isn't a separate workstream; it's the output of the other three, clipped and amplified.</div>
+  <div style="display:flex; gap:8px; margin-bottom:16px; font-size:12px; font-weight:700;"><span style="background:var(--wash); border:1px solid rgba(255,255,255,0.10); border-radius:999px; padding:5px 13px;">1 &middot; Sign-up &amp; warm-up</span><span style="background:var(--wash); border:1px solid rgba(255,255,255,0.10); border-radius:999px; padding:5px 13px;">2 &middot; Launch</span><span style="background:var(--wash); border:1px solid rgba(255,255,255,0.10); border-radius:999px; padding:5px 13px;">3 &middot; Online rounds</span><span style="background:var(--wash); border:1px solid rgba(255,255,255,0.10); border-radius:999px; padding:5px 13px;">4 &middot; Festival weekend</span><span style="background:var(--wash); border:1px solid rgba(255,255,255,0.10); border-radius:999px; padding:5px 13px;">5 &middot; Post-festival push</span></div>
   <div class="cols">
     <div style="flex:1;">
       <div class="card" style="margin-bottom:16px; padding:24px 22px; border-left:4px solid var(--accent);">
@@ -208,7 +162,7 @@
       <div class="card" style="margin-bottom:16px; padding:24px 22px; border-left:4px solid var(--aqua);">
         <div style="font-size:15.5px;"><strong>SHOWCASE</strong> &middot; TikTok LIVE stage at Pulse: finals + top-talent performances, all streamed</div>
       </div>
-      <div class="opt" style="margin-top:8px;">Spreading budget evenly across five workstreams: rejected. Stage + competition compound each other; marketing amplifies a story the competition creates for free.</div>
+      <div style="margin-top:10px; font-size:12.5px; color:var(--ink2); line-height:1.5;">The budget is deliberately concentrated: the stage and the competition compound each other, and marketing amplifies a story the competition creates for free.</div>
     </div>
     <div style="flex:1;">
       <div class="mini-h">$80K activation budget</div>
@@ -221,7 +175,7 @@
         <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>On-site ops &amp; logistics</span><strong>$4K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:14%;height:100%;background:var(--cyan);border-radius:4px;"></div></div></div>
         <div style="margin-bottom:13px;"><div style="display:flex;justify-content:space-between;margin-bottom:3px;"><span>Contingency (~8%)</span><strong>$6K</strong></div><div style="height:17px;background:var(--wash);border-radius:4px;"><div style="width:21%;height:100%;background:rgba(37,244,238,0.35);border-radius:4px;"></div></div></div>
       </div>
-      <div style="font-size:12px; color:var(--muted); margin-top:10px;">Assumption: platform traffic and product support are in-kind and outside this cash budget.</div>
+      <div style="font-size:12px; color:var(--muted); margin-top:10px;">Creator-directed spend inside these lines splits &asymp;50% to top + high-potential creators (traffic boosts, content support), the rest to new-creator recruitment. Platform traffic and product support are in-kind, outside this cash budget.</div>
     </div>
   </div>
   <div class="footer"><span>Belle He &middot; Music Creator Manager Case Study</span><span>4 / 8</span></div>
@@ -270,36 +224,34 @@
   <div class="footer"><span>Belle He &middot; Music Creator Manager Case Study</span><span>5 / 8</span></div>
 </section>
 
-<!-- ============ SLIDE 6 — ON-SITE, MARKETING, PARTNERS ============ -->
+<!-- ============ SLIDE 6 — IGNITION & ON-SITE ============ -->
 <section class="slide">
-  <div class="kicker">Festival Activation &middot; On-site, Marketing &amp; Partners</div>
-  <h2 class="action">On site, the festival is both a stage and a content factory</h2>
-  <div class="sub">Three days of festival &rarr; eight weeks of content and three partner relationships that outlive the event.</div>
+  <div class="kicker">Festival Activation &middot; Ignition &amp; On-site</div>
+  <h2 class="action">Heat is engineered: seed it, spike it, then harvest it on site</h2>
+  <div class="sub">On TikTok, hot lists run on derivative clips and planted moments. Nothing ignites from a cold start.</div>
   <div class="cols">
-    <div class="card" style="flex:1; padding:26px 24px;">
-      <div class="mini-h" style="color:var(--accent);">On-site activations</div>
+    <div class="card" style="flex:1; padding:22px 22px;">
+      <div class="mini-h" style="color:var(--accent);">Making it trend</div>
       <ul class="tight">
-        <li><strong>TikTok LIVE stage</strong>: competition finals + portfolio top-talent showcases, all streamed to the platform</li>
-        <li><strong>Backstage co-streams</strong> with festival artists (cleared in advance with labels)</li>
-        <li><strong>Discovery booth</strong>: attendees start their first LIVE on-site with staff guidance; recruitment made physical</li>
-        <li><strong>QR attribution</strong>: stage and booth QR codes deep-link to each creator's LIVE, so festival impact is measurable per creator</li>
+        <li><strong>Anthem co-creation</strong>: a star artist records the festival anthem in warm-up; creators cover it, fans duet it</li>
+        <li><strong>Planted show moments</strong>: engineered contrast pairings (A&times;B co-streams) turned into events, pushed with trending-topic words in 2-day concentrated bursts</li>
+        <li><strong>Top creators post through the campaign</strong>: participation &ge;80% is a tracked target; amplifier accounts scale the clips</li>
       </ul>
     </div>
-    <div class="card" style="flex:1; padding:26px 24px;">
-      <div class="mini-h" style="color:#5EA3F5;">Amplification &middot; the second-creation engine</div>
+    <div class="card" style="flex:1; padding:22px 22px;">
+      <div class="mini-h" style="color:#5EA3F5;">Creator &times; fan second creation</div>
       <ul class="tight">
-        <li><strong>Pre-seeded content</strong>: entrants and portfolio creators commit to posting schedules through the campaign; nothing ignites from a cold start</li>
-        <li><strong>Open clip rights</strong>: stage streams and official footage released as clip-able assets; fan-clip missions on #RoadToPulse earn campaign points</li>
-        <li><strong>Attendee UGC</strong>: booth QR prompts festival-goers to post; best fan clips featured on the stage screens</li>
+        <li><strong>Fan clip missions</strong>: second-creation submissions ranked by like tiers, with reward ladders</li>
+        <li><strong>Targeted, not broadcast</strong>: offered 1v1 to high-stickiness, mass-fan creators; payer structure decides who runs fan campaigns</li>
+        <li><strong>Open clip rights + attendee UGC</strong>: booth QR prompts festival-goers to post; best fan clips hit the stage screens</li>
       </ul>
-      <div style="font-size:11.5px; color:var(--muted); margin-top:8px;">On TikTok, discovery runs on derivative clips. The hashtag and hot lists are fed deliberately, not hoped for.</div>
     </div>
-    <div class="card" style="flex:1; padding:26px 24px;">
-      <div class="mini-h" style="color:var(--cyan);">External partner management</div>
+    <div class="card" style="flex:1; padding:22px 22px;">
+      <div class="mini-h" style="color:var(--cyan);">On-site &amp; partners</div>
       <ul class="tight">
-        <li><strong>Festival org</strong>: deliverables SLA + weekly sync; stage specs, VIP-ticket inventory and booth placement locked by week 6</li>
-        <li><strong>Agencies / Creator Networks</strong>: recruitment channels with entry targets per partner</li>
-        <li><strong>Labels &amp; artists</strong>: co-stream clearances start week 1: licensing lead time is the long pole</li>
+        <li><strong>Sponsorship</strong> covers non-content site costs; stage &amp; show programming curated from competition winners; creator-level QR attribution on stage and booth</li>
+        <li><strong>Program team</strong> is measured on qualified creators + platform heat; we deliver pre-event posting in return</li>
+        <li><strong>BD team</strong> assists recruitment; <strong>product team</strong> ships custom event effects; <strong>labels</strong> clear licensing from W1; VIP-ticket inventory and booth placement locked in the SLA</li>
       </ul>
     </div>
   </div>
@@ -309,7 +261,7 @@
 <!-- ============ SLIDE 7 — PROJECT PLAN ============ -->
 <section class="slide">
   <div class="kicker">Project Plan</div>
-  <h2 class="action">Eight weeks, five milestones, one weekly heartbeat</h2>
+  <h2 class="action">Kick off like an owner: results-based milestones, one weekly heartbeat</h2>
   <div class="body" style="margin-top:6px;">
     <!-- timeline -->
     <div style="display:grid; grid-template-columns: 170px repeat(8, 1fr); gap:5px; font-size:13px; margin-bottom:6px;">
@@ -327,32 +279,34 @@
       <div style="grid-column: span 1; height:22px; background:rgba(255,255,255,0.18); border-radius:4px;"></div><div style="grid-column: span 4; height:22px;"></div><div style="grid-column: span 3; height:22px; background:#8890A4; border-radius:4px;"></div>
     </div>
     <div style="display:flex; gap:12px; font-size:13px; color:var(--ink2); margin:10px 0 24px; flex-wrap:wrap;">
-      <span>&#9670; <strong>W1</strong> creator 1:1s, metrics locked, rights inventory + licensing started</span>
-      <span>&#9670; <strong>W2</strong> competition live</span>
+      <span>&#9670; <strong>W1</strong> kickoff: plan + budget + ROI aligned, one owner per workstream; creator 1:1s; licensing starts</span>
+      <span>&#9670; <strong>W3</strong> sign-up complete at target, campaign tested &amp; live; offline prep starts</span>
       <span style="color:var(--accent);">&#9670; <strong>W4</strong> entries go/no-go checkpoint</span>
-      <span>&#9670; <strong>W6</strong> logistics &amp; finalists locked</span>
-      <span>&#9670; <strong>W8</strong> festival</span>
+      <span>&#9670; <strong>W5</strong> qualifiers complete</span>
+      <span>&#9670; <strong>W7</strong> finals &amp; logistics locked</span>
+      <span>&#9670; <strong>W8</strong> festival delivered</span>
       <span>&#9670; <strong>W+4</strong> retention report</span>
     </div>
     <div class="cols" style="gap:20px;">
       <div style="flex:1.5;">
         <div class="mini-h">Biggest risks &rarr; mitigations</div>
-        <table style="font-size:13.5px;">
+        <table style="font-size:12.5px;">
           <tbody>
-            <tr><td style="padding:8px 10px;">Low competition entries</td><td style="padding:8px 10px;">Agency pre-commitments; W4 checkpoint triggers paid boost from contingency</td></tr>
-            <tr><td style="padding:8px 10px;">On-site tech failure</td><td style="padding:8px 10px;">Redundant streaming setup + full rehearsal in W7</td></tr>
-            <tr><td style="padding:8px 10px;">Gift-vote gaming</td><td style="padding:8px 10px;">Judge-score gate + anomaly monitoring on voting patterns</td></tr>
-            <tr><td style="padding:8px 10px;">Partner deliverables slip</td><td style="padding:8px 10px;">SLA with weekly sync; stage specs frozen at W6</td></tr>
-            <tr><td style="padding:8px 10px;">Budget overrun</td><td style="padding:8px 10px;">8% contingency + weekly burn review</td></tr>
-            <tr><td style="padding:8px 10px;">On-site content / brand safety</td><td style="padding:8px 10px;">Dedicated moderation coverage for all festival streams; escalation path agreed with Trust &amp; Safety in advance</td></tr>
+            <tr><td style="padding:6px 10px;">Music licensing gaps</td><td style="padding:6px 10px;">Confirm rights + replacement tracks from W1; no uncleared set reaches the stage</td></tr>
+            <tr><td style="padding:6px 10px;">Recruitment shortfall (entries or dropout)</td><td style="padding:6px 10px;">Agency pre-commitments; 20&ndash;30% outreach over-provision + 10% backup roster; W4 checkpoint triggers paid boost</td></tr>
+            <tr><td style="padding:6px 10px;">On-site tech failure</td><td style="padding:6px 10px;">Redundant streaming setup + full rehearsal in W7</td></tr>
+            <tr><td style="padding:6px 10px;">Gift-vote gaming</td><td style="padding:6px 10px;">Judge-score gate + anomaly monitoring on voting patterns</td></tr>
+            <tr><td style="padding:6px 10px;">Partner deliverables slip</td><td style="padding:6px 10px;">SLA with weekly sync; stage specs frozen at W6</td></tr>
+            <tr><td style="padding:6px 10px;">Budget overrun</td><td style="padding:6px 10px;">8% contingency + weekly burn review</td></tr>
+            <tr><td style="padding:6px 10px;">On-site content / brand safety</td><td style="padding:6px 10px;">Dedicated moderation coverage for all festival streams; escalation path agreed with Trust &amp; Safety in advance</td></tr>
           </tbody>
         </table>
       </div>
       <div style="flex:1;">
         <div class="mini-h">Stakeholders</div>
-        <div style="font-size:13.5px; line-height:1.7;"><strong>Internal:</strong> Product, Data Science, Marketing, Legal &amp; Music Licensing, Event Ops<br><strong>External:</strong> Pulse festival org, agencies / Creator Networks, labels &amp; artists</div>
+        <div style="font-size:13.5px; line-height:1.7;"><strong>Internal:</strong> Product (custom event effects &amp; tools), Data Science, Marketing, Legal &amp; Music Licensing, Event Ops<br><strong>External:</strong> Pulse festival org &amp; program team (their metric: qualified creators + platform heat), BD / agency partners for recruitment, labels &amp; artists</div>
         <div class="mini-h" style="margin-top:12px;">Keeping it on track</div>
-        <div style="font-size:13.5px; line-height:1.7;">Weekly standup &middot; one owner per workstream &middot; live dashboard on entries, coaching metrics, and budget burn</div>
+        <div style="font-size:13.5px; line-height:1.7;">W1 kickoff alignment (plan + budget + ROI) &middot; weekly standup &middot; one owner per workstream &middot; live dashboard on entries, coaching metrics, and budget burn</div>
       </div>
     </div>
   </div>
@@ -363,14 +317,14 @@
 <section class="slide">
   <div class="kicker">Success Metrics</div>
   <h2 class="action">Measure supply first: revenue follows</h2>
-  <div class="sub">Targets below are illustrative; week 1 locks them against baseline data.</div>
+  <div class="sub">Targets are set from comparable-campaign history; week 1 locks them against a 7-day, outlier-trimmed baseline.</div>
   <div class="body">
     <table style="font-size:13.5px;">
       <thead><tr><th style="width:20%;">Layer</th><th>Metric</th><th style="width:34%;">Illustrative target</th></tr></thead>
       <tbody>
         <tr><td style="color:var(--cyan); font-weight:700;">Leading &middot; supply</td><td>Competition entries &middot; first-time LIVE creators &middot; portfolio quality-weighted hours &middot; bootcamp completion</td><td>500+ entries; 150+ first LIVEs; completion &ge; 60%</td></tr>
         <tr><td style="color:#5EA3F5; font-weight:700;">Process &middot; engagement</td><td>Music-vertical watch time during campaign &middot; portfolio new-viewer share &middot; average concurrent viewers</td><td>New-viewer share &uarr; for Nova &amp; Vinyl; ACV &uarr; portfolio-wide</td></tr>
-        <tr><td style="color:#FF7A93; font-weight:700;">Lagging &middot; revenue &amp; health</td><td>Portfolio revenue MoM &middot; revenue per LIVE hour &middot; D30 retention of newly recruited creators</td><td>MoM positive by W8; rev/hr &uarr;; D30 retention &ge; 40%</td></tr>
+        <tr><td style="color:#FF7A93; font-weight:700;">Lagging &middot; revenue &amp; health</td><td>Portfolio revenue MoM &middot; revenue per LIVE hour &middot; paying-user share &middot; per-payer spend &middot; campaign ROI &middot; D30 retention of recruits</td><td>MoM positive by W8; payer share +30&ndash;40%; per-payer spend +20&ndash;45%; ROI &asymp; 5&ndash;6&times;; D30 &ge; 40%</td></tr>
         <tr><td style="color:#B8BCC8; font-weight:700;">Guardrails &middot; execution</td><td>On-site sessions delivered as scheduled &middot; rights &amp; safety incidents &middot; budget adherence</td><td>&ge; 90% delivered; zero material incidents; within $80K</td></tr>
       </tbody>
     </table>
