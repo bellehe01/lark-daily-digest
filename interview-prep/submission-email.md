@@ -6,36 +6,45 @@ Reply inside the existing thread. If a new email is needed, subject: `Case Study
 
 Hi Emma,
 
-Case study attached. Let me know if you need anything else.
+Thanks for sending this over — case study attached.
+
+I enjoyed working on it, especially digging into the five creators' numbers. Looking forward to talking it through with the team.
 
 Best,
 Belle
 
-## If that feels too bare
+## Warmer, if you want it
 
 Hi Emma,
 
-Case study attached — eight pages, per the brief.
+Thanks for sending this over — case study attached.
 
-Let me know if you need anything else.
+I had a good time with this one. The five-creator table turned out to be the most interesting part — there's a real story in those numbers. Looking forward to talking it through with the team.
 
 Best,
 Belle
 
+The only thing to weigh: "I had a good time with this one" is relaxed. Fine in most
+recruiting threads, slightly casual if Emma's own style is formal.
+
 ---
 
-## Why it is this short
+## Where the warmth comes from
 
-The attachment is the deliverable. Everything the email could say, the deck says
-better, and a candidate who explains their own attachment reads as unsure it
-stands up.
+Not from adjectives or exclamation marks. "I'm excited about this opportunity"
+is empty — anyone can write it without reading anything.
 
-Things that make a submission email sound generated, all of which were in the
-earlier draft:
+- **"Thanks for sending this over"** thanks Emma for the thing she actually did,
+  rather than thanking the company for an opportunity.
+- **"digging into the five creators' numbers"** is specific enough that only
+  someone who read the data could have written it. That is the line doing the work.
+- **"Looking forward to talking it through with the team"** leans forward, unlike
+  "I look forward to hearing from you", which waits.
 
-- A tidy three-item list of what the deck contains. Emma sees that on page one.
+## Still avoid
+
+- A list of what the deck contains. Emma sees it on page one.
 - A short fragment dropped after a long sentence for rhythm ("Eight pages.").
-- Two closing lines stacked ("Happy to walk through it..." then "Let me know...").
-- Restating the role title that both people already know.
+- Two closing lines stacked.
 - "I hope this email finds you well", "I'm excited to share", any apology, any
   mention of the deadline.
