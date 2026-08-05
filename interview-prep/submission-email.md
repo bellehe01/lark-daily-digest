@@ -4,19 +4,21 @@ Reply in the existing thread. New email subject: `Case Study — Belle He`.
 
 Hi Emma,
 
-My case study is attached — it really was a fun one! The five creators' numbers were the most interesting part to dig into.
+Case study attached — please let me know if you need anything else. Hopefully I can walk through my thoughts in the next interview!
 
-Have a great rest of the week!
+Thanks for coordinating!
 
 Best,
 Belle
 
 ---
 
-Matched to Belle's own register, from her earlier reply to Emma ("Thank you for
-the update! I have received the case, and it looks like a fun one... Have a
-great week!"): warm, two exclamation marks, one personal reaction, a friendly
-closing line.
+Belle's draft, with four fixes:
 
-"It really was a fun one" calls back to "it looks like a fun one" in that
-earlier email.
+1. `coodinartion` → `coordinating` (typo)
+2. `Hopefully can` → `Hopefully I can` (missing subject)
+3. `attached, please let me know` → em dash or full stop (comma splice)
+4. `during next interview` → `in the next interview` (missing article)
+
+`your coordination` → `coordinating` is optional. The original is clear but reads
+as non-native; keeping it changes nothing important.
