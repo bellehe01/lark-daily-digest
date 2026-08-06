@@ -11,7 +11,7 @@ A few quick questions:
 1. I haven't received the NocNoc registration email yet. Is that usually sent closer to the interview date?
 2. Could you share Ahmed's and Zora's roles? I'd love to tailor my questions to each of them.
 3. Should I prepare to formally present my case study, or will it be a discussion-based deep dive?
-4. The JD covers several LIVE content verticals but the case was music-specific. Should I be ready to discuss creator growth across verticals?
+4. Since the JD covers several LIVE content verticals while the case was music-specific, should I be ready to discuss creator growth across verticals?
 
 Thanks again!
 
