@@ -20,6 +20,32 @@ Belle
 
 ---
 
+## Emma's reply, 8/6 15:18
+
+1. NocNoc reminder was sent by email and text. The text arrived from +1 818 746 2790:
+   sign-in code **833034**, front desk **1F, Suite 140**, 900 Corporate Pointe.
+   No photos in the working area.
+2. Generic hire. Use the JD linked in Point 1 of the prep materials.
+3. Case study: see Point 3 of the prep doc, i.e. explain your reasoning without notes.
+   Not a formal presentation.
+4. **The vertical is A-List, primarily Beauty, Fashion & Lifestyle.**
+   **Ahmed Magdy is the Hiring Manager. Zora Yik is the cross-functional leader.**
+
+## Reply sent
+
+Hi Emma,
+
+Found the NocNoc text, thank you! All set on registration.
+
+And thanks for clarifying the vertical and the interviewer roles, that's really helpful for my prep.
+
+See you Tuesday!
+
+Best,
+Belle
+
+---
+
 ## Follow-up thresholds
 
 - NocNoc registration: if nothing by Monday morning, call Emma at +1 424 365 2553.
