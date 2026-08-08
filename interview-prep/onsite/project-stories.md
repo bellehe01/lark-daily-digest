@@ -360,7 +360,7 @@
 - 目标:决定投哪些垂类,把垂类的内容供给和创作者增长做起来
 - 指标:垂类播放量(对大盘基线)、优质创作者发布频次、头部创作者留存
 - 角色:own 几个内容垂类的供给和创作者增长
-- 过程:三因子框架选垂类(规模×增速×图文相对优势)→ 四维质量标准可执行化(⚠️ 四维口径请本人核对:实用价值(有用)/视觉完成度(好看)/原创度/互动回流(赞藏分享);自己标注验证)→ 每垂类约 20 头部 1v1 诊断 → 共性卡点做成规模化项目(主题活动/社群/案例下沉)+ 工具补齐(对比小红书缺图文模板 → 联动产品做图文投稿模板工具)
+- 过程:三因子框架选垂类(规模×增速×图文相对优势)→ 四维质量标准可执行化(本人工作记录实证):①生态合规(无低质违规、非 AI 生成)②无营销感(不挂车、无团购券锚点)③内容画面(主体精美整洁、构图精致;质感色调明亮,不过度曝光/美颜/滤镜)④情绪价值(美的享受/轻松治愈的愉悦感);自己标注验证→ 每垂类约 20 头部 1v1 诊断 → 共性卡点做成规模化项目(主题活动/社群/案例下沉)+ 工具补齐(对比小红书缺图文模板 → 联动产品做图文投稿模板工具)
 - 结果:垂类播放 +7%、优质创作者发布频次 +10%(均对大盘);框架成团队标准工具;沉淀"1v1 是信息采集不是服务模式"
 
 **中文逐字稿(约 90 秒)**
@@ -375,7 +375,7 @@
 >
 > 过程是三步。第一步,选垂类。我建了一个三因子框架:垂类规模、增速、加上"图文相对视频的优势"——最后选了摄影和艺术,因为那是图文真正打得过视频的地方。这一步的本质是承认资源有限,先想清楚不做什么。
 >
-> 第二步,把标准做成可执行的。团队的质量要求是"有用又好看",但审核和算法没法执行四个字。我把它拆成四个维度的质量评分:"有用"拆成实用价值——信息有没有增量、能不能照着做;"好看"拆成视觉完成度——构图、排版、封面;再加原创度,和互动回流——赞藏分享这些观众用手投票的数据。然后我自己上手标注内容,验证这套标准打分打得稳。
+> 第二步,把标准做成可执行的。团队的质量要求是"有用又好看",但审核和算法没法执行四个字。我把它拆成四个可打分的维度:第一,生态合规——没有低质违规,而且不是 AI 生成的内容;第二,无营销感——不挂车、没有团购券锚点;第三,内容画面——被拍主体精美整洁、构图精致,画面质感色调明亮,不过度曝光、不过度美颜滤镜;第四,情绪价值——能不能给人"美"的享受,或者轻松、治愈的愉悦感。然后我自己上手标注内容,验证这套标准打分打得稳。
 >
 > 第三步,头部共创加规模化。按标准选出每个垂类大约二十个头部创作者,一对一聊,诊断每个人的卡点。然后关键的一步:把二十个人身上共性的两三个卡点,做成规模化的项目——主题活动、社群、头部案例下沉给腰部。还有一个共性卡点出在工具上:当时对比小红书,人家有大量现成的好看模板,抖音的图文模板很缺。这个靠运营解不了,我们就联动产品,做了图文的投稿模板工具。一对一对我来说不是服务模式,是采集信息的方式。
 >
@@ -403,7 +403,7 @@
 >
 > Three steps. First, picking the verticals. I built a three-factor framework: vertical size, growth rate, and photo's relative advantage over video. We picked photography and art — the places where photo actually beats video. The real point of that step is admitting resources are finite and deciding what not to do.
 >
-> Second, making the standard executable. The quality bar was 'useful and beautiful' — four words a reviewer or an algorithm can't act on. I broke it into four scoreable dimensions: practical value — is there real information, can you act on it; visual quality — composition, layout, the cover; originality; and engagement — likes, saves, shares, the audience voting with their hands. Then I labeled content myself to validate that it scored consistently.
+> Second, making the standard executable. The quality bar was 'useful and beautiful' — four words a reviewer or an algorithm can't act on. I broke it into four scoreable dimensions. Ecosystem compliance — no low-quality violations, and not AI-generated. No commercial feel — no product links, no coupon anchors. Visual craft — a clean, well-composed subject, bright tonality, no over-exposure or heavy filters. And emotional value — does it deliver a sense of beauty, or a relaxed, healing feel. Then I labeled content myself to validate that it scored consistently.
 >
 > Third, top creators, then scale. I selected about twenty top creators per vertical against that standard and coached them one-on-one — diagnosing what blocked each of them. Then the key move: the two or three blockers everyone shared became scalable programs — themed campaigns, community channels, top-creator case studies pushed down to mid-tier. And one shared blocker was tooling: compared with Xiaohongshu, which had a rich template library, Douyin barely had photo-post templates. Operations can't fix that, so we partnered with the product team and shipped photo-post template tools. For me, one-on-one isn't a service model. It's how I gather information.
 >
