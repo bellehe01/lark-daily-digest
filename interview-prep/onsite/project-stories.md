@@ -6,116 +6,114 @@
 > 四件套:中文框架 → 中文逐字稿 → 英文框架 → 英文逐字稿。逐字稿分段,可直接念。
 > 表达统一往 JD 靠:own 垂类 / 创作者供给与生命周期 / 数据驱动 / 可规模化机制 / 跨团队推动 / 自定成功指标。
 > 同场规则:SCF 这个故事全场只讲一次(当项目故事讲了,failure 题就换别的角度;反之亦然)。
+> 练法:逐字稿只是参考底稿——先看框架用**自己的话**讲一遍并录音,再把自己的说法回填;把项目当成"跟朋友分享一个有趣的东西"来讲,不是背稿。
 
 ---
 
-## 自我介绍 · 3 分钟开场(必背)
+## 自我介绍 · 主版本(≤2 分钟,目标 90 秒,必背)
 
-**结构**:一句话定位 → 两段证据(按岗位目标挑:图文 + 44k)→ 一段匹配 + 20 秒收口(30/60/90)。
+**结构**(模板):开场基础信息 → 按时间分段讲经历(每段=时间+角色+own 什么+量化)→ 收口(岗位匹配一句 + 邀请提问)。
 
 **中文框架**
-- 定位:我做的是创作者供给的经营——定标准、分层、把个案做成可规模化的机制,目标是让一个内容垂类长期变健康
-- 证据一(图文,平台侧):own 垂类,定标准,20 个头部 1v1,规模化,+7%/+10%
-- 证据二(44k,机构侧+美区):分层自动化,品牌×达人匹配,AM 人效 1→2-3,亲历美区大促,美妆时尚品类实操
-- 匹配:JD 三个核心要求——own 垂类策略与运营 / 数据驱动决策 / 跨团队规模化项目——三段经历正好各补一块
-- 收口(20 秒):这个岗位要解决的是垂类的供给和增长;我做过高度相关的事;入职 30 天出诊断和基线,60 天机制上线,90 天指标见效——我的作业就是这个逻辑的演示
+- 基础信息:名字 / University of Arizona 商业分析硕士(2025.5 毕业)/ 毕业前在字节系有三段实习,毕业后两段经历,分开简单说
+- 最近一段(2025.9–今,美区 TikTok Shop agency):规模化达人库运营——4 万+达人,标准化分层、自动化工具、痛点模型做品牌×达人匹配;人力集中在头部策略;人效 1→2-3;经历黑五;撮合最多的是美妆时尚生活方式品类
+- 早期(字节系三段实习,只展开最相关的抖音图文):own 垂类,定义优质内容和优质创作者标准,扶持头部+规模化动作;垂类播放 +7%、优质创作者发布频次 +10%(另两段 TikTok Music 数据、特效 PM 各一句带过,留给深挖)
+- 收口:岗位要 own 垂类策略与运营、数据驱动、跨团队推规模化项目——正好是这几段的交集;"这是我大概的介绍,具体项目您可以随时深挖"
 
-**中文逐字稿(约 3 分钟)**
+**中文逐字稿(约 90 秒)**
 
-> 我先用一句话定位自己:我一直在做的,是创作者供给的经营——给"什么是好创作者"定标准,按数据分层,然后把一对一带出来的经验,做成可规模化的机制。目标始终是一个:让一个内容垂类长期变健康,而不是做完一场活动就结束。
+> 面试官好,我先简单介绍一下个人情况。我叫何贝尔 Belle,亚利桑那大学商业分析硕士,去年五月毕业。毕业前我在字节系有三段实习,毕业后有两段工作经历,我分开简单说。
 >
-> 用两段经历来证明。
+> 最近的一段,是在美区的 TikTok Shop agency。我负责的是一个规模化的达人库运营——库里有四万多个达人,比在平台内负责一个垂类的规模还要大,所以关键打法是规模化:标准化的分层、自动化的工具,再用一个基于产品痛点和 GMV 的模型,把达人和品牌做匹配。人力集中在头部的内容策略和给品牌的推荐上。结果是一个运营经理从只能服务一个品牌,提升到能服务两到三个。这期间我完整经历了黑五大促,撮合最多的品类,就是美妆、时尚和生活方式。
 >
-> 第一段,在抖音的图文团队,我 own 几个内容垂类的供给和创作者增长。做了三件事:先建了一个三因子框架,决定资源投给哪个垂类——选了图文真正打得过视频的地方;再把"有用又好看"这四个字拆成四维质量标准,让审核和算法都能执行;然后按标准选出每个垂类大约 20 个头部创作者,一对一诊断卡点,再把共性的卡点做成规模化项目——主题活动、社群、头部案例下沉,还联动产品补了图文模板工具。结果是垂类播放对大盘涨了 7%,优质创作者的发布频次涨了 10%,框架成了团队的标准工具。
+> 更早的经历是在字节系的三段实习,最相关的是抖音图文团队:我 own 两个垂类,负责定义优质内容和优质创作者的标准,通过扶持头部和规模化的运营动作,垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在 TikTok 特效团队做产品实习,这两段您感兴趣可以再展开。
 >
-> 第二段,在美国的 agency,我管一个四万四千人的达人库。人少达人多,所以打法是标准、分层、自动化:用 GMV 和内容数据分层,CRM 自动运转,人力只花在头部和例外上;再搭了一个品牌和达人的匹配引擎,把一次性合作变成复购。结果是一个 AM 从只能服务一个品牌,变成能服务两到三个。这段经历还有两个对这个岗位特别有用的点:我完整跑过美区 TikTok Shop 的 Black Friday,而且合作里很大一部分就是美妆、时尚、生活方式品类。
->
-> 最后说匹配。我读这个 JD,核心是三件事:own 一个垂类的策略和运营;用数据驱动决策;把策略变成跨团队能落地的规模化项目。这三件事,正好是我这几段经历各自最硬的那一块。
->
-> 如果我入职:前 30 天,出创作者诊断和基线;60 天,辅导和活动机制上线;90 天,指标见效。这次的作业,其实就是这套逻辑的一次演示。
+> 我理解这个岗位是要 own 垂类的策略和运营,用数据驱动决策,并且跨团队推进规模化项目——这正好是我这几段经历的交集。这是我大概的情况,具体项目您可以随时深挖。
 
 **英文框架**
-- Positioning: I operate creator supply — standards, tiering, turning 1:1 learnings into scalable programs; goal = a healthier vertical, long-term
-- Evidence 1 (Douyin, platform side): owned verticals, rubric, 20 top creators 1v1, scaled, +7%/+10%
-- Evidence 2 (US agency): 44k tiering & automation, matching engine, AM 1→2-3, US BFCM, beauty & fashion categories
-- Match: JD = own vertical strategy & ops / data-driven / cross-functional scalable programs → my three chapters
-- Close (20s): 30-day diagnosis & baseline / 60-day mechanisms live / 90-day metrics move — the case study is a demo of exactly this
+- Basics: name / MS Business Analytics, University of Arizona (May 2025) / three ByteDance-family internships before graduating, two chapters after
+- Recent (US TikTok Shop agency): 44k-creator database at scale — tiering, automation, pain-point matching model; AM capacity 1→2-3; BFCM; most matches in beauty/fashion/lifestyle
+- Earlier (Douyin photo-text, the most relevant): owned verticals, defined the quality standard, top-creator programs; +7% views, +10% posting frequency (Music & Effects internships one line each, held for follow-up)
+- Close: the role = vertical ownership + data-driven + cross-functional programs — the intersection of my chapters; invite deep-dives
 
-**英文逐字稿(约 3 分钟)**
+**英文逐字稿(约 90 秒)**
 
-> "One sentence about me first: what I do is operate creator supply. I define what a good creator looks like, tier them with data, and turn what I learn coaching individuals into programs that scale. And the goal is always the same — make a content vertical healthier long-term, not just deliver one campaign.
+> "Let me quickly introduce myself. I'm Belle, Master's in Business Analytics from the University of Arizona, graduated last May. Before graduating I did three internships across ByteDance teams, and I've had two chapters since — let me take them one at a time.
 >
-> Two pieces of evidence.
+> The recent one is at a US TikTok Shop agency, running a creator database at scale — over forty thousand creators, which is actually bigger than a single vertical on platform. So the play was scale: standardized tiering, automated tooling, and a matching model built on product pain points and GMV that pairs creators with brands. Human effort concentrates on top-creator strategy and brand recommendations. The result: an account manager went from serving one brand to two or three. I worked through Black Friday hands-on, and the categories I matched most were beauty, fashion, and lifestyle.
 >
-> First, at Douyin's photo-and-text team, I owned content verticals — supply and creator growth. Three moves. I built a three-factor framework to decide where resources go, and picked the verticals where photo posts actually beat video. I turned a vague quality bar — 'useful and beautiful' — into a four-dimension rubric that reviewers and algorithms could act on. And I selected about twenty top creators per vertical, coached them one-on-one, then turned the common blockers into scalable programs: themed campaigns, community channels, top-creator case studies shared down — and photo-post template tools shipped with the product team. Vertical views grew seven percent against baseline, quality creators' posting frequency grew ten percent, and the framework became the team's standard tool.
+> Earlier, three ByteDance internships — the most relevant being Douyin's photo-and-text team: I owned two verticals, defined the standard for quality content and quality creators, and through top-creator programs and scaled operations, vertical views grew seven percent and quality creators' posting frequency grew ten. The other two — content data at TikTok Music, and product at the effects team — I'm happy to expand on either.
 >
-> Second, at a US agency, I ran a database of forty-four thousand creators. Too many creators, too few people — so the play was standards, segmentation, automation. Data-driven tiering, a CRM that runs itself, human effort only on top creators and exceptions. Then I built a matching engine between brands and creators, turning one-off collaborations into repeat ones. An account manager went from handling one brand to two or three. Two things from that chapter matter here: I worked through TikTok Shop's Black Friday on the US side, hands-on. And a large share of those brand deals were in beauty, fashion, and lifestyle.
->
-> Last, the match. I read this JD as three asks: own a vertical's strategy and operations. Drive decisions with data. And turn strategy into cross-functional programs that actually ship. Those three asks map one-to-one onto the strongest part of each of my chapters.
->
-> If I join: in thirty days, diagnosis and baseline. Sixty days, coaching and campaign mechanisms live. Ninety days, the metrics move. The case study I submitted is a demo of exactly that logic."
+> I read this role as owning a vertical's strategy and operations, driving decisions with data, and shipping cross-functional programs — which is exactly the intersection of my chapters. That's the overview; please feel free to dig into any project."
+
+**深挖入口对照**(面试官追问时进对应 story)
+- 达人库/匹配/美妆品类 → 44k story;大型活动 → SCF story;标准与垂类经营 → 图文 story;数据与市场分化 → Music story;跨团队与数据诊断 → 特效 story;AI 工具 → IntelliPro story
+
 
 ---
 
-# 美区 Agency(2025.9–今)· Story 1:44k 达人库规模化
+---
 
-> 主打 JD 特质:**数据驱动 + 可规模化机制 + 商业化 + 美区市场 + 学习能力(API/AI 上手快)**
+# 美区 Agency(2025.9–今)· Story 1:44k 达人库规模化(达人运营 + 痛点匹配)
+
+> 主打 JD 特质:数据驱动 + 可规模化机制 + 商业化 + 美区市场 + 学习能力(API/AI 上手快)
+> 定位一句话:我是品牌方侧的达人运营——从达人库里运营好这些达人,理解品牌诉求,把两边做匹配。
 
 **中文框架(六要素)**
-- 背景:美区 agency,TikTok 电商生态;4.4 万达人库,300+ 品牌客户,AM 人力少(一人只能服务一个品牌)
-- 目标:把达人运营从人肉服务变成系统,提升品牌×达人的匹配效率,把一次性合作变成复购
-- 指标:AM 人效(服务品牌数)、匹配转化率、复购合作率、GMV
-- 角色:own 达人库运营体系——分层标准、CRM 自动化(我调 TikTok API + AI 辅助搭建)、痛点匹配方法,都由我设计推动
-- 过程五步:①诊断(GMV+内容表现找真正驱动业务的达人)②分层(不同层不同资源)③系统化(调 TikTok API 自动拉数据和 GMV,AI 辅助开发,CRM 自动分层触达)④匹配方法升级:品类匹配效率不高(有的创作者能跨品类)→ 换**痛点匹配**三步:AI 解析品牌产品的需求痛点 → 找卖过同痛点产品的创作者(卖巧克力擅长"安抚情绪"→宠物品类同痛点产品也能卖)→ 按同痛点产品 GMV 从高到低排序,验证带货能力 ⑤试点与铺开(先给几个 AM 验证,再铺 300+ 品牌)
-- 结果:AM 人效 1 → 2-3;痛点匹配法和分层标准沉淀成 SOP;完整跑过美区 BFCM,大量美妆时尚品类实操
+- 背景:美区 TikTok Shop agency;达人库 4 万+,其中美妆达人约两成(⚠️ 占比待查证);300+ 品牌;AM 手工筛选,一人只能服务一个品牌
+- 目标:提高品牌×达人的匹配效率,减少 AM 手工筛选;帮品牌和创作者多成交、变成长期复购合作
+- 指标(效率口径,**不背 GMV**——工具中台背营收易被挑战):AM 人效 1→2-3;复购合作率从 xx 提升到 xx(⚠️ 补数,或相对表述);撮合效率
+- 角色:own 这套体系——分层标准、推荐引擎、自动化,都由我设计推动
+- 过程:①分层:按 GMV 把达人分 L1–L5 ②推荐引擎:按达人卖过的货的**痛点**+靠该痛点积累的 GMV 建模型,去匹配品牌要卖的产品(痛点如"容貌焦虑""敏感肌""安抚情绪")③亮点:突破品类限制——卖巧克力的博主擅长"安抚情绪",宠物品类同痛点的产品他也能卖;一提升达人跨品类能力,二品牌卖得更好(达人在该痛点已有 GMV 积累)④系统落地:调 TikTok API 自动拉数据,AI 辅助开发,CRM 自动运转;人力花在头部内容策略和给品牌推荐上 ⑤先小范围试,再铺 300+ 品牌
+- 结果:AM 1→2-3;复购率提升(⚠️ 数);方法沉淀成 SOP;完整经历黑五;撮合最多=美妆时尚生活方式品类
 
-**中文逐字稿(约 100 秒)**
+**中文逐字稿(约 100 秒,基于本人口述版)**
 
-> 先说背景。美区的 agency,做 TikTok 电商生态:库里有四万四千个达人,三百多个品牌客户,但 AM 人力很少——当时一个 AM 只能服务一个品牌,完全是人肉模式。
+> 先说背景。我在美区的 TikTok Shop agency,库里有四万多个达人,其中大概两成是美妆达人;品牌客户三百多个。当时的问题是:不知道怎么把这些达人,和适合他们卖的产品、适合的品牌做匹配——全靠 AM 手工筛选,一个人只够服务一个品牌。
 >
-> 目标就一个:把达人运营从人肉服务变成系统。具体两件事:匹配效率——让对的达人遇到对的品牌;和复购——让一次性合作变成长期合作。
+> 所以目标就是提高匹配的效率,减少 AM 手工筛选的时间;最终让品牌和创作者多成交,并且变成长期的复购合作。
 >
-> 指标:AM 的人效,一个人能服务几个品牌;匹配的转化率;复购合作的比例。
+> 指标上我背的是效率口径:AM 的人效,从一个人服务一个品牌,到能服务两到三个;还有复购合作率——撮合得准,人家才会回来。
 >
-> 我的角色是 own 整个达人库的运营体系,分层标准、自动化、匹配方法,都是我设计和推动的。
+> 我的角色是 own 这套体系。做了几件事。
 >
-> 过程五步。第一步诊断:用 GMV 和内容表现的数据,搞清楚哪些达人真正在驱动业务——头部一小部分贡献绝大部分产出。第二步分层:按 GMV 贡献和内容表现分层,每层配不同资源,人力只花在头部和例外上。
+> 第一,分层:按 GMV 把达人从 L1 分到 L5,每层配不同的运营方式。
 >
-> 第三步,系统化。这一步我想多说一句:CRM 的自动分层、自动触达,是我自己调 TikTok 的 API,把达人数据和 GMV 自动拉回来,再用 AI 辅助开发搭起来的。我不是工程背景,但这套系统从设计到跑起来是我 own 的——用新工具解决业务问题,我上手很快。
+> 第二,推荐引擎。通常的做法是按品类匹配——美妆品牌找美妆达人,但我们发现效率不高,因为有的创作者是能突破品类的。所以我们的模型是按"痛点"建的:把达人卖过的货抽象出痛点——比如容貌焦虑、敏感肌、安抚情绪——再看他靠这个痛点积累了多少 GMV。品牌来了一个产品,我们先解析它的痛点,再去找卖过同痛点产品、并且卖得好的达人。
 >
-> 第四步,匹配方法的升级,这是整个体系里我最得意的部分。一开始我们按品类匹配——美妆品牌找美妆达人。跑了一段发现效率不高,因为有些创作者的能力是可以突破品类的。所以我们换成了按"痛点"匹配,三步:先用 AI 把品牌要带的产品解析出需求痛点;然后去找卖过"同痛点产品"的创作者——举个例子,一个卖巧克力的博主,如果他擅长卖"安抚情绪"这个痛点,那宠物品类里主打安抚情绪的产品,他大概率也能卖;最后,把这个创作者卖过的同痛点产品按 GMV 从高到低排,用数据证明他确实有卖这个痛点的能力。
+> 举个例子:一个卖巧克力的博主,他擅长卖"安抚情绪"这个痛点——那宠物品类里主打安抚情绪的产品,他也能卖。这样一来达人的跨品类能力被打开了,二来品牌拿到的是有同痛点 GMV 积累的人,成交更稳。
 >
-> 第五步,试点和铺开:所有这些先给几个 AM 小范围用,验证有效,再铺到三百多个品牌。
+> 第三,系统落地。我自己调 TikTok 的 API 把达人数据和 GMV 自动拉回来,用 AI 辅助开发,让 CRM 自动运转——人力集中在头部的内容策略和给品牌的推荐上。先小范围给几个 AM 试,验证有效,再铺到三百多个品牌。
 >
-> 结果:一个 AM 从服务一个品牌,变成两到三个;痛点匹配法和分层标准沉淀成了 SOP。另外两点对这个岗位有用:我完整跑过美区 TikTok Shop 的 Black Friday;这些品牌合作里,美妆、时尚、生活方式占很大一部分——正好是 A-List 的品类。
+> 结果:AM 人效一到两三个;这套匹配方法和分层标准沉淀成了 SOP。我也完整经历了黑五,撮合最多的品类就是美妆、时尚和生活方式。
 
 **英文框架(六要素)**
-- Background: US agency, TikTok commerce; 44k creators, 300+ brands, one AM per brand
-- Goal: turn creator ops from manual service into a system; matching efficiency + repeat collaborations
-- Metrics: AM capacity, match conversion, repeat rate, GMV
-- Role: owned the ops system — tiering standard, CRM automation (built by me calling the TikTok API, with AI-assisted development), the pain-point matching method
-- Process ×5: diagnose → tier → systemize (TikTok API + AI-assisted build) → matching upgrade: category matching underperformed → pain-point matching (AI parses the product's pain point → find creators who sold same-pain-point products → rank their same-pain-point GMV as proof) → pilot & roll out
-- Result: AM 1 → 2-3; pain-point method + tiering codified as SOP; US BFCM hands-on; heavy beauty/fashion exposure
+- Background: US TikTok Shop agency; 44k creators (~20% beauty, TBC), 300+ brands; manual AM screening, one brand per AM
+- Goal: matching efficiency, less manual screening; more deals that become repeat collaborations
+- Metrics (efficiency, not GMV): AM capacity 1→2-3; repeat-collaboration rate up (fill number); matching efficiency
+- Role: owned the system — tiering, recommendation engine, automation
+- Process: tier L1–L5 by GMV → pain-point recommendation model (parse product pain point → find creators with GMV history on that pain point; chocolate/comfort → pet products) → built via TikTok API + AI-assisted dev, CRM self-running → pilot then 300+ brands
+- Result: AM 1→2-3; repeat rate up; SOP; BFCM hands-on; beauty/fashion/lifestyle matched most
 
 **英文逐字稿(约 100 秒)**
 
-> "The background: a US agency in the TikTok commerce ecosystem. Forty-four thousand creators, three hundred plus brand clients, very few account managers — one AM could serve exactly one brand. Fully manual.
+> "The background: a US TikTok Shop agency. Forty-thousand-plus creators in the database — roughly a fifth of them beauty creators — and three hundred plus brand clients. The problem: nobody knew how to match these creators with the right products and brands. It was all manual screening, and one account manager could serve exactly one brand.
 >
-> The goal: turn that into a system. Two things — matching efficiency, right creator meets right brand; and repeat rate, one-off deals becoming ongoing ones.
+> So the goal was matching efficiency: cut the manual screening, get more deals done, and turn them into repeat collaborations.
 >
-> The metrics: AM capacity, match conversion, and the share of repeat collaborations.
+> My metrics were efficiency metrics: AM capacity — from one brand per person to two or three — and the repeat-collaboration rate, because accurate matching is what makes brands come back.
 >
-> My role: I owned the ops system — the tiering standard, the automation, and the matching method.
+> My role was owning the system. A few moves.
 >
-> Five steps. One, diagnose: GMV and content data show which creators actually drive the business — a small top drives most of it. Two, tier: different resources per tier, human effort only on the top and the exceptions.
+> One, tiering: creators tiered L1 to L5 by GMV, different operations per tier.
 >
-> Three, systemize — and I want to spend a sentence here. The CRM's auto-tiering and auto-outreach, I built myself: I called the TikTok API to pull creator data and GMV automatically, and used AI-assisted development to put the system together. I'm not from an engineering background, but this system was mine from design to running — I pick up new tools fast when the business needs them.
+> Two, the recommendation engine. The usual approach is category matching — beauty brands get beauty creators. We found it underperformed, because some creators can sell beyond their category. So our model was built on pain points: abstract what a creator has sold into the pain point it solves — appearance anxiety, sensitive skin, comfort — and how much GMV they've built on that pain point. A brand brings a product; we parse its pain point, then find creators with a strong track record on that same pain point.
 >
-> Four, the matching upgrade — my favorite part. We started with category matching: beauty brands get beauty creators. It underperformed, because some creators can sell beyond their category. So we switched to pain-point matching, three steps. First, AI parses the brand's product into its need pain point. Second, find creators who have sold products with the same pain point — for example, a chocolate seller who's great at selling 'comfort and stress relief' can probably sell pet products built on the same pain point. Third, rank that creator's same-pain-point products by GMV, high to low — the data proves they can sell this pain point.
+> An example: a chocolate seller who's great at the 'comfort' pain point can also sell pet products built on comfort. That opens up creators' cross-category range, and gives brands someone with proven GMV on exactly that pain point.
 >
-> Five, pilot and roll out: everything went to a few AMs first, proved out, then scaled across three hundred plus brands.
+> Three, making it a system: I called the TikTok API to pull creator data and GMV automatically, used AI-assisted development, and got the CRM running on its own — human effort concentrated on top-creator strategy and brand recommendations. Piloted with a few AMs, then rolled out across three hundred brands.
 >
-> The results: an AM went from one brand to two or three; the pain-point method and the tiering standard became SOPs. Two extra points for this role: I worked through TikTok Shop's Black Friday on the US side, and a large share of those deals were beauty, fashion, and lifestyle — exactly A-List's categories."
+> Results: AM capacity one to two-or-three, and the matching method plus tiering became standing SOPs. I worked through Black Friday hands-on — and the categories I matched most were beauty, fashion, and lifestyle."
 
 ---
 
@@ -353,65 +351,51 @@
 
 # 抖音图文(2023.1–2023.8)· Story:垂类经营与头部创作者共创
 
-> 主打 JD 特质:**own 垂类 + 定标准 + 创作者生命周期 + 规模化**——与岗位最同构的一段。
+> 主打 JD 特质:own 垂类 + 定标准 + 创作者生命周期 + 规模化——与岗位最同构的一段。
 
 **中文框架(六要素)**
-- 背景:抖音图文团队,图文是平台的新内容形态,资源有限、垂类多
-- 目标:决定投哪些垂类,把垂类的内容供给和创作者增长做起来
-- 指标:垂类播放量(对大盘基线)、优质创作者发布频次、头部创作者留存
-- 角色:own 几个内容垂类的供给和创作者增长
-- 过程:三因子框架选垂类(规模×增速×图文相对优势)→ 四维质量标准可执行化(本人工作记录实证):①生态合规(无低质违规、非 AI 生成)②无营销感(不挂车、无团购券锚点)③内容画面(主体精美整洁、构图精致;质感色调明亮,不过度曝光/美颜/滤镜)④情绪价值(美的享受/轻松治愈的愉悦感);自己标注验证→ 每垂类约 20 头部 1v1 诊断 → 共性卡点做成规模化项目(主题活动/社群/案例下沉)+ 工具补齐(对比小红书缺图文模板 → 联动产品做图文投稿模板工具)
-- 结果:垂类播放 +7%、优质创作者发布频次 +10%(均对大盘);框架成团队标准工具;沉淀"1v1 是信息采集不是服务模式"
+- 背景:我的第一段实习;抖音图文是新内容形态,资源有限,但承担了很高的增长目标
+- 目标:先决定把精力投在哪些垂类,再把内容供给和创作者增长做起来
+- 指标:**团队指标** = 垂类播放量对大盘 +7%、优质创作者发布频次 +10%、头部留存;**我负责其中一整个板块** = 发掘优质内容和优质创作者、沉淀标准——我的量化目标:从约 X 万投稿中发掘约 XX 位优质创作者、XXX 篇优质内容(⚠️ 按真实情况定个数,没有精确数也要给量级)
+- 角色:实习生,服务团队目标;own 发掘板块和标准
+- 过程:①筛垂类:规模、占比、增速,加上图文内容的独特性——选定摄影和艺术(选对内容,增长容易;选错方向,增长很难)②标准做成可规模化执行,四个维度一点一句:合规(生态优质合规,非 AI 生成)/ 画面(整洁精致、构图色彩明亮、符合垂类调性——把"美感"抽炼出来)/ 情绪价值(**举例**:现在依然爆火的"单张图+情绪文案"就是我们当时探索出来的;"攻略型"内容是有用的代表,比如摄影教学)/ 无营销感(无广告、无挂车)③头部共创+规模化(简化讲):20 位头部 1v1 找共性卡点,做成活动、社群,并联动产品补了图文模板工具
+- 结果:垂类播放对大盘 +7%,优质创作者发布频次 +10%;标准成为团队工具
 
-**中文逐字稿(约 90 秒)**
+**中文逐字稿(约 90 秒,基于老师示范版)**
 
-> 背景:抖音的图文团队。图文当时是平台的新形态,垂类很多、资源有限,最大的问题是不知道该把力气花在哪。
+> 背景:这是我的第一段实习,在抖音图文团队。图文当时是一个比较新的内容形态,资源是有限的,但承担了很高的增长目标。所以当时的目标是:先决定把精力投放在哪些垂类,再把整个内容供给和创作者增长做起来。
 >
-> 目标两层:先决定投哪些垂类;再把选中垂类的内容供给和创作者增长做起来。
+> 团队的指标是:垂类播放量对比大盘要涨多少,优质创作者的发布频次和留存要涨多少。我的角色,是在其中负责一整个板块:我 own 几个垂类的优质内容和优质创作者的发掘,并且要沉淀出发掘的标准。我给自己的量化目标是从投稿池里发掘出一批优质创作者和优质内容(数字见框架,⚠️ 待定)。
 >
-> 指标:垂类播放量,对大盘基线看;优质创作者的发布频次;还有头部创作者的留存。
+> 第一步,先筛垂类。因为选对内容,增长其实是容易的;选错方向,再努力都难。我建了一个框架:看规模、占比、增速,再加上图文内容本身的独特性——最终选定了摄影和艺术这两个垂类。
 >
-> 我的角色是 own 几个内容垂类,供给和创作者增长都归我。
+> 第二步,把标准做成可以规模化执行的。我们把主观的"什么是好内容"抽象成四个维度,一点一句:第一,合规——生态上优质合规,不是 AI 生成的;第二,画面——整洁精致,构图色彩明亮,符合这个垂类讲究美的调性;第三,情绪价值——举个例子,现在依然爆火的"单张图加情绪文案",就是我们当时探索出来的,类似的模板还有很多;攻略型内容是"有用"的代表,比如教人摄影;第四,无营销感——没有广告和挂车的感觉。
 >
-> 过程是三步。第一步,选垂类。我建了一个三因子框架:垂类规模、增速、加上"图文相对视频的优势"——最后选了摄影和艺术,因为那是图文真正打得过视频的地方。这一步的本质是承认资源有限,先想清楚不做什么。
+> 第三步,头部共创加规模化,简单说:选了大概二十位头部一对一聊,把共性的卡点做成活动和社群,还联动产品补了图文的模板工具。
 >
-> 第二步,把标准做成可执行的。团队的质量要求是"有用又好看",但审核和算法没法执行四个字。我把它拆成四个可打分的维度:第一,生态合规——没有低质违规,而且不是 AI 生成的内容;第二,无营销感——不挂车、没有团购券锚点;第三,内容画面——被拍主体精美整洁、构图精致,画面质感色调明亮,不过度曝光、不过度美颜滤镜;第四,情绪价值——能不能给人"美"的享受,或者轻松、治愈的愉悦感。然后我自己上手标注内容,验证这套标准打分打得稳。
->
-> 第三步,头部共创加规模化。按标准选出每个垂类大约二十个头部创作者,一对一聊,诊断每个人的卡点。然后关键的一步:把二十个人身上共性的两三个卡点,做成规模化的项目——主题活动、社群、头部案例下沉给腰部。还有一个共性卡点出在工具上:当时对比小红书,人家有大量现成的好看模板,抖音的图文模板很缺。这个靠运营解不了,我们就联动产品,做了图文的投稿模板工具。一对一对我来说不是服务模式,是采集信息的方式。
->
-> 结果:垂类播放对大盘涨了 7%,优质创作者的发布频次涨了 10%,这套框架成了团队的标准工具。
->
-> 这段经历跟这个岗位是最同构的:A-List 管的是美妆时尚的头部创作者,打法是一样的——先定标准,再逐个诊断,最后把学到的东西产品化。
+> 结果:垂类播放对比大盘涨了 7%,优质创作者的发布频次涨了 10%,这套标准成了团队的工具。
 
 **英文框架(六要素)**
-- Background: Douyin photo-text team; new format, many verticals, limited resources
-- Goal: pick the verticals, then grow supply & creators
-- Metrics: vertical views vs baseline, quality creators' posting frequency, top-creator retention
-- Role: owned several verticals end to end
-- Process: 3-factor vertical selection → 4-dim rubric, self-validated → 20 top creators 1v1 → common blockers productized
-- Result: +7% views, +10% posting frequency; framework became standard; "1v1 = information gathering"
+- Background: my first internship; photo-text was a new format, limited resources, high growth targets
+- Goal: decide which verticals to invest in, then grow supply & creators
+- Metrics: team = vertical views +7% vs baseline, quality creators' posting frequency +10%, top retention; my block = discovering quality content & creators + codifying the standard, with a quantified discovery target (fill the number)
+- Role: intern serving the team goal; owned the discovery block
+- Process: pick verticals (size/share/growth + photo's uniqueness → photography & art) → four scoreable dimensions, one line each: compliance / visual craft / emotional value (example: the still-viral "single image + emotional caption" format we explored; how-to guides as the "useful" archetype) / no commercial feel → top-creator co-creation simplified: 20 creators 1v1, common blockers into campaigns, community, and template tools with product
+- Result: +7% views, +10% posting frequency; the standard became the team's tool
 
 **英文逐字稿(约 90 秒)**
 
-> "The background: Douyin's photo-and-text team. Photo posts were a new format on a video platform — lots of verticals, limited resources, and the real question was where to spend the effort at all.
+> "The background: my first internship, on Douyin's photo-and-text team. Photo posts were a new format — limited resources, but high growth targets. So the job was: decide where to invest first, then grow content supply and creators.
 >
-> The goal had two layers: first decide which verticals to invest in, then grow supply and creators in the ones we picked.
+> The team's metrics were vertical views against the platform baseline, and quality creators' posting frequency and retention. My role was one whole block within that: I owned discovering quality content and quality creators for my verticals, and codifying the standard for discovery — with a quantified discovery target.
 >
-> The metrics: vertical views against the platform baseline, posting frequency of quality creators, and top-creator retention.
+> Step one, pick the verticals. Pick the right content and growth comes easy; pick wrong and no effort saves you. I built a simple framework — size, share, growth rate, plus photo's own uniqueness — and landed on photography and art.
 >
-> My role: I owned several content verticals — supply and creator growth, end to end.
+> Step two, make the standard executable at scale. We abstracted 'what good looks like' into four scoreable dimensions, one line each. Compliance — ecosystem-clean, not AI-generated. Visual craft — clean, refined, bright composition that fits a beauty-driven vertical. Emotional value — for example, the 'single image plus emotional caption' format that's still viral today came out of our exploration; and how-to guides were our 'useful' archetype, like photography tutorials. And no commercial feel — nothing that reads as an ad.
 >
-> Three steps. First, picking the verticals. I built a three-factor framework: vertical size, growth rate, and photo's relative advantage over video. We picked photography and art — the places where photo actually beats video. The real point of that step is admitting resources are finite and deciding what not to do.
+> Step three, simplified: about twenty top creators, one-on-one, common blockers turned into campaigns, a community, and photo-post template tools shipped with the product team.
 >
-> Second, making the standard executable. The quality bar was 'useful and beautiful' — four words a reviewer or an algorithm can't act on. I broke it into four scoreable dimensions. Ecosystem compliance — no low-quality violations, and not AI-generated. No commercial feel — no product links, no coupon anchors. Visual craft — a clean, well-composed subject, bright tonality, no over-exposure or heavy filters. And emotional value — does it deliver a sense of beauty, or a relaxed, healing feel. Then I labeled content myself to validate that it scored consistently.
->
-> Third, top creators, then scale. I selected about twenty top creators per vertical against that standard and coached them one-on-one — diagnosing what blocked each of them. Then the key move: the two or three blockers everyone shared became scalable programs — themed campaigns, community channels, top-creator case studies pushed down to mid-tier. And one shared blocker was tooling: compared with Xiaohongshu, which had a rich template library, Douyin barely had photo-post templates. Operations can't fix that, so we partnered with the product team and shipped photo-post template tools. For me, one-on-one isn't a service model. It's how I gather information.
->
-> The results: vertical views up seven percent against baseline, quality creators' posting frequency up ten percent, and the framework became the team's standard tool.
->
-> And this chapter maps one-to-one onto this role: A-List manages top creators in beauty and fashion, and the play is identical — set the standard, diagnose individually, productize what you learn."
-
----
+> The results: vertical views up seven percent against baseline, quality creators' posting frequency up ten — and the standard became the team's tool."
 
 # 拍转编 · 干系人对齐变体(跨团队考点专用,大概率 Zora 问)
 
