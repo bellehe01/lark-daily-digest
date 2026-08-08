@@ -42,17 +42,17 @@
 > 最后是度量。所有目标都标了"假设",第一周对内部数据校准;30 天节点有明确的交付物:五份辅导计划上线、活动开跑、看板转起来。
 
 **英文框架**
-- Position it right: integration plan, not event proposal
-- Layer 1 integrate: data conventions / kickoff / 1:1s
+- Position it right: a plan for my first thirty days, not an event proposal
+- Layer 1 ramp-up: data conventions / kickoff / 1:1s
 - Layer 2 diagnose & coach: efficiency not effort; back-fix-hold
 - Layer 3 program: festival as growth engine, 3 funnels, 5 phases, DRIs
 - Measurement: hypotheses recalibrated W1; day-30 deliverables
 
 **英文逐字稿(约 75 秒)**
 
-> "I treated this as a thirty-day integration plan, not just an event proposal. The brief asks what I'd do in my first month, so I built it in three layers.
+> "I built this as a plan for my first thirty days in the role, not just an event proposal. The brief asks what I'd do in my first month, so I built it in three layers.
 >
-> First, integration. Week one is three things: agree on data conventions with the data team — how the baseline is set, how success is read. Run a kickoff that locks one owner per workstream and the decision rules. And sit down with all five creators one-on-one — the plans are built with them, not handed to them.
+> First, the ramp-up. Week one is three things: agree on data conventions with the data team — how the baseline is set, how success is read. Run a kickoff that locks one owner per workstream and the decision rules. And sit down with all five creators one-on-one — the plans are built with them, not handed to them.
 >
 > Second, diagnosis and strategy. The data shows an efficiency problem, not an effort problem. The two creators streaming the most hours are declining fastest, while Echo streams thirty-eight hours at three-eighteen an hour. So each creator gets one diagnosis, one priority, one coaching plan — back, fix, or hold.
 >

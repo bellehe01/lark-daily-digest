@@ -1,6 +1,7 @@
 # 项目 Case 梳理 · Project Stories(Onsite 版)
 
-> 结构:自我介绍(3 分钟开场,岗位问题 → 证据 → 价值主张)+ 四个 story(最近一段两个,两段实习各一个)。
+> 结构:自我介绍(3 分钟开场,岗位问题 → 证据 → 价值主张)+ 六个 story(每段经历一个,最近一段两个)。
+> 时间线:美区 Agency(2025.9–今)← IntelliPro(2025.5–9)← TikTok 特效(2024.1–6)← TikTok Music(2023.8–2024.1)← 抖音图文(2023.1–8)。
 > 每个 story 按答题框架六要素:**背景 → 目标 → 指标 → 角色 → 过程 → 结果**。
 > 四件套:中文框架 → 中文逐字稿 → 英文框架 → 英文逐字稿。逐字稿分段,可直接念。
 > 表达统一往 JD 靠:own 垂类 / 创作者供给与生命周期 / 数据驱动 / 可规模化机制 / 跨团队推动 / 自定成功指标。
@@ -56,7 +57,7 @@
 
 ---
 
-# 最近一段(美区 Agency)· Story 1:44k 达人库规模化
+# 美区 Agency(2025.9–今)· Story 1:44k 达人库规模化
 
 > 主打 JD 特质:**数据驱动 + 可规模化机制 + 商业化 + 美区市场**
 
@@ -106,7 +107,7 @@
 
 ---
 
-# 最近一段(美区 Agency)· Story 2:5000 人线下创作者活动交付
+# 美区 Agency(2025.9–今)· Story 2:5000 人线下创作者活动交付
 
 > 主打 JD 特质:**大型活动交付 + 风险兜底 + 复盘迭代**——直接对标音乐节 case 的落地能力。
 > ⚠️ 同场规则:这个故事和 failure 题共用素材,全场只用一次。当项目讲=完整弧线(设计→事故→止损→自动化);当 failure 讲=聚焦教训。
@@ -165,69 +166,62 @@
 
 ---
 
-# 实习一(抖音图文)· Story:垂类经营与头部创作者共创
+# IntelliPro(2025.5–2025.9)· Story:AI Sourcing 工具 0→1
 
-> 主打 JD 特质:**own 垂类 + 定标准 + 创作者生命周期 + 规模化**——与岗位最同构的一段。
+> 主打 JD 特质:**自定成功指标 + 实验与评估纪律 + 0→1 推动**。对运营岗的讲法:把模糊的质量标准变成可测量的体系,以及 AI 怎么放大运营人效。
+> ⚠️ 红线:说 "piloted, tested by working recruiters",不说上线;说 "designed and drove, wrote the prompts, ran the evaluation, built with engineering",不说单枪匹马。
 
 **中文框架(六要素)**
-- 背景:抖音图文团队,图文是平台的新内容形态,资源有限、垂类多
-- 目标:决定投哪些垂类,把垂类的内容供给和创作者增长做起来
-- 指标:垂类播放量(对大盘基线)、优质创作者发布频次、头部创作者留存
-- 角色:own 几个内容垂类的供给和创作者增长
-- 过程:三因子框架选垂类(规模×增速×图文相对优势)→ 四维质量标准可执行化(自己标注验证)→ 每垂类约 20 头部 1v1 诊断 → 共性卡点做成规模化项目(主题活动/社群/案例下沉)
-- 结果:垂类播放 +7%、优质创作者发布频次 +10%(均对大盘);框架成团队标准工具;沉淀"1v1 是信息采集不是服务模式"
+- 背景:IntelliPro,招聘服务公司;工具内嵌自有 ATS;团队=我+3 名工程师,直接汇报 CEO 和 CTO
+- 目标:0→1 做 AI sourcing——JD 进来,自动搜 LinkedIn、打分排序出 shortlist,替代招聘官人工读 JD/搜人/筛排
+- 指标:排序质量 nDCG@30(对 golden standard)、与招聘官人工排序的 Top-30 重合率、单 JD 成本、分阶段耗时
+- 角色:产品和系统设计我主导,scoring prompts 我亲写,离线评估我亲自跑;代码和工程一起做
+- 过程:多 agent 拆分(JD 解析/资历/技能/地点各一个,动机=长输入衰减+多目标注意力分散)→ 6 维加权评分 rubric → golden standard(每岗 30 人,我和 recruiter 独立标注再对齐)→ 8+ 模型 benchmark 选型
+- 结果:nDCG@30 约 94%(2 岗),Top-30 重合率 98%+(5 个 JD);成本约 $4–8/JD;在 ATS 内试点,真实招聘官在用。沉淀:把"什么是好候选人"从感觉变成了可测量的评分体系
 
 **中文逐字稿(约 90 秒)**
 
-> 背景:抖音的图文团队。图文当时是平台的新形态,垂类很多、资源有限,最大的问题是不知道该把力气花在哪。
+> 背景:IntelliPro,一家招聘服务公司。我在一个很小的团队——我加三个工程师,直接向 CEO 和 CTO 汇报。
 >
-> 目标两层:先决定投哪些垂类;再把选中垂类的内容供给和创作者增长做起来。
+> 要做的事是从零到一:一个 AI sourcing 工具,JD 丢进来,自动去 LinkedIn 搜人、打分、排序,吐出一份 shortlist——替代招聘官人工读 JD、手工搜人、手工筛排的流程。
 >
-> 指标:垂类播放量,对大盘基线看;优质创作者的发布频次;还有头部创作者的留存。
+> 指标是我自己定的,四个:排序质量,用 nDCG@30 对 golden standard;和招聘官人工排序的前 30 名重合率;单个 JD 的成本;还有分阶段的耗时。
 >
-> 我的角色是 own 几个内容垂类,供给和创作者增长都归我。
+> 我的角色:产品和系统设计我主导,打分的 prompts 是我亲手写的,离线评估是我亲自跑的;代码是和工程一起做的。
 >
-> 过程是三步。第一步,选垂类。我建了一个三因子框架:垂类规模、增速、加上"图文相对视频的优势"——最后选了摄影和艺术,因为那是图文真正打得过视频的地方。这一步的本质是承认资源有限,先想清楚不做什么。
+> 过程里两个关键设计。第一,把 pipeline 拆成多个专职 agent——JD 解析、资历、技能、地点各管各的。为什么拆:长输入下模型理解会衰减,多目标塞一个 prompt 里注意力会散。第二,评估体系:六个维度加权打分;golden standard 是我建的——每个岗位选 30 个候选人,我和 recruiter 各自打分再对齐,平均分做相关度标签。然后拿这套标准去 benchmark 了八个以上的模型,按质量和成本选型。
 >
-> 第二步,把标准做成可执行的。团队的质量要求是"有用又好看",但审核和算法没法执行四个字。我把它拆成四个维度的质量评分,然后自己上手标注内容,验证这套标准打分打得稳。
+> 结果:排序质量 nDCG@30 做到约 94%,和招聘官人工排序的前 30 名重合率 98% 以上;单个 JD 成本大概四到八美金。工具在公司的 ATS 里试点,真实的招聘官在用。
 >
-> 第三步,头部共创加规模化。按标准选出每个垂类大约二十个头部创作者,一对一聊,诊断每个人的卡点。然后关键的一步:把二十个人身上共性的两三个卡点,做成规模化的项目——主题活动、社群、头部案例下沉给腰部。一对一对我来说不是服务模式,是采集信息的方式。
->
-> 结果:垂类播放对大盘涨了 7%,优质创作者的发布频次涨了 10%,这套框架成了团队的标准工具。
->
-> 这段经历跟这个岗位是最同构的:A-List 管的是美妆时尚的头部创作者,打法是一样的——先定标准,再逐个诊断,最后把学到的东西产品化。
+> 这段经历对运营岗的意义,其实和我在图文做质量标准是同一件事:把一个模糊的"什么算好",变成一套可以测量、可以迭代的体系——只不过这次是用 AI 做的,而且我把评估纪律也带上了。
 
 **英文框架(六要素)**
-- Background: Douyin photo-text team; new format, many verticals, limited resources
-- Goal: pick the verticals, then grow supply & creators
-- Metrics: vertical views vs baseline, quality creators' posting frequency, top-creator retention
-- Role: owned several verticals end to end
-- Process: 3-factor vertical selection → 4-dim rubric, self-validated → 20 top creators 1v1 → common blockers productized
-- Result: +7% views, +10% posting frequency; framework became standard; "1v1 = information gathering"
+- Background: IntelliPro, recruiting services; tool inside their ATS; me + 3 engineers, reporting to CEO/CTO
+- Goal: 0-to-1 AI sourcing — JD in, scored LinkedIn shortlist out
+- Metrics: nDCG@30 vs golden standard / top-30 overlap with recruiters / cost per JD / stage latency
+- Role: led product & system design, wrote the scoring prompts, ran the evaluation; built with engineering
+- Process: multi-agent split (parsing/seniority/skill/location) → 6-dim weighted rubric → golden standard (30 per job, dual-labeled and reconciled) → 8+ model benchmark
+- Result: ~94% nDCG@30 (2 jobs), 98%+ top-30 overlap (5 JDs), ~$4–8 per JD; piloted in the ATS with working recruiters
 
 **英文逐字稿(约 90 秒)**
 
-> "The background: Douyin's photo-and-text team. Photo posts were a new format on a video platform — lots of verticals, limited resources, and the real question was where to spend the effort at all.
+> "The background: IntelliPro, a recruiting services company. Tiny team — me plus three engineers, reporting directly to the CEO and CTO.
 >
-> The goal had two layers: first decide which verticals to invest in, then grow supply and creators in the ones we picked.
+> The job was zero to one: an AI sourcing tool. A JD goes in, and out comes a scored, ranked LinkedIn shortlist — replacing the recruiter's manual loop of reading the JD, searching, and screening by hand.
 >
-> The metrics: vertical views against the platform baseline, posting frequency of quality creators, and top-creator retention.
+> I defined the metrics myself, four of them: ranking quality, using nDCG at thirty against a golden standard; top-thirty overlap with the recruiter's own ranking; cost per JD; and latency by stage.
 >
-> My role: I owned several content verticals — supply and creator growth, end to end.
+> My role: I led the product and system design, wrote the scoring prompts myself, and ran the offline evaluation myself. The code was built with engineering.
 >
-> Three steps. First, picking the verticals. I built a three-factor framework: vertical size, growth rate, and photo's relative advantage over video. We picked photography and art — the places where photo actually beats video. The real point of that step is admitting resources are finite and deciding what not to do.
+> Two design choices mattered. First, splitting the pipeline into specialist agents — JD parsing, seniority, skills, location — because models degrade on long inputs, and multi-goal prompts scatter attention. Second, the evaluation discipline: a six-dimension weighted rubric, and a golden standard I built myself — thirty candidates per job, labeled independently by me and a recruiter, then reconciled. With that in place, I benchmarked more than eight models and picked on quality versus cost.
 >
-> Second, making the standard executable. The quality bar was 'useful and beautiful' — four words a reviewer or an algorithm can't act on. I broke it into a four-dimension rubric, then labeled content myself to validate that it scored consistently.
+> The results: ranking quality around ninety-four percent nDCG at thirty, ninety-eight-plus percent overlap with recruiters' own top thirty, at roughly four to eight dollars per JD. It's piloted inside the company's ATS, with working recruiters using it.
 >
-> Third, top creators, then scale. I selected about twenty top creators per vertical against that standard and coached them one-on-one — diagnosing what blocked each of them. Then the key move: the two or three blockers everyone shared became scalable programs — themed campaigns, community channels, top-creator case studies pushed down to mid-tier. For me, one-on-one isn't a service model. It's how I gather information.
->
-> The results: vertical views up seven percent against baseline, quality creators' posting frequency up ten percent, and the framework became the team's standard tool.
->
-> And this chapter maps one-to-one onto this role: A-List manages top creators in beauty and fashion, and the play is identical — set the standard, diagnose individually, productize what you learn."
+> For an operations role, this chapter proves the same muscle as my quality rubric at Douyin: taking a fuzzy 'what does good look like' and turning it into something measurable and improvable — this time with AI, and with real evaluation discipline behind it."
 
 ---
 
-# 实习二(TikTok 特效团队)· Story:P0 供给链路诊断
+# TikTok 特效团队(2024.1–2024.6)· Story:P0 供给链路诊断
 
 > 主打 JD 特质:**数据驱动决策 + 跨团队推动 + ownership**。干系人对齐版在下一节,同场二选一。
 
@@ -286,6 +280,124 @@
 > The result: daily submissions grew about twelve times, and the editing page finally had fresh, popular effects every day.
 >
 > What I kept from it is the method — funnel diagnosis plus false-kill analysis — and it transfers to any supply chain, including LIVE creator supply: sign-up, first stream, retention, quality. Same diagnosis. And one footnote: the effects being killed were beauty and filter effects. The people who use those are exactly this vertical's users."
+
+---
+
+# TikTok Music(2023.8–2024.1)· Story:New Release 五市场分化诊断
+
+> **选段说明**:Music 段素材里这条是唯一 2026-07 已定稿的完整故事(指标设计 → 发现分化 → 归因 → 落地 → 可报数字),而且最贴 JD 的 "content strategies based on user behaviors and market dynamics"。备选是"三个自助看板/ad-hoc −70%"角度,但它已经作为这个故事的开头被包含了,单讲反而小。
+> **必背边界句**:这段做的是**内容和消费侧**,不是创作者运营——面试官若问"你在 Music 的经验怎么用到这个 case",答:数据方法和供需匹配来自 Music,创作者运营方法来自图文。两段拼起来才是完整答案。
+> ⚠️ 红线:内部数值只用相对表述;CTR +20% 和收听时长 +13% 是简历既有口径,可以说。GPT = Global Programming Team,严禁说成 AI。
+
+**中文框架(六要素)**
+- 背景:TikTok Music,Global Programming Team——一半是英文/K-pop 编辑,一半是印尼、巴西、墨西哥、澳洲、新加坡的本地编辑;我做数据方向的内容产品运营
+- 目标:用数据支撑歌单和 New Release 的内容策略;先解决团队没有自助数据的问题
+- 指标:口径我定义——WAU、完播率、跳过率、人均收听时长(播放量受曝光影响大,质量指标才反映内容和用户的真实匹配)
+- 角色:团队数据基建 owner,建了三个自助看板;每周产洞察给跨区编辑团队
+- 过程:建看板 → 我第一个从看板里看出 New Release 五市场分化(印尼完播最高、墨西哥/澳洲跳过率偏高、巴西量大质一般)→ 四个归因假设逐个对照(语言供给错配解释力最强:巴西流媒体过半是葡语,新歌池却偏英语)→ 用"市场内本地语言切片"区分产品问题还是供给问题 → 周度洞察 + 分市场内容建议,和对应语言的编辑一起落地
+- 结果:CTR +20%、平均收听时长 +13%;策展时间 4 天→2 天;ad-hoc 数据请求 −70%;沉淀:建看板的人要第一个从里面看出业务问题
+
+**中文逐字稿(约 90 秒)**
+
+> 背景:TikTok Music 的 Global Programming Team,全球歌单运营团队——一半是英文和 K-pop 的编辑,一半是印尼、巴西、墨西哥、澳洲的本地编辑。我做数据方向的内容产品运营,负责团队的数据基建。
+>
+> 目标是用数据支撑歌单和 New Release 的内容策略。第一步先解决团队没有自助数据的问题:我建了三个自助看板,指标口径都是我定义的——除了播放量,我特意加了完播率、跳过率、人均收听时长这些质量指标。因为播放量受曝光位影响太大,质量指标才反映内容和用户的真实匹配度。
+>
+> 看板上线之后,我第一个从里面看出了问题:New Release 这个功能,五个市场表现完全分化——印尼完播率显著最高,墨西哥和澳洲跳过率明显偏高,巴西贡献了大盘绝大部分播放但质量指标一般。只看全球均值,这个功能"还行";拆开市场看,是几个完全不同的故事。
+>
+> 我提了四个归因假设,用手里的数据逐个对照:内容供给错配、消费场景差异、发行节奏、产品本地化不足。解释力最强的是第一个——语言面板显示,巴西的流媒体消费里葡语占一半以上,英语只有两成,但新歌池是全球统一、偏英语的。语言错配,跳过率自然高。
+>
+> 有一个关键的分析动作:怎么区分是产品问题还是供给问题?看同一个市场内、本地语言新歌的跳过率——如果本地歌也高,是产品问题;不高,就是供给问题。数据指向供给。
+>
+> 落地:我把分化和归因整理成周度洞察,带着分市场的内容组合建议——提高葡语和本地厂牌新歌的占比——和对应语言的编辑一起改。结果:CTR 涨了 20%,平均收听时长涨了 13%;顺带的,策展时间从四天降到两天,ad-hoc 数据请求少了七成。
+>
+> 这段留给我最深的一条:建看板的人,应该第一个从看板里看出业务问题——指标体系不是摆设。
+
+**英文框架(六要素)**
+- Background: TikTok Music, Global Programming Team — half global/K-pop editors, half local editors (BR/ID/MX/AU/SG); I ran the team's data foundation
+- Goal: data-backed playlist & New Release content strategy; first fix the no-self-serve-data problem
+- Metrics: my definitions — WAU, finish rate, skip rate, listen time per user (quality over raw plays)
+- Role: owner of three self-serve dashboards; weekly insights to cross-regional editors
+- Process: build dashboards → first to spot the 5-market divergence → four hypotheses tested (language-supply mismatch wins) → in-market local-language slice separates product vs supply → weekly insight + per-market content mix, landed with local editors
+- Result: CTR +20%, avg listen time +13%; curation 4d→2d; ad-hoc requests −70%
+
+**英文逐字稿(约 90 秒)**
+
+> "The background: TikTok Music's Global Programming Team — half of it global and K-pop editors, half local editors for Brazil, Indonesia, Mexico, Australia. I ran the data side of content operations.
+>
+> The goal was data-backed content strategy for playlists and the New Release feature. Step one was fixing the fact that the team had no self-serve data. I built three dashboards, and I defined the metric conventions myself — beyond raw plays, I deliberately added finish rate, skip rate, and listen time per user. Raw plays follow exposure; the quality metrics tell you whether content and audience actually match.
+>
+> Once the dashboards were live, I was the first to spot a problem in them: New Release was diverging across the five markets. Indonesia had clearly the highest finish rate. Mexico and Australia skipped noticeably more. Brazil drove most of the volume but middling quality. On the global average the feature looked fine — split by market, it was several different stories.
+>
+> I put up four hypotheses and tested them against data I already had: supply mismatch, listening-context differences, release cadence, and under-localized product. The strongest was the first — the language panel showed over half of Brazil's streaming was Portuguese, only about a fifth English, while the new-release pool was global and English-heavy. Mismatch the language, and skips follow.
+>
+> One analytical move mattered most: separating product problem from supply problem. Look at local-language new releases within the same market — if those also skip high, it's product; if they don't, it's supply. The data said supply.
+>
+> Landing it: I turned the divergence and the attribution into weekly insights, with per-market content-mix recommendations — more Portuguese, more local-label releases — and worked them through with the local editors. Results: CTR up twenty percent, average listen time up thirteen. And along the way, curation time dropped from four days to two, and ad-hoc data requests fell seventy percent.
+>
+> The thing I keep from that chapter: whoever builds the dashboard should be the first to see the business problem in it. A metric system isn't furniture."
+
+---
+
+# 抖音图文(2023.1–2023.8)· Story:垂类经营与头部创作者共创
+
+> 主打 JD 特质:**own 垂类 + 定标准 + 创作者生命周期 + 规模化**——与岗位最同构的一段。
+
+**中文框架(六要素)**
+- 背景:抖音图文团队,图文是平台的新内容形态,资源有限、垂类多
+- 目标:决定投哪些垂类,把垂类的内容供给和创作者增长做起来
+- 指标:垂类播放量(对大盘基线)、优质创作者发布频次、头部创作者留存
+- 角色:own 几个内容垂类的供给和创作者增长
+- 过程:三因子框架选垂类(规模×增速×图文相对优势)→ 四维质量标准可执行化(自己标注验证)→ 每垂类约 20 头部 1v1 诊断 → 共性卡点做成规模化项目(主题活动/社群/案例下沉)
+- 结果:垂类播放 +7%、优质创作者发布频次 +10%(均对大盘);框架成团队标准工具;沉淀"1v1 是信息采集不是服务模式"
+
+**中文逐字稿(约 90 秒)**
+
+> 背景:抖音的图文团队。图文当时是平台的新形态,垂类很多、资源有限,最大的问题是不知道该把力气花在哪。
+>
+> 目标两层:先决定投哪些垂类;再把选中垂类的内容供给和创作者增长做起来。
+>
+> 指标:垂类播放量,对大盘基线看;优质创作者的发布频次;还有头部创作者的留存。
+>
+> 我的角色是 own 几个内容垂类,供给和创作者增长都归我。
+>
+> 过程是三步。第一步,选垂类。我建了一个三因子框架:垂类规模、增速、加上"图文相对视频的优势"——最后选了摄影和艺术,因为那是图文真正打得过视频的地方。这一步的本质是承认资源有限,先想清楚不做什么。
+>
+> 第二步,把标准做成可执行的。团队的质量要求是"有用又好看",但审核和算法没法执行四个字。我把它拆成四个维度的质量评分,然后自己上手标注内容,验证这套标准打分打得稳。
+>
+> 第三步,头部共创加规模化。按标准选出每个垂类大约二十个头部创作者,一对一聊,诊断每个人的卡点。然后关键的一步:把二十个人身上共性的两三个卡点,做成规模化的项目——主题活动、社群、头部案例下沉给腰部。一对一对我来说不是服务模式,是采集信息的方式。
+>
+> 结果:垂类播放对大盘涨了 7%,优质创作者的发布频次涨了 10%,这套框架成了团队的标准工具。
+>
+> 这段经历跟这个岗位是最同构的:A-List 管的是美妆时尚的头部创作者,打法是一样的——先定标准,再逐个诊断,最后把学到的东西产品化。
+
+**英文框架(六要素)**
+- Background: Douyin photo-text team; new format, many verticals, limited resources
+- Goal: pick the verticals, then grow supply & creators
+- Metrics: vertical views vs baseline, quality creators' posting frequency, top-creator retention
+- Role: owned several verticals end to end
+- Process: 3-factor vertical selection → 4-dim rubric, self-validated → 20 top creators 1v1 → common blockers productized
+- Result: +7% views, +10% posting frequency; framework became standard; "1v1 = information gathering"
+
+**英文逐字稿(约 90 秒)**
+
+> "The background: Douyin's photo-and-text team. Photo posts were a new format on a video platform — lots of verticals, limited resources, and the real question was where to spend the effort at all.
+>
+> The goal had two layers: first decide which verticals to invest in, then grow supply and creators in the ones we picked.
+>
+> The metrics: vertical views against the platform baseline, posting frequency of quality creators, and top-creator retention.
+>
+> My role: I owned several content verticals — supply and creator growth, end to end.
+>
+> Three steps. First, picking the verticals. I built a three-factor framework: vertical size, growth rate, and photo's relative advantage over video. We picked photography and art — the places where photo actually beats video. The real point of that step is admitting resources are finite and deciding what not to do.
+>
+> Second, making the standard executable. The quality bar was 'useful and beautiful' — four words a reviewer or an algorithm can't act on. I broke it into a four-dimension rubric, then labeled content myself to validate that it scored consistently.
+>
+> Third, top creators, then scale. I selected about twenty top creators per vertical against that standard and coached them one-on-one — diagnosing what blocked each of them. Then the key move: the two or three blockers everyone shared became scalable programs — themed campaigns, community channels, top-creator case studies pushed down to mid-tier. For me, one-on-one isn't a service model. It's how I gather information.
+>
+> The results: vertical views up seven percent against baseline, quality creators' posting frequency up ten percent, and the framework became the team's standard tool.
+>
+> And this chapter maps one-to-one onto this role: A-List manages top creators in beauty and fashion, and the play is identical — set the standard, diagnose individually, productize what you learn."
 
 ---
 
