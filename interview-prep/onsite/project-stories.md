@@ -26,7 +26,7 @@
 >
 > 用两段经历来证明。
 >
-> 第一段,在抖音的图文团队,我 own 几个内容垂类的供给和创作者增长。做了三件事:先建了一个三因子框架,决定资源投给哪个垂类——选了图文真正打得过视频的地方;再把"有用又好看"这四个字拆成四维质量标准,让审核和算法都能执行;然后按标准选出每个垂类大约 20 个头部创作者,一对一诊断卡点,再把共性的卡点做成规模化项目——主题活动、社群、头部案例下沉。结果是垂类播放对大盘涨了 7%,优质创作者的发布频次涨了 10%,框架成了团队的标准工具。
+> 第一段,在抖音的图文团队,我 own 几个内容垂类的供给和创作者增长。做了三件事:先建了一个三因子框架,决定资源投给哪个垂类——选了图文真正打得过视频的地方;再把"有用又好看"这四个字拆成四维质量标准,让审核和算法都能执行;然后按标准选出每个垂类大约 20 个头部创作者,一对一诊断卡点,再把共性的卡点做成规模化项目——主题活动、社群、头部案例下沉,还联动产品补了图文模板工具。结果是垂类播放对大盘涨了 7%,优质创作者的发布频次涨了 10%,框架成了团队的标准工具。
 >
 > 第二段,在美国的 agency,我管一个四万四千人的达人库。人少达人多,所以打法是标准、分层、自动化:用 GMV 和内容数据分层,CRM 自动运转,人力只花在头部和例外上;再搭了一个品牌和达人的匹配引擎,把一次性合作变成复购。结果是一个 AM 从只能服务一个品牌,变成能服务两到三个。这段经历还有两个对这个岗位特别有用的点:我完整跑过美区 TikTok Shop 的 Black Friday,而且合作里很大一部分就是美妆、时尚、生活方式品类。
 >
@@ -47,7 +47,7 @@
 >
 > Two pieces of evidence.
 >
-> First, at Douyin's photo-and-text team, I owned content verticals — supply and creator growth. Three moves. I built a three-factor framework to decide where resources go, and picked the verticals where photo posts actually beat video. I turned a vague quality bar — 'useful and beautiful' — into a four-dimension rubric that reviewers and algorithms could act on. And I selected about twenty top creators per vertical, coached them one-on-one, then turned the common blockers into scalable programs: themed campaigns, community channels, top-creator case studies shared down. Vertical views grew seven percent against baseline, quality creators' posting frequency grew ten percent, and the framework became the team's standard tool.
+> First, at Douyin's photo-and-text team, I owned content verticals — supply and creator growth. Three moves. I built a three-factor framework to decide where resources go, and picked the verticals where photo posts actually beat video. I turned a vague quality bar — 'useful and beautiful' — into a four-dimension rubric that reviewers and algorithms could act on. And I selected about twenty top creators per vertical, coached them one-on-one, then turned the common blockers into scalable programs: themed campaigns, community channels, top-creator case studies shared down — and photo-post template tools shipped with the product team. Vertical views grew seven percent against baseline, quality creators' posting frequency grew ten percent, and the framework became the team's standard tool.
 >
 > Second, at a US agency, I ran a database of forty-four thousand creators. Too many creators, too few people — so the play was standards, segmentation, automation. Data-driven tiering, a CRM that runs itself, human effort only on top creators and exceptions. Then I built a matching engine between brands and creators, turning one-off collaborations into repeat ones. An account manager went from handling one brand to two or three. Two things from that chapter matter here: I worked through TikTok Shop's Black Friday on the US side, hands-on. And a large share of those brand deals were in beauty, fashion, and lifestyle.
 >
@@ -59,51 +59,63 @@
 
 # 美区 Agency(2025.9–今)· Story 1:44k 达人库规模化
 
-> 主打 JD 特质:**数据驱动 + 可规模化机制 + 商业化 + 美区市场**
+> 主打 JD 特质:**数据驱动 + 可规模化机制 + 商业化 + 美区市场 + 学习能力(API/AI 上手快)**
 
 **中文框架(六要素)**
 - 背景:美区 agency,TikTok 电商生态;4.4 万达人库,300+ 品牌客户,AM 人力少(一人只能服务一个品牌)
 - 目标:把达人运营从人肉服务变成系统,提升品牌×达人的匹配效率,把一次性合作变成复购
 - 指标:AM 人效(服务品牌数)、匹配转化率、复购合作率、GMV
-- 角色:own 达人库运营体系,分层标准、CRM 自动化、匹配引擎都由我设计推动
-- 过程:诊断(GMV+内容表现找真正驱动业务的达人)→ 分层(不同层不同资源)→ 试点(工具先给几个 AM,再铺 300+ 品牌)→ 系统化(CRM 自动分层触达)→ 匹配引擎(品类/画像/价格带/历史转化)
-- 结果:AM 人效 1 → 2-3;沉淀分层 SOP 和匹配逻辑;完整跑过美区 BFCM,大量美妆时尚品类实操
+- 角色:own 达人库运营体系——分层标准、CRM 自动化(我调 TikTok API + AI 辅助搭建)、痛点匹配方法,都由我设计推动
+- 过程五步:①诊断(GMV+内容表现找真正驱动业务的达人)②分层(不同层不同资源)③系统化(调 TikTok API 自动拉数据和 GMV,AI 辅助开发,CRM 自动分层触达)④匹配方法升级:品类匹配效率不高(有的创作者能跨品类)→ 换**痛点匹配**三步:AI 解析品牌产品的需求痛点 → 找卖过同痛点产品的创作者(卖巧克力擅长"安抚情绪"→宠物品类同痛点产品也能卖)→ 按同痛点产品 GMV 从高到低排序,验证带货能力 ⑤试点与铺开(先给几个 AM 验证,再铺 300+ 品牌)
+- 结果:AM 人效 1 → 2-3;痛点匹配法和分层标准沉淀成 SOP;完整跑过美区 BFCM,大量美妆时尚品类实操
 
-**中文逐字稿(约 90 秒)**
+**中文逐字稿(约 100 秒)**
 
 > 先说背景。美区的 agency,做 TikTok 电商生态:库里有四万四千个达人,三百多个品牌客户,但 AM 人力很少——当时一个 AM 只能服务一个品牌,完全是人肉模式。
 >
-> 目标就一个:把达人运营从人肉服务变成系统。具体拆成两件事:匹配效率——让对的达人遇到对的品牌;和复购——让一次性合作变成长期合作。
+> 目标就一个:把达人运营从人肉服务变成系统。具体两件事:匹配效率——让对的达人遇到对的品牌;和复购——让一次性合作变成长期合作。
 >
-> 衡量的指标:AM 的人效,也就是一个人能服务几个品牌;匹配的转化率;还有复购合作的比例。
+> 指标:AM 的人效,一个人能服务几个品牌;匹配的转化率;复购合作的比例。
 >
-> 我的角色是 own 整个达人库的运营体系,分层标准、自动化、匹配引擎,都是我设计和推动的。
+> 我的角色是 own 整个达人库的运营体系,分层标准、自动化、匹配方法,都是我设计和推动的。
 >
-> 过程是四步。第一步诊断:用 GMV 和内容表现的数据,先搞清楚哪些达人真正在驱动业务——结论很典型,头部一小部分贡献绝大部分产出。第二步分层:按 GMV 贡献和内容表现分层,每一层配不同的资源,人力只花在头部和例外上。第三步试点:所有策略先小跑——工具先给几个 AM 用,验证完再铺到三百多个品牌。第四步系统化:CRM 自动分层、自动触达,系统自己转。在这之上,我又搭了一个品牌和达人的匹配引擎,按品类、画像、价格带和历史转化去配对,把一次性合作往复购推。
+> 过程五步。第一步诊断:用 GMV 和内容表现的数据,搞清楚哪些达人真正在驱动业务——头部一小部分贡献绝大部分产出。第二步分层:按 GMV 贡献和内容表现分层,每层配不同资源,人力只花在头部和例外上。
 >
-> 结果:一个 AM 从服务一个品牌,变成服务两到三个;分层标准和匹配逻辑沉淀成了 SOP。另外两个对这个岗位有用的点:我完整跑过美区 TikTok Shop 的 Black Friday;而且这些品牌合作里,美妆、时尚、生活方式占了很大一部分——正好是 A-List 的品类。
+> 第三步,系统化。这一步我想多说一句:CRM 的自动分层、自动触达,是我自己调 TikTok 的 API,把达人数据和 GMV 自动拉回来,再用 AI 辅助开发搭起来的。我不是工程背景,但这套系统从设计到跑起来是我 own 的——用新工具解决业务问题,我上手很快。
+>
+> 第四步,匹配方法的升级,这是整个体系里我最得意的部分。一开始我们按品类匹配——美妆品牌找美妆达人。跑了一段发现效率不高,因为有些创作者的能力是可以突破品类的。所以我们换成了按"痛点"匹配,三步:先用 AI 把品牌要带的产品解析出需求痛点;然后去找卖过"同痛点产品"的创作者——举个例子,一个卖巧克力的博主,如果他擅长卖"安抚情绪"这个痛点,那宠物品类里主打安抚情绪的产品,他大概率也能卖;最后,把这个创作者卖过的同痛点产品按 GMV 从高到低排,用数据证明他确实有卖这个痛点的能力。
+>
+> 第五步,试点和铺开:所有这些先给几个 AM 小范围用,验证有效,再铺到三百多个品牌。
+>
+> 结果:一个 AM 从服务一个品牌,变成两到三个;痛点匹配法和分层标准沉淀成了 SOP。另外两点对这个岗位有用:我完整跑过美区 TikTok Shop 的 Black Friday;这些品牌合作里,美妆、时尚、生活方式占很大一部分——正好是 A-List 的品类。
 
 **英文框架(六要素)**
 - Background: US agency, TikTok commerce; 44k creators, 300+ brands, one AM per brand
 - Goal: turn creator ops from manual service into a system; matching efficiency + repeat collaborations
 - Metrics: AM capacity, match conversion, repeat rate, GMV
-- Role: owned the ops system — tiering standard, CRM automation, matching engine
-- Process: diagnose → tier → pilot → systemize → matching engine
-- Result: AM 1 → 2-3; SOP retained; US BFCM hands-on; heavy beauty/fashion category exposure
+- Role: owned the ops system — tiering standard, CRM automation (built by me calling the TikTok API, with AI-assisted development), the pain-point matching method
+- Process ×5: diagnose → tier → systemize (TikTok API + AI-assisted build) → matching upgrade: category matching underperformed → pain-point matching (AI parses the product's pain point → find creators who sold same-pain-point products → rank their same-pain-point GMV as proof) → pilot & roll out
+- Result: AM 1 → 2-3; pain-point method + tiering codified as SOP; US BFCM hands-on; heavy beauty/fashion exposure
 
-**英文逐字稿(约 90 秒)**
+**英文逐字稿(约 100 秒)**
 
-> "The background: a US agency in the TikTok commerce ecosystem. Forty-four thousand creators in the database, three hundred plus brand clients — and very few account managers. One AM could serve exactly one brand. Fully manual.
+> "The background: a US agency in the TikTok commerce ecosystem. Forty-four thousand creators, three hundred plus brand clients, very few account managers — one AM could serve exactly one brand. Fully manual.
 >
-> The goal was to turn that into a system. Two things specifically: matching efficiency — right creator meets right brand — and repeat rate, turning one-off collaborations into ongoing ones.
+> The goal: turn that into a system. Two things — matching efficiency, right creator meets right brand; and repeat rate, one-off deals becoming ongoing ones.
 >
-> The metrics: AM capacity — how many brands one person can serve — match conversion, and the share of repeat collaborations.
+> The metrics: AM capacity, match conversion, and the share of repeat collaborations.
 >
-> My role: I owned the ops system end to end — the tiering standard, the CRM automation, and the matching engine.
+> My role: I owned the ops system — the tiering standard, the automation, and the matching method.
 >
-> The process, four steps. Diagnose: use GMV and content data to find which creators actually drive the business — and it's the classic shape, a small top drives most of the output. Tier: segment by GMV contribution and content performance, different resources per tier, human effort only on the top and the exceptions. Pilot: everything starts small — the planning tool went to a few AMs first, then rolled out across three hundred brands. Systemize: the CRM does tiering and outreach automatically. And on top of that, I built a matching engine — category, audience profile, price band, past conversion — pushing one-off deals toward repeat ones.
+> Five steps. One, diagnose: GMV and content data show which creators actually drive the business — a small top drives most of it. Two, tier: different resources per tier, human effort only on the top and the exceptions.
 >
-> The results: an account manager went from one brand to two or three, and the tiering and matching logic became standing SOPs. Two extra points that matter for this role: I worked through TikTok Shop's Black Friday on the US side, hands-on. And a large share of those deals were beauty, fashion, and lifestyle — exactly A-List's categories."
+> Three, systemize — and I want to spend a sentence here. The CRM's auto-tiering and auto-outreach, I built myself: I called the TikTok API to pull creator data and GMV automatically, and used AI-assisted development to put the system together. I'm not from an engineering background, but this system was mine from design to running — I pick up new tools fast when the business needs them.
+>
+> Four, the matching upgrade — my favorite part. We started with category matching: beauty brands get beauty creators. It underperformed, because some creators can sell beyond their category. So we switched to pain-point matching, three steps. First, AI parses the brand's product into its need pain point. Second, find creators who have sold products with the same pain point — for example, a chocolate seller who's great at selling 'comfort and stress relief' can probably sell pet products built on the same pain point. Third, rank that creator's same-pain-point products by GMV, high to low — the data proves they can sell this pain point.
+>
+> Five, pilot and roll out: everything went to a few AMs first, proved out, then scaled across three hundred plus brands.
+>
+> The results: an AM went from one brand to two or three; the pain-point method and the tiering standard became SOPs. Two extra points for this role: I worked through TikTok Shop's Black Friday on the US side, and a large share of those deals were beauty, fashion, and lifestyle — exactly A-List's categories."
 
 ---
 
@@ -117,7 +129,7 @@
 - 目标:让 5000 人规模的签到和权益分层顺畅交付
 - 指标:签到时长、错误率/投诉数、处理完成率
 - 角色:签到与分层流程的设计者之一;事故后主导自动化改造
-- 过程:选了人工方案 → 没做容量测算(教训)→ 现场 3000+ 积压、20+ 分层错误投诉 → 先止血(逐条复核、按实际损害排序道歉修正)→ 再根治(webhook + TikTok API 全流程自动化)
+- 过程:选了人工方案 → 没做容量测算(教训):名单录入要查每人 GMV 且要查得及时,人工查不过来 → **赛前一周** 3000+ 名单没录进去、20+ 分层错误投诉(还有时间补救,但已不符预期)→ 先止血(逐条复核、按实际损害排序道歉修正)→ 再根治(webhook + TikTok API 自动查 GMV 自动定层)→ 赛前录完,活动当天签到 4h→20min
 - 结果:签到从 4 小时降到 20 分钟;沉淀"先算容量再承诺"的硬规则
 
 **中文逐字稿(约 90 秒)**
@@ -128,9 +140,9 @@
 >
 > 我的角色,前半程是流程设计者之一,后半程是自动化改造的主导者。
 >
-> 过程我讲实话,因为这个项目是从一个错误开始的。我们选了人工方案,而且犯了一个很基础的错:没有做容量测算——没有人算过,这个团队的人力到底处理得了多大的量。我自己也是设计者之一,这个错有我一份。
+> 过程我讲实话,因为这个项目是从一个错误开始的。名单录入的时候,每个创作者都要录 GMV,而且 GMV 要查询得很及时——我们选了人工方案,并且犯了一个很基础的错:没有做容量测算。没有人算过,人工查询的速度到底追不追得上名单量。我自己也是设计者之一,这个错有我一份。
 >
-> 结果现场积压了三千多人,分层错误的投诉超过二十条。
+> 到赛前一周,GMV 还没查完:三千多人的名单没录进去,分层错误的投诉超过二十条。好在发现得不算晚,还有时间补救——但已经不符合预期了。
 >
 > 我们做了两段处理。先止血:每一条投诉逐条复核,按实际损害排优先级,先道歉、再修正,把信任接回来。然后根治:我主导把整个流程自动化——用 webhook 加 TikTok 的 API,分层自动判定、自动执行,把人从流程里拿出来。
 >
@@ -154,9 +166,9 @@
 >
 > My role: co-designer of the process up front, and lead on the automation rebuild afterward.
 >
-> I'll tell this one honestly, because it starts with a mistake. We chose a manual approach, and we skipped something basic: the capacity math. Nobody calculated whether the team could actually handle that volume. I was part of that design, so part of that mistake is mine.
+> I'll tell this one honestly, because it starts with a mistake. Registering the list meant recording each creator's GMV, and the GMV had to be looked up fast. We chose a manual approach — and skipped something basic: the capacity math. Nobody calculated whether manual lookups could keep pace with the list. I was part of that design, so part of that mistake is mine.
 >
-> The result: a backlog of more than three thousand creators on site, and over twenty complaints about wrong tier assignments.
+> One week before the event, the lookups still weren't done: a backlog of more than three thousand creators not yet registered, and over twenty complaints about wrong tier assignments. We caught it with time to recover — but we were already off plan.
 >
 > We handled it in two phases. First, stop the bleeding: recheck every complaint one by one, prioritize by actual harm, apologize, fix the assignment — win the trust back. Then the root fix: I led the automation of the whole flow — webhooks plus the TikTok API, so tiering happens automatically, with humans out of the loop.
 >
@@ -348,7 +360,7 @@
 - 目标:决定投哪些垂类,把垂类的内容供给和创作者增长做起来
 - 指标:垂类播放量(对大盘基线)、优质创作者发布频次、头部创作者留存
 - 角色:own 几个内容垂类的供给和创作者增长
-- 过程:三因子框架选垂类(规模×增速×图文相对优势)→ 四维质量标准可执行化(自己标注验证)→ 每垂类约 20 头部 1v1 诊断 → 共性卡点做成规模化项目(主题活动/社群/案例下沉)
+- 过程:三因子框架选垂类(规模×增速×图文相对优势)→ 四维质量标准可执行化(⚠️ 四维口径请本人核对:实用价值(有用)/视觉完成度(好看)/原创度/互动回流(赞藏分享);自己标注验证)→ 每垂类约 20 头部 1v1 诊断 → 共性卡点做成规模化项目(主题活动/社群/案例下沉)+ 工具补齐(对比小红书缺图文模板 → 联动产品做图文投稿模板工具)
 - 结果:垂类播放 +7%、优质创作者发布频次 +10%(均对大盘);框架成团队标准工具;沉淀"1v1 是信息采集不是服务模式"
 
 **中文逐字稿(约 90 秒)**
@@ -363,9 +375,9 @@
 >
 > 过程是三步。第一步,选垂类。我建了一个三因子框架:垂类规模、增速、加上"图文相对视频的优势"——最后选了摄影和艺术,因为那是图文真正打得过视频的地方。这一步的本质是承认资源有限,先想清楚不做什么。
 >
-> 第二步,把标准做成可执行的。团队的质量要求是"有用又好看",但审核和算法没法执行四个字。我把它拆成四个维度的质量评分,然后自己上手标注内容,验证这套标准打分打得稳。
+> 第二步,把标准做成可执行的。团队的质量要求是"有用又好看",但审核和算法没法执行四个字。我把它拆成四个维度的质量评分:"有用"拆成实用价值——信息有没有增量、能不能照着做;"好看"拆成视觉完成度——构图、排版、封面;再加原创度,和互动回流——赞藏分享这些观众用手投票的数据。然后我自己上手标注内容,验证这套标准打分打得稳。
 >
-> 第三步,头部共创加规模化。按标准选出每个垂类大约二十个头部创作者,一对一聊,诊断每个人的卡点。然后关键的一步:把二十个人身上共性的两三个卡点,做成规模化的项目——主题活动、社群、头部案例下沉给腰部。一对一对我来说不是服务模式,是采集信息的方式。
+> 第三步,头部共创加规模化。按标准选出每个垂类大约二十个头部创作者,一对一聊,诊断每个人的卡点。然后关键的一步:把二十个人身上共性的两三个卡点,做成规模化的项目——主题活动、社群、头部案例下沉给腰部。还有一个共性卡点出在工具上:当时对比小红书,人家有大量现成的好看模板,抖音的图文模板很缺。这个靠运营解不了,我们就联动产品,做了图文的投稿模板工具。一对一对我来说不是服务模式,是采集信息的方式。
 >
 > 结果:垂类播放对大盘涨了 7%,优质创作者的发布频次涨了 10%,这套框架成了团队的标准工具。
 >
@@ -391,9 +403,9 @@
 >
 > Three steps. First, picking the verticals. I built a three-factor framework: vertical size, growth rate, and photo's relative advantage over video. We picked photography and art — the places where photo actually beats video. The real point of that step is admitting resources are finite and deciding what not to do.
 >
-> Second, making the standard executable. The quality bar was 'useful and beautiful' — four words a reviewer or an algorithm can't act on. I broke it into a four-dimension rubric, then labeled content myself to validate that it scored consistently.
+> Second, making the standard executable. The quality bar was 'useful and beautiful' — four words a reviewer or an algorithm can't act on. I broke it into four scoreable dimensions: practical value — is there real information, can you act on it; visual quality — composition, layout, the cover; originality; and engagement — likes, saves, shares, the audience voting with their hands. Then I labeled content myself to validate that it scored consistently.
 >
-> Third, top creators, then scale. I selected about twenty top creators per vertical against that standard and coached them one-on-one — diagnosing what blocked each of them. Then the key move: the two or three blockers everyone shared became scalable programs — themed campaigns, community channels, top-creator case studies pushed down to mid-tier. For me, one-on-one isn't a service model. It's how I gather information.
+> Third, top creators, then scale. I selected about twenty top creators per vertical against that standard and coached them one-on-one — diagnosing what blocked each of them. Then the key move: the two or three blockers everyone shared became scalable programs — themed campaigns, community channels, top-creator case studies pushed down to mid-tier. And one shared blocker was tooling: compared with Xiaohongshu, which had a rich template library, Douyin barely had photo-post templates. Operations can't fix that, so we partnered with the product team and shipped photo-post template tools. For me, one-on-one isn't a service model. It's how I gather information.
 >
 > The results: vertical views up seven percent against baseline, quality creators' posting frequency up ten percent, and the framework became the team's standard tool.
 >
