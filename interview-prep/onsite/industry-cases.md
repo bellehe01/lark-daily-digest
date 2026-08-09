@@ -86,7 +86,7 @@
 
 **要点(四维)**
 - 数据:短视频 47.5 万粉(单条 5 万–25 万播放);直播 650+ 在线、单场 1.3 万赞
-- 内容:GRWM+穿搭,暗黑复古人设从短视频到直播完全统一;有"thrift tuesday"连载栏目
+- 内容:GRWM+穿搭,暗黑复古人设从短视频到直播完全统一
 - 互动(具体行为):评论区在**给她出选题**("能不能做一期你风格的返校穿搭?")她接住了;还有人设向提问("你是外向还是内向?")——观众关心的是她这个人
 - 运营:**每天直播**承接短视频粉;变现双轨——打赏联赛 D1 头部 + 挂车 918 单
 - 收口:"短视频创作者转直播"的完美中腰部样本
@@ -97,7 +97,7 @@
 >
 > 一、数据。她短视频四十七万粉,单条播放五万到二十五万;直播我进去的时候六百五十多人在线,单场一万三千个赞。
 >
-> 二、内容。妆容教程加穿搭展示,暗黑复古的人设,从短视频到直播间完全统一;还有"捡漏星期二"这种连载栏目。她的直播就是边上卷发筒边化妆,身后就是挂衣架。
+> 二、内容。妆容教程加穿搭展示,暗黑复古的人设,从短视频到直播间完全统一。她的直播就是边上卷发筒边化妆,身后就是挂衣架。
 >
 > 三、互动。这个直播间最打动我的是评论区的质量:观众在给她出选题——"能不能做一期你风格的返校穿搭";还有人问"你是外向还是内向"——观众关心的不只是内容,是她这个人。需求信号在直播间自己长出来,而且她接住了。
 >
@@ -111,7 +111,7 @@
 >
 > One, data: four hundred seventy-five thousand short-video followers, fifty to two hundred fifty thousand plays per video; six hundred fifty people in her live room when I joined, thirteen thousand likes on the stream.
 >
-> Two, content: makeup tutorials and outfit showcases, one dark-vintage persona held consistently from grid to live room, plus serial formats like thrift Tuesday. Her live is literally rollers-in, doing makeup, clothing rack behind her.
+> Two, content: makeup tutorials and outfit showcases, one dark-vintage persona held consistently from grid to live room. Her live is literally rollers-in, doing makeup, clothing rack behind her.
 >
 > Three, interaction: what impressed me most is the chat. Viewers pitch her topics — 'can you do back-to-school outfit ideas in your style?' Someone asked if she's an extrovert or introvert — they care about her, not just the content. The demand signal grows inside the room, and she catches it.
 >

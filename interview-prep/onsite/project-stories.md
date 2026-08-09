@@ -366,7 +366,7 @@
 **中文框架(六要素)**
 - 背景:我的第一段实习;抖音图文是新内容形态,资源有限,但承担了很高的增长目标
 - 目标:先决定把精力投在哪些垂类,再把内容供给和创作者增长做起来
-- 指标:**团队指标** = 垂类播放量对大盘 +7%、优质创作者发布频次 +10%、头部留存;**我负责其中一整个板块** = 发掘优质内容和优质创作者、沉淀标准——我的量化目标:从约 X 万投稿中发掘约 XX 位优质创作者、XXX 篇优质内容(⚠️ 按真实情况定个数,没有精确数也要给量级)
+- 指标:**团队指标** = 垂类播放量对大盘 +7%、优质创作者发布频次 +10%、头部留存;**我负责其中一整个板块** = 发掘优质内容和优质创作者、沉淀标准——发掘方法:逐个看创作者主页,每人约看 10 条视频,一共看了 8000 多个创作者,最终挖出五六百位优质创作者进入投稿激励活动;另外访谈了本平台和竞对平台的头部创作者,摸他们的痛点和需求
 - 角色:实习生,服务团队目标;own 发掘板块和标准
 - 过程:①筛垂类:规模、占比、增速,加上图文内容的独特性——选定摄影和艺术(选对内容,增长容易;选错方向,增长很难)②标准做成可规模化执行,四个维度一点一句:合规(生态优质合规,非 AI 生成)/ 画面(整洁精致、构图色彩明亮、符合垂类调性——把"美感"抽炼出来)/ 情绪价值(**举例**:现在依然爆火的"单张图+情绪文案"就是我们当时探索出来的;"攻略型"内容是有用的代表,比如摄影教学)/ 无营销感(无广告、无挂车)③头部共创+规模化(简化讲):20 位头部 1v1 找共性卡点,做成投稿激励活动,并联动产品做了投稿工具(图文模板)
 - 结果:垂类播放对大盘 +7%,优质创作者发布频次 +10%;标准成为团队工具
@@ -375,7 +375,9 @@
 
 > 背景:这是我的第一段实习,在抖音图文团队。图文当时是一个比较新的内容形态,资源是有限的,但承担了很高的增长目标。所以当时的目标是:先决定把精力投放在哪些垂类,再把整个内容供给和创作者增长做起来。
 >
-> 团队的指标是:垂类播放量对比大盘要涨多少,优质创作者的发布频次和留存要涨多少。我的角色,是在其中负责一整个板块:我 own 几个垂类的优质内容和优质创作者的发掘,并且要沉淀出发掘的标准。我给自己的量化目标是从投稿池里发掘出一批优质创作者和优质内容(数字见框架,⚠️ 待定)。
+> 团队的指标是:垂类播放量对比大盘要涨多少,优质创作者的发布频次和留存要涨多少。我的角色,是在其中负责一整个板块:我 own 几个垂类的优质内容和优质创作者的发掘,并且要沉淀出发掘的标准。
+>
+> 发掘这件事是笨功夫:我是一个一个看创作者的主页,一个创作者大概看十个视频,前前后后看了八千多个创作者,最后挖出来五六百位优质的,让他们进入接下来的投稿激励活动。另外我们还访谈了我们平台、还有竞争对手平台的头部创作者,去摸他们真实的痛点和需求。
 >
 > 第一步,先筛垂类。因为选对内容,增长其实是容易的;选错方向,再努力都难。我建了一个框架:看规模、占比、增速,再加上图文内容本身的独特性——最终选定了摄影和艺术这两个垂类。
 >
@@ -388,7 +390,7 @@
 **英文框架(六要素)**
 - Background: my first internship; photo-text was a new format, limited resources, high growth targets
 - Goal: decide which verticals to invest in, then grow supply & creators
-- Metrics: team = vertical views +7% vs baseline, quality creators' posting frequency +10%, top retention; my block = discovering quality content & creators + codifying the standard, with a quantified discovery target (fill the number)
+- Metrics: team = vertical views +7% vs baseline, quality creators' posting frequency +10%, top retention; my block = discovering quality content & creators + codifying the standard — I reviewed creators one by one, ~10 videos each, over 8,000 creators in total, and surfaced 500–600 quality creators into the incentive campaign; also interviewed top creators on our platform and competitors to map their pain points
 - Role: intern serving the team goal; owned the discovery block
 - Process: pick verticals (size/share/growth + photo's uniqueness → photography & art) → four scoreable dimensions, one line each: compliance / visual craft / emotional value (example: the still-viral "single image + emotional caption" format we explored; how-to guides as the "useful" archetype) / no commercial feel → top-creator co-creation simplified: 20 creators 1v1, common blockers into posting-incentive campaigns + posting tool (templates) with product
 - Result: +7% views, +10% posting frequency; the standard became the team's tool
@@ -397,7 +399,9 @@
 
 > "The background: my first internship, on Douyin's photo-and-text team. Photo posts were a new format — limited resources, but high growth targets. So the job was: decide where to invest first, then grow content supply and creators.
 >
-> The team's metrics were vertical views against the platform baseline, and quality creators' posting frequency and retention. My role was one whole block within that: I owned discovering quality content and quality creators for my verticals, and codifying the standard for discovery — with a quantified discovery target.
+> The team's metrics were vertical views against the platform baseline, and quality creators' posting frequency and retention. My role was one whole block within that: I owned discovering quality content and quality creators for my verticals, and codifying the standard for discovery.
+>
+> The discovery itself was honest legwork: I went through creators' profiles one by one, about ten videos per creator, over eight thousand creators in total — and surfaced five to six hundred quality creators into the posting-incentive campaign. On top of that, we interviewed top creators on our platform and on competitor platforms, to map their real pain points and needs.
 >
 > Step one, pick the verticals. Pick the right content and growth comes easy; pick wrong and no effort saves you. I built a simple framework — size, share, growth rate, plus photo's own uniqueness — and landed on photography and art.
 >
