@@ -425,49 +425,41 @@
 
 ## 二4. 实际落地中,创作者不配合怎么办?
 
-**中文框架**
-- 先拆动机,四种:不认同 / 怕收入掉 / 习惯改不动 / 关系没到
-- 对症:数据+小试点 / 激励兜底 / 拆小步 / 先 1:1 建信任
-- 机制一:方案在 W1 1:1 共创,不下发——人只执行自己参与定的
-- 机制二:10% 备选名单;辅导与活动资格解耦
+**中文框架**(答法同一4假设3,口径保持一致)
+- 先承认:这是整个方案落地最难的一环——头部内容和直播已成熟固定,转型有风险,新来的运营他不一定听
+- 拆两种情况:**信任问题** → 熟悉的运营在前对接,我在后面出策略,给磨合期
+- **策略问题**(真转不动) → 不再把时间押在这五个人身上,时间和策略分配完全变:一,存量打标筛增长快的高潜;二,音乐节发现和筛选;音乐节本来留了 10–20% 备选名额
+- 预防在前:方案 W1 1:1 共创、不下发——人只执行自己参与定的
 
 **中文逐字稿(约 60 秒)**
 
-> "不配合"其实不是一种问题,我会先拆:他到底是哪一种。
+> 首先我得承认,这就是整个方案落地最难的一环。头部之所以是头部,他的内容和直播已经成熟固定了,转型有风险,一个新来的运营,他不一定听。
 >
-> 第一种,不认同方案——那就上数据,加一个小试点,让结果说话。
+> 所以"不配合"我会拆成两种情况。
 >
-> 第二种,怕收入掉——给兜底,过渡期的波动用激励对冲。
+> 第一种是信任问题——他不是不认方案,是不认我这个人。那我不硬碰:让熟悉他的运营在前面对接,我在后面出策略,给彼此一个磨合的过程。
 >
-> 第三种,道理都懂但习惯改不动——把动作拆小,一次只改一件事。
+> 第二种是策略问题——他真的转不动了。那我就不会再把时间押在这五个人身上,时间和策略的分配会完全变:一,从现有存量里打标,筛增长快的高潜;二,通过音乐节去发现和筛选新的人。音乐节的设计本来就留了百分之十到二十的备选名额,就是为这种情况准备的。
 >
-> 第四种,关系还没到位——那前面三个打法都没用。第一次 1:1 就只做一件事:建立信任,先听他的困难,不布置作业。
->
-> 机制上我还留了两道保险。第一,方案是第一周在 1:1 里跟创作者一起定的,不是发一个通知给他。人只会真正执行自己参与制定的东西。
->
-> 第二,组合里有百分之十的备选名单;而且辅导和活动资格是分开的——他不接受辅导,不影响他参加音乐节。这两件事解耦,关系才不会僵死。
+> 当然,最好的办法是让"不配合"少发生:方案是第一周 1:1 跟他们一起定的,不是下发的——人只会执行自己参与定过的东西。
 
 **英文框架**
-- Diagnose which kind: disagreement / income fear / habit / no trust yet
-- Match the fix: data+pilot / floor / smaller steps / trust-first 1:1
-- Hedge 1: plans co-built in W1, not handed down
-- Hedge 2: 10% backup roster; coaching ≠ festival eligibility
+- Own it first: this is the hardest part of execution — top creators' content is mature and fixed; a new operator won't automatically be heard
+- Split two cases: **trust problem** → the operator they know stays in front, I drive strategy from behind, break-in period
+- **Strategy problem** (they truly can't turn) → stop betting the time on these five; re-allocate: tag existing supply for fast-growing high-potentials + let the festival discover and filter; 10–20% backup slots were designed in
+- Prevention: plans co-created in W1 1:1s, never handed down
 
 **英文逐字稿(约 60 秒)**
 
-> "Non-cooperation isn't one problem, so the first move is figuring out which one I'm looking at.
+> "First, I'll own it: this is the hardest part of the whole plan to land. Top creators are top because their content and their show are already mature and fixed. Changing that carries risk — and a brand-new operator doesn't automatically get listened to.
 >
-> If it's disagreement — bring data and a small pilot, and let results argue.
+> So I'd split 'not cooperating' into two cases.
 >
-> If it's income fear — bring a floor, so the transition isn't their risk to carry.
+> Case one is trust — it's not the plan they reject, it's me. Then I don't force it: the operator they already know stays in front, I drive strategy from behind, and we give it a break-in period.
 >
-> If it's habit — shrink the steps. One change at a time.
+> Case two is strategy — they truly can't turn. Then I stop betting my time on these five, and the allocation changes completely: one, tag the existing supply and filter for fast-growing high-potentials; two, use the festival to discover and select new people. The festival design already reserves ten to twenty percent backup slots — exactly for this situation.
 >
-> And if the relationship isn't there yet — none of the above works. The first 1:1 has exactly one job: trust. Listen to their problems, don't assign homework.
->
-> Then two structural hedges. Plans are co-built with the creator in week one, not handed down — people only execute what they helped design.
->
-> And there's a ten percent backup roster, plus one firm rule: coaching and festival eligibility stay separate. Refusing coaching never costs anyone their spot. Keeping those decoupled keeps the relationship alive."
+> And the best fix is prevention: the plans are co-created in week-one one-on-ones, not handed down. People execute what they helped decide."
 
 ## 二5. ⚠️ 假设内部数据显示:这 5 人流量 80% 来自 FYP、只有 5% 来自关注——这推翻还是强化你 P4 的策略?
 
