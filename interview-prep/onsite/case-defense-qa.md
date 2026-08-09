@@ -104,7 +104,7 @@
 ## 一3. 你认为核心问题是什么?为什么这样定义?
 
 **中文框架**
-- 这题有两个目的:看你怎么做 + 看你为什么这么做(考察对岗位、对融入的理解)——分"作业"和"垂类"两层答
+- 开头不分析出题意图,直接报两层结构:作业层(为什么做成这样)+垂类层(核心问题是什么)——"考察怎么做+为什么做"是背后逻辑,不说出口
 - for 作业(身份层):作业要体现垂类的战略规划+计划,并能快速落地——体现在 30 天、8 周音乐节、和我入职后的身份;因为是这个身份,所以要做全盘规划且快速落地
 - for 垂类(业务层):核心矛盾 = **既有留存问题,也有规模化问题**——头部单点表现遇到瓶颈,同时需要新鲜血液;存量时代几乎所有垂类都是这个状态
 - 我的挑战 = 既要又要:把标杆头部做起来 + 借音乐节让更多人看到标杆、把规模引进来;负责一批用户是单点,项目负责人要拉新要留存是整体
@@ -112,7 +112,7 @@
 
 **中文逐字稿(约 75 秒)**
 
-> 我理解这道题有两个目的:一是看我怎么做,二是看我为什么这么做。所以我分作业和垂类两层来答。
+> 这个问题我想分两层来答:先说这份作业为什么做成现在这个样子,再说这个垂类业务上真正的核心问题是什么。
 >
 > 先说作业这一层。这份作业希望体现的,是垂类的战略规划和计划能力,并且能快速落地解决问题。这体现在三个时间要素上:30 天的融入、8 周的音乐节、还有我入职后的身份。正因为我是以这个身份进来的,所以我要做一个全盘的规划,而且要能快速落地——这也是我把它当成融入计划来做的原因。
 >
@@ -123,7 +123,7 @@
 > 数据上"播得最多的两个人跌得最狠"这个发现,是存量侧的佐证——它告诉我头部的问题出在效率,决定了单点怎么修。但它只是核心矛盾的一半,规模化那一半,要靠音乐节来解。
 
 **英文框架**
-- Two purposes behind the question: how I'd do it + why I'd do it this way — answer on two levels
+- Open with the structure, not the meta-analysis: two levels — why the case is built this way + what the vertical's real core problem is
 - For the assignment (role level): it tests strategic planning that lands fast — visible in the 30 days, the 8 weeks, and the seat I'd be sitting in
 - For the vertical (business level): the core tension = **retention AND scale** — top creators hitting a ceiling while the vertical needs new blood; every mature vertical looks like this
 - My challenge = both at once: build the flagship top AND use the festival to bring scale in
@@ -131,7 +131,7 @@
 
 **英文逐字稿(约 75 秒)**
 
-> "I read this question as having two purposes: how I'd do it, and why I'd do it this way. So let me answer on two levels.
+> "Let me answer this on two levels: first, why I built the case the way I did — and then what I think the real core problem of this vertical is.
 >
 > First, the assignment level. What it really tests is strategic planning for a vertical that can land fast — you can see it in the three time elements: thirty days to integrate, eight weeks to the festival, and the seat I'd be in. Because I'd be coming in as the owner, I have to plan the whole board and move quickly. That's why I built it as an integration plan.
 >
