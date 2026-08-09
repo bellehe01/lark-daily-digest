@@ -18,7 +18,7 @@
 - 基础信息:名字 / University of Arizona 商业分析硕士(2025.5 毕业)/ 毕业前在字节系有三段实习,毕业后两段经历,分开简单说
 - 最近一段(2025.9–今,美区 TikTok Shop agency):规模化达人库运营——4 万+达人、300+ 品牌,标准化分层、自动化工具、痛点模型做品牌×达人匹配;人力集中在头部策略;人效 1→2-3
 - 早期(字节系三段实习,只展开最相关的抖音图文):own 摄影/艺术两垂类;动作两块——定标准(什么算优质内容/优质创作者,定成可执行的)+ 扶持头部(20 位头部 1v1 找共性卡点→做成活动、社群规模化铺开);垂类播放 +7%、优质创作者发布频次 +10%(另两段 TikTok Music 数据、特效 PM 各一句带过,留给深挖)
-- 收口:岗位要 own 垂类策略与运营、数据驱动、跨团队推规模化项目——正好是这几段的交集;"这就是我的简单介绍,期待和您进一步交流"
+- 收口:岗位要 own 垂类策略与运营、数据驱动、跨团队推规模化项目——这就是我擅长且有实际落地经验的领域;"这就是我的简单介绍,期待和您进一步交流"
 
 **中文逐字稿(约 90 秒)**
 
@@ -28,13 +28,13 @@
 >
 > 更早的经历,是字节系的三段实习,最相关的是抖音图文团队:我 own 摄影和艺术两个垂类,做的事主要是两块。一块是定标准——把"什么算优质内容、什么算优质创作者"定成大家能照着执行的标准;另一块是扶持头部——跟二十位头部创作者一对一,找到他们共同的卡点,再把解法做成活动和社群,规模化地铺开。结果是垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在 TikTok 特效团队做产品实习。
 >
-> 我理解这个岗位是要 own 垂类的策略和运营,用数据驱动决策,并且跨团队推进规模化项目——这正好是我这几段经历的交集。这就是我的简单介绍,期待和您进一步交流。
+> 我理解这个岗位是要 own 垂类的策略和运营,用数据驱动决策,并且跨团队推进规模化项目——这就是我擅长、而且有实际落地经验的领域。这就是我的简单介绍,期待和您进一步交流。
 
 **英文框架**
 - Basics: name / MS Business Analytics, University of Arizona (May 2025) / three ByteDance-family internships before graduating, two chapters after
 - Recent (US TikTok Shop agency): 44k-creator database at scale — tiering, automation, pain-point matching model; AM capacity 1→2-3; BFCM; most matches in beauty/fashion/lifestyle
 - Earlier (Douyin photo-text, the most relevant): owned photography & art; two moves — set the executable quality standard + 1:1s with 20 top creators, common blockers → campaigns & communities at scale; +7% views, +10% posting frequency (Music & Effects one line each, held for follow-up)
-- Close: the role = vertical ownership + data-driven + cross-functional programs — the intersection of my chapters; "looking forward to our conversation"
+- Close: the role = vertical ownership + data-driven + cross-functional programs — exactly where I'm strongest with hands-on experience; "looking forward to our conversation"
 
 **英文逐字稿(约 90 秒)**
 
@@ -44,7 +44,7 @@
 >
 > Earlier, three ByteDance internships — the most relevant being Douyin's photo-and-text team, where I owned two verticals, photography and art. Two main things there. One, setting the standard: turning 'what counts as quality content and quality creators' into something the team could actually execute against. Two, top-creator work: one-on-ones with twenty top creators to find their common blockers, then turning the fixes into campaigns and communities that scaled. Vertical views grew seven percent, and quality creators' posting frequency grew ten. The other two: content data at TikTok Music, and product at the effects team.
 >
-> I read this role as owning a vertical's strategy and operations, driving decisions with data, and shipping cross-functional programs — which is exactly the intersection of my chapters. That's a quick overview of me — looking forward to our conversation."
+> I read this role as owning a vertical's strategy and operations, driving decisions with data, and shipping cross-functional programs — and that's exactly where I'm strongest, with real hands-on experience. That's a quick overview of me — looking forward to our conversation."
 
 **深挖入口对照**(面试官追问时进对应 story)
 - 达人库/匹配/美妆品类 → 44k story;大型活动 → SCF story;标准与垂类经营 → 图文 story;数据与市场分化 → Music story;跨团队与数据诊断 → 特效 story;AI 工具 → IntelliPro story
