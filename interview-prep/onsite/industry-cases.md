@@ -198,10 +198,50 @@
 - 中:平台侧的动作我也在跟——Music On Stage 覆盖 23 个地区、决赛观看 140 万,它的双轨评审和小额专属礼物,和我在 Talia 直播间看到的机制是呼应的;她本人就在参加 Music Spotlight。
 - EN: "On the platform side, Music On Stage — 23 regions, a 1.4-million-viewer finale — its dual-track judging and cheap exclusive gifts mirror exactly what I see working in Talia's room; she was literally campaigning in Music Spotlight while I watched."
 
-**美妆内容型备用槽**(想再补一位就照这个填)
-- 锁定标准:固定栏目感 / 可复述的互动机制 / 看得出变现设计 / 加分:腰部体量
-- 四句式:谁+形态 → 我观察到的具体做法 → 为什么有效(留人/付费渗透/回访) → 迁移到 case/A-List
-- 佐证:TikTok LIVE 的 Makeup Artists 分类实时观看人数过百万——美妆内容型直播的供需都在
+## 案例 D · 内容型美妆/时尚(我真实看播,2026-08-09 实录):Carolyn Barker(@carolynleebarker)
+
+**观察卡**(我自己的看播记录,有截图)
+- 芝加哥,475.8K 粉;短视频是妆容教程和穿搭展示,单条播放常态 5 万–25 万(makeup tutorial 一条 244.8K),有"thrift tuesday"这样的连载栏目;暗黑复古 90s glam 人设从短视频网格到直播间完全统一
+- **每天直播**做 GRWM+穿搭分享:卷发筒上妆、身后就是挂衣架;当场 650+ 人在线、单场 1.3 万赞;League D1 top 99%、日榜 Popular LIVE
+- 评论区实况:观众在**出选题**——"能不能做一期你风格的返校穿搭??";人设向提问——"你是外向还是内向?";夸赞——"Your outfits always inspire me";几十条新消息滚动
+- 变现双轨:主页 showcase **918 sold**(内容型直播也挂车出单);D1 Gift Gallery 8/10、粉丝团+Community 53 人+Group chats
+- 机制彩蛋:直播间顶部飘过"BlueEyes sent TikTok Universe to..."——顶级礼物的**跨直播间横幅**
+
+**中文框架**(四维)
+- 数据好:47.5 万短视频粉;直播 650+ 同时在线、单场 1.3 万赞;打赏联赛 D1 top 99%
+- 内容好:GRWM+穿搭,人设锚点极强(暗黑复古),短视频和直播是同一个人设;有栏目连载(thrift tuesday)
+- 互动好(具体行为):观众在直播间**给她出选题**("返校穿搭做一期?")——需求信号自己长出来,而且她承接;还有人设向提问("外向还是内向?")——观众关心的是她这个人
+- 运营好:**每天直播**,短视频粉丝迁移承接;粉丝团/Community/群聊三层私域;showcase 挂车 918 单——内容型和带货双轨并行
+- 好在哪(一句话):她是"短视频创作者转直播"的**中腰部完美样本**——47 万短视频粉丝,每天直播承接,观众出题她接题,内容型照样双轨变现
+- 迁移:A-List 的运营动作就是把她这种模式规模化——帮短视频创作者建每日/每周直播栏目,把评论区的选题请求变成节目单
+
+**中文逐字稿(约 70 秒)**
+
+> 美妆时尚这边,我讲一个我自己在看的内容型主播,Carolyn Barker。她短视频有四十七万粉,妆容教程和穿搭展示,单条播放五万到二十五万,还有"捡漏星期二"这种连载栏目。她的做法是**每天直播**:边上卷发筒边化妆,身后就是挂衣架,一边聊一边分享妆容和穿搭。我进去的时候六百五十多人在线,单场一万三千个赞。
+>
+> 这个直播间最打动我的是评论区的质量。观众在给她出选题——有人问"能不能做一期你风格的返校穿搭";有人问"你是外向还是内向"——观众关心的不只是内容,是她这个人;还有大量"你的穿搭总是给我灵感"这种夸赞。需求信号在直播间自己长出来,而且她承接住了。
+>
+> 变现上她是双轨的:打赏联赛在 D1 的头部,同时主页挂车卖了九百多单——内容型直播和带货完全不冲突。
+>
+> 对我来说,她就是"短视频创作者转直播"的中腰部完美样本:四十七万短视频粉丝,每天直播承接,人设从短视频到直播间完全统一。放到 A-List,运营要做的就是把这个模式规模化——帮短视频创作者建直播栏目,把评论区的选题请求变成节目单。
+
+**英文框架**
+- Carolyn Barker (@carolynleebarker, Chicago): 475.8K followers; short videos = makeup tutorials & outfit posts at 50–250K plays, serial formats ("thrift tuesday"); one unified 90s-glam persona across grid and LIVE
+- Streams daily: GRWM + outfits, rollers in, clothing rack behind; 650+ concurrent, 13K likes; gifting League D1 top 99%
+- The chat is the story: viewers pitch topics ("back to school outfit ideas in ur style??"), ask persona questions ("extrovert or introvert?"), and praise ("your outfits always inspire me") — demand signals grow in the room, and she catches them
+- Dual monetization: showcase with 918 sold + gifting league — content-led LIVE still converts
+- The perfect mid-tier proof of short-video→LIVE conversion; A-List's job is scaling this pattern
+
+**英文逐字稿(约 70 秒)**
+
+> "For beauty and fashion, a content-side streamer I actually watch: Carolyn Barker. Four hundred seventy-five thousand followers, makeup tutorials and outfit videos at fifty to two hundred fifty thousand plays, with serial formats like 'thrift Tuesday.' Her play is streaming every day: rollers in, doing her makeup, clothing rack behind her, chatting through looks and outfits. When I joined: six hundred fifty people in the room, thirteen thousand likes on the stream.
+>
+> What impressed me most is the quality of the chat. Viewers pitch her topics — 'can you do back-to-school outfit ideas in your style?' Someone asked if she's an extrovert or introvert — they care about her, not just the content. And a stream of 'your outfits always inspire me.' The demand signal grows inside the room — and she catches it.
+>
+> Monetization runs on two tracks: she's top-tier in the gifting league, and her showcase has sold over nine hundred items. Content-led LIVE and commerce don't conflict.
+>
+> To me she's the perfect mid-tier proof of short-video creators converting to LIVE: a four-hundred-seventy-thousand-follower short-video base, caught daily by live streams, one persona across both. For A-List, the operations job is scaling exactly this pattern — build streaming programs for short-video creators, and turn the chat's topic requests into the show's rundown."
+
 
 ## 国内案例(对谈/被问中国市场时用;先说评估框架里那句国内前提)
 
@@ -224,7 +264,7 @@
 - 现象(供需错位):我在 For You 和 LIVE feed 里很少刷到美妆时尚生活方式的直播;但短视频侧,这个垂类的播放量、创作者数量、发布量都是大盘里占比非常靠前的板块——我做图文的时候,美妆+时尚+生活方式加起来就是消费占比最前列的垂类之一
 - 判断:消费需求在短视频侧已经被充分验证——所以这不是需求问题,是**供给问题**;而补供给最快的路径,不是冷启动新主播,是**转化存量短视频创作者**
 - 动作三步:①**筛人**——从垂类短视频的头部和腰部里筛:内容质量已验证、粉丝盘已建好,粉丝就是天然私域 ②**转化机制**——短视频预告+直播栏目化:发一条短视频宣布"我周四晚八点直播,内容是 XX",预告-直播做成固定栏目,把短视频粉丝迁移成直播观众 ③**激励承接**——开播激励+守时开播给流量确定性,用 LIVE Events 预约把"下一场"接住
-- 证据:Alix Earle 就是活例——GRWM 短视频头部,LIVE 就是派对前 GRWM,观众全是短视频粉丝迁移;jac.trv 反向印证——LIVE 原生的小主播有内容有互动,却卡在没有粉丝盘
+- 证据(三层体量都有样本):头部 Alix Earle——GRWM 短视频头部,LIVE 就是派对前 GRWM,观众全是短视频粉丝迁移;**中腰部 Carolyn Barker——47 万短视频粉,每天直播 GRWM+穿搭承接,650+ 在线、观众出选题、挂车 918 单**;尾部 jac.trv 反向印证——LIVE 原生的小主播有内容有互动,却卡在没有粉丝盘
 - 官方佐证:平台开播端的 LIVE Content Ideas 清单,8 个形态里 6 个是生活方式系(Cook With Me/GRWM/Study With Me/Q&A/Storytime/Challenges)——全是"过程性内容",不需要才艺、天然实时,短视频创作者的日常内容本来就是这些,转直播最顺;平台还在观众侧发看播任务(Daily Mission)——供需两侧都在建设期,机会正在供给
 - 指标:垂类短视频创作者的**开播渗透率** / 短视频粉丝的**迁移率**(进直播间比例)/ **第二次开播率**(留存)
 
@@ -313,8 +353,9 @@
 ## 3.1 机制盘点(按运营用途归类,面试可按块讲)
 
 **变现机制**
-- 礼物(Coins→Gifts→Diamonds 分成);**1,000 粉丝解锁 LIVE 礼物资格**(门槛即新人第一个变现里程碑)
-- 订阅(月度,专属徽章/表情/粉丝群);带货直播(购物车/闪购卡,美妆时尚垂类双轨并存)
+- 礼物(Coins→Gifts→Diamonds 分成);**1,000 粉丝解锁 LIVE 礼物资格**(门槛即新人第一个变现里程碑);顶级礼物 TikTok Universe 有**跨直播间横幅**(看播实拍:别的直播间送出,我所在的直播间飘过通知——和抖音"嘉年华"全平台飘屏同款逻辑,付费的社交放大器)
+- 打赏进阶机制(看播实拍):**League 打赏联赛**(D1 等级、日榜/Popular LIVE)、**Gift Gallery 礼物图鉴**(集齐 8/10 这种收集进度)——把打赏做成了排位+收集的游戏化体系
+- 订阅(月度,专属徽章/表情/粉丝群);带货直播(购物车/闪购卡,美妆时尚垂类双轨并存;内容型主播也能挂 showcase 出单)
 
 **互动机制**
 - Multi-guest 连麦(最多 9 宫格)、PK/Battle(限时对抗+助力值)、点赞/弹幕/粉丝团亲密度
