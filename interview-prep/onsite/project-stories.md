@@ -26,7 +26,7 @@
 >
 > 最近这份工作,是在美区的 TikTok Shop agency。我管的是达人库的运营:库里有四万多个达人,对接三百多个品牌。这么大的量,靠人一个个筛是筛不过来的,所以我的做法是把它规模化——先把达人分层的标准定出来,再搭自动化的工具,最后用一个模型,看产品的痛点和达人的 GMV,把品牌和达人配对。人省下来的时间,就花在头部达人的内容策略,和给品牌做推荐上。结果是,一个运营经理原来只能服务一个品牌,现在能服务两到三个。
 >
-> 更早的经历是在字节系的三段实习,最相关的是抖音图文团队:我 own 两个垂类,负责定义优质内容和优质创作者的标准,通过扶持头部和规模化的运营动作,垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在 TikTok 特效团队做产品实习,这两段您感兴趣可以再展开。
+> 更早的经历是在字节系的三段实习,最相关的是抖音图文团队:我 own 两个垂类,负责定义优质内容和优质创作者的标准,通过扶持头部和规模化的运营动作,垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在 TikTok 特效团队做产品实习。
 >
 > 我理解这个岗位是要 own 垂类的策略和运营,用数据驱动决策,并且跨团队推进规模化项目——这正好是我这几段经历的交集。这是我大概的情况,具体项目您可以随时深挖。
 
@@ -42,7 +42,7 @@
 >
 > My most recent role is at a TikTok Shop agency in the US. I run creator database operations: over forty thousand creators, three hundred plus brand clients. At that volume you can't screen by hand, so my job was making it scale — we set the tiering standards, built automation tools, and then a matching model that looks at product pain points and creator GMV to pair brands with creators. The time that frees up goes into top-creator content strategy and brand recommendations. The result: an account manager who used to handle one brand now handles two or three.
 >
-> Earlier, three ByteDance internships — the most relevant being Douyin's photo-and-text team: I owned two verticals, defined the standard for quality content and quality creators, and through top-creator programs and scaled operations, vertical views grew seven percent and quality creators' posting frequency grew ten. The other two — content data at TikTok Music, and product at the effects team — I'm happy to expand on either.
+> Earlier, three ByteDance internships — the most relevant being Douyin's photo-and-text team: I owned two verticals, defined the standard for quality content and quality creators, and through top-creator programs and scaled operations, vertical views grew seven percent and quality creators' posting frequency grew ten. The other two: content data at TikTok Music, and product at the effects team.
 >
 > I read this role as owning a vertical's strategy and operations, driving decisions with data, and shipping cross-functional programs — which is exactly the intersection of my chapters. That's the overview; please feel free to dig into any project."
 
