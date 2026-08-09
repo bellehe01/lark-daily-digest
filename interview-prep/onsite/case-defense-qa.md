@@ -429,9 +429,8 @@
 - 先承认:这是整个方案落地最难的一环——头部内容和直播已成熟固定,转型有风险,新来的运营他不一定听
 - 拆两种情况:**信任问题** → 熟悉的运营在前对接,我在后面出策略,给磨合期
 - **策略问题**(真转不动) → 不再把时间押在这五个人身上,时间和策略分配完全变:一,存量打标筛增长快的高潜;二,音乐节发现和筛选;音乐节本来留了 10–20% 备选名额
-- 预防在前:方案 W1 1:1 共创、不下发——人只执行自己参与定的
 
-**中文逐字稿(约 60 秒)**
+**中文逐字稿(约 50 秒)**
 
 > 首先我得承认,这就是整个方案落地最难的一环。头部之所以是头部,他的内容和直播已经成熟固定了,转型有风险,一个新来的运营,他不一定听。
 >
@@ -440,16 +439,13 @@
 > 第一种是信任问题——他不是不认方案,是不认我这个人。那我不硬碰:让熟悉他的运营在前面对接,我在后面出策略,给彼此一个磨合的过程。
 >
 > 第二种是策略问题——他真的转不动了。那我就不会再把时间押在这五个人身上,时间和策略的分配会完全变:一,从现有存量里打标,筛增长快的高潜;二,通过音乐节去发现和筛选新的人。音乐节的设计本来就留了百分之十到二十的备选名额,就是为这种情况准备的。
->
-> 当然,最好的办法是让"不配合"少发生:方案是第一周 1:1 跟他们一起定的,不是下发的——人只会执行自己参与定过的东西。
 
 **英文框架**
 - Own it first: this is the hardest part of execution — top creators' content is mature and fixed; a new operator won't automatically be heard
 - Split two cases: **trust problem** → the operator they know stays in front, I drive strategy from behind, break-in period
 - **Strategy problem** (they truly can't turn) → stop betting the time on these five; re-allocate: tag existing supply for fast-growing high-potentials + let the festival discover and filter; 10–20% backup slots were designed in
-- Prevention: plans co-created in W1 1:1s, never handed down
 
-**英文逐字稿(约 60 秒)**
+**英文逐字稿(约 50 秒)**
 
 > "First, I'll own it: this is the hardest part of the whole plan to land. Top creators are top because their content and their show are already mature and fixed. Changing that carries risk — and a brand-new operator doesn't automatically get listened to.
 >
@@ -457,9 +453,7 @@
 >
 > Case one is trust — it's not the plan they reject, it's me. Then I don't force it: the operator they already know stays in front, I drive strategy from behind, and we give it a break-in period.
 >
-> Case two is strategy — they truly can't turn. Then I stop betting my time on these five, and the allocation changes completely: one, tag the existing supply and filter for fast-growing high-potentials; two, use the festival to discover and select new people. The festival design already reserves ten to twenty percent backup slots — exactly for this situation.
->
-> And the best fix is prevention: the plans are co-created in week-one one-on-ones, not handed down. People execute what they helped decide."
+> Case two is strategy — they truly can't turn. Then I stop betting my time on these five, and the allocation changes completely: one, tag the existing supply and filter for fast-growing high-potentials; two, use the festival to discover and select new people. The festival design already reserves ten to twenty percent backup slots — exactly for this situation."
 
 ## 二5. ⚠️ 假设内部数据显示:这 5 人流量 80% 来自 FYP、只有 5% 来自关注——这推翻还是强化你 P4 的策略?
 
