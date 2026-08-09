@@ -287,6 +287,46 @@
 >
 > My conclusion from this case: bedtime is the most fixed habit people have, and she turned that habit into a weekly rundown. A reservable show is what grows subscriptions. For A-List, step one of subscription penetration is helping creators publish their own program guide."
 
+## 案例 F · 游戏/娱乐垂类行业标杆:Kai Cenat(Twitch,跨平台答)
+
+> 开场先摆正:游戏直播的标杆生态在 Twitch,所以这个垂类我跨平台看——这么说反而显得懂行业。国内对照用桃黑黑(见国内案例)。
+
+**事实卡**(公开报道)
+- **第一个突破 100 万活跃订阅的主播**(2025 年 Mafiathon 3,27 天达成);此前 Mafiathon 2(2024.11)以约 72.8 万订阅刷新全平台纪录
+- Mafiathon 2 单月:**5000 万独立观众、收入超 $3M**
+- 玩法:**Subathon 订阅马拉松**——连续 30 天不间断直播冲订阅目标;名人轮番做客制造事件时刻(LeBron 直播里亲手剪他的脏辫,Kevin Hart、Snoop Dogg、Kim Kardashian、Mariah Carey 都上过)
+- 每年一届,Mafiathon 1→2→3 届数化;他的切片在 TikTok 上被粉丝海量二次分发
+
+**中文框架**(四维)
+- 数据好:100 万活跃订阅、单月 5000 万独立观众、$3M+——游戏/娱乐直播的天花板数字
+- 内容好:把"直播本身"做成一个大事件——30 天马拉松是节目,名人做客是一个个事件时刻(LeBron 剪发就是一条全网热点)
+- 互动好(具体行为):**订阅马拉松把个人付费变成集体进度条**——每一笔订阅都在给共同目标充值,社群有了"我们一起破纪录"的参与感
+- 运营好:届数化 IP(一年一届,1→2→3)、名人排期=预埋热点、切片靠粉丝在 TikTok 海量二次分发
+- 好在哪(一句话):他是"先有事件、再放大"方法论的极致执行者——没有事件就**制造**事件(名人+纪录挑战),然后让整个互联网帮他放大
+- 迁移:抖音嘉年华/年度盛典的海外镜像(集体打投/事件化);A-List 可借鉴"届数化 IP+集体进度条"——活动要让粉丝觉得自己在参与一场共同的挑战,不是围观一场表演
+
+**中文逐字稿(约 60 秒)**
+
+> 游戏这个垂类,标杆生态其实在 Twitch,所以我跨平台看——最值得讲的是 Kai Cenat。他是全平台第一个突破一百万活跃订阅的主播,靠的是 Mafiathon 订阅马拉松:连续三十天不间断直播冲订阅目标。第二届单月五千万独立观众、收入超三百万美金;名人轮番做客——LeBron 在他直播里亲手给他剪脏辫,那一条直接变成全网热点。
+>
+> 这个案例我最认可两个设计。第一,订阅马拉松把个人付费变成了集体进度条——每一笔订阅都在给共同目标充值,粉丝的心态从"我围观一场表演"变成"我们一起破纪录",参与感完全不同。第二,他是"先有事件、再放大"的极致执行者:没有事件就制造事件——名人加纪录挑战,然后他的切片在 TikTok 上被粉丝海量转发,整个互联网帮他放大。
+>
+> 而且它是届数化的,一年一届,一二三届像节目一样办下来。放到活动运营上,我的启发是:好的活动要让粉丝觉得自己在参与一场共同的挑战,而不是围观一场表演。
+
+**英文框架**
+- Frame it up front: gaming LIVE's benchmark ecosystem is Twitch, so I read this vertical cross-platform — Kai Cenat
+- Facts: first streamer to 1M active subs (Mafiathon 3, 27 days); Mafiathon 2 (Nov 2024): ~728K subs, 50M unique viewers, $3M+ revenue; celebrity moments (LeBron cutting his locs live; Kevin Hart, Snoop Dogg)
+- Two designs I rate: the subathon turns individual payment into a collective progress bar ("we're breaking the record together"); and he's the ultimate executor of "first the event, then the amplification" — no event? manufacture one, then fans re-clip it all over TikTok
+- Annualized IP (Mafiathon 1→2→3); takeaway for A-List: make fans feel they're joining a shared challenge, not watching a show
+
+**英文逐字稿(约 60 秒)**
+
+> "For gaming, the benchmark ecosystem is honestly Twitch, so I read this vertical cross-platform — and the case is Kai Cenat. He's the first streamer ever to pass one million active subscribers, through his Mafiathon subathons: thirty days of continuous streaming chasing a subscriber goal. The second edition drew fifty million unique viewers in a month and over three million dollars — with celebrities rotating through: LeBron James cut his locs live on stream, and that clip became an internet-wide moment.
+>
+> Two designs I rate most. One, the subathon turns individual payments into a collective progress bar — every subscription charges a shared goal, so the fan mindset shifts from 'I'm watching a show' to 'we're breaking a record together.' Two, he's the ultimate executor of 'first the event, then the amplification': when there's no event, he manufactures one — a celebrity plus a record chase — and then his clips get re-distributed across TikTok by fans, so the whole internet amplifies him.
+>
+> And it's an annualized IP — Mafiathon one, two, three, like seasons of a show. My takeaway for campaign operations: a great campaign makes fans feel they're joining a shared challenge, not spectating a performance."
+
 ## 国内案例(对谈/被问中国市场时用;先说评估框架里那句国内前提)
 
 - **迅猛龙**(颜值/聊天):女生主播、粉丝多为女粉——占住了全垂类付费能力最强的人群。①分享自己的生活:考研励志、日常个人价值观;②直播间公开解决 20–30 岁女生的痛点和需求。虽然是颜值主播,但**从粉丝需求角度设计直播内容,不是纯娱乐**——借女性励志的势能突破了颜值主播的圈层,互动上有"利他性"
