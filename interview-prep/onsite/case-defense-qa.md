@@ -238,7 +238,7 @@
 >
 > 如果是活动前:我会把这两周主要加在预热期。因为预热期决定了整个营销的效果——第一,提高触达率和报名率,多一周就能多做一轮机构外联和定向邀请;第二,铺垫更多热点话题来造势,并且多准备几套替补方案。顺带,把基线数据和版权清单再夯实一遍。
 >
-> 如果是赛后:我会用这两周做一次完整的复盘。这是我入职后的第一个项目,我要从里面看清楚哪些是亮点、哪些是改进点、原因分别是什么;然后把有效的执行思路沉淀成可复用的框架和 SOP,直接用到下一次活动上。活动真正的资产是方法论,复盘就是把资产收进仓库。
+> 如果是赛后:我会用这两周做一次完整的复盘。这是我入职后的第一个项目,我要从里面看清楚哪些是亮点、哪些是改进点、原因分别是什么;然后把有效的执行思路沉淀成可复用的框架和 SOP,直接用到下一次活动上。
 
 **英文框架**
 - Clarify first: are the two weeks given before launch, or after the festival? Different answers
@@ -251,7 +251,7 @@
 >
 > If it's before launch: the two weeks go into the warm-up phase, because warm-up decides how well everything downstream performs. One — push reach and sign-up rate: one more week means one more round of agency outreach and direct invitations. Two — seed more topics to build heat, and prepare backup plans. And along the way, harden the baseline data and the licensing inventory.
 >
-> If it's after: the two weeks go into a proper retrospective. This is my first project in the role, so I'd want to see clearly what worked, what fell short, and why — then codify the parts that worked into a reusable framework and SOPs for the next campaign. The real asset a campaign leaves behind is the methodology. The retro is how you bank it."
+> If it's after: the two weeks go into a proper retrospective. This is my first project in the role, so I'd want to see clearly what worked, what fell short, and why — then codify the parts that worked into a reusable framework and SOPs for the next campaign."
 
 ## 一7. ⚠️ 哪些经验可以复用到目前的垂类(美妆时尚生活方式)?【几乎必问】
 
