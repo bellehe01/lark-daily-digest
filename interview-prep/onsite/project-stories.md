@@ -380,7 +380,7 @@
 - Goal: decide which verticals to invest in, then grow supply & creators
 - Metrics: team = vertical views +7% vs baseline, quality creators' posting frequency +10%, top retention; my block = discovering quality content & creators + codifying the standard, with a quantified discovery target (fill the number)
 - Role: intern serving the team goal; owned the discovery block
-- Process: pick verticals (size/share/growth + photo's uniqueness → photography & art) → four scoreable dimensions, one line each: compliance / visual craft / emotional value (example: the still-viral "single image + emotional caption" format we explored; how-to guides as the "useful" archetype) / no commercial feel → top-creator co-creation simplified: 20 creators 1v1, common blockers into campaigns, community, and template tools with product
+- Process: pick verticals (size/share/growth + photo's uniqueness → photography & art) → four scoreable dimensions, one line each: compliance / visual craft / emotional value (example: the still-viral "single image + emotional caption" format we explored; how-to guides as the "useful" archetype) / no commercial feel → top-creator co-creation simplified: 20 creators 1v1, common blockers into posting-incentive campaigns + posting tool (templates) with product
 - Result: +7% views, +10% posting frequency; the standard became the team's tool
 
 **英文逐字稿(约 90 秒)**
@@ -393,7 +393,7 @@
 >
 > Step two, make the standard executable at scale. We abstracted 'what good looks like' into four scoreable dimensions, one line each. Compliance — ecosystem-clean, not AI-generated. Visual craft — clean, refined, bright composition that fits a beauty-driven vertical. Emotional value — for example, the 'single image plus emotional caption' format that's still viral today came out of our exploration; and how-to guides were our 'useful' archetype, like photography tutorials. And no commercial feel — nothing that reads as an ad.
 >
-> Step three, simplified: about twenty top creators, one-on-one, common blockers turned into campaigns, a community, and photo-post template tools shipped with the product team.
+> Step three, simplified: about twenty top creators, one-on-one, common blockers turned into posting-incentive campaigns, plus a posting tool — photo templates — shipped with the product team.
 >
 > The results: vertical views up seven percent against baseline, quality creators' posting frequency up ten — and the standard became the team's tool."
 
