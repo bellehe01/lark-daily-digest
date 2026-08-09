@@ -108,9 +108,8 @@
 - for 作业(身份层):作业要体现垂类的战略规划+计划,并能快速落地——体现在 30 天、8 周音乐节、和我入职后的身份;因为是这个身份,所以要做全盘规划且快速落地
 - for 垂类(业务层):核心矛盾 = **既有留存问题,也有规模化问题**——头部单点表现遇到瓶颈,同时需要新鲜血液;存量时代几乎所有垂类都是这个状态
 - 我的挑战 = 既要又要:把标杆头部做起来 + 借音乐节让更多人看到标杆、把规模引进来;负责一批用户是单点,项目负责人要拉新要留存是整体
-- 数据发现(播最多的跌最狠)降为存量侧的佐证,不是核心问题本身
 
-**中文逐字稿(约 75 秒)**
+**中文逐字稿(约 65 秒)**
 
 > 这个问题我想分两层来答:先说这份作业为什么做成现在这个样子,再说这个垂类业务上真正的核心问题是什么。
 >
@@ -119,17 +118,14 @@
 > 再说垂类这一层。通篇看下来,我认为核心问题是:这个垂类**既有留存的问题,也有规模化的问题**。头部的单点表现遇到了瓶颈,同时又需要新鲜血液加入。其实在存量时代,几乎所有垂类都是这个状态。
 >
 > 所以我真正的挑战是既要又要:既要把这几个标杆头部做起来,又要通过音乐节的打造,让更多人看到标杆,把规模引进来。我负责一批用户,这是单点;我同时是项目负责人,要拉新、要留存,这是整体。
->
-> 数据上"播得最多的两个人跌得最狠"这个发现,是存量侧的佐证——它告诉我头部的问题出在效率,决定了单点怎么修。但它只是核心矛盾的一半,规模化那一半,要靠音乐节来解。
 
 **英文框架**
 - Open with the structure, not the meta-analysis: two levels — why the case is built this way + what the vertical's real core problem is
 - For the assignment (role level): it tests strategic planning that lands fast — visible in the 30 days, the 8 weeks, and the seat I'd be sitting in
 - For the vertical (business level): the core tension = **retention AND scale** — top creators hitting a ceiling while the vertical needs new blood; every mature vertical looks like this
 - My challenge = both at once: build the flagship top AND use the festival to bring scale in
-- The data finding (heaviest streamers falling fastest) is evidence on the retention side, not the whole problem
 
-**英文逐字稿(约 75 秒)**
+**英文逐字稿(约 65 秒)**
 
 > "Let me answer this on two levels: first, why I built the case the way I did — and then what I think the real core problem of this vertical is.
 >
@@ -137,9 +133,7 @@
 >
 > Second, the vertical level. Reading the whole brief, the core problem is that this vertical has both a retention problem and a scale problem. The top creators are hitting a ceiling, and at the same time the vertical needs new blood. Honestly, in a mature market, almost every vertical looks like this.
 >
-> So my real challenge is doing both at once: rebuild the flagship top, and use the festival to make that flagship visible and bring scale in. The five creators are the single points; as the program owner, recruiting and retaining is the whole board.
->
-> The data finding — the heaviest streamers falling fastest — is evidence on the retention side. It tells me the top's problem is efficiency, which shapes the individual fixes. But it's half the story. The other half, scale, is what the festival is for."
+> So my real challenge is doing both at once: rebuild the flagship top, and use the festival to make that flagship visible and bring scale in. The five creators are the single points; as the program owner, recruiting and retaining is the whole board."
 
 ## 一4. 你的核心假设是什么?如果假设错了,方案会怎么变?
 
