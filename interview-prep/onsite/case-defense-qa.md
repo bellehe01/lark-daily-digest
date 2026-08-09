@@ -74,9 +74,8 @@
 - 挑战一(定义问题):数据表面是"头部下滑",最顺手的答案是单点扶持;难在判断出留存+规模化双重问题,把作业升级成全盘规划——最大的决定
 - 挑战二(既要又要的取舍):一份预算、30 天、两个目标;难在设计一个结构让同一笔钱同时服务留存和规模,不做成两个割裂项目
 - 挑战三(才是数据):五行数据、无基线→纪律:标假设、W1 校准、只下表格撑得住的结论
-- 诚实残留:ROI 行业参考推的,算法全摊在 P2
 
-**中文逐字稿(约 65 秒)**
+**中文逐字稿(约 55 秒)**
 
 > 最大的挑战其实不在执行层,在判断层。
 >
@@ -85,17 +84,14 @@
 > 第二个,是既要又要的取舍。一份预算、三十天,要同时服务两个目标。难的不是分别怎么做,而是设计一个结构,让同一笔钱既修存量、又拉增量——所以我没有把留存和拉新拆成两个项目,而是用一个音乐节把两个目标都装进去:头部站主舞台,新人走开放赛道。
 >
 > 第三个挑战才是数据。整份题目只有五行数据、三十天窗口,没有基线,风险是把快照当趋势。我的处理是纪律性的:所有目标标假设、第一周对内部数据校准、只下表格本身撑得住的结论。数据少,不应该限制判断,但要限制结论的口径。
->
-> 说实话还有一个没完全解决的:ROI 是拿行业参考推的。所以我把整个算法摊开写在第二页——就是准备好被挑战的。
 
 **英文框架**
 - High-altitude: the hard part was judgment, not execution — three layers, data last
 - Challenge 1 defining the problem: surface story is "top creators declining" → easy answer is a rescue plan; the hard call was naming the double problem (retention + scale) and upgrading the case to a full plan
 - Challenge 2 the trade-off: one budget, 30 days, two goals — design one structure so the same money serves both
 - Challenge 3 only then data: five rows, no baseline → hypothesis labels, W1 recalibration, defensible conclusions only
-- Honest residual: ROI from industry references, full math on P2
 
-**英文逐字稿(约 65 秒)**
+**英文逐字稿(约 55 秒)**
 
 > "The hardest part wasn't execution — it was judgment.
 >
@@ -103,9 +99,7 @@
 >
 > Second, the trade-off. One budget, thirty days, two goals. The difficulty isn't doing either one — it's designing one structure where the same money fixes existing supply and brings in new supply. That's why I didn't split retention and recruitment into two projects — one festival carries both goals: top creators on the main stage, newcomers in the open division.
 >
-> Only third comes the data. Five rows, thirty days, no baseline — the risk is treating a snapshot as a trend. My handling was disciplined: every target labeled a hypothesis, recalibrated in week one, and only conclusions the table itself can defend. Thin data shouldn't limit your judgment — but it should limit how you state your conclusions.
->
-> And one thing I'll be honest about: the ROI is built from industry references. That's exactly why the full calculation sits on page two — it's meant to be challenged."
+> Only third comes the data. Five rows, thirty days, no baseline — the risk is treating a snapshot as a trend. My handling was disciplined: every target labeled a hypothesis, recalibrated in week one, and only conclusions the table itself can defend. Thin data shouldn't limit your judgment — but it should limit how you state your conclusions."
 
 ## 一3. 你认为核心问题是什么?为什么这样定义?
 
