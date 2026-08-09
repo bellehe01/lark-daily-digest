@@ -27,7 +27,7 @@
 - 高维度答(不细讲赛制,细节留给追问):整份作业从**身份**和**核心矛盾**倒推,不从活动创意出发
 - 第一步读题定身份:问"上任第一个月做什么"→融入计划+项目推进,不是活动策划案;30 天/8 周/入职身份三个时间要素→全盘规划+快速落地
 - 第二步定义核心矛盾:垂类既有留存问题又有规模化问题→方案必须同时服务两个目标
-- 第三步选载体:开放赛事+音乐节,一个结构扛两个目标——存量靠诊断辅导,规模靠开放赛道,线下做放大器
+- 第三步选载体:音乐节这一个项目扛两个目标(线上开放赛事是主线,线下现场是终点)——存量靠诊断辅导,规模靠开放赛道,线下做放大器
 - 第四步度量纪律:全部标假设、W1 校准、Day 30 交付
 - 收口:"具体赛制和阶段,您想深入哪块我展开"
 
@@ -39,7 +39,7 @@
 >
 > 第二步是定义问题。通篇看下来,这个垂类既有留存的问题,也有规模化的问题:头部的单点表现遇到瓶颈,同时需要新鲜血液。所以方案必须同时服务这两个目标——只修存量,盘子起不来;只做拉新,标杆立不住。
 >
-> 第三步,选一个能同时扛住两个目标的载体。我选了开放赛事加音乐节:存量这边,五个人每人一个诊断、一个辅导计划;规模这边,开放赛道招新人;线下音乐节做终点和放大器,让更多人看到标杆。
+> 第三步,选一个能同时扛住两个目标的载体。我选了音乐节:它的主线是八周的线上开放赛事,线下现场是终点。存量这边,五个人每人一个诊断、一个辅导计划;规模这边,开放赛道招新人;线下现场做放大器,让更多人看到标杆。
 >
 > 最后是度量的纪律:所有数字都标注为假设,第一周对内部数据校准,30 天有明确的交付物。
 >
@@ -49,7 +49,7 @@
 - High-altitude (no mechanism detail up front): the case is derived backwards from my role and the vertical's core tension, not forwards from an event idea
 - Step 1 read the brief: "first month in the role" → ramp-up plan + program, not an event proposal; 30 days / 8 weeks / walking in new → full-scope plan that lands fast
 - Step 2 define the problem: retention AND scale at the same time
-- Step 3 pick one vehicle that carries both goals: open competition + festival
+- Step 3 pick one vehicle that carries both goals: the festival — online open competition as the spine, offline show as the finale
 - Step 4 measurement discipline: hypotheses, W1 recalibration, day-30 deliverables
 - Close: happy to go deeper on any piece
 
@@ -61,7 +61,7 @@
 >
 > Step two was defining the problem. This vertical has a retention problem and a scale problem at the same time: the top creators are hitting a ceiling, and the pipeline needs new blood. So the plan has to serve both goals — fix only the existing five and the category stays small; recruit only and there's no benchmark for newcomers to follow.
 >
-> Step three was choosing one vehicle that carries both goals. That's the open competition plus the festival: on the retention side, each creator gets one diagnosis and one coaching plan; on the scale side, the open division recruits new musicians; and the festival is the finale and the amplifier.
+> Step three was choosing one vehicle that carries both goals. That's the festival: its spine is an eight-week open competition online, ending in the offline show. On the retention side, each creator gets one diagnosis and one coaching plan; on the scale side, the open division recruits new musicians; and the offline show is the finale and the amplifier.
 >
 > And it's all wrapped in measurement discipline: every number is labeled a hypothesis, recalibrated in week one, with concrete day-thirty deliverables.
 >
@@ -82,7 +82,7 @@
 >
 > 第一个,是定义问题本身。表面上看,数据讲的是"头部在下滑",最顺手的答案就是做一套单点扶持方案。但我判断这个垂类真正的问题是双重的——既有留存问题,也有规模化问题。要不要把作业从"扶持五个人"升级成一个全盘规划,这是我做的最大的一个决定,也是最难的一步。
 >
-> 第二个,是既要又要的取舍。一份预算、三十天,要同时服务两个目标。难的不是分别怎么做,而是设计一个结构,让同一笔钱既修存量、又拉增量——所以我把赛事和音乐节做成一个整体,而不是两个割裂的项目。
+> 第二个,是既要又要的取舍。一份预算、三十天,要同时服务两个目标。难的不是分别怎么做,而是设计一个结构,让同一笔钱既修存量、又拉增量——所以我没有把留存和拉新拆成两个项目,而是用一个音乐节把两个目标都装进去:头部站主舞台,新人走开放赛道。
 >
 > 第三个挑战才是数据。整份题目只有五行数据、三十天窗口,没有基线,风险是把快照当趋势。我的处理是纪律性的:所有目标标假设、第一周对内部数据校准、只下表格本身撑得住的结论。数据少,不应该限制判断,但要限制结论的口径。
 >
@@ -101,7 +101,7 @@
 >
 > First, defining the problem. On the surface the data says 'top creators are declining,' and the easy answer is a rescue plan for five people. The hard call was deciding that the real problem is double — retention and scale at the same time — and upgrading the case from 'support five creators' to a full plan for the vertical. That was the biggest decision in the whole deck.
 >
-> Second, the trade-off. One budget, thirty days, two goals. The difficulty isn't doing either one — it's designing one structure where the same money fixes existing supply and brings in new supply. That's why the competition and the festival are one system, not two separate projects.
+> Second, the trade-off. One budget, thirty days, two goals. The difficulty isn't doing either one — it's designing one structure where the same money fixes existing supply and brings in new supply. That's why I didn't split retention and recruitment into two projects — one festival carries both goals: top creators on the main stage, newcomers in the open division.
 >
 > Only third comes the data. Five rows, thirty days, no baseline — the risk is treating a snapshot as a trend. My handling was disciplined: every target labeled a hypothesis, recalibrated in week one, and only conclusions the table itself can defend. Thin data shouldn't limit your judgment — but it should limit how you state your conclusions.
 >
