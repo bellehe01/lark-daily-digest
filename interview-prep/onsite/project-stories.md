@@ -366,48 +366,48 @@
 **中文框架(六要素)**
 - 背景:我的第一段实习;抖音图文是新内容形态,资源有限,但承担了很高的增长目标
 - 目标:先决定把精力投在哪些垂类,再把内容供给和创作者增长做起来
-- 指标:**团队指标** = 垂类播放量对大盘 +7%、优质创作者发布频次 +10%、头部留存;**我负责其中一整个板块** = 发掘优质内容和优质创作者、沉淀标准——发掘方法:逐个看创作者主页,每人约看 10 条视频,一共看了 8000 多个创作者,最终挖出五六百位优质创作者进入投稿激励活动;另外访谈了本平台和竞对平台的头部创作者,摸他们的痛点和需求
+- 指标:**团队指标** = 垂类播放量对大盘 +7%、优质创作者发布频次 +10%、头部留存;**我负责其中一整个板块** = 发掘优质内容和优质创作者、沉淀标准——量化:从 8000 多个创作者中发掘出五六百位优质创作者
 - 角色:实习生,服务团队目标;own 发掘板块和标准
-- 过程:①筛垂类:规模、占比、增速,加上图文内容的独特性——选定摄影和艺术(选对内容,增长容易;选错方向,增长很难)②标准做成可规模化执行,四个维度一点一句:合规(生态优质合规,非 AI 生成)/ 画面(整洁精致、构图色彩明亮、符合垂类调性——把"美感"抽炼出来)/ 情绪价值(**举例**:现在依然爆火的"单张图+情绪文案"就是我们当时探索出来的;"攻略型"内容是有用的代表,比如摄影教学)/ 无营销感(无广告、无挂车)③头部共创+规模化(简化讲):20 位头部 1v1 找共性卡点,做成投稿激励活动,并联动产品做了投稿工具(图文模板)
+- 过程:①筛垂类:规模、占比、增速,加上图文内容的独特性——选定摄影和艺术(选对内容,增长容易;选错方向,增长很难)②标准做成可规模化执行,四个维度一点一句:合规(生态优质合规,非 AI 生成)/ 画面(整洁精致、构图色彩明亮、符合垂类调性——把"美感"抽炼出来)/ 情绪价值(**举例**:现在依然爆火的"单张图+情绪文案"就是我们当时探索出来的;"攻略型"内容是有用的代表,比如摄影教学)/ 无营销感(无广告、无挂车)③按标准发掘(笨功夫):逐个看创作者主页、每人约 10 条视频,看了 8000 多个创作者,筛出五六百位进入投稿激励活动 ④头部共创+规模化:访谈本平台和竞对平台的头部创作者(约 20 位 1v1)找共性卡点和需求,做成投稿激励活动,并联动产品做了投稿工具(图文模板)
 - 结果:垂类播放对大盘 +7%,优质创作者发布频次 +10%;标准成为团队工具
 
 **中文逐字稿(约 90 秒,基于老师示范版)**
 
 > 背景:这是我的第一段实习,在抖音图文团队。图文当时是一个比较新的内容形态,资源是有限的,但承担了很高的增长目标。所以当时的目标是:先决定把精力投放在哪些垂类,再把整个内容供给和创作者增长做起来。
 >
-> 团队的指标是:垂类播放量对比大盘要涨多少,优质创作者的发布频次和留存要涨多少。我的角色,是在其中负责一整个板块:我 own 几个垂类的优质内容和优质创作者的发掘,并且要沉淀出发掘的标准。
->
-> 发掘这件事是笨功夫:我是一个一个看创作者的主页,一个创作者大概看十个视频,前前后后看了八千多个创作者,最后挖出来五六百位优质的,让他们进入接下来的投稿激励活动。另外我们还访谈了我们平台、还有竞争对手平台的头部创作者,去摸他们真实的痛点和需求。
+> 团队的指标是:垂类播放量对比大盘要涨多少,优质创作者的发布频次和留存要涨多少。我的角色,是在其中负责一整个板块:我 own 几个垂类的优质内容和优质创作者的发掘,并且要沉淀出发掘的标准。量化结果是:从八千多个创作者里,发掘出五六百位优质创作者。
 >
 > 第一步,先筛垂类。因为选对内容,增长其实是容易的;选错方向,再努力都难。我建了一个框架:看规模、占比、增速,再加上图文内容本身的独特性——最终选定了摄影和艺术这两个垂类。
 >
 > 第二步,把标准做成可以规模化执行的。我们把主观的"什么是好内容"抽象成四个维度,一点一句:第一,合规——生态上优质合规,不是 AI 生成的;第二,画面——整洁精致,构图色彩明亮,符合这个垂类讲究美的调性;第三,情绪价值——举个例子,现在依然爆火的"单张图加情绪文案",就是我们当时探索出来的,类似的模板还有很多;攻略型内容是"有用"的代表,比如教人摄影;第四,无营销感——没有广告和挂车的感觉。
 >
-> 第三步,头部共创加规模化,简单说:选了大概二十位头部一对一聊,把共性的卡点做成投稿激励活动,还联动产品做了投稿工具——图文的模板。
+> 第三步,按标准去发掘。这一步是笨功夫:我一个一个看创作者的主页,一个人大概看十个视频,前前后后看了八千多个创作者,最后筛出五六百位优质的,进入接下来的投稿激励活动。
+>
+> 第四步,头部共创加规模化。我们访谈了我们平台、还有竞争对手平台的头部创作者,一对一聊了大概二十位,把共性的卡点和需求,做成投稿激励活动,还联动产品做了投稿工具——图文的模板。
 >
 > 结果:垂类播放对比大盘涨了 7%,优质创作者的发布频次涨了 10%,这套标准成了团队的工具。
 
 **英文框架(六要素)**
 - Background: my first internship; photo-text was a new format, limited resources, high growth targets
 - Goal: decide which verticals to invest in, then grow supply & creators
-- Metrics: team = vertical views +7% vs baseline, quality creators' posting frequency +10%, top retention; my block = discovering quality content & creators + codifying the standard — I reviewed creators one by one, ~10 videos each, over 8,000 creators in total, and surfaced 500–600 quality creators into the incentive campaign; also interviewed top creators on our platform and competitors to map their pain points
+- Metrics: team = vertical views +7% vs baseline, quality creators' posting frequency +10%, top retention; my block = discovering quality content & creators + codifying the standard — quantified: 500–600 quality creators surfaced from 8,000+ reviewed
 - Role: intern serving the team goal; owned the discovery block
-- Process: pick verticals (size/share/growth + photo's uniqueness → photography & art) → four scoreable dimensions, one line each: compliance / visual craft / emotional value (example: the still-viral "single image + emotional caption" format we explored; how-to guides as the "useful" archetype) / no commercial feel → top-creator co-creation simplified: 20 creators 1v1, common blockers into posting-incentive campaigns + posting tool (templates) with product
+- Process: pick verticals (size/share/growth + photo's uniqueness → photography & art) → four scoreable dimensions, one line each: compliance / visual craft / emotional value (example: the still-viral "single image + emotional caption" format we explored; how-to guides as the "useful" archetype) / no commercial feel → discovery legwork: profile by profile, ~10 videos each, 8,000+ creators reviewed, 500–600 surfaced into the incentive campaign → top-creator co-creation: interviewed ~20 top creators on our platform and competitors, common blockers into posting-incentive campaigns + posting tool (templates) with product
 - Result: +7% views, +10% posting frequency; the standard became the team's tool
 
 **英文逐字稿(约 90 秒)**
 
 > "The background: my first internship, on Douyin's photo-and-text team. Photo posts were a new format — limited resources, but high growth targets. So the job was: decide where to invest first, then grow content supply and creators.
 >
-> The team's metrics were vertical views against the platform baseline, and quality creators' posting frequency and retention. My role was one whole block within that: I owned discovering quality content and quality creators for my verticals, and codifying the standard for discovery.
->
-> The discovery itself was honest legwork: I went through creators' profiles one by one, about ten videos per creator, over eight thousand creators in total — and surfaced five to six hundred quality creators into the posting-incentive campaign. On top of that, we interviewed top creators on our platform and on competitor platforms, to map their real pain points and needs.
+> The team's metrics were vertical views against the platform baseline, and quality creators' posting frequency and retention. My role was one whole block within that: I owned discovering quality content and quality creators for my verticals, and codifying the standard for discovery. The quantified result: five to six hundred quality creators surfaced from over eight thousand reviewed.
 >
 > Step one, pick the verticals. Pick the right content and growth comes easy; pick wrong and no effort saves you. I built a simple framework — size, share, growth rate, plus photo's own uniqueness — and landed on photography and art.
 >
 > Step two, make the standard executable at scale. We abstracted 'what good looks like' into four scoreable dimensions, one line each. Compliance — ecosystem-clean, not AI-generated. Visual craft — clean, refined, bright composition that fits a beauty-driven vertical. Emotional value — for example, the 'single image plus emotional caption' format that's still viral today came out of our exploration; and how-to guides were our 'useful' archetype, like photography tutorials. And no commercial feel — nothing that reads as an ad.
 >
-> Step three, simplified: about twenty top creators, one-on-one, common blockers turned into posting-incentive campaigns, plus a posting tool — photo templates — shipped with the product team.
+> Step three, discovery by that standard — honest legwork: I went through creators' profiles one by one, about ten videos per creator, over eight thousand creators in total, and surfaced five to six hundred into the posting-incentive campaign.
+>
+> Step four, top-creator co-creation: we interviewed top creators on our platform and on competitor platforms — about twenty, one-on-one — and turned their common blockers and needs into the incentive campaign, plus a posting tool — photo templates — shipped with the product team.
 >
 > The results: vertical views up seven percent against baseline, quality creators' posting frequency up ten — and the standard became the team's tool."
 
