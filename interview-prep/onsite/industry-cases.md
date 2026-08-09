@@ -218,6 +218,7 @@
 - **打标更精准**:我自己做过打标的工作,又慢又痛苦——AI 让内容/创作者识别更精准,运营提效直接兑现
 - **及时识别热点**:活动期间用 AI 实时抓直播里自然冒出来的事件,及时捕捉、及时放大(和作业里的热点看板同一逻辑)
 - **高光切片优质化 + 创作者一键剪辑**:直播最大的产品性缺陷是"易逝"——播完就没了;"Not on LIVE" 精选切片主要覆盖头部,腰尾部一场播得再好什么都留不下(我看的 483 粉主播单场 7.6k 赞,播完热度归零)。用 AI 给所有主播自动生成更优质的高光切片,创作者一键剪辑发布,切片挂上下一场预约——直播内容有了长尾分发,从一次性"事件"变成可积累的"资产"
+- **LIVE 原生实时字幕+翻译**(已查证:短视频有自动字幕,LIVE 没有原生实时字幕/翻译,只有创作者侧的辅助字幕且仅限所说语言,现在是第三方工具在补缺口)——补上它,直播内容才能跨语言分发,对多语言市场(东南亚/拉美)和听障可及性都有价值
 
 **补充观点(我自己的)|新人变现阶梯前移**
 - 1,000 粉才能收礼物——新人最需要正反馈的阶段恰好没有变现(jac.trv:483 粉、单场 7.6k 赞,想变现都没资格)
@@ -232,6 +233,8 @@
 > 产品化上,就是把验证过的运营动作沉到产品里。比如把预约功能做到"栏目"这一级:固定时段、连载、追更提醒,平台给守时开播的主播流量确定性。
 >
 > AI 上我觉得空间最大,两个环节。一个是运营提效:打标——我自己做过打标的工作,又慢又痛苦,AI 能让识别更精准,还能在活动期间及时识别冒出来的热点。另一个是直播后的内容传播:直播最大的缺陷是播完就没了,精选切片现在主要覆盖头部——我看过一个四百多粉的主播,单场七千多赞,播完这些热度全部归零。用 AI 给所有主播自动生成高光切片,创作者一键剪辑就能发,切片挂上下一场的预约——直播内容就有了长尾的分发,从一次性的事件,变成可积累的资产。
+>
+> 还有一个我查证过的缺口:短视频已经有自动字幕了,但 LIVE 到现在没有原生的实时字幕和翻译,目前是第三方工具在补。把它做进产品,直播内容就能跨语言分发,对多语言市场的价值很直接。
 
 **英文逐字稿(约 75 秒)**
 
@@ -241,7 +244,9 @@
 >
 > On productization: take the operational plays that work and sink them into the product. Push LIVE Events to a real 'show' level — fixed slots, episode numbers, reminders — and give punctual streamers traffic certainty.
 >
-> The biggest room is AI, in two places. One is operator efficiency: tagging — I've done tagging work myself, it's slow and painful; AI makes identification sharper, and it can catch emerging hot moments during a campaign in real time. The other is post-stream distribution: LIVE's biggest flaw is that it evaporates — highlights today mostly cover top creators. I watched a streamer with a few hundred followers pull thousands of likes in one session, and when it ended all that heat went to zero. AI-generated quality highlights for every streamer, one-tap editing and publishing, with the next stream's reservation attached — LIVE content gets a long tail, and streams stop being events and become assets."
+> The biggest room is AI, in two places. One is operator efficiency: tagging — I've done tagging work myself, it's slow and painful; AI makes identification sharper, and it can catch emerging hot moments during a campaign in real time. The other is post-stream distribution: LIVE's biggest flaw is that it evaporates — highlights today mostly cover top creators. I watched a streamer with a few hundred followers pull thousands of likes in one session, and when it ended all that heat went to zero. AI-generated quality highlights for every streamer, one-tap editing and publishing, with the next stream's reservation attached — LIVE content gets a long tail, and streams stop being events and become assets.
+>
+> And one gap I verified: short videos already have auto-captions, but LIVE still has no native real-time captions or translation — third-party tools are filling that hole today. Build it into the product, and LIVE content can travel across languages."
 
 # 周日执行清单(按最新安排)
 
