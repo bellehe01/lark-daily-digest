@@ -17,7 +17,7 @@
 **中文框架**
 - 基础信息:名字 / University of Arizona 商业分析硕士(2025.5 毕业)/ 毕业前在字节系有三段实习,毕业后两段经历,分开简单说
 - 最近一段(2025.9–今,美区 TikTok Shop agency):规模化达人库运营——4 万+达人、300+ 品牌,标准化分层、自动化工具、痛点模型做品牌×达人匹配;人力集中在头部策略;人效 1→2-3
-- 早期(字节系三段实习,只展开最相关的抖音图文):own 摄影/艺术两垂类;动作两块——定标准(什么算优质内容/优质创作者,定成可执行的)+ 扶持头部(20 位头部 1v1 找共性卡点→做成活动、社群规模化铺开);垂类播放 +7%、优质创作者发布频次 +10%(另两段 TikTok Music 数据、特效 PM 各一句带过,留给深挖)
+- 早期(字节系三段实习,只展开最相关的抖音图文):own 摄影/艺术两垂类;动作两块——定标准(什么算优质内容/优质创作者,定成可执行的)+ 扶持头部(20 位头部 1v1 找共性卡点→做成投稿激励活动+联动产品做投稿工具);垂类播放 +7%、优质创作者发布频次 +10%(另两段 TikTok Music 数据、特效 PM 各一句带过,留给深挖)
 - 收口:岗位要 own 垂类策略与运营、数据驱动、跨团队推规模化项目——这就是我擅长且有实际落地经验的领域;"这就是我的简单介绍,期待和您进一步交流"
 
 **中文逐字稿(约 90 秒)**
@@ -26,14 +26,14 @@
 >
 > 最近这份工作,是在美区的 TikTok Shop agency。我管的是达人库的运营:库里有四万多个达人,对接三百多个品牌。这么大的量,靠人一个个筛是筛不过来的,所以我的做法是把它规模化——先把达人分层的标准定出来,再搭自动化的工具,最后用一个模型,看产品的痛点和达人的 GMV,把品牌和达人配对。人省下来的时间,就花在头部达人的内容策略,和给品牌做推荐上。结果是,一个运营经理原来只能服务一个品牌,现在能服务两到三个。
 >
-> 更早的经历,是字节系的三段实习,最相关的是抖音图文团队:我 own 摄影和艺术两个垂类,做的事主要是两块。一块是定标准——把"什么算优质内容、什么算优质创作者"定成大家能照着执行的标准;另一块是扶持头部——跟二十位头部创作者一对一,找到他们共同的卡点,再把解法做成活动和社群,规模化地铺开。结果是垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在 TikTok 特效团队做产品实习。
+> 更早的经历,是字节系的三段实习,最相关的是抖音图文团队:我 own 摄影和艺术两个垂类,做的事主要是两块。一块是定标准——把"什么算优质内容、什么算优质创作者"定成大家能照着执行的标准;另一块是扶持头部——跟二十位头部创作者一对一,找到他们共同的卡点,再把解法做成投稿激励活动,并且联动产品做了投稿工具,规模化地铺开。结果是垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在 TikTok 特效团队做产品实习。
 >
 > 我理解这个岗位是要 own 垂类的策略和运营,用数据驱动决策,并且跨团队推进规模化项目——这就是我擅长、而且有实际落地经验的领域。这就是我的简单介绍,期待和您进一步交流。
 
 **英文框架**
 - Basics: name / MS Business Analytics, University of Arizona (May 2025) / three ByteDance-family internships before graduating, two chapters after
 - Recent (US TikTok Shop agency): 44k-creator database at scale — tiering, automation, pain-point matching model; AM capacity 1→2-3; BFCM; most matches in beauty/fashion/lifestyle
-- Earlier (Douyin photo-text, the most relevant): owned photography & art; two moves — set the executable quality standard + 1:1s with 20 top creators, common blockers → campaigns & communities at scale; +7% views, +10% posting frequency (Music & Effects one line each, held for follow-up)
+- Earlier (Douyin photo-text, the most relevant): owned photography & art; two moves — set the executable quality standard + 1:1s with 20 top creators, common blockers → posting-incentive campaigns + posting tool with product; +7% views, +10% posting frequency (Music & Effects one line each, held for follow-up)
 - Close: the role = vertical ownership + data-driven + cross-functional programs — exactly where I'm strongest with hands-on experience; "looking forward to our conversation"
 
 **英文逐字稿(约 90 秒)**
@@ -42,7 +42,7 @@
 >
 > My most recent role is at a TikTok Shop agency in the US. I run creator database operations: over forty thousand creators, three hundred plus brand clients. At that volume you can't screen by hand, so my job was making it scale — we set the tiering standards, built automation tools, and then a matching model that looks at product pain points and creator GMV to pair brands with creators. The time that frees up goes into top-creator content strategy and brand recommendations. The result: an account manager who used to handle one brand now handles two or three.
 >
-> Earlier, three ByteDance internships — the most relevant being Douyin's photo-and-text team, where I owned two verticals, photography and art. Two main things there. One, setting the standard: turning 'what counts as quality content and quality creators' into something the team could actually execute against. Two, top-creator work: one-on-ones with twenty top creators to find their common blockers, then turning the fixes into campaigns and communities that scaled. Vertical views grew seven percent, and quality creators' posting frequency grew ten. The other two: content data at TikTok Music, and product at the effects team.
+> Earlier, three ByteDance internships — the most relevant being Douyin's photo-and-text team, where I owned two verticals, photography and art. Two main things there. One, setting the standard: turning 'what counts as quality content and quality creators' into something the team could actually execute against. Two, top-creator work: one-on-ones with twenty top creators to find their common blockers, then turning the fixes into posting-incentive campaigns, and working with product on a posting tool — so it scaled. Vertical views grew seven percent, and quality creators' posting frequency grew ten. The other two: content data at TikTok Music, and product at the effects team.
 >
 > I read this role as owning a vertical's strategy and operations, driving decisions with data, and shipping cross-functional programs — and that's exactly where I'm strongest, with real hands-on experience. That's a quick overview of me — looking forward to our conversation."
 
@@ -358,7 +358,7 @@
 - 目标:先决定把精力投在哪些垂类,再把内容供给和创作者增长做起来
 - 指标:**团队指标** = 垂类播放量对大盘 +7%、优质创作者发布频次 +10%、头部留存;**我负责其中一整个板块** = 发掘优质内容和优质创作者、沉淀标准——我的量化目标:从约 X 万投稿中发掘约 XX 位优质创作者、XXX 篇优质内容(⚠️ 按真实情况定个数,没有精确数也要给量级)
 - 角色:实习生,服务团队目标;own 发掘板块和标准
-- 过程:①筛垂类:规模、占比、增速,加上图文内容的独特性——选定摄影和艺术(选对内容,增长容易;选错方向,增长很难)②标准做成可规模化执行,四个维度一点一句:合规(生态优质合规,非 AI 生成)/ 画面(整洁精致、构图色彩明亮、符合垂类调性——把"美感"抽炼出来)/ 情绪价值(**举例**:现在依然爆火的"单张图+情绪文案"就是我们当时探索出来的;"攻略型"内容是有用的代表,比如摄影教学)/ 无营销感(无广告、无挂车)③头部共创+规模化(简化讲):20 位头部 1v1 找共性卡点,做成活动、社群,并联动产品补了图文模板工具
+- 过程:①筛垂类:规模、占比、增速,加上图文内容的独特性——选定摄影和艺术(选对内容,增长容易;选错方向,增长很难)②标准做成可规模化执行,四个维度一点一句:合规(生态优质合规,非 AI 生成)/ 画面(整洁精致、构图色彩明亮、符合垂类调性——把"美感"抽炼出来)/ 情绪价值(**举例**:现在依然爆火的"单张图+情绪文案"就是我们当时探索出来的;"攻略型"内容是有用的代表,比如摄影教学)/ 无营销感(无广告、无挂车)③头部共创+规模化(简化讲):20 位头部 1v1 找共性卡点,做成投稿激励活动,并联动产品做了投稿工具(图文模板)
 - 结果:垂类播放对大盘 +7%,优质创作者发布频次 +10%;标准成为团队工具
 
 **中文逐字稿(约 90 秒,基于老师示范版)**
@@ -371,7 +371,7 @@
 >
 > 第二步,把标准做成可以规模化执行的。我们把主观的"什么是好内容"抽象成四个维度,一点一句:第一,合规——生态上优质合规,不是 AI 生成的;第二,画面——整洁精致,构图色彩明亮,符合这个垂类讲究美的调性;第三,情绪价值——举个例子,现在依然爆火的"单张图加情绪文案",就是我们当时探索出来的,类似的模板还有很多;攻略型内容是"有用"的代表,比如教人摄影;第四,无营销感——没有广告和挂车的感觉。
 >
-> 第三步,头部共创加规模化,简单说:选了大概二十位头部一对一聊,把共性的卡点做成活动和社群,还联动产品补了图文的模板工具。
+> 第三步,头部共创加规模化,简单说:选了大概二十位头部一对一聊,把共性的卡点做成投稿激励活动,还联动产品做了投稿工具——图文的模板。
 >
 > 结果:垂类播放对比大盘涨了 7%,优质创作者的发布频次涨了 10%,这套标准成了团队的工具。
 
