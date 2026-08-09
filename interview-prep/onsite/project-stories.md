@@ -26,7 +26,7 @@
 >
 > 最近这份工作,是在美区的 TikTok Shop agency。我管的是达人库的运营:库里有四万多个达人,对接三百多个品牌。这么大的量,靠人一个个筛是筛不过来的,所以我的做法是把它规模化——先把达人分层的标准定出来,再搭自动化的工具,最后用一个模型,看产品的痛点和达人的 GMV,把品牌和达人配对。人省下来的时间,就花在头部达人的内容策略,和给品牌做推荐上。结果是,一个运营经理原来只能服务一个品牌,现在能服务两到三个。
 >
-> 更早的经历,是字节系的三段实习,最相关的是抖音图文团队:我 own 摄影和艺术两个垂类,做的事主要是两块。一块是定标准——把"什么算优质内容、什么算优质创作者"定成大家能照着执行的标准;另一块是扶持头部——跟二十位头部创作者一对一,找到他们共同的卡点,再把解法做成投稿激励活动,并且联动产品做了投稿工具,规模化地铺开。结果是垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在 TikTok 特效团队做产品实习。
+> 更早的经历,是字节系的三段实习,分别在抖音图文、TikTok Music 和 TikTok 特效团队。其中和这个岗位最相关的,是抖音图文:我 own 摄影和艺术两个垂类,做的事主要是两块。一块是定标准——把"什么算优质内容、什么算优质创作者"定成大家能照着执行的标准;另一块是扶持头部——跟二十位头部创作者一对一,找到他们共同的卡点,再把解法做成投稿激励活动,并且联动产品做了投稿工具,规模化地铺开。结果是垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在特效团队做产品实习——这两段帮我练的是数据分析、跨部门合作和项目管理的能力。
 >
 > 我理解这个岗位是要 own 垂类的策略和运营,用数据驱动决策,并且跨团队推进规模化项目——这就是我擅长、而且有实际落地经验的领域。这就是我的简单介绍,期待和您进一步交流。
 
@@ -42,7 +42,7 @@
 >
 > My most recent role is at a TikTok Shop agency in the US. I run creator database operations: over forty thousand creators, three hundred plus brand clients. At that volume you can't screen by hand, so my job was making it scale — we set the tiering standards, built automation tools, and then a matching model that looks at product pain points and creator GMV to pair brands with creators. The time that frees up goes into top-creator content strategy and brand recommendations. The result: an account manager who used to handle one brand now handles two or three.
 >
-> Earlier, three ByteDance internships — the most relevant being Douyin's photo-and-text team, where I owned two verticals, photography and art. Two main things there. One, setting the standard: turning 'what counts as quality content and quality creators' into something the team could actually execute against. Two, top-creator work: one-on-ones with twenty top creators to find their common blockers, then turning the fixes into posting-incentive campaigns, and working with product on a posting tool — so it scaled. Vertical views grew seven percent, and quality creators' posting frequency grew ten. The other two: content data at TikTok Music, and product at the effects team.
+> Earlier, three ByteDance internships — at Douyin's photo-and-text team, TikTok Music, and the TikTok effects team. The most relevant is the photo-and-text team, where I owned two verticals, photography and art. Two main things there. One, setting the standard: turning 'what counts as quality content and quality creators' into something the team could actually execute against. Two, top-creator work: one-on-ones with twenty top creators to find their common blockers, then turning the fixes into posting-incentive campaigns, and working with product on a posting tool — so it scaled. Vertical views grew seven percent, and quality creators' posting frequency grew ten. The other two — content data at TikTok Music, and product at the effects team — trained my data analysis, cross-team collaboration, and project management.
 >
 > I read this role as owning a vertical's strategy and operations, driving decisions with data, and shipping cross-functional programs — and that's exactly where I'm strongest, with real hands-on experience. That's a quick overview of me — looking forward to our conversation."
 
@@ -116,6 +116,16 @@
 > Results: AM capacity one to two-or-three, and the matching method plus tiering became standing SOPs. I worked through Black Friday hands-on — and the categories I matched most were beauty, fashion, and lifestyle."
 
 ---
+
+**追问 Q&A(两问都被验证过)**
+
+- **Q:你跟创作者交流多吗?**(先直接回答,别绕"我懂他们")
+  > 说实话,直接沟通不多。这个工作更像一个中台,我的核心是搭内容、搭机制;达人的日常管理,是达人自己团队的运营在做。我在这里面主要沉淀的是内容相关的核心能力。不过我日常会做用户访谈——对达人,也对对接达人的 AM——这部分涉及很多沟通工作。
+  - EN: "Honestly, not much direct communication. The role is closer to a middle platform — my job was building the content system and the mechanisms; day-to-day creator management sat with their own account teams. What I really built here is the content-side capability. That said, I ran regular interviews — with creators, and with the AMs who manage them — and that part is a lot of communication work."
+- **Q:为什么按 GMV 分 L1–L5?市场上还有别的分法吗?**
+  > 这样分是为了穷尽达人从新人到大博主的整个成长阶段——L1 到 L5 把成长路径完整覆盖。而且它直接服务筛选:我们的品牌特别关注的就是 L3 及以上的达人。市场上也有按粉丝量、按内容品类分的,但对撮合这个场景,GMV 分层跟品牌的决策最对齐。
+  - EN: "The tiers exhaust a creator's growth path from newcomer to major — L1 through L5 covers the whole journey. And it serves selection directly: our brands care specifically about L3 and above. There are other cuts — by follower count, by content category — but for matching, GMV tiers align best with how brands actually decide."
+- 原则:讲的每一个机制,都要能答上"为什么这么做"和"还有什么别的做法"。
 
 # 美区 Agency(2025.9–今)· Story 2:5000 人线下创作者活动交付
 

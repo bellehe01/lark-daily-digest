@@ -138,6 +138,8 @@
 ## 一4. 你的核心假设是什么?如果假设错了,方案会怎么变?
 
 **中文框架**(五个假设,业务层,每个带"错了怎么办")
+- **记忆分组**(脱稿按组记):垂类假设(1、2)/ 头部创作者假设(3)/ 活动假设(4、5)
+- **短版开场备选**(被问"数据层面的假设"时用):所有数据都是基于垂类的两个指标设定的——**开播和营收**。营收上,我假设留存出了问题,所以做留存提高和营收转化的动作(预算更多分配给头部);开播上,活动里多做拉新的动作
 - 假设 1:垂类在市场上处于成熟偏增长期,需要找更多增长因子 → 错了影响不大,这些动作在别的阶段也是锦上添花
 - 假设 2:垂类的留存出了问题(从提供的数据推的;数据还不够,需要更多信息)→ 错了(留存没问题):聚焦**变现效率**——不动时长,加玩法、加付费设计,扩大利润盘子
 - 假设 3:发现头部问题后,可以顺利对头部单点调整 → 实际最难:头部内容已成熟固定,转型有风险,不一定听新运营的 → 信任问题:熟悉的运营在前、我出策略在后,给磨合期;策略问题(真转不动):不再聚焦这五人,时间和策略分配完全变——从存量打标筛增长快的高潜 + 用音乐节发现筛选;音乐节本来就留了 10–20% 备选
@@ -630,6 +632,7 @@
 ## 四1. 整个音乐节策划的核心主线是什么?你的方案有什么亮点、跟别人有什么不同?
 
 **中文框架**
+- 开场先确认口径:"您指的是单指音乐节这个活动,还是包括对五位头部创作者的诊断?"
 - 从目的看:服务于三件事——头部 showcase 打造、腰部高潜发掘、拉新
 - 从机制看:四个设计——**预埋营销**(头部内容/投流/热点提前配)、**不同赛道**(成熟与新人分开,各自能被看见)、**赛制激励**(比赛+奖励梯把参与率顶起来)、**粉丝二创**(保内容传播+提升主粉转化)
 - 其他细节不展开,按面试官兴趣挑一块深入
@@ -659,9 +662,45 @@
 >
 > That's the through-line. Happy to go deep on whichever piece interests you."
 
+## 四1-追问. 预埋的热点,你怎么保证它能爆?
+
+**中文框架**
+- 先给本质:热点 = 一段时间里值得讨论、值得放大的**事件**——不是动作,也不是机制(世界杯是活动,"谁在世界杯上怎么了"才是热点)。有事件才能爆
+- 三步:①**头部预热**——活动期让约 80% 的头部围绕音乐节主题先发内容,把大话题带起来 ②**制造+捕捉**——活动中人为制造冲突和反差(比如搭两位创作者做联动直播);同时用看板实时盯活动里自然冒出来的事件,发现了及时捕捉、及时放大、推上热点(热点一部分靠预埋,大部分靠跟得及时) ③**放大**——粉丝二创、腰部跟发都是放大器
+- 收口:先有事件,再放大;没有事件,制造事件
+- (自己知道就行,现场不说:热点榜是人为提报的,我做过提热点的工作)
+
+**中文逐字稿(约 60 秒)**
+
+> 我先说我对热点的理解:热点的本质,是一段时间里值得大家讨论、值得放大的一个**事件**——它不是一个动作,也不是一个机制。比如世界杯本身不是热点,它是个活动;"谁在世界杯上怎么了",这才是热点。所以要保证能爆,核心是先有事件,再放大。
+>
+> 具体我会做三步。
+>
+> 第一步,头部预热。活动期间,我会让百分之八十左右的头部创作者,围绕音乐节的主题先发内容,把这个大话题先带起来。
+>
+> 第二步,制造加捕捉。一方面,活动中人为制造一些冲突和反差——比如搭两位创作者做联动直播;另一方面,人为制造的不一定自然,所以我会用一个看板,实时盯活动里自然冒出来的事件,发现了就及时捕捉、及时放大,把它推成热点话题。
+>
+> 第三步才是放大。粉丝二创、腰部创作者跟发,这些都是放大器——但放大器的前提是有东西可放。先有事件,再放大;没有事件,就制造事件。
+
+**英文框架**
+- Essence first: a hot topic is an **event** worth discussing and amplifying within a window — not an action or a mechanism (the World Cup is a campaign; "what someone did at the World Cup" is the event)
+- Three steps: top creators seed the theme (~80% participation) → manufacture contrast (paired co-streams) + catch emerging moments in real time on a dashboard and amplify fast → fan edits & mid-tier reposts amplify
+- Close: first the event, then the amplification; no event — make one
+
+**英文逐字稿(约 60 秒)**
+
+> "Let me start with how I read 'hot topics': a hot topic is an event worth discussing and amplifying within a window — not an action, not a mechanism. The World Cup itself isn't a hot topic; it's a campaign. 'What someone did at the World Cup' — that's the event. So the way to make heat is: first have an event, then amplify it.
+>
+> Three steps. One, top creators seed it: during the campaign I'd get around eighty percent of the top creators posting on the festival's theme, so the big conversation starts warm.
+>
+> Two, manufacture and catch. On one side, deliberately create contrast — say, pairing two creators for a co-stream. On the other side, manufactured moments can feel forced — so I'd keep a dashboard watching for moments that emerge naturally during the campaign, and when one appears, catch it fast and push it while it's alive.
+>
+> Three, amplification: fan edits, mid-tier creators reposting — those are amplifiers. But an amplifier needs something to amplify. First the event, then the amplification. And if no event shows up — make one."
+
 ## 四2. 粉丝二创怎么想到的?怎么让它奏效?如果粉丝不剪或质量极差,Plan B?
 
 **中文框架**
+- 前提一句(和热点题咬合):二创是放大器——它放大的前提是有事件、有话题
 - 设计机制时就想好了怎么奏效,三个角度:**互动**(邀请创作者发起、主动宣发)/ **门槛**(和产品预埋模板素材包)/ **激励**(奖励预算分给二创表现好的粉丝)
 - 规则前置:要求和好的示范写进规则,严格审核(相当于 SOP 前置)
 - 兜底:专业编辑 + 官方剪辑师保传播素材的量和质
