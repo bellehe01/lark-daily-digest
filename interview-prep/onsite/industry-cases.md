@@ -154,46 +154,46 @@
 
 ### C1 · 头部标杆:Tori V(@torivofficial,TikTok)
 
-**事实卡**(公开信息+平台官方)
-- **TikTok LIVE Fest 2025 全球音乐类冠军**——平台官方认证的年度音乐直播标杆
-- TikTok 百万粉,全网 250 万+;单场直播常态数千人在线,美国头部女性音乐主播之一
-- 唱作人出身:翻唱 Barbie Girl 在 YouTube 破 5700 万播放,2017 年出过专辑 American Beauty
-- **从叉车司机转全职 LIVE 主播**——TikTok LIVE 官方账号专门讲过她的故事(Winner's Circle 活动冠军)
-- 粉丝团有自己的名字:**"Looneez"**
+**事实卡**(公开信息+平台官方+我的看播观察)
+- **TikTok LIVE Fest 2025 全球音乐类冠军**——平台官方认证的年度音乐直播标杆;TikTok 百万粉、全网 250 万+,单场常态数千人在线
+- 人设是一套完整体系:自我定义为 **"clown-pop / 黑暗童话"**——小丑妆是她的视觉签名,粉丝团命名 **"Looneez"** 和小丑主题一脉相承;我看播观察:画面非常清晰、布景完整,妆容-布景-歌全部在同一个风格里
+- 真唱作人:翻唱 Barbie Girl 在 YouTube 爆红(数千万级播放)起家;原创单曲 Future Barbie Girl(2023)、**Big Bad Wolf(2025)——这首歌是在 TikTok 直播里和粉丝实时共同写出来的**;制作规格到格莱美级(混音 Tom Lord-Alge、母带 Sterling Sound)
+- **从叉车司机转全职 LIVE 主播**——TikTok LIVE 官方账号专门讲过她的故事(Winner's Circle 冠军)
 
 **中文框架**(四维)
-- 数据好:LIVE Fest 2025 全球音乐冠军(官方盖章,说她=说平台认证的标杆,不会被挑战);百万粉、常态数千人在线
-- 内容好:真唱作人,有出圈作品(5700 万播放的翻唱)和专辑沉淀——内容有作品做底
-- 互动/运营好:**粉丝团有名字"Looneez"**——私域不是拉个群,是做出粉丝的身份认同(运营好的顶配);官方把她当职业化样本宣传
-- 好在哪(一句话):她证明了音乐直播是一条**职业路径**——叉车司机→全职主播→年度全球冠军;这就是 LIVE 生态给普通人的上升通道
-- 迁移:我 case 音乐节要招的 500 个新人,给他们讲的愿景就是 Tori V 这条路;LIVE Fest 本身也是"平台办赛事造标杆"的佐证——和我的音乐节同构
+- 数据好:LIVE Fest 2025 全球音乐冠军(官方盖章,不会被挑战);百万粉、常态数千人在线
+- 内容好:**人设做成了体系**——"小丑-pop/黑暗童话"从妆容、布景、原创歌到粉丝团命名(Looneez)全线统一;唱功和制作是真的(格莱美级制作班底);我看播的直观感受:画面清晰、布景完整,一进直播间就知道"这是谁的场子"
+- 互动好(具体行为):**在直播里和粉丝实时共创原创歌**——Big Bad Wolf 就是直播里写出来的。这比点歌更高一层:观众不是在点内容,是在共同生产内容
+- 运营好:命名粉丝团 Looneez(身份认同);官方把她当职业化样本宣传
+- 好在哪(一句话):音乐直播内容好的天花板长这样——**人设体系化(有记忆点)+ 内容共创化(有参与感)+ 职业路径化(有故事)**
+- 迁移:我 case 音乐节招的 500 个新人,愿景就是 Tori V 这条路;"直播共创"也是给头部设计互动的高阶模板——让粉丝参与创作,不只是消费创作
 
-**中文逐字稿(约 55 秒)**
+**中文逐字稿(约 65 秒)**
 
-> 音乐垂类的头部标杆,我讲 Tori V。她是 TikTok LIVE Fest 2025 的全球音乐类冠军——平台官方认证的年度音乐直播标杆。百万粉,单场直播常态几千人在线,粉丝团有自己的名字,叫 Looneez。
+> 音乐垂类的头部标杆,我讲 Tori V。她是 TikTok LIVE Fest 2025 的全球音乐类冠军——平台官方认证的年度标杆。百万粉,单场常态几千人在线。
 >
-> 她的故事本身就是 LIVE 生态最好的广告:她原来是开叉车的,靠直播唱歌转成了全职创作者,官方还专门拿她的故事做过宣传。
+> 我自己看她直播,第一感受是人设的完整度:她化小丑妆,自己定义风格叫"小丑-pop、黑暗童话"——妆容、布景、原创歌、连粉丝团的名字都叫 Looneez,整条线全是统一的。画面非常清晰,布景完整,你一进直播间就知道这是谁的场子。而且她唱功是真的好——她是唱作人出身,靠翻唱爆红,原创歌的制作规格到了格莱美级的混音师。
 >
-> 这个案例我认两个点。第一,粉丝团有名字——粉丝的身份认同做出来了。私域不是拉个群,是让粉丝觉得"我是 Looneez",这是运营的最高一层。第二,她证明了音乐直播是一条职业路径——从素人到年度冠军,平台用赛事把这条路照亮了。
+> 最让我印象深的是一件事:她 2025 年的原创单曲 Big Bad Wolf,是在 TikTok 直播里和粉丝实时一起写出来的。这比点歌又高了一层——观众不是在点内容,是在共同生产内容。
 >
-> 放到我的 case:音乐节要招的五百个新人,给他们看的愿景就是 Tori V 这条路;而我平时看的腰部主播 Talia,正走在这条路的中段。头部、腰部、新人,整条成长链我都有真实样本。
+> 再加上她的故事:叉车司机转全职主播,官方拿她做职业化的样本宣传。所以这个案例我总结成三个词:人设体系化,有记忆点;内容共创化,有参与感;职业路径化,有故事。我音乐节要招的五百个新人,给他们看的愿景就是这条路。
 
 **英文框架**
-- Tori V (@torivofficial): **global music winner of TikTok LIVE Fest 2025** — the platform's own certified benchmark; 1M+ TikTok followers, 2.5M+ cross-platform, thousands of concurrents per stream
-- Real singer-songwriter: a Barbie Girl cover with 57M YouTube views, a 2017 album
-- Forklift driver → full-time LIVE creator — TikTok LIVE's official account told her story (Winner's Circle champion); her fandom has a name: the "Looneez"
-- Two takeaways: a named fandom = identity-level community (the top tier of creator ops); and she proves music LIVE is a career path the platform lights up with competitions
-- Bridge: my case's 500 recruits get shown the Tori V path; Talia is mid-way down the same road — I have real samples across the whole growth chain
+- Tori V (@torivofficial): **global music winner, TikTok LIVE Fest 2025** — platform-certified benchmark; 1M+ followers, thousands of concurrents routinely
+- The persona is a system: self-described **"clown-pop / dark fairytale"** — clown makeup as visual signature, fandom named the "Looneez" to match; my own viewing: crisp picture, full set design, one unified style from face to music
+- Real singer-songwriter: viral Barbie Girl cover origin; original "Big Bad Wolf" (2025) **written in real time on a TikTok livestream with her fans**; Grammy-level production credits
+- Forklift driver → full-time creator, told by TikTok LIVE's official account
+- Summary: persona as a system (memorable) + content co-creation (participatory) + career path (a story) — the ceiling of "content good" in music LIVE
 
-**英文逐字稿(约 55 秒)**
+**英文逐字稿(约 65 秒)**
 
-> "For the top of the music vertical: Tori V. She's the global music winner of TikTok LIVE Fest 2025 — the platform's own certified benchmark. Over a million followers, thousands of concurrent viewers as a routine, and her fandom has its own name — the Looneez.
+> "For the top of the music vertical: Tori V — global music winner of TikTok LIVE Fest 2025, the platform's own certified benchmark. Over a million followers, thousands of concurrent viewers as a routine.
 >
-> Her story is the best advertisement the LIVE ecosystem has: she drove a forklift for a living, converted to a full-time creator through singing on LIVE, and TikTok's official account told her story.
+> Watching her live, the first thing that strikes me is how complete the persona is. She performs in clown makeup — she calls her style 'clown-pop, dark fairytale' — and the makeup, the set, the original songs, even the fandom's name, the Looneez, all sit in one unified world. The picture is crisp, the set is fully designed; you walk into the room and instantly know whose show this is. And the craft is real — she's a singer-songwriter whose originals carry Grammy-level production credits.
 >
-> Two things I take from this case. One, the named fandom — identity-level community. Private-domain operations isn't starting a group chat; it's making fans say 'I'm a Looneez.' That's the top tier of creator ops. Two, she proves music LIVE is a career path — from unknown to global champion — and the platform lit that path with competitions.
+> The detail that impressed me most: her 2025 single Big Bad Wolf was written in real time on a TikTok livestream, together with her fans. That's a level above song requests — the audience isn't picking content, it's co-producing content.
 >
-> Back to my case: the five hundred newcomers my festival recruits get shown exactly the Tori V path. And Talia, the mid-tier streamer I watch, is walking the middle of that same road. Top, mid, new — I have real samples across the whole chain."
+> Add her story — forklift driver to full-time creator, told by TikTok's official account — and I'd summarize the case in three phrases: persona as a system, so she's memorable; content as co-creation, so fans participate; and career as a path, so there's a story. The five hundred newcomers my festival recruits get shown exactly this road."
 
 ### C2 · 腰部实录(我真实看播,2026-08-09):Talia
 
