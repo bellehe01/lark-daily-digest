@@ -836,7 +836,7 @@
 **中文框架**
 - 原则:创作者只看两件事——奖励拿不拿得到 + 能不能被看见;服务这两件事的留,其余砍
 - 保:赛事奖励(报名动力)/ **直播流量激励(traffic boost:参赛新人开播的冷启动流量 + showcase 直播的推流资源——"能不能火"最终靠流量兑现)**
-- 砍:线下降级(booth 缩小,装饰伴手礼全去)/ 付费营销转 organic(创作者自传播+平台位)/ 训练营转纯线上
+- 砍:线下降级(booth 缩小,装饰伴手礼全去)/ 付费营销转 organic(创作者自传播+平台位+粉丝二创)/ 训练营转纯线上
 - Stretch 全放弃
 - 500 目标不变,路径换:营销买 → 机制拉(奖励梯+头部号召+流量激励)
 
@@ -846,7 +846,7 @@
 >
 > 保两样。第一,赛事奖励。这是五百人报名的直接动力,砍了它,招新目标就没有腿了。第二,直播的流量激励——参赛新人开播的冷启动流量,和 showcase 直播的推流资源。"能不能火"这件事,最终是靠流量兑现的:一个新人报了名、开了播,没有流量进来,他下周就不播了。这个砍了,赛事的吸引力就塌了。
 >
-> 砍三样。第一,线下规模降级:展位缩小,装饰、伴手礼全部去掉——现场氛围可以降级,创作者不是为了氛围来的。第二,付费营销转 organic:靠创作者自传播,加平台资源位,这两个不花钱也在工作。第三,训练营转纯线上,内容不减,场地和物料的钱省下来。
+> 砍三样。第一,线下规模降级:展位缩小,装饰、伴手礼全部去掉——现场氛围可以降级,创作者不是为了氛围来的。第二,付费营销转 organic:靠创作者自传播、平台资源位,加上粉丝二创,这三个不花钱也在工作。第三,训练营转纯线上,内容不减,场地和物料的钱省下来。
 >
 > Stretch 里的项目——明星合作、定制特效——全部放弃。
 >
@@ -855,7 +855,7 @@
 **英文框架**
 - Principle: creators care about two things — the prize being real + being seen
 - Keep: prizes / the traffic boost (cold-start traffic for new entrants + streaming support for the showcase — "a shot at breaking out" is ultimately paid in traffic)
-- Cut: offline downgraded / paid marketing → organic / bootcamp online
+- Cut: offline downgraded / paid marketing → organic (creator self-promo + platform placements + fan-made clips) / bootcamp online
 - Drop all stretch
 - Target holds; path shifts from bought reach to mechanism pull
 
@@ -865,7 +865,7 @@
 >
 > I keep two things. The competition prizes — that's the direct reason five hundred people enter; cut it and the recruitment target loses its legs. And the traffic boost — cold-start traffic for new entrants when they go live, and streaming support for the showcase broadcast. Because 'a shot at breaking out' is ultimately paid in traffic: a newcomer who signs up, goes live, and gets no viewers won't stream a second week. Cut this and the competition's pull collapses.
 >
-> I cut three things. The offline footprint: smaller booth, no decoration, no merch — the ambience can degrade; creators aren't coming for the ambience. Paid marketing goes organic: creator self-promotion plus platform placements — both work even when they're free. And the bootcamp moves fully online: same content, zero venue cost.
+> I cut three things. The offline footprint: smaller booth, no decoration, no merch — the ambience can degrade; creators aren't coming for the ambience. Paid marketing goes organic: creator self-promotion, platform placements, and fan-made clips — all of it works even when it's free. And the bootcamp moves fully online: same content, zero venue cost.
 >
 > Stretch items — the star collaboration, the custom effects — all dropped.
 >
