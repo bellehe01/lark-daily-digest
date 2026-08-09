@@ -150,7 +150,52 @@
 - 一句话讲法:他把变现和互动绑死在同一个动作里——观众付费不是"支持主播",是"我要看效果";互动本身就是内容,观众是导演
 - 迁移:给美妆时尚主播设计互动,问题不是"让他多说话",是"观众付费能改变什么"(投票选妆容/礼物解锁下一个 look)
 
-## 案例 C · 音乐垂类(我真实看播,2026-08-09 实录):Talia
+## 案例 C · 音乐垂类:头部标杆 Tori V + 腰部实录 Talia
+
+### C1 · 头部标杆:Tori V(@torivofficial,TikTok)
+
+**事实卡**(公开信息+平台官方)
+- **TikTok LIVE Fest 2025 全球音乐类冠军**——平台官方认证的年度音乐直播标杆
+- TikTok 百万粉,全网 250 万+;单场直播常态数千人在线,美国头部女性音乐主播之一
+- 唱作人出身:翻唱 Barbie Girl 在 YouTube 破 5700 万播放,2017 年出过专辑 American Beauty
+- **从叉车司机转全职 LIVE 主播**——TikTok LIVE 官方账号专门讲过她的故事(Winner's Circle 活动冠军)
+- 粉丝团有自己的名字:**"Looneez"**
+
+**中文框架**(四维)
+- 数据好:LIVE Fest 2025 全球音乐冠军(官方盖章,说她=说平台认证的标杆,不会被挑战);百万粉、常态数千人在线
+- 内容好:真唱作人,有出圈作品(5700 万播放的翻唱)和专辑沉淀——内容有作品做底
+- 互动/运营好:**粉丝团有名字"Looneez"**——私域不是拉个群,是做出粉丝的身份认同(运营好的顶配);官方把她当职业化样本宣传
+- 好在哪(一句话):她证明了音乐直播是一条**职业路径**——叉车司机→全职主播→年度全球冠军;这就是 LIVE 生态给普通人的上升通道
+- 迁移:我 case 音乐节要招的 500 个新人,给他们讲的愿景就是 Tori V 这条路;LIVE Fest 本身也是"平台办赛事造标杆"的佐证——和我的音乐节同构
+
+**中文逐字稿(约 55 秒)**
+
+> 音乐垂类的头部标杆,我讲 Tori V。她是 TikTok LIVE Fest 2025 的全球音乐类冠军——平台官方认证的年度音乐直播标杆。百万粉,单场直播常态几千人在线,粉丝团有自己的名字,叫 Looneez。
+>
+> 她的故事本身就是 LIVE 生态最好的广告:她原来是开叉车的,靠直播唱歌转成了全职创作者,官方还专门拿她的故事做过宣传。
+>
+> 这个案例我认两个点。第一,粉丝团有名字——粉丝的身份认同做出来了。私域不是拉个群,是让粉丝觉得"我是 Looneez",这是运营的最高一层。第二,她证明了音乐直播是一条职业路径——从素人到年度冠军,平台用赛事把这条路照亮了。
+>
+> 放到我的 case:音乐节要招的五百个新人,给他们看的愿景就是 Tori V 这条路;而我平时看的腰部主播 Talia,正走在这条路的中段。头部、腰部、新人,整条成长链我都有真实样本。
+
+**英文框架**
+- Tori V (@torivofficial): **global music winner of TikTok LIVE Fest 2025** — the platform's own certified benchmark; 1M+ TikTok followers, 2.5M+ cross-platform, thousands of concurrents per stream
+- Real singer-songwriter: a Barbie Girl cover with 57M YouTube views, a 2017 album
+- Forklift driver → full-time LIVE creator — TikTok LIVE's official account told her story (Winner's Circle champion); her fandom has a name: the "Looneez"
+- Two takeaways: a named fandom = identity-level community (the top tier of creator ops); and she proves music LIVE is a career path the platform lights up with competitions
+- Bridge: my case's 500 recruits get shown the Tori V path; Talia is mid-way down the same road — I have real samples across the whole growth chain
+
+**英文逐字稿(约 55 秒)**
+
+> "For the top of the music vertical: Tori V. She's the global music winner of TikTok LIVE Fest 2025 — the platform's own certified benchmark. Over a million followers, thousands of concurrent viewers as a routine, and her fandom has its own name — the Looneez.
+>
+> Her story is the best advertisement the LIVE ecosystem has: she drove a forklift for a living, converted to a full-time creator through singing on LIVE, and TikTok's official account told her story.
+>
+> Two things I take from this case. One, the named fandom — identity-level community. Private-domain operations isn't starting a group chat; it's making fans say 'I'm a Looneez.' That's the top tier of creator ops. Two, she proves music LIVE is a career path — from unknown to global champion — and the platform lit that path with competitions.
+>
+> Back to my case: the five hundred newcomers my festival recruits get shown exactly the Tori V path. And Talia, the mid-tier streamer I watch, is walking the middle of that same road. Top, mid, new — I have real samples across the whole chain."
+
+### C2 · 腰部实录(我真实看播,2026-08-09):Talia
 
 **观察卡**(我自己的看播记录,有截图)
 - 唱歌主播,专业麦克风+监听耳机;主页 30.9K 赞,当场 37 人在线——典型腰部体量;粉丝团(TJV 徽章)有 7、8 级的老粉
