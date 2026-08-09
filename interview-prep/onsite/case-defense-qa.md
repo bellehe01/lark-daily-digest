@@ -187,9 +187,8 @@
 - 路线 B 纯规模(预算全压拉新/买量) → 否:没有标杆,新人看不到"什么是好";供给质量不修,买来的流量留不住
 - 路线 C 两个目标拆两个项目(扶持、拉新各做各的) → 否:预算稀释,两边都做小;丢掉相互放大——头部是新人的示范,新人赛事是头部的舞台
 - 选定:一个开放赛事结构同时服务两个目标——头部主舞台做质量示范,开放赛道做规模,音乐节做放大器;同一笔预算被用两次
-- 收口:"战术层还有几个具体方案也否过,您感兴趣我展开"
 
-**中文逐字稿(约 75 秒)**
+**中文逐字稿(约 65 秒)**
 
 > 我是在战略层面做过取舍的,认真考虑过三条路线。
 >
@@ -200,8 +199,6 @@
 > 第三条,把两个目标拆成两个项目:一边做扶持,一边做拉新,各花各的钱。这条看起来最稳,但预算会被稀释,两边都做小;更关键的是丢掉了相互放大的机会——头部本来就是新人最好的示范,新人的赛事本来就是头部最好的舞台。
 >
 > 所以我最终选的,是用一个开放赛事的结构同时服务两个目标:头部站主舞台,做质量和示范;开放赛道招新人,做规模;音乐节做终点和放大器。同一笔预算,被用了两次。
->
-> 战术层面还有几个更具体的方案我也否过——比如五个人平均分资源、预算砸在线下现场、直接买量——您感兴趣的话我可以展开。
 
 **追问备弹 · 战术层的四个否**(被要求"具体展开"时用)
 - 否 1:五人平均分资源 → 稀释:时薪 $318 vs $62,平均主义=把钱从高回报挪去低回报
@@ -215,9 +212,8 @@
 - Route B pure scale (all budget on recruitment / paid traffic) → no: no benchmark for newcomers; unfixed supply leaks bought traffic
 - Route C split into two projects → no: budget dilution, and you lose the mutual amplification — top creators are the demo for newcomers, the competition is the stage for the top
 - Chosen: one open competition serving both goals; the same budget gets spent twice
-- Close: happy to unpack the tactical alternatives too
 
-**英文逐字稿(约 75 秒)**
+**英文逐字稿(约 65 秒)**
 
 > "I made the real trade-off at the strategy level — three routes.
 >
@@ -227,9 +223,7 @@
 >
 > Route three: split the two goals into two projects — support on one side, recruitment on the other, separate budgets. It looks safe, but the budget gets diluted and both halves shrink. Worse, you lose the amplification: the top creators are the best demonstration for newcomers, and the newcomers' competition is the best stage for the top creators.
 >
-> So what I chose is one open competition structure serving both goals: top creators on the main stage for quality and demonstration, an open division for scale, and the festival as the finale and amplifier. The same budget gets spent twice.
->
-> There were also more tactical options I rejected — equal splits, spending on the on-site experience, buying traffic — happy to unpack those if useful."
+> So what I chose is one open competition structure serving both goals: top creators on the main stage for quality and demonstration, an open division for scale, and the festival as the finale and amplifier. The same budget gets spent twice."
 
 ## 一6. 如果再给你两周时间继续做这个 Case,你会做什么?
 
