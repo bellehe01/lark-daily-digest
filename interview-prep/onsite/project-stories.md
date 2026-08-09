@@ -24,7 +24,7 @@
 
 > 面试官好,我先简单介绍一下个人情况。我叫何贝尔 Belle,亚利桑那大学商业分析硕士,去年五月毕业。毕业前我在字节系有三段实习,毕业后有两段工作经历,我分开简单说。
 >
-> 最近的一段,是在美区的 TikTok Shop agency。我负责的是一个规模化的达人库运营——库里有四万多个达人,比在平台内负责一个垂类的规模还要大,所以关键打法是规模化:标准化的分层、自动化的工具,再用一个基于产品痛点和 GMV 的模型,把达人和品牌做匹配。人力集中在头部的内容策略和给品牌的推荐上。结果是一个运营经理从只能服务一个品牌,提升到能服务两到三个。
+> 最近的一段,是在美区的 TikTok Shop agency。我负责的是一个规模化的达人库运营——库里有四万多个达人,所以关键打法是规模化:标准化的分层、自动化的工具,再用一个基于产品痛点和 GMV 的模型,把达人和品牌做匹配。人力集中在头部的内容策略和给品牌的推荐上。结果是一个运营经理从只能服务一个品牌,提升到能服务两到三个。
 >
 > 更早的经历是在字节系的三段实习,最相关的是抖音图文团队:我 own 两个垂类,负责定义优质内容和优质创作者的标准,通过扶持头部和规模化的运营动作,垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 TikTok Music 做内容数据,一段在 TikTok 特效团队做产品实习,这两段您感兴趣可以再展开。
 >
@@ -40,7 +40,7 @@
 
 > "Let me quickly introduce myself. I'm Belle, Master's in Business Analytics from the University of Arizona, graduated last May. Before graduating I did three internships across ByteDance teams, and I've had two chapters since — let me take them one at a time.
 >
-> The recent one is at a US TikTok Shop agency, running a creator database at scale — over forty thousand creators, which is actually bigger than a single vertical on platform. So the play was scale: standardized tiering, automated tooling, and a matching model built on product pain points and GMV that pairs creators with brands. Human effort concentrates on top-creator strategy and brand recommendations. The result: an account manager went from serving one brand to two or three.
+> The recent one is at a US TikTok Shop agency, running a creator database at scale — over forty thousand creators. So the play was scale: standardized tiering, automated tooling, and a matching model built on product pain points and GMV that pairs creators with brands. Human effort concentrates on top-creator strategy and brand recommendations. The result: an account manager went from serving one brand to two or three.
 >
 > Earlier, three ByteDance internships — the most relevant being Douyin's photo-and-text team: I owned two verticals, defined the standard for quality content and quality creators, and through top-creator programs and scaled operations, vertical views grew seven percent and quality creators' posting frequency grew ten. The other two — content data at TikTok Music, and product at the effects team — I'm happy to expand on either.
 >
