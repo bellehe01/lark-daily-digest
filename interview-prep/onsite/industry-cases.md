@@ -243,6 +243,50 @@
 > To me she's the perfect mid-tier proof of short-video creators converting to LIVE: a four-hundred-seventy-thousand-follower short-video base, caught daily by live streams, one persona across both. For A-List, the operations job is scaling exactly this pattern — build streaming programs for short-video creators, and turn the chat's topic requests into the show's rundown."
 
 
+## 案例 E · 陪伴/ASMR 类(我真实看播+个人真爱,2026-08-09 实录):Relax & Drift ASMR(@relaxanddrift)
+
+**观察卡**(我自己的看播记录,有截图)
+- 54.1K 粉;类目自述"ASMR Hair, Beauty, Wellness and Personal Attention"——ASMR 和美妆护理天然交叉;当场 367 人在线、49.3K 赞、Popular LIVE 标
+- **bio 就是节目表**:"Live EST: Mon 8:30pm(SuperFan) / Tues–Thur 3:30pm+8:00pm / Friday 2pm / Sunday: See Story"——每周固定档期直接印在主页上
+- 周一档 **SuperFan 专属场**(订阅者才能进);周日档用 Story 预告
+- 变现纵深:B4 打赏联赛 Lv.22、Gift Gallery 13/21、挂 showcase、公告板 308 人、粉丝团
+- 内容形态:对着假人头做护理/梳发的 ASMR(personal attention),沉浸单向、低互动高停留
+
+**中文框架**(四维 + 垂类特性)
+- 数据好:5.4 万粉、367 人在线,腰部体量挂着 Popular LIVE;打赏联赛 B4 Lv.22——陪伴类的付费纵深是真实的
+- 内容好:ASMR 护理/梳发,情绪价值的极致形态——观众要的是"陪我放松、陪我入睡"
+- 互动特殊:陪伴类是**低互动高停留**——互动逻辑和其他垂类相反,观众要的是"别打扰我";礼物动机是感谢和陪伴,不是看效果
+- 运营好(本案例的核心):**栏目化做到了顶配**——节目表印在 bio 里,一周五天固定档;周一场做成订阅专属(SuperFan)——**订阅和栏目绑定,"为什么订阅"有了具体答案**;周日场用 Story 预告
+- 好在哪(一句话):睡前是人最固定的习惯,她把这个习惯做成了周更节目单——**可预约的节目,才长得出订阅**,她就是这句话的活例
+- 迁移:我 case 里驻场/栏目化设计的行业印证;A-List 给主播做订阅渗透,第一步就是帮他们立一张"节目表"
+
+**中文逐字稿(约 60 秒)**
+
+> 我自己私心最喜欢的一类是陪伴类,讲一个我真实在看的 ASMR 主播,Relax & Drift。五万四千粉,我进去的时候三百六十七人在线,挂着 Popular LIVE 的标。
+>
+> 这个账号最让我惊艳的是运营:她的 bio 就是一张节目表——周一晚八点半,周二到周四下午三点半和晚八点两场,周五下午两点,一周五天固定档期,直接印在主页上。而且周一那场是订阅者专属的 SuperFan 场——订阅和栏目绑死了,"我为什么要订阅她"这个问题有了具体的答案:因为周一那场只有订阅者能进。
+>
+> 陪伴类的互动逻辑跟别的垂类是反的:低互动、高停留,观众要的是"别打扰我",礼物动机是感谢和陪伴。但她的付费纵深是真实的——打赏联赛 B4、二十二级,礼物图鉴集了十三个。
+>
+> 这个案例我的结论是:睡前是人最固定的习惯,她把这个习惯做成了周更的节目单——可预约的节目,才长得出订阅。放到 A-List,给主播做订阅渗透的第一步,就是帮他们立一张自己的节目表。
+
+**英文框架**
+- Relax & Drift ASMR (@relaxanddrift): 54.1K followers, self-labeled "ASMR Hair, Beauty, Wellness and Personal Attention"; 367 concurrent, Popular LIVE badge; gifting league B4, Lv.22, gift gallery 13/21, showcase, 308-member bulletin board
+- The bio IS a program guide: Mon 8:30pm (SuperFan-only) / Tue–Thu 3:30+8pm / Fri 2pm / Sunday via Story — five fixed days a week
+- Companion-category logic runs opposite: low interaction, high dwell; gifts mean gratitude, not effects
+- The thesis in one line: a reservable show is what grows subscriptions — Monday's subscriber-only slot answers "why subscribe" concretely
+- For A-List: step one of subscription penetration = help creators publish a program guide
+
+**英文逐字稿(约 60 秒)**
+
+> "My personal favorite category is companionship content — a streamer I actually follow, Relax and Drift ASMR. Fifty-four thousand followers, three hundred sixty-seven in the room when I joined, wearing the Popular LIVE badge.
+>
+> What amazed me is the operations: her bio is literally a program guide — Monday eight thirty, Tuesday through Thursday two slots a day, Friday two pm. Five fixed days a week, printed on her profile. And Monday's show is SuperFan-only — subscription and programming are fused. 'Why should I subscribe' has a concrete answer: because Monday's room only opens for subscribers.
+>
+> Companion content runs on inverted interaction logic: low interaction, high dwell — viewers are asking you not to disturb them, and gifts mean gratitude, not effects. But the paying depth is real: gifting league B-four, level twenty-two, thirteen of twenty-one gifts collected.
+>
+> My conclusion from this case: bedtime is the most fixed habit people have, and she turned that habit into a weekly rundown. A reservable show is what grows subscriptions. For A-List, step one of subscription penetration is helping creators publish their own program guide."
+
 ## 国内案例(对谈/被问中国市场时用;先说评估框架里那句国内前提)
 
 - **迅猛龙**(颜值/聊天):女生主播、粉丝多为女粉——占住了全垂类付费能力最强的人群。①分享自己的生活:考研励志、日常个人价值观;②直播间公开解决 20–30 岁女生的痛点和需求。虽然是颜值主播,但**从粉丝需求角度设计直播内容,不是纯娱乐**——借女性励志的势能突破了颜值主播的圈层,互动上有"利他性"
