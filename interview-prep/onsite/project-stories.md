@@ -60,20 +60,20 @@
 > 定位一句话:我是品牌方侧的达人运营——从达人库里运营好这些达人,理解品牌诉求,把两边做匹配。
 
 **中文框架(六要素)**
-- 背景:美区 TikTok Shop agency;达人库 4 万+,其中美妆达人约两成(⚠️ 占比待查证);300+ 品牌;AM 手工筛选,一人只能服务一个品牌
+- 背景:美区 TikTok Shop agency;达人库 4 万+,其中美妆达人约五成;300+ 品牌;AM 手工筛选,一人只能服务一个品牌
 - 目标:提高品牌×达人的匹配效率,减少 AM 手工筛选;帮品牌和创作者多成交、变成长期复购合作
-- 指标(效率口径,**不背 GMV**——工具中台背营收易被挑战):AM 人效 1→2-3;复购合作率从 xx 提升到 xx(⚠️ 补数,或相对表述);撮合效率
+- 指标(效率口径,**不背 GMV**——工具中台背营收易被挑战):AM 人效 1→2-3;复购合作率从两成出头提到三成五左右;撮合效率
 - 角色:own 这套体系——分层标准、推荐引擎、自动化,都由我设计推动
 - 过程:①分层:按 GMV 把达人分 L1–L5 ②推荐引擎:按达人卖过的货的**痛点**+靠该痛点积累的 GMV 建模型,去匹配品牌要卖的产品(痛点如"容貌焦虑""敏感肌""安抚情绪")③亮点:突破品类限制——卖巧克力的博主擅长"安抚情绪",宠物品类同痛点的产品他也能卖;一提升达人跨品类能力,二品牌卖得更好(达人在该痛点已有 GMV 积累)④系统落地:调 TikTok API 自动拉数据,AI 辅助开发,CRM 自动运转;人力花在头部内容策略和给品牌推荐上 ⑤先小范围试,再铺 300+ 品牌
-- 结果:AM 1→2-3;复购率提升(⚠️ 数);方法沉淀成 SOP;完整经历黑五;撮合最多=美妆时尚生活方式品类
+- 结果:AM 1→2-3;复购合作率两成出头→三成五左右;方法沉淀成 SOP;完整经历黑五;撮合最多=美妆时尚生活方式品类
 
 **中文逐字稿(约 100 秒,基于本人口述版)**
 
-> 先说背景。我在美区的 TikTok Shop agency,库里有四万多个达人,其中大概两成是美妆达人;品牌客户三百多个。当时的问题是:不知道怎么把这些达人,和适合他们卖的产品、适合的品牌做匹配——全靠 AM 手工筛选,一个人只够服务一个品牌。
+> 先说背景。我在美区的 TikTok Shop agency,库里有四万多个达人,其中大概一半是美妆达人;品牌客户三百多个。当时的问题是:不知道怎么把这些达人,和适合他们卖的产品、适合的品牌做匹配——全靠 AM 手工筛选,一个人只够服务一个品牌。
 >
 > 所以目标就是提高匹配的效率,减少 AM 手工筛选的时间;最终让品牌和创作者多成交,并且变成长期的复购合作。
 >
-> 指标上我背的是效率口径:AM 的人效,从一个人服务一个品牌,到能服务两到三个;还有复购合作率——撮合得准,人家才会回来。
+> 指标上我背的是效率口径:AM 的人效,从一个人服务一个品牌,到能服务两到三个;还有复购合作率——撮合得准,人家才会回来。这个数从两成出头,做到了三成五左右。
 >
 > 我的角色是 own 这套体系。做了几件事。
 >
@@ -85,15 +85,15 @@
 >
 > 第三,系统落地。我自己调 TikTok 的 API 把达人数据和 GMV 自动拉回来,用 AI 辅助开发,让 CRM 自动运转——人力集中在头部的内容策略和给品牌的推荐上。先小范围给几个 AM 试,验证有效,再铺到三百多个品牌。
 >
-> 结果:AM 人效一到两三个;这套匹配方法和分层标准沉淀成了 SOP。我也完整经历了黑五,撮合最多的品类就是美妆、时尚和生活方式。
+> 结果:AM 人效一到两三个;复购合作率从两成出头提到三成五左右;这套匹配方法和分层标准沉淀成了 SOP。我也完整经历了黑五,撮合最多的品类就是美妆、时尚和生活方式。
 
 **英文框架(六要素)**
-- Background: US TikTok Shop agency; 44k creators (~20% beauty, TBC), 300+ brands; manual AM screening, one brand per AM
+- Background: US TikTok Shop agency; 44k creators (~half beauty), 300+ brands; manual AM screening, one brand per AM
 - Goal: matching efficiency, less manual screening; more deals that become repeat collaborations
-- Metrics (efficiency, not GMV): AM capacity 1→2-3; repeat-collaboration rate up (fill number); matching efficiency
+- Metrics (efficiency, not GMV): AM capacity 1→2-3; repeat-collaboration rate low-20s% → ~35%; matching efficiency
 - Role: owned the system — tiering, recommendation engine, automation
 - Process: tier L1–L5 by GMV → pain-point recommendation model (parse product pain point → find creators with GMV history on that pain point; chocolate/comfort → pet products) → built via TikTok API + AI-assisted dev, CRM self-running → pilot then 300+ brands
-- Result: AM 1→2-3; repeat rate up; SOP; BFCM hands-on; beauty/fashion/lifestyle matched most
+- Result: AM 1→2-3; repeat rate low-20s% → ~35%; SOP; BFCM hands-on; beauty/fashion/lifestyle matched most
 
 **英文逐字稿(约 100 秒)**
 
@@ -101,7 +101,7 @@
 >
 > So the goal was matching efficiency: cut the manual screening, get more deals done, and turn them into repeat collaborations.
 >
-> My metrics were efficiency metrics: AM capacity — from one brand per person to two or three — and the repeat-collaboration rate, because accurate matching is what makes brands come back.
+> My metrics were efficiency metrics: AM capacity — from one brand per person to two or three — and the repeat-collaboration rate, because accurate matching is what makes brands come back. That rate went from the low twenties to around thirty-five percent.
 >
 > My role was owning the system. A few moves.
 >
