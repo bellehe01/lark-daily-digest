@@ -20,15 +20,15 @@
 - 早期(字节系三段实习,只展开最相关的抖音图文):own 摄影/艺术两垂类;动作两块——定标准(什么算优质内容/优质创作者,定成可执行的)+ 扶持头部(20 位头部 1v1 找共性卡点→做成投稿激励活动+联动产品做投稿工具);垂类播放 +7%、优质创作者发布频次 +10%(另两段 TikTok Music 数据、特效 PM 各一句带过,留给深挖)
 - 收口:岗位要 own 垂类策略与运营、数据驱动、跨团队推规模化项目——这就是我擅长且有实际落地经验的领域;"这就是我的简单介绍,期待和您进一步交流"
 
-**中文逐字稿(约 90 秒,短句版)**
+**中文逐字稿(约 90 秒,连贯短句版)**
 
-> 面试官好,我先简单介绍一下自己。我叫何贝尔,Belle。亚利桑那大学商业分析硕士,去年五月毕业。毕业前,我在字节有三段实习。毕业后,有两段工作经历。我分开说。
+> 面试官好,我先简单介绍一下自己。我叫何贝尔,Belle,亚利桑那大学商业分析硕士,去年五月毕业。毕业前我在字节有三段实习,毕业后有两段工作经历,我分开说说。
 >
-> 最近这份工作,在美区的 TikTok Shop agency。我管达人库的运营。库里四万多个达人,对接三百多个品牌。这个量,靠人一个个筛,筛不过来。所以我做了三件事。先定达人分层的标准。再搭自动化的工具。最后建一个模型,看产品的痛点和达人的 GMV,把品牌和达人配对。人省下来的时间,花在头部的内容策略,和给品牌做推荐上。结果:一个运营经理,原来只能服务一个品牌,现在能服务两到三个。
+> 最近这份工作,是在美区的 TikTok Shop agency,我管达人库的运营。库里有四万多个达人,要对接三百多个品牌。这么大的量,靠人一个个筛是筛不过来的,所以我做了三件事:先把达人分层的标准定下来,再搭自动化的工具,最后建了一个模型,看产品的痛点和达人的 GMV,把品牌和达人配对。这样人省下来的时间,就能花在头部的内容策略和给品牌做推荐上。结果也不错,一个运营经理原来只能服务一个品牌,现在能服务两到三个。
 >
-> 再往前,是字节的三段实习。分别在抖音图文、TikTok Music、还有特效团队。跟这个岗位最相关的,是图文。我 own 两个垂类:摄影和艺术。做两件事。一是定标准:什么算优质内容,什么算优质创作者,定成大家能照着执行的规则。二是扶持头部:跟二十位头部创作者一对一,找共同的卡点,做成投稿激励活动,还联动产品做了投稿工具。结果:垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 Music 做内容数据,一段在特效做产品实习。这两段练的是数据分析、跨部门合作和项目管理。
+> 再往前是字节的三段实习,分别在抖音图文、TikTok Music 和特效团队。跟这个岗位最相关的是图文,我 own 摄影和艺术两个垂类,主要做两件事。一是定标准,把什么算优质内容、什么算优质创作者,定成大家能照着执行的规则。二是扶持头部,我跟二十位头部创作者一对一,找到他们共同的卡点,做成投稿激励活动,还联动产品做了投稿工具。结果是垂类播放涨了 7%,优质创作者的发布频次涨了 10%。另外两段,一段在 Music 做内容数据,一段在特效做产品实习,这两段练的是数据分析、跨部门合作和项目管理。
 >
-> 最后说说我对岗位的理解。这个岗位,要 own 垂类的策略和运营,用数据驱动决策,跨团队推规模化项目。这就是我擅长、而且有实际落地经验的领域。这就是我的简单介绍,期待和您进一步交流。
+> 最后说说我对岗位的理解。这个岗位要 own 垂类的策略和运营,用数据驱动决策,还要跨团队推规模化的项目。这些正好是我擅长、也真的落地做过的事。这就是我的简单介绍,期待和您进一步交流。
 
 **英文框架**
 - Basics: name / MS Business Analytics, University of Arizona (May 2025) / three ByteDance-family internships before graduating, two chapters after
@@ -36,15 +36,15 @@
 - Earlier (Douyin photo-text, the most relevant): owned photography & art; two moves — set the executable quality standard + 1:1s with 20 top creators, common blockers → posting-incentive campaigns + posting tool with product; +7% views, +10% posting frequency (Music & Effects one line each, held for follow-up)
 - Close: the role = vertical ownership + data-driven + cross-functional programs — exactly where I'm strongest with hands-on experience; "looking forward to our conversation"
 
-**英文逐字稿(约 90 秒,短句版)**
+**英文逐字稿(约 90 秒,连贯短句版)**
 
-> "Hi, let me quickly introduce myself. I'm Belle. Master's in Business Analytics, University of Arizona. Graduated last May. Before that, three internships at ByteDance. After that, two jobs. Let me take them one by one.
+> "Hi, let me quickly introduce myself. I'm Belle, Master's in Business Analytics from the University of Arizona, graduated last May. Before graduating I did three internships at ByteDance, and I've had two jobs since — let me take them one by one.
 >
-> My current role is at a TikTok Shop agency in the US. I run the creator database. Forty-four thousand creators. Three hundred plus brand clients. At that volume, you can't screen by hand. So I did three things. Set the tiering standards. Built automation tools. Then built a matching model — product pain points plus creator GMV — to pair brands with creators. The time we saved goes into top-creator content strategy, and brand recommendations. The result: one account manager used to handle one brand. Now it's two or three.
+> My current role is at a TikTok Shop agency in the US, running the creator database. We have forty-four thousand creators and over three hundred brand clients. At that volume you can't screen by hand, so I did three things: set the tiering standards, built automation tools, and then built a matching model that pairs brands with creators based on product pain points and creator GMV. That freed up time for top-creator content strategy and brand recommendations. And the result was solid: an account manager who used to handle one brand now handles two or three.
 >
-> Before that, three ByteDance internships. Douyin's photo-and-text team, TikTok Music, and the effects team. The most relevant one is photo-and-text. I owned two verticals: photography and art. Two things. One, setting the standard — what counts as quality content, what counts as a quality creator, written as rules the team could execute. Two, backing top creators — one-on-ones with twenty of them, finding common blockers, turning the fixes into posting-incentive campaigns, plus a posting tool built with product. The result: vertical views up seven percent. Posting frequency of quality creators up ten. The other two internships — content data at Music, product at effects — trained my data analysis, collaboration, and project management.
+> Before that, three ByteDance internships — at Douyin's photo-and-text team, TikTok Music, and the effects team. The most relevant is photo-and-text, where I owned two verticals, photography and art, and did two things. One was setting the standard: what counts as quality content and quality creators, written as rules the team could follow. The other was backing top creators: I sat down with twenty of them one-on-one, found their common blockers, and turned the fixes into posting-incentive campaigns, plus a posting tool built with product. Vertical views grew seven percent, and quality creators' posting frequency grew ten. The other two internships — content data at Music, product at effects — trained my data analysis, collaboration, and project management.
 >
-> Last, how I read this role: own the vertical's strategy and operations. Drive decisions with data. Ship cross-functional programs. That's exactly where I'm strongest, with real hands-on experience. That's my quick intro — looking forward to our conversation."
+> Last, how I read this role: it owns the vertical's strategy and operations, drives decisions with data, and pushes cross-functional programs at scale. That's exactly what I'm good at and have actually done. That's my quick intro — looking forward to our conversation."
 
 **深挖入口对照**(面试官追问时进对应 story)
 - 达人库/匹配/美妆品类 → 44k story;大型活动 → SCF story;标准与垂类经营 → 图文 story;数据与市场分化 → Music story;跨团队与数据诊断 → 特效 story;AI 工具 → IntelliPro story
