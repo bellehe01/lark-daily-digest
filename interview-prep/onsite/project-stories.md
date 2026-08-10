@@ -229,7 +229,7 @@
 >
 > Two design choices mattered. First, splitting the pipeline into specialist agents — JD parsing, seniority, skills, location — because models degrade on long inputs, and multi-goal prompts scatter attention. Second, the evaluation discipline: a six-dimension weighted rubric — skills at fifty percent, then competency depth, domain match, seniority, education, and career progression — each scored one to five, weighted into a single relevance score. Location isn't scored, because it's a hard filter at the search stage: binary constraints get filtered, graded qualities get scored. And a golden standard I built myself — thirty candidates per job, labeled independently by me and a recruiter, then reconciled. With that in place, I benchmarked more than eight models and picked on quality versus cost.
 >
-> The results: ranking quality around ninety-four percent nDCG at thirty, ninety-eight-plus percent overlap with recruiters' own top thirty, at roughly four to eight dollars per JD. It's piloted inside the company's ATS, with working recruiters using it.
+> The results were solid. Ranking quality hit about ninety-four percent on nDCG. Our top thirty matched the recruiters' own picks over ninety-eight percent of the time. And the cost is only about four to eight dollars per JD. Right now it's piloted inside our ATS, and real recruiters are using it.
 >
 > For an operations role, this chapter proves the same muscle as my quality rubric at Douyin: taking a fuzzy 'what does good look like' and turning it into something measurable and improvable — this time with AI, and with real evaluation discipline behind it."
 
