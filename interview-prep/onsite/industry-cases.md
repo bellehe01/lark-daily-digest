@@ -407,6 +407,26 @@
 >
 > And one number I care about most: they ran a fourteen-hour livestream tour — eighty thousand people came in person, but nearly seven hundred thousand toured through the stream. The stream serves the vast majority who aren't on site — exactly the logic of my case: online as the spine, offline as the amplifier."
 
+## Q3-追问 · TikTok LIVE 自己的活动你了解吗?(官方公益三案例,来自 LIVE 团队官网)
+
+**要点**
+- 美国 **"Wish or Treat"**:LIVE 用户 Heather(@savagemomlife)**自己发起**,创作者万圣节装扮直播 3 天,为 Make-a-Wish 筹款超 $60K——机制亮点:**用户发起、平台放大**,活动不一定要官方起盘
+- 英国 **Children in Need × BBC**(2023):上线 6 款专属 Pudsey 礼物,观众每送一个 TikTok 配捐一笔,筹款超 £500K——机制亮点:**专属礼物 × 平台配捐**,把打赏机制转成公益引擎(和我 case 的"小额专属礼物"同一机制,换了个用途)
+- 日本 **Local Love**:音乐人和创作者直播为冲绳/广岛灾区筹款,超额完成——音乐直播 × 公益的直接先例
+- 收口:三个案例一个共性——**LIVE 的打赏机制换个目标就是社区引擎**;公益活动还能给平台带来品牌资产(TT 和 Make-a-Wish 建立了长期关系)
+
+**中文逐字稿(约 50 秒)**
+
+> TikTok LIVE 自己的活动里,我印象深的是三个公益案例。美国的"Wish or Treat",是一位 LIVE 主播自己发起的——创作者们万圣节装扮直播三天,给 Make-a-Wish 筹了六万多美金;有意思的是这不是官方起盘的,是用户发起、平台放大。英国那个跟 BBC 合作的 Children in Need,机制更聪明:上线六款专属的 Pudsey 礼物,观众每送一个,TikTok 就配捐一笔,最后筹了五十多万英镑——把打赏机制直接转成了公益引擎。日本还有 Local Love,音乐人直播给灾区筹款。
+>
+> 这三个案例给我的启发是:LIVE 的打赏机制,换一个目标就是社区引擎——专属礼物这个工具,做赛事激励是它,做公益配捐也是它,关键看你把它指向哪。
+
+**英文逐字稿(约 50 秒)**
+
+> "From TikTok LIVE's own campaigns, three charity cases stick with me. In the US, 'Wish or Treat' — started by a LIVE creator herself: three days of creators streaming in Halloween costumes raised over sixty thousand dollars for Make-a-Wish. What's interesting is it wasn't platform-initiated — a user started it, the platform amplified it. In the UK, the Children in Need partnership with the BBC had the smartest mechanic: six exclusive Pudsey gifts, and TikTok donated for every one sent — over five hundred thousand pounds. That's the gifting machine converted into a charity engine. And in Japan, Local Love had musicians streaming to fund disaster recovery.
+>
+> My takeaway: LIVE's gifting mechanics become a community engine the moment you point them at a different goal. The exclusive gift is the same tool whether it drives a competition or a donation match — what matters is where you aim it."
+
 **收口英文句(被问中国活动的共性认知时)**
 
 > "The pattern I keep seeing across the strongest Chinese campaigns: separate tracks so newcomers never compete with established creators; free-vote mechanics so participation scales beyond payers; offline built as a content factory, not a venue; and the best ones leave permanent assets — a landmark, a program, a habit — not just a peak."
@@ -421,7 +441,7 @@
 
 **内容与流量**:LIVE 入口(For You 插卡/LIVE Feed/关注页头像环);**LIVE Events** 预约;"Not on LIVE" 精选切片 tab(主要覆盖头部);新人首播流量倾斜;LIVE Creator Hub;**官方 LIVE Content Ideas 面板**(看播实拍:8 个形态——Music/Gaming/Cook With Me/GRWM/Study With Me/Q&A/Storytime/Challenges;6/8 是生活方式系,GRWM 被官方列为美妆时尚标准形态);观众侧 **Viewer Daily Mission**(看播 15 分钟任务可重复)——平台在需求侧养看播习惯
 
-**供给与机构**:**LIVE Creator Networks**(官方"公会"体系,门户 jointiktoklive.com)——机构招募/管理/变现 LIVE 主播,TT 给机构管理后台,给旗下创作者独家培训、官方支持、beta 内测、专属活动通道;典型招募门槛:粉丝**少于** 100 万、月开播 7–10 小时+、近 30 天钻石**不超** 50 万——两个"不超过"说明这个体系明确收**成长期主播**(门槛设计=人群设计);对照抖音公会经济学,是同一层生态
+**供给与机构**:**LIVE Creator Networks**(官方"公会"体系)——机构招募/管理/变现 LIVE 主播,TT 给机构管理后台,给旗下创作者独家培训、官方支持、beta 内测、专属活动通道;典型招募门槛:粉丝**少于** 100 万、月开播 7–10 小时+、近 30 天钻石**不超** 50 万——两个"不超过"说明这个体系明确收**成长期主播**(门槛设计=人群设计);对照抖音公会经济学,是同一层生态
 
 **治理**:年龄/资格门槛、实时审核、举报与限流、回放与切片权限
 

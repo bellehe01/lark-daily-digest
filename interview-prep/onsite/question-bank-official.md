@@ -27,6 +27,7 @@
 
 **可能问法**:What do you think this role owns? / How would you measure success in this role?
 **思路要点**:
+- 官方团队结构(LIVE 团队招聘页 jointiktoklive.com 原文,五块):**Creator/Influencer Operation Management**(创作者运营——我面的岗位)/ Strategy & Data Analysis / **Content & Campaign**(Zora 的领域)/ **Agency Operation Management**(机构合作有专门职能——我的 agency 背景直接对上)/ Product Operation
 - Own:A-List(美妆/时尚/生活方式)垂类的创作者供给和生命周期——发掘、激活、成长、变现、留存,加垂类活动
 - 这个团队的 O = **存量激活 + 规模增长**;产品机制/项目管理/数据分析是横向辅助能力
 - 怎么衡量:两个北极星——**开播(供给侧:开播 UV/渗透率/留存)和营收(变现侧:打赏+带货双轨)**;过程指标:优质创作者数、开播频次、观看时长、订阅渗透
