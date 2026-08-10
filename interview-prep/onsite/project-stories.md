@@ -190,7 +190,7 @@
 - 目标:0→1 做 AI sourcing——JD 进来,自动搜 LinkedIn、打分排序出 shortlist,替代招聘官人工读 JD/搜人/筛排
 - 指标:排序质量 nDCG@30(对 golden standard)、与招聘官人工排序的 Top-30 重合率、单 JD 成本、分阶段耗时
 - 角色:产品和系统设计我主导,scoring prompts 我亲写,离线评估我亲自跑;代码和工程一起做
-- 过程:多 agent 拆分(JD 解析/资历/技能/地点各一个,动机=长输入衰减+多目标注意力分散)→ 6 维加权评分 rubric → golden standard(每岗 30 人,我和 recruiter 独立标注再对齐)→ 8+ 模型 benchmark 选型
+- 过程:多 agent 拆分(JD 解析/资历/技能/地点各一个,动机=长输入衰减+多目标注意力分散)→ **6 维加权 rubric:Skills 0.5 / 能力深度 0.15 / 领域匹配 0.1 / 职级范围 0.1 / 教育 0.1 / 职业轨迹 0.05,每维 1–5 分加权平均做相关度**(location 不打分——它是搜索阶段的硬过滤:硬条件过滤,软条件打分)→ golden standard(每岗 30 人,我和 recruiter 独立标注再对齐)→ 8+ 模型 benchmark 选型
 - 结果:nDCG@30 约 94%(2 岗),Top-30 重合率 98%+(5 个 JD);成本约 $4–8/JD;在 ATS 内试点,真实招聘官在用。沉淀:把"什么是好候选人"从感觉变成了可测量的评分体系
 
 **中文逐字稿(约 90 秒)**
@@ -203,7 +203,7 @@
 >
 > 我的角色:产品和系统设计我主导,打分的 prompts 是我亲手写的,离线评估是我亲自跑的;代码是和工程一起做的。
 >
-> 过程里两个关键设计。第一,把 pipeline 拆成多个专职 agent——JD 解析、资历、技能、地点各管各的。为什么拆:长输入下模型理解会衰减,多目标塞一个 prompt 里注意力会散。第二,评估体系:六个维度加权打分;golden standard 是我建的——每个岗位选 30 个候选人,我和 recruiter 各自打分再对齐,平均分做相关度标签。然后拿这套标准去 benchmark 了八个以上的模型,按质量和成本选型。
+> 过程里两个关键设计。第一,把 pipeline 拆成多个专职 agent——JD 解析、资历、技能、地点各管各的。为什么拆:长输入下模型理解会衰减,多目标塞一个 prompt 里注意力会散。第二,评估体系:六个维度加权打分——技能占一半,然后是能力深度、领域匹配、职级、教育、职业轨迹;每个维度打一到五分,加权平均出一个相关度。地点不打分,因为它是搜索阶段的硬过滤条件——硬条件过滤,软条件打分。golden standard 是我建的——每个岗位选 30 个候选人,我和 recruiter 各自打分再对齐,平均分做相关度标签。然后拿这套标准去 benchmark 了八个以上的模型,按质量和成本选型。
 >
 > 结果:排序质量 nDCG@30 做到约 94%,和招聘官人工排序的前 30 名重合率 98% 以上;单个 JD 成本大概四到八美金。工具在公司的 ATS 里试点,真实的招聘官在用。
 >
@@ -214,7 +214,7 @@
 - Goal: 0-to-1 AI sourcing — JD in, scored LinkedIn shortlist out
 - Metrics: nDCG@30 vs golden standard / top-30 overlap with recruiters / cost per JD / stage latency
 - Role: led product & system design, wrote the scoring prompts, ran the evaluation; built with engineering
-- Process: multi-agent split (parsing/seniority/skill/location) → 6-dim weighted rubric → golden standard (30 per job, dual-labeled and reconciled) → 8+ model benchmark
+- Process: multi-agent split (parsing/seniority/skill/location) → 6-dim weighted rubric: **Skills 0.5 / competency depth 0.15 / domain 0.1 / seniority & scope 0.1 / education 0.1 / progression 0.05, each 1–5, weighted average as relevance** (location = hard filter at search, not scored) → golden standard (30 per job, dual-labeled and reconciled) → 8+ model benchmark
 - Result: ~94% nDCG@30 (2 jobs), 98%+ top-30 overlap (5 JDs), ~$4–8 per JD; piloted in the ATS with working recruiters
 
 **英文逐字稿(约 90 秒)**
@@ -227,7 +227,7 @@
 >
 > My role: I led the product and system design, wrote the scoring prompts myself, and ran the offline evaluation myself. The code was built with engineering.
 >
-> Two design choices mattered. First, splitting the pipeline into specialist agents — JD parsing, seniority, skills, location — because models degrade on long inputs, and multi-goal prompts scatter attention. Second, the evaluation discipline: a six-dimension weighted rubric, and a golden standard I built myself — thirty candidates per job, labeled independently by me and a recruiter, then reconciled. With that in place, I benchmarked more than eight models and picked on quality versus cost.
+> Two design choices mattered. First, splitting the pipeline into specialist agents — JD parsing, seniority, skills, location — because models degrade on long inputs, and multi-goal prompts scatter attention. Second, the evaluation discipline: a six-dimension weighted rubric — skills at fifty percent, then competency depth, domain match, seniority, education, and career progression — each scored one to five, weighted into a single relevance score. Location isn't scored, because it's a hard filter at the search stage: binary constraints get filtered, graded qualities get scored. And a golden standard I built myself — thirty candidates per job, labeled independently by me and a recruiter, then reconciled. With that in place, I benchmarked more than eight models and picked on quality versus cost.
 >
 > The results: ranking quality around ninety-four percent nDCG at thirty, ninety-eight-plus percent overlap with recruiters' own top thirty, at roughly four to eight dollars per JD. It's piloted inside the company's ATS, with working recruiters using it.
 >
