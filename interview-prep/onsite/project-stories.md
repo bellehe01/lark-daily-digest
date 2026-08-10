@@ -44,7 +44,7 @@
 >
 > Before that, three internships at ByteDance — Douyin's photo-and-text team, TikTok Music, and the effects team. The most relevant is photo-and-text. I owned two verticals, photography and art, and did two things. First, setting the standard: what counts as quality content, what counts as a quality creator, written as rules the team could follow. Second, backing top creators: I sat down with twenty of them one-on-one, found their common blockers, and turned those into posting-incentive campaigns, plus a posting tool built with product. The results: vertical views up seven percent, and quality creators posting ten percent more often. The other two internships — content data at Music, product at effects — trained my data analysis, collaboration, and project management.
 >
-> Last, how I read this role. It owns a vertical's strategy and operations. It drives decisions with data. And it pushes cross-functional programs at scale. That's exactly what I'm good at, and what I've actually done. That's my quick intro — looking forward to our conversation."
+> Last, how I read this role. It owns a vertical's strategy and operations. It drives decisions with data. And it pushes cross-functional programs at scale. That's exactly what I'm good at, and what I've actually done. So that's a quick overview of me — happy to dive deeper into any part of it."
 
 **深挖入口对照**(面试官追问时进对应 story)
 - 达人库/匹配/美妆品类 → 44k story;大型活动 → SCF story;标准与垂类经营 → 图文 story;数据与市场分化 → Music story;跨团队与数据诊断 → 特效 story;AI 工具 → IntelliPro story
