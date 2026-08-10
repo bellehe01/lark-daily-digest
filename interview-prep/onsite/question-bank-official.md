@@ -56,7 +56,7 @@
 ## 区 5|跨部门协作(aligning a difficult stakeholder,要具体例子)
 
 **可能问法**:Tell me about a time you had to align a difficult stakeholder
-**已备**:特效团队 story(P0 事故+干系人变体)为主;44k(说服 AM 用新工具:5–6 人小试点拿结果说话)为辅
+**已备**:特效团队 story(P0 事故+干系人变体)为主;44k(说服 AM 用新工具:先找 20% 的 AM 试点拿结果说话,再规模化到 100%)为辅
 **STAR 提醒**:T 要说"我"不是团队;A 里讲清"为什么选这个做法而不是别的";R 给数字
 **万能协作原则(老师口径)**:先对齐目标口径 → 小试点拿结果 → 数据说话;信任问题就"熟悉的人在前、我出策略在后"
 
@@ -83,6 +83,60 @@
    EN: "Where is multi-guest working best today — and what's still underused for beauty and fashion?"
 3. 中文:从您的位置看,一个垂类运营新人最容易低估的跨团队环节是什么?
    EN: "From where you sit, what's the cross-functional part of this job that new vertical operators most often underestimate?"
+
+---
+
+## 区 8|个人开放题(模拟面试 todo,定稿)⚠️ 新备
+
+### Q1 你做过的最有挑战的项目?
+
+**要点**:默认讲 SCF(容量误判→止血→自动化)。⚠️ 全场只讲一次——case 或跨部门环节已经用过 SCF,就换 IntelliPro(0→1 定义评估体系)。
+**中文(~40 秒)**
+> 最有挑战的是给五千多个创作者办线下活动那次。挑战在于我们前期选了人工方案,还没做容量测算——到赛前一周,三千多人的名单没录进去。我们分两步处理:先止血,投诉逐条复核、按实际损害排序,先道歉再修正;再根治,我主导用 webhook 加 TikTok 的 API 把分层自动化。结果签到从四个小时降到二十分钟。这个项目给我留了一个习惯:先算容量,再承诺。
+**英文(~40s)**
+> "The most challenging one was an offline event for over five thousand creators. We chose a manual process without doing the capacity math — and one week before the event, more than three thousand creators still weren't in the system. We did two things. First, stop the bleeding: reviewed every complaint one by one, prioritized by actual impact, apologized and fixed them. Then the root fix: I led the automation with webhooks and TikTok's API. Check-in time went from four hours to twenty minutes. And it left me a habit: calculate capacity before you commit."
+
+### Q2 你的优势和劣势?
+
+**优势要点(和岗位最相关的三个)**
+1. **数据驱动的判断**:指标口径自己定,第一个从数据里看出业务问题(三个看板→五市场分化)
+2. **规模化机制**:把跑通的打法变成标准和工具——L1–L5、SOP、自动化;20% 试点→100% 规模化
+3. **创作者生态全链路视角**:发掘、成长、变现都实际做过;加一句真诚:重度 LIVE 用户,自己也开过播
+
+**中文(优势,~35 秒)**
+> 我说三个和这个岗位最相关的。第一,数据驱动的判断——指标口径我习惯自己定,而且我通常是第一个从数据里看出业务问题的人。第二,规模化机制——我擅长把跑通的打法变成标准和工具,先找百分之二十的人试点,再规模化到百分之百。第三,创作者生态的全链路视角——从发掘、成长到变现我都实际做过;而且我是 LIVE 的重度用户,最近自己也开过播。
+**英文(~35s)**
+> "Three things most relevant to this role. First, data-driven judgment — I define the metric conventions myself, and I'm usually the first to spot the business problem in the data. Second, building mechanisms that scale — I turn what works into standards and tools: pilot with twenty percent, then roll out to a hundred. Third, a full-funnel view of the creator ecosystem — I've actually worked on discovery, growth, and monetization. And I'm a heavy LIVE user — I've gone live myself recently."
+
+**劣势要点(老师定的三个,每个都带"怎么办";先说第一个,追问再给第二三个)**
+1. **self-critical 对自己苛刻**:复盘时容易揪着自己的失误不放 → 现在给复盘限定时间,落成具体改进动作就翻篇
+2. **competitive 好胜心强**:太在意结果,有时给自己压力过大 → 学会把好胜心用在"跟自己的上一版比"
+3. **sensitive 对反馈比较敏感**:别人一句评价会想很久 → 好处是对用户和创作者的共情强;现在把情绪当信息,先分辨"这是事实还是感受"再行动
+
+**中文(劣势,先说这个,~30 秒)**
+> 说一个真实的:我对自己比较苛刻。项目复盘的时候,容易一直揪着自己哪里没做好。后来我给自己定了个办法——复盘限定时间,把反思落成具体的改进动作,落完就翻篇。比如那次五千人活动的教训,最后就落成了一条"先算容量再承诺"的规则,而不是一直自责。
+**英文(~30s)**
+> "An honest one: I'm quite self-critical. After a project I tend to dwell on what I could have done better. What I do now is timebox the reflection — turn it into concrete action items, and then move on. The five-thousand-person event, for example, ended up as one standing rule — calculate capacity before you commit — instead of endless second-guessing."
+
+**追问再给(短版)**
+> 中文:另外两个也说一下——一是好胜心强,太在意结果,我现在把它用在跟自己的上一版比;二是对反馈比较敏感,好处是共情强,我现在会把情绪当成信息,先分清是事实还是感受,再行动。
+> EN: "Two more, briefly: I'm competitive — I care a lot about results, and I've learned to point that at beating my own last version. And I can be sensitive to feedback — the upside is strong empathy for users and creators; I've learned to treat the emotion as information, and separate facts from feelings before I act."
+
+### Q3 朋友怎么评价你?
+
+**要点(三个,用自己的话+小例子)**:靠谱(交了就有下文)/ 行动快(想到就上手——直接开播)/ 爱钻研(看播都做笔记)
+**中文(~25 秒)**
+> 朋友对我的评价大概三个词。第一是靠谱——事情交给我就不用再催,一定有下文。第二是行动快——想到什么就先干起来,比如准备这次面试,我直接自己开了一场播。第三是爱钻研——对喜欢的东西会研究得特别深,朋友开玩笑说我连看直播都在做笔记。
+**英文(~25s)**
+> "My friends would say three things. One, I'm reliable — hand me something and you never need to chase me; there's always a follow-up. Two, I move fast — when I get an idea I just try it; preparing for this interview, I literally went live myself. Three, I go deep on what I love — my friends joke that I take notes even when I'm watching livestreams."
+
+### Q4 职业规划?
+
+**要点**:短期做透一个垂类 → 中长期 own 更大的盘子;路径一句话"先做透,再规模化"
+**中文(~25 秒)**
+> 短期,我想深耕一个内容垂类,把 LIVE 垂类从创作者供给、内容到商业化的完整打法跑熟,成为对"这个垂类怎么增长、怎么商业化"有判断力的人。中长期,希望能负责更大的生态盘子——多个垂类,或者一条完整的业务线。我的路径一直很一致:先把一个领域做透,再规模化。
+**英文(~25s)**
+> "Short term, I want to go deep on one content vertical — learn the full playbook of a LIVE vertical, from creator supply to content to monetization, and build real judgment on how this vertical grows and monetizes. Longer term, I'd like to own a bigger piece of the ecosystem — multiple verticals, or a full business line. My path has been consistent: master one area first, then scale."
 
 ---
 

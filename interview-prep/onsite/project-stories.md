@@ -66,7 +66,7 @@
 - 目标:提高品牌×达人的匹配效率,减少 AM 手工筛选;帮品牌和创作者多成交、变成长期复购合作
 - 指标(效率口径,**不背 GMV**——工具中台背营收易被挑战):AM 人效、复购合作率、撮合效率——只报口径,数字留到结果段
 - 角色:own 这套体系——分层标准、推荐引擎、自动化,都由我设计推动
-- 过程:①分层:按 GMV 把达人分 L1–L5 ②推荐引擎:按达人卖过的货的**痛点**+靠该痛点积累的 GMV 建模型,去匹配品牌要卖的产品(痛点如"容貌焦虑""敏感肌""安抚情绪")③亮点:突破品类限制——卖巧克力的博主擅长"安抚情绪",宠物品类同痛点的产品他也能卖;一提升达人跨品类能力,二品牌卖得更好(达人在该痛点已有 GMV 积累)④系统落地:调 TikTok API 自动拉数据,AI 辅助开发,CRM 自动运转;人力花在头部内容策略和给品牌推荐上 ⑤先小范围试,再铺 300+ 品牌
+- 过程:①分层:按 GMV 把达人分 L1–L5 ②推荐引擎:按达人卖过的货的**痛点**+靠该痛点积累的 GMV 建模型,去匹配品牌要卖的产品(痛点如"容貌焦虑""敏感肌""安抚情绪");**这个产品需求是从垂类内容角度发现的**——看达人的内容,他们真正擅长的是某类痛点,不是某个品类③亮点:突破品类限制——卖巧克力的博主擅长"安抚情绪",宠物品类同痛点的产品他也能卖;一提升达人跨品类能力,二品牌卖得更好(达人在该痛点已有 GMV 积累)④系统落地:调 TikTok API 自动拉数据,AI 辅助开发,CRM 自动运转;人力花在头部内容策略和给品牌推荐上 ⑤**头部叙事**:先找 20% 的 AM 试点,跑通后规模化到 100%(300+ 品牌)——别说"5-6 个人"
 - 结果:AM 1→2-3;复购合作率 20%→35%;方法沉淀成 SOP
 
 **中文逐字稿(约 100 秒,基于本人口述版)**
@@ -81,11 +81,11 @@
 >
 > 第一,分层:按 GMV 把达人从 L1 分到 L5,每层配不同的运营方式。
 >
-> 第二,推荐引擎。通常的做法是按品类匹配——美妆品牌找美妆达人,但我们发现效率不高,因为有的创作者是能突破品类的。所以我们的模型是按"痛点"建的:把达人卖过的货抽象出痛点——比如容貌焦虑、敏感肌、安抚情绪——再看他靠这个痛点积累了多少 GMV。品牌来了一个产品,我们先解析它的痛点,再去找卖过同痛点产品、并且卖得好的达人。
+> 第二,推荐引擎。通常的做法是按品类匹配——美妆品牌找美妆达人,但我们发现效率不高。这个发现是从垂类内容里来的:天天看达人的内容就会发现,他们真正擅长的其实是某一类"痛点",不是某个品类。所以我们的模型是按"痛点"建的:把达人卖过的货抽象出痛点——比如容貌焦虑、敏感肌、安抚情绪——再看他靠这个痛点积累了多少 GMV。品牌来了一个产品,我们先解析它的痛点,再去找卖过同痛点产品、并且卖得好的达人。
 >
 > 举个例子:一个卖巧克力的博主,他擅长卖"安抚情绪"这个痛点——那宠物品类里主打安抚情绪的产品,他也能卖。这样一来达人的跨品类能力被打开了,二来品牌拿到的是有同痛点 GMV 积累的人,成交更稳。
 >
-> 第三,系统落地。我自己调 TikTok 的 API 把达人数据和 GMV 自动拉回来,用 AI 辅助开发,让 CRM 自动运转——人力集中在头部的内容策略和给品牌的推荐上。先小范围给几个 AM 试,验证有效,再铺到三百多个品牌。
+> 第三,系统落地。我自己调 TikTok 的 API 把达人数据和 GMV 自动拉回来,用 AI 辅助开发,让 CRM 自动运转——人力集中在头部的内容策略和给品牌的推荐上。先找了大概百分之二十的 AM 做试点,验证有效之后,再规模化到百分之百,铺到三百多个品牌。
 >
 > 结果:AM 人效一到两三个;复购合作率从百分之二十提到了百分之三十五;这套匹配方法和分层标准沉淀成了 SOP。
 
@@ -94,7 +94,7 @@
 - Goal: matching efficiency, less manual screening; more deals that become repeat collaborations
 - Metrics (efficiency, not GMV): AM capacity 1→2-3; repeat-collaboration rate 20% → 35%; matching efficiency
 - Role: owned the system — tiering, recommendation engine, automation
-- Process: tier L1–L5 by GMV → pain-point recommendation model (parse product pain point → find creators with GMV history on that pain point; chocolate/comfort → pet products) → built via TikTok API + AI-assisted dev, CRM self-running → pilot then 300+ brands
+- Process: tier L1–L5 by GMV → pain-point recommendation model, a product need spotted from the vertical's content (parse product pain point → find creators with GMV history on that pain point; chocolate/comfort → pet products) → built via TikTok API + AI-assisted dev, CRM self-running → pilot with ~20% of AMs, then scale to 100% (300+ brands)
 - Result: AM 1→2-3; repeat rate 20% → 35%; SOP
 
 **英文逐字稿(回填版——基于本人口述修正,约 110 秒)**
@@ -103,9 +103,11 @@
 >
 > My role was to build a creator system that frees up account managers' capacity and lifts the repeat collaboration rate.
 >
-> So what I did. First, I built a tiering system: we defined creators from level one to level five, each level corresponding to a GMV range. Second, I built an automation tool that automatically pulls creator data and GMV from TikTok's API — that saved us a lot of time, because originally we had to assign someone to import and export the GMV manually. And third, on top of the tiering and automation, I built a recommendation engine that matches creators with brands. Previously we'd recommend same-category creators to same-category brands, but we found it always underperformed — and it didn't make full use of the top creators. So the engine reads a product's pain point, and finds creators with GMV history on exactly that pain point.
+> So what I did. First, I built a tiering system: we defined creators from level one to level five, each level corresponding to a GMV range. Second, I built an automation tool that automatically pulls creator data and GMV from TikTok's API — that saved us a lot of time, because originally we had to assign someone to import and export the GMV manually. And third, on top of the tiering and automation, I built a recommendation engine that matches creators with brands. Previously we'd recommend same-category creators to same-category brands, but we found it always underperformed — and it didn't make full use of the top creators. I spotted this from the content side of the vertical: watching creators' content every day, what they're really good at is a pain point, not a category. So the engine reads a product's pain point, and finds creators with GMV history on exactly that pain point.
 >
 > For example, one creator in the pet category was really good at selling comfort-feeling products. And a chocolate seller also needed that same comfort pain point. So we matched the pet creator to the food brand — and it worked: in the first month, that creator sold about ten thousand dollars. This opens up cross-category opportunities for creators, and gives brands someone with a proven GMV record on exactly that pain point.
+>
+> We piloted with about twenty percent of the account managers first, and once it proved out, we scaled it to a hundred percent — all three hundred plus brands.
 >
 > As a result, our AM capacity went from one brand per person to two or three. The repeat collaboration rate went from twenty percent to over thirty-five. And this tiering, automation, and matching method has become an SOP that's still used across the company."
 

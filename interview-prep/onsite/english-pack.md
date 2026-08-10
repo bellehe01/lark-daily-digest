@@ -111,7 +111,27 @@
 
 - 运营经验少?→ "Let me walk through the operations work I've actually owned: vertical operations and creator discovery at Douyin, a five-thousand-person offline event, and top-creator content strategy at the agency."
 - 目标偏低?→ "The targets are set conservatively against the trailing fourteen-day baseline — and recalibrated in week one."
-- 报名不及预期?→ "Two moves: push sign-ups harder with the resources we hold back, and lean on the reserved top-creator slots — the festival design keeps ten to twenty percent in reserve."
+- 报名不及预期?→ "Two moves: push sign-ups harder — and scale up the paid promotion budget, since the original allocation was on the low side; and lean on the reserved top-creator slots — the festival design keeps ten to twenty percent in reserve."
+
+## P1-5 · Personal questions(模拟面试 todo,新备)
+
+**Most challenging project(~40s,⚠️ SCF 全场只讲一次,用过就换 IntelliPro)**
+> "The most challenging one was an offline event for over five thousand creators. We chose a manual process without doing the capacity math — and one week before the event, more than three thousand creators still weren't in the system. We did two things. First, stop the bleeding: reviewed every complaint one by one, prioritized by actual impact, apologized and fixed them. Then the root fix: I led the automation with webhooks and TikTok's API. Check-in time went from four hours to twenty minutes. And it left me a habit: calculate capacity before you commit."
+
+**Strengths(~35s)**
+> "Three things most relevant to this role. First, data-driven judgment — I define the metric conventions myself, and I'm usually the first to spot the business problem in the data. Second, building mechanisms that scale — I turn what works into standards and tools: pilot with twenty percent, then roll out to a hundred. Third, a full-funnel view of the creator ecosystem — I've actually worked on discovery, growth, and monetization. And I'm a heavy LIVE user — I've gone live myself recently."
+
+**Weakness(先说这个,~30s)**
+> "An honest one: I'm quite self-critical. After a project I tend to dwell on what I could have done better. What I do now is timebox the reflection — turn it into concrete action items, and then move on. The five-thousand-person event, for example, ended up as one standing rule — calculate capacity before you commit — instead of endless second-guessing."
+
+**追问再给两个(短版)**
+> "Two more, briefly: I'm competitive — I care a lot about results, and I've learned to point that at beating my own last version. And I can be sensitive to feedback — the upside is strong empathy for users and creators; I've learned to treat the emotion as information, and separate facts from feelings before I act."
+
+**How friends describe you(~25s)**
+> "My friends would say three things. One, I'm reliable — hand me something and you never need to chase me; there's always a follow-up. Two, I move fast — when I get an idea I just try it; preparing for this interview, I literally went live myself. Three, I go deep on what I love — my friends joke that I take notes even when I'm watching livestreams."
+
+**Career plan(~25s)**
+> "Short term, I want to go deep on one content vertical — learn the full playbook of a LIVE vertical, from creator supply to content to monetization, and build real judgment on how this vertical grows and monetizes. Longer term, I'd like to own a bigger piece of the ecosystem — multiple verticals, or a full business line. My path has been consistent: master one area first, then scale."
 
 ---
 
@@ -121,13 +141,15 @@
 >
 > My role was to build a creator system that frees up account managers' capacity and lifts the repeat collaboration rate.
 >
-> So what I did. First, I built a tiering system: we defined creators from level one to level five, each level corresponding to a GMV range. Second, I built an automation tool that automatically pulls creator data and GMV from TikTok's API — that saved us a lot of time, because originally we had to assign someone to import and export the GMV manually. And third, on top of the tiering and automation, I built a recommendation engine that matches creators with brands. Previously we'd recommend same-category creators to same-category brands, but we found it always underperformed. So the engine reads a product's pain point, and finds creators with GMV history on exactly that pain point.
+> So what I did. First, I built a tiering system: we defined creators from level one to level five, each level corresponding to a GMV range. Second, I built an automation tool that automatically pulls creator data and GMV from TikTok's API — that saved us a lot of time, because originally we had to assign someone to import and export the GMV manually. And third, on top of the tiering and automation, I built a recommendation engine that matches creators with brands. Previously we'd recommend same-category creators to same-category brands, but we found it always underperformed. I spotted this from the content side of the vertical: watching creators' content every day, what they're really good at is a pain point, not a category. So the engine reads a product's pain point, and finds creators with GMV history on exactly that pain point.
 >
 > For example, one creator in the pet category was really good at selling comfort-feeling products. And a chocolate seller also needed that same comfort pain point. So we matched the pet creator to the food brand — and it worked: in the first month, that creator sold about ten thousand dollars.
 >
+> We piloted with about twenty percent of the account managers first, and once it proved out, we scaled it to a hundred percent — all three hundred plus brands.
+>
 > As a result, our AM capacity went from one brand per person to two or three. The repeat collaboration rate went from twenty percent to over thirty-five. And this tiering, automation, and matching method has become an SOP that's still used across the company."
 
-⚠️ 头部叙事:说 "we piloted with about twenty percent of the AMs first, then scaled to a hundred percent" — 别说 5-6 个人
+⚠️ 头部叙事已写进稿里:20% 试点→100%,别说 5-6 个人
 
 ## P2-2 · 图文 story 关键段(过程部分,~60s)
 
