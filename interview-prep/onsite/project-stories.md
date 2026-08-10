@@ -97,27 +97,19 @@
 - Process: tier L1–L5 by GMV → pain-point recommendation model (parse product pain point → find creators with GMV history on that pain point; chocolate/comfort → pet products) → built via TikTok API + AI-assisted dev, CRM self-running → pilot then 300+ brands
 - Result: AM 1→2-3; repeat rate 20% → 35%; SOP
 
-**英文逐字稿(约 100 秒)**
+**英文逐字稿(回填版——基于本人口述修正,约 110 秒)**
 
-> "The background: a US TikTok Shop agency. Forty-thousand-plus creators in the database — roughly a fifth of them beauty creators — and three hundred plus brand clients. The problem: nobody knew how to match these creators with the right products and brands. It was all manual screening, and one account manager could serve exactly one brand.
+> "So the background is: at the TikTok Shop agency, we have more than forty-four thousand creators and over three hundred brands. At that time, we were struggling to match creators with the brands and products that suit them best — it all relied heavily on account managers manually reviewing and matching. So our goal was to increase matching efficiency and reduce the manual work — and beyond that, to get more deals done and turn one-time collaborations into long-term relationships.
 >
-> So the goal was matching efficiency: cut the manual screening, get more deals done, and turn them into repeat collaborations.
+> My role was to build a creator system that frees up account managers' capacity and lifts the repeat collaboration rate.
 >
-> My metrics were efficiency metrics: AM capacity — from one brand per person to two or three — and the repeat-collaboration rate, because accurate matching is what makes brands come back. That rate went from twenty percent to thirty-five.
+> So what I did. First, I built a tiering system: we defined creators from level one to level five, each level corresponding to a GMV range. Second, I built an automation tool that automatically pulls creator data and GMV from TikTok's API — that saved us a lot of time, because originally we had to assign someone to import and export the GMV manually. And third, on top of the tiering and automation, I built a recommendation engine that matches creators with brands. Previously we'd recommend same-category creators to same-category brands, but we found it always underperformed — and it didn't make full use of the top creators. So the engine reads a product's pain point, and finds creators with GMV history on exactly that pain point.
 >
-> My role was owning the system. A few moves.
+> For example, one creator in the pet category was really good at selling comfort-feeling products. And a chocolate seller also needed that same comfort pain point. So we matched the pet creator to the food brand — and it worked: in the first month, that creator sold about ten thousand dollars. This opens up cross-category opportunities for creators, and gives brands someone with a proven GMV record on exactly that pain point.
 >
-> One, tiering: creators tiered L1 to L5 by GMV, different operations per tier.
->
-> Two, the recommendation engine. The usual approach is category matching — beauty brands get beauty creators. We found it underperformed, because some creators can sell beyond their category. So our model was built on pain points: abstract what a creator has sold into the pain point it solves — appearance anxiety, sensitive skin, comfort — and how much GMV they've built on that pain point. A brand brings a product; we parse its pain point, then find creators with a strong track record on that same pain point.
->
-> An example: a chocolate seller who's great at the 'comfort' pain point can also sell pet products built on comfort. That opens up creators' cross-category range, and gives brands someone with proven GMV on exactly that pain point.
->
-> Three, making it a system: I called the TikTok API to pull creator data and GMV automatically, used AI-assisted development, and got the CRM running on its own — human effort concentrated on top-creator strategy and brand recommendations. Piloted with a few AMs, then rolled out across three hundred brands.
->
-> Results: AM capacity one to two-or-three, and the matching method plus tiering became standing SOPs."
+> As a result, our AM capacity went from one brand per person to two or three. The repeat collaboration rate went from twenty percent to over thirty-five. And this tiering, automation, and matching method has become an SOP that's still used across the company."
 
----
+> ⚠️ 练习注意:tiering 别读成 steering;"about ten thousand dollars" 的例子要能接住追问(哪类达人/什么产品),不确定细节就保持 about 的模糊度
 
 **追问 Q&A(两问都被验证过)**
 
