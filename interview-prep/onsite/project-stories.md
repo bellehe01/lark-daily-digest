@@ -32,7 +32,7 @@
 
 **英文框架**
 - Basics: name / MS Business Analytics, University of Arizona (May 2025) / three ByteDance-family internships before graduating, two chapters after
-- Recent (US TikTok Shop agency): 44k-creator database at scale — tiering, automation, pain-point matching model; AM capacity 1→2-3; BFCM; most matches in beauty/fashion/lifestyle
+- Recent (US TikTok Shop agency): 44k-creator database at scale — tiering, automation, pain-point matching model; AM capacity 1→2-3
 - Earlier (Douyin photo-text, the most relevant): owned photography & art; two moves — set the executable quality standard + 1:1s with 20 top creators, common blockers → posting-incentive campaigns + posting tool with product; +7% views, +10% posting frequency (Music & Effects one line each, held for follow-up)
 - Close: the role = vertical ownership + data-driven + cross-functional programs — exactly where I'm strongest with hands-on experience; "looking forward to our conversation"
 
@@ -67,7 +67,7 @@
 - 指标(效率口径,**不背 GMV**——工具中台背营收易被挑战):AM 人效 1→2-3;复购合作率从 20% 提升到 35%;撮合效率
 - 角色:own 这套体系——分层标准、推荐引擎、自动化,都由我设计推动
 - 过程:①分层:按 GMV 把达人分 L1–L5 ②推荐引擎:按达人卖过的货的**痛点**+靠该痛点积累的 GMV 建模型,去匹配品牌要卖的产品(痛点如"容貌焦虑""敏感肌""安抚情绪")③亮点:突破品类限制——卖巧克力的博主擅长"安抚情绪",宠物品类同痛点的产品他也能卖;一提升达人跨品类能力,二品牌卖得更好(达人在该痛点已有 GMV 积累)④系统落地:调 TikTok API 自动拉数据,AI 辅助开发,CRM 自动运转;人力花在头部内容策略和给品牌推荐上 ⑤先小范围试,再铺 300+ 品牌
-- 结果:AM 1→2-3;复购合作率 20%→35%;方法沉淀成 SOP;完整经历黑五;撮合最多=美妆时尚生活方式品类
+- 结果:AM 1→2-3;复购合作率 20%→35%;方法沉淀成 SOP
 
 **中文逐字稿(约 100 秒,基于本人口述版)**
 
@@ -87,7 +87,7 @@
 >
 > 第三,系统落地。我自己调 TikTok 的 API 把达人数据和 GMV 自动拉回来,用 AI 辅助开发,让 CRM 自动运转——人力集中在头部的内容策略和给品牌的推荐上。先小范围给几个 AM 试,验证有效,再铺到三百多个品牌。
 >
-> 结果:AM 人效一到两三个;复购合作率从百分之二十提到了百分之三十五;这套匹配方法和分层标准沉淀成了 SOP。我也完整经历了黑五,撮合最多的品类就是美妆、时尚和生活方式。
+> 结果:AM 人效一到两三个;复购合作率从百分之二十提到了百分之三十五;这套匹配方法和分层标准沉淀成了 SOP。
 
 **英文框架(六要素)**
 - Background: US TikTok Shop agency; 44k creators (~half beauty), 300+ brands; manual AM screening, one brand per AM
@@ -95,7 +95,7 @@
 - Metrics (efficiency, not GMV): AM capacity 1→2-3; repeat-collaboration rate 20% → 35%; matching efficiency
 - Role: owned the system — tiering, recommendation engine, automation
 - Process: tier L1–L5 by GMV → pain-point recommendation model (parse product pain point → find creators with GMV history on that pain point; chocolate/comfort → pet products) → built via TikTok API + AI-assisted dev, CRM self-running → pilot then 300+ brands
-- Result: AM 1→2-3; repeat rate 20% → 35%; SOP; BFCM hands-on; beauty/fashion/lifestyle matched most
+- Result: AM 1→2-3; repeat rate 20% → 35%; SOP
 
 **英文逐字稿(约 100 秒)**
 
@@ -115,7 +115,7 @@
 >
 > Three, making it a system: I called the TikTok API to pull creator data and GMV automatically, used AI-assisted development, and got the CRM running on its own — human effort concentrated on top-creator strategy and brand recommendations. Piloted with a few AMs, then rolled out across three hundred brands.
 >
-> Results: AM capacity one to two-or-three, and the matching method plus tiering became standing SOPs. I worked through Black Friday hands-on — and the categories I matched most were beauty, fashion, and lifestyle."
+> Results: AM capacity one to two-or-three, and the matching method plus tiering became standing SOPs."
 
 ---
 
