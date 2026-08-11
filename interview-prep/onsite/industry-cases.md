@@ -15,7 +15,7 @@
 
 ## 定稿 A|说说你对 TT 直播行业的理解?你有上手直播过吗?
 
-**要点**:先说"发现了一些趋势"→ 两类分化(纯内容直播提效率和商业化 / 美妆时尚在丰富内容化)→ 场景化举例(李佳琦分约会装;小红书睡衣派对)→ **矩阵打法**(头部见顶难改内容→把内容做丰富变矩阵测试,从地域和人群差异找场景)→ 对比国内(桃黑黑互动强粘性高;时尚品牌矩阵化)→ 收口"我最近自己也上手开过播"
+**要点**:先说"发现了一些趋势"→ 两类分化(纯内容直播提效率和商业化 / 美妆时尚在丰富内容化)→ 场景化举例(李佳琦分约会装;小红书睡衣派对)→ **矩阵打法**(头部见顶难改内容→把内容做丰富变矩阵测试,从地域和人群差异找场景)→ 收口"我最近自己也上手开过播"(⚠️ 桃黑黑国内对比不说,太长)
 
 **中文逐字稿(~60 秒)**
 > 首先我发现了一些趋势。我认为直播行业增长到现在,大概分为两类:一类是纯内容直播,在提高增长效率和商业化动作;另一类是美妆时尚这些垂类,在"丰富内容化"。
@@ -24,16 +24,25 @@
 >
 > 这背后其实是矩阵打法:头部的内容增长见顶之后,很难让他直接改内容——所以帮他把内容做丰富,变成各种矩阵去测试,从地域和人群的差异里找内容场景。
 >
-> 对比国内的话:纯内容主播的互动和粘性明显更强,比如桃黑黑;时尚品牌在矩阵化,像睡衣派对直播、运动风直播。我判断这个垂类也会往这个方向走——我最近自己也上手开过播,体验了一下创作者这一侧。
+> 我判断这个垂类会继续往场景化和矩阵化的方向走。我最近自己也上手开过播,体验了一下创作者这一侧。
 
-**英文逐字稿(~60s)**
-> "Two trends stand out to me. First, pure content streamers are pushing for growth efficiency and stronger monetization. Second, beauty and fashion LIVE is going through what I'd call content enrichment.
+**英文框架(路标)**
+- 开口:"I see two trends in LIVE right now."
+- Trend 1:pure content streamers → growth efficiency + making more money
+- Trend 2:beauty & fashion → richer content, scenario-based(Li Jiaqi date-night looks / Xiaohongshu pajama parties)
+- 升华:"Behind this is a matrix play."(头部见顶→不改内容,做丰富→当矩阵测)
+- 收口:"I recently went live myself, to feel the creator side."
+
+**英文逐字稿(简单口语版,~55s)**
+> "I see two trends in LIVE right now.
 >
-> I see clear scenario-based segmentation now. In China, Li Jiaqi's beauty room runs themed sessions — date-night looks, casual looks — and on Xiaohongshu, fashion streams split into sporty summer, loungewear, even pajama-party themes. They dig into the audience's mindset, turn needs into scenarios.
+> First, pure content streamers are working on growth efficiency, and on making more money.
 >
-> The smart play behind it is a matrix approach: when a top creator's content growth hits a ceiling, you can't just ask them to change their content — instead you enrich it, spin up scenario variations and test them as a matrix, drawing on regional and audience differences.
+> Second, beauty and fashion LIVE is getting much richer in content. It's becoming scenario-based. In China, Li Jiaqi's beauty room runs themed sessions — date-night looks, casual looks. On Xiaohongshu, fashion streams split into sporty style, loungewear, even pajama parties. They start from the audience's mindset, and turn needs into scenarios.
 >
-> Comparing markets: China's pure-content streamers have much stronger interaction and stickiness, and fashion brands are going matrix-style. That's the direction I'd expect this vertical to move — and I've gone live myself recently to feel the creator side of it."
+> Behind this is a matrix play. When a top creator's growth hits a ceiling, you can't just ask them to change their content. Instead, you make their content richer — create scenario versions, and test them like a matrix, using differences in region and audience.
+>
+> I believe this vertical will move the same way. And I've been watching LIVE every day — I recently went live myself, to feel the creator side."
 
 ## 定稿 B|有看哪些印象深刻的美妆 case 或者主播?
 
