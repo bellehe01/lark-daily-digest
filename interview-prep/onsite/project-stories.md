@@ -123,6 +123,9 @@
 - **Q:为什么按 GMV 分 L1–L5?市场上还有别的分法吗?**
   > 这样分是为了穷尽达人从新人到大博主的整个成长阶段——L1 到 L5 把成长路径完整覆盖。而且它直接服务筛选:我们的品牌特别关注的就是 L3 及以上的达人。市场上也有按粉丝量、按内容品类分的,但对撮合这个场景,GMV 分层跟品牌的决策最对齐。
   - EN: "The tiers exhaust a creator's growth path from newcomer to major — L1 through L5 covers the whole journey. And it serves selection directly: our brands care specifically about L3 and above. There are other cuts — by follower count, by content category — but for matching, GMV tiers align best with how brands actually decide."
+- **Q:repeat collaboration rate 怎么计算的?**
+  > 按"品牌乘达人"这一对来算。分母是当期完成过第一次合作的配对;分子是其中在接下来一个季度里又合作了至少一次的配对。20% 是推荐引擎上线前的水平,35% 是上线跑稳之后同口径的水平。为什么按"对"算——撮合准不准,最直接的信号就是这一对愿不愿意再来一次;按品牌或按达人算,都会被头部大客户拉偏。
+  - EN: "It's measured at the pair level — one brand with one creator. The denominator is all pairs that completed a first collaboration in that period. The numerator is the pairs that came back for at least one more collaboration within the next quarter. Twenty percent was the level before the recommendation engine; thirty-five is the same measure after it was rolled out. Why pairs? Because the most direct signal of a good match is whether that same pair comes back — counting by brand or by creator, the big accounts distort the number."
 - 原则:讲的每一个机制,都要能答上"为什么这么做"和"还有什么别的做法"。
 
 # 美区 Agency(2025.9–今)· Story 2:5000 人线下创作者活动交付
