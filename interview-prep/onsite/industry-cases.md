@@ -116,6 +116,8 @@
 >
 > Instagram. Strong: reach — and the beauty and fashion audience is native. Weak: live is a feature, not an ecosystem. Weak monetization, no real discovery for live, and no viewing habit.
 >
+> And one product-level difference matters a lot: screen orientation. Twitch and YouTube are landscape — desktop viewing, long sessions, built for game screens and multi-camera shows. TikTok is portrait — phone-native, one face filling the screen, up close. And for beauty and fashion, portrait is actually an advantage: makeup close-ups and try-ons feel personal — like a video call with the creator.
+>
 > And TikTok. Strong: the short-video funnel — the best discovery engine sitting right next to LIVE — plus two monetization tracks, gifting and commerce. Weak, honestly: the viewing habit is still young — we're still turning discovered viewers into returning fans. And that's exactly the job."
 
 ---
