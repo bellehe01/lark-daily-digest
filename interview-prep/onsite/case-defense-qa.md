@@ -173,7 +173,7 @@
 
 > "I have five assumptions. Let me go through them — and what I'd do if each one is wrong.
 >
-> First, I assume this vertical is mature, but can still grow. If I'm wrong — that's fine. My actions still help.
+> First, I assume this vertical is mature, but can still grow. If I'm wrong — that's fine. My main actions — the festival, coaching the top creators, and recruiting new ones — still help at any stage.
 >
 > Second, I assume the problem is retention — the existing creators are not doing well. If I'm wrong, and they're actually fine — then the real problem is money. So I don't touch their hours. I just add more ways to make money: new formats, paid features.
 >
