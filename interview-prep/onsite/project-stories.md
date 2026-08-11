@@ -125,7 +125,7 @@
   - EN: "The tiers exhaust a creator's growth path from newcomer to major — L1 through L5 covers the whole journey. And it serves selection directly: our brands care specifically about L3 and above. There are other cuts — by follower count, by content category — but for matching, GMV tiers align best with how brands actually decide."
 - **Q:repeat collaboration rate 怎么计算的?**
   > 很简单:合作过一次的品牌和达人,看有多少比例又合作了第二次。20% 是推荐引擎上线前的水平,35% 是上线之后的。
-  - EN: "Very simple: of the brands and creators who worked together once, what share came back and worked together again. Twenty percent before the recommendation engine, thirty-five after."
+  - EN: "Brands and creators who worked together once — how many of them came back for a second deal. Twenty percent before the engine, thirty-five after."
   - 追问"多久内算?"→ "Within the next quarter."(一个季度内);追问"为什么这样算?"→ "撮合准不准,最直接的信号就是这一对愿不愿意再来一次 / The best signal of a good match is whether the same pair comes back."
 - **Q:复购率能体现推荐引擎的效果吗?**(链条:引擎→匹配准→首单卖得好→品牌回头→复购涨)
   > 复购率是链条的最后一环:推荐得准,第一单卖得好,品牌才会带着这个达人回来——所以它是匹配质量最终的业务信号。过程上我们还看两个更直接的指标:推荐的采纳率,和推荐撮合的首单表现,包括跨品类合作的占比在往上走。三个一起看,才敢说是引擎的效果。
