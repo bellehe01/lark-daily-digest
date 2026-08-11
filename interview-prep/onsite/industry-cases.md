@@ -18,7 +18,7 @@
 **要点**:两类分化(纯内容直播提效率和商业化 / 美妆时尚在丰富内容化)→ 场景化举例(李佳琦分约会装;小红书睡衣派对)→ **矩阵打法**(头部见顶难改内容→做丰富变矩阵测试)→ 自己开过播 → **过渡"说到和岗位的匹配"** → 岗位理解(老师原版)→ 三条对应(图文+agency 供给成长 / Music 数据 / agency 撮合商业化)→ 收口 strong match(⚠️ 桃黑黑不说;IntelliPro、线下活动不提)
 
 **中文逐字稿(~60 秒)**
-> 首先我发现了一些趋势。我认为直播行业增长到现在,大概分为两类:一类是纯内容直播,在提高增长效率和商业化动作;另一类是美妆时尚这些垂类,在"丰富内容化"。
+> 首先我发现了一些趋势。我认为直播行业增长到现在,大概分为两类:一类是纯内容直播,在提高增长效率和商业化动作。比如我看的音乐主播,把互动做成了付费玩法:送礼物就能点歌,更大的礼物可以插队;还有主播开订阅粉丝的专属场,把常来的观众变成付费粉丝。另一类是美妆时尚这些垂类,在"丰富内容化"。
 >
 > 现在能看到很明显的场景化:国内李佳琦的直播间会分约会装、朋友装、休闲装;小红书的穿搭直播分运动风、居家风,甚至睡衣派对——都是从人群心态里挖需求,把需求变成场景。
 >
@@ -41,7 +41,7 @@
 **英文逐字稿(简单口语版,~100s)**
 > "I see two trends in LIVE right now.
 >
-> First, pure content streamers are working on growth efficiency, and on making more money.
+> First, pure content streamers are working on growth efficiency, and on making more money. For example, the music streamers I watch turn interaction into paid features: you send a gift to request a song, and a bigger gift jumps the queue. Some also run subscriber-only sessions — turning regular viewers into paying fans.
 >
 > Second, beauty and fashion LIVE is getting much richer in content. It's becoming scenario-based. In China, Li Jiaqi's beauty room runs themed sessions — date-night looks, casual looks. On Xiaohongshu, fashion streams split into sporty style, loungewear, even pajama parties. They start from the audience's mindset, and turn needs into scenarios.
 >
