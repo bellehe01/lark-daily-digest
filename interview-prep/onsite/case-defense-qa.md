@@ -1098,6 +1098,12 @@
 > 两个动作。第一,拿出资源继续 push 报名——尤其投放要加码:我原来留的八千的投放盘子偏小了,按国内的经验口径,推一个人起量大概要五千抖加、也就是五千块的量级,这块预算要往上调。第二,名额本来就预留过给头部——音乐节的设计里留了百分之十到二十的备选位,可以直接补上。
 - EN: "Two moves. First, push sign-ups harder — and scale up the paid promotion budget; my original allocation was on the low side, so I'd raise it. Second, lean on the reserved top-creator slots — the festival design keeps ten to twenty percent in reserve."
 
+**Q:你说有"留存问题",但数据里没有流失(churn)——留存指什么?**(老师答疑口径,2026-08-11)
+- 要点:留存 ≠ 流失。留存是一个**泛阶段**——让存量(不是新人的那部分)发展得更好的一切动作都属于留存期。表里的信号:头部内容固化、头部增长放缓、腰部往下掉、整体开播 UV 下降,都泛指留存期的问题
+- 中文:
+> 留存不等于流失,它是一个阶段。存量指的是已经不是新人的那部分创作者;把存量数据做好的一切手段,都属于留存期。这份数据里的信号——头部内容固化、增长放缓、腰部在往下掉、整体开播 UV 在降——都是留存期的问题。所以我说的留存问题,是"让存量发展得更好"这件事,不只是防流失。
+- EN: "By retention I don't just mean churn. Retention here is a stage — it covers everything about making the existing creators perform better. In this table, the signs are: top creators' content is getting fixed, their growth is slowing, and streaming UV is trending down. All of that belongs to the retention stage. So the pair is simple: retention means make the existing supply better; scale means bring new supply in."
+
 ---
 
 # 心虚点清单(面试前最后过一遍)
