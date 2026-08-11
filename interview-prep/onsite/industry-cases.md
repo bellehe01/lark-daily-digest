@@ -82,7 +82,17 @@
 
 ## 追问"机会在哪?"备弹(接定稿 A,详见题 2)
 
-> "Both supply and demand are still being built, and I think the bigger opportunity is on the supply side. The demand is already proven — what's missing is more creators going live. That's why my signature idea is to find live-streaming supply from short-video creators."
+**骨架**:需求已验证(观众在)→ 供给缺(短视频侧大量美妆创作者没开过播)→ 三步:筛 screen / 预告 trailers / 接住 catch → 收口绑回 case 开放赛道
+
+> "I think the opportunity is on the supply side.
+>
+> The demand is already there — whenever a good beauty stream is on, the viewers show up.
+>
+> But the supply is not. There are a huge number of beauty creators on the short-video side — and most of them have never gone live.
+>
+> So the biggest opportunity is turning short-video creators into LIVE creators. Three steps: screen the short-video pool for creators whose content already fits LIVE; help them use short videos as trailers, so their streams become a scheduled show; and catch them with incentives so they keep streaming.
+>
+> That's also exactly what my festival case does — the open division is a machine for finding new supply."
 
 ---
 
