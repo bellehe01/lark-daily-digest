@@ -95,7 +95,7 @@
 - 内容:人设是一套体系——小丑妆、"clown-pop/黑暗童话",妆容、布景、原创歌全在一个世界观里;唱功制作是真的(格莱美级混音)
 - 互动:原创歌 **Big Bad Wolf 在直播里和粉丝一起写出来**——观众不是点内容,是共同生产内容(比点歌高一层)
 - 运营:粉丝团命名 **Looneez**(身份认同做出来了);官方拿她当职业化样本宣传(叉车司机→全职主播→年度冠军)
-- 收口三个词:人设体系化(有记忆点)、内容共创化(有参与感)、职业路径化(有故事)
+- 收口三个词:人设体系化(有记忆点)、内容共创化(有参与感)、粉丝身份化(有归属感——Looneez)
 
 **中文逐字稿(约 65 秒)**
 
@@ -109,7 +109,7 @@
 >
 > 四、运营角度。她的粉丝团有自己的名字,叫 Looneez——粉丝的身份认同做出来了;而且她本人就是官方宣传的职业化样本:叉车司机转全职主播,做到年度冠军。
 >
-> 所以我总结她三个词:人设体系化,有记忆点;内容共创化,有参与感;职业路径化,有故事。
+> 所以我总结她三个词:人设体系化,有记忆点;内容共创化,有参与感;粉丝身份化,有归属感。
 
 **英文逐字稿(约 65 秒)**
 
@@ -123,7 +123,7 @@
 >
 > Four, operations: her fandom has its own name, the Looneez — identity-level community.
 >
-> So I'd sum her up in three phrases: persona as a system, content as co-creation, career as a path."
+> So I'd sum her up in three phrases: persona as a system, content as co-creation, and fandom as identity."
 
 ## Q1-追问 · 音乐腰部你也在看吗?:Talia(我真实看播,有截图)
 
