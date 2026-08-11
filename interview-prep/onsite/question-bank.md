@@ -85,6 +85,21 @@
 >
 > And honestly, I'd want to align the exact KPIs after joining — that's actually one of my questions for you today."
 
+**加深版:为什么这个岗位存在?(~60s,骨架:demand fine, supply missing → 三个张力 → 收口金句)**
+> "Here's how I understand why this role exists.
+>
+> On LIVE, the demand side is fine — the traffic, the users, the willingness to watch, it's all there. What's missing is the supply side: good creators who stream regularly can't keep up with the demand.
+>
+> And three tensions make the gap bigger.
+>
+> One, supply and demand don't line up. Good content clusters in the evening — mature talent rooms — while the daytime gets filled with low-quality chatting.
+>
+> Two, money pulls against quality. Gifting gives instant rewards, so it pushes creators toward cheap, fast content — NPC streams, boring PK battles. That's short-term income versus long-term health.
+>
+> Three, the top and the middle are out of balance. Resources and official campaigns flow to the mature creators — but the real growth hides in the mid and tail, the people who are just one step away. And nobody manages them.
+>
+> So in one sentence: the platform's long-term value depends on quality supply — but the current mechanics don't naturally get us there. Someone has to run it on purpose. That's this role."
+
 ## 区 3|内容分析与策略(what drives LIVE content performance & creator lifecycle)
 
 **可能问法**:What makes a LIVE perform well? / How do you think about the creator lifecycle?
