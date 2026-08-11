@@ -169,23 +169,19 @@
 - A4 音乐节一箭多雕 → risks planned:push sign-ups early / prepare the top in advance / bootcamp
 - A5 time is enough → heavy at the front;不够压进前两周
 
-**英文逐字稿(简单口语版,约 90 秒)**
+**英文逐字稿(保命版,约 70 秒——全篇就两个句型:"I assume..." + "If I'm wrong — I...")**
 
-> "I have five assumptions. They fall into three groups: the vertical, the top creators, and the event.
+> "I have five assumptions. Let me go through them — and what I'd do if each one is wrong.
 >
-> Group one, the vertical — assumptions one and two.
+> First, I assume this vertical is mature, but can still grow. If I'm wrong — that's fine. My actions still help.
 >
-> One: this vertical is mature, but it can still grow. If I'm wrong — no big deal. These actions help at any stage.
+> Second, I assume the problem is retention — the existing creators are not doing well. If I'm wrong, and they're actually fine — then the real problem is money. So I don't touch their hours. I just add more ways to make money: new formats, paid features.
 >
-> Two: retention is the problem. I got this from the data — and the data is limited, so I need more. If I'm wrong, and retention is actually fine — then I switch the focus to monetization: keep the hours, add new formats and paid design, and grow the profit pool.
+> Third — this is the hardest one — I assume the top creators will listen to me and make changes. Maybe they won't. If they don't trust me — the operator they know talks to them, and I stay behind. If they really can't change — I stop spending my time on them. I find fast-growing creators instead: from the current pool, and from the festival. I also saved ten to twenty percent backup slots for this.
 >
-> Group two, the top creators — assumption three. This is the hardest one. I assume the five top creators will accept changes. But their content is already fixed, change feels risky, and I'm new — they may not listen to me. If that happens, two cases. If it's a trust issue: the operator they know talks to them, and I make the strategy behind the scenes. If it's a strategy issue — they really can't change — then I move my time somewhere else. I look for fast-growing creators in the existing pool, and I use the festival to find new ones. The plan already saves ten to twenty percent backup slots.
+> Fourth, I assume the festival can do many things at once. So I planned for the risks: I push sign-ups early. I prepare the top creators' content and traffic in advance. And after the event, good newcomers go into a thirty-day bootcamp — so they keep streaming.
 >
-> Group three, the event — assumptions four and five.
->
-> Four: the festival can reach several goals at once. The risks are planned. Revenue needs the top and mid creators to join — so I push sign-ups early. A showcase doesn't happen by luck — so I prepare the top creators' content, paid traffic, and hot moments in advance. And new creators may stop streaming — so after the event, the good ones go straight into a thirty-day bootcamp.
->
-> Five: the time is enough. The plan is heavy at the front. If time runs short, I finish the five-creator work in the first two weeks, and give the rest to the festival."
+> Fifth, I assume the time is enough. If not — I finish the five-creator work in the first two weeks, and spend the rest on the festival."
 
 ## 一5. 你考虑过哪些其他方案?为什么最终没有选它们?
 
