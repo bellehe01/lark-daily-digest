@@ -13,9 +13,9 @@
 
 # 模拟面试定稿(老师反馈,这两段优先背)
 
-## 定稿 A|说说你对 TT 直播行业的理解?你有上手直播过吗?
+## 定稿 A|Your take on the TikTok LIVE business and fit for the role(一道题,一口气 ~100 秒)
 
-**要点**:先说"发现了一些趋势"→ 两类分化(纯内容直播提效率和商业化 / 美妆时尚在丰富内容化)→ 场景化举例(李佳琦分约会装;小红书睡衣派对)→ **矩阵打法**(头部见顶难改内容→把内容做丰富变矩阵测试,从地域和人群差异找场景)→ 收口"我最近自己也上手开过播"(⚠️ 桃黑黑国内对比不说,太长)
+**要点**:两类分化(纯内容直播提效率和商业化 / 美妆时尚在丰富内容化)→ 场景化举例(李佳琦分约会装;小红书睡衣派对)→ **矩阵打法**(头部见顶难改内容→做丰富变矩阵测试)→ 自己开过播 → **过渡"说到和岗位的匹配"** → 岗位理解(老师原版)→ 三条对应(图文+agency 供给成长 / Music 数据 / agency 撮合商业化)→ 收口 strong match(⚠️ 桃黑黑不说;IntelliPro、线下活动不提)
 
 **中文逐字稿(~60 秒)**
 > 首先我发现了一些趋势。我认为直播行业增长到现在,大概分为两类:一类是纯内容直播,在提高增长效率和商业化动作;另一类是美妆时尚这些垂类,在"丰富内容化"。
@@ -25,15 +25,20 @@
 > 这背后其实是矩阵打法:头部的内容增长见顶之后,很难让他直接改内容——所以帮他把内容做丰富,变成各种矩阵去测试,从地域和人群的差异里找内容场景。
 >
 > 我判断这个垂类会继续往场景化和矩阵化的方向走。我最近自己也上手开过播,体验了一下创作者这一侧。
+>
+> 这是我对行业的理解。说到和岗位的匹配——我理解这个岗位是负责一个或多个 TikTok LIVE 内容垂类,从创作者供给、内容策略、用户参与、商业化到生态健康做整体经营,用数据分析、战略项目和跨团队协作推动可持续增长。核心指标是垂类的开播和营收。
+>
+> 对应我的经验就三条:创作者供给和成长,我在抖音图文和 agency 都实际做过;数据分析,Music 的看板和洞察体系是我搭的;商业化,agency 里品牌和达人的撮合变现就是我在背。
+>
+> 所以我觉得和岗位职责是比较匹配的。
 
-**英文框架(路标)**
-- 开口:"I see two trends in LIVE right now."
-- Trend 1:pure content streamers → growth efficiency + making more money
-- Trend 2:beauty & fashion → richer content, scenario-based(Li Jiaqi date-night looks / Xiaohongshu pajama parties)
-- 升华:"Behind this is a matrix play."(头部见顶→不改内容,做丰富→当矩阵测)
-- 收口:"I recently went live myself, to feel the creator side."
+**英文框架(四个锚点句,背这四句就够)**
+1. 开口:"I see two trends in LIVE right now."
+2. 升华:"Behind this is a matrix play."
+3. 过渡:"That's my take on the business. As for the fit —"
+4. 收口:"So it's a strong match."
 
-**英文逐字稿(简单口语版,~55s)**
+**英文逐字稿(简单口语版,~100s)**
 > "I see two trends in LIVE right now.
 >
 > First, pure content streamers are working on growth efficiency, and on making more money.
@@ -42,7 +47,13 @@
 >
 > Behind this is a matrix play. When a top creator's growth hits a ceiling, you can't just ask them to change their content. Instead, you make their content richer — create scenario versions, and test them like a matrix, using differences in region and audience.
 >
-> I believe this vertical will move the same way. And I've been watching LIVE every day — I recently went live myself, to feel the creator side."
+> I believe this vertical will move the same way. And I've been watching LIVE every day — I recently went live myself, to feel the creator side.
+>
+> That's my take on the business. As for the fit — my understanding is that this role owns one or more TikTok LIVE content verticals: running them end to end, from creator supply and content strategy to user engagement, monetization, and ecosystem health, and driving sustainable growth through data, strategic programs, and cross-functional work. The north-star metrics would be the vertical's streaming and revenue.
+>
+> Matching that to my experience, three things. Creator supply and growth — I've done that at Douyin and at the agency. Data — I built the dashboards and the insight system at TikTok Music. And monetization — at the agency, matching brands with creators is literally my job.
+>
+> So it's a strong match."
 
 ## 定稿 B|有看哪些印象深刻的美妆 case 或者主播?
 
@@ -71,26 +82,8 @@
 >
 > Honestly though, what I watch most is the trend shifts in the China market — that's where the playbook is furthest ahead."
 
-## 定稿 C|Why are you a fit?(理解段=老师原版 + 三条对应,~45 秒)
+## 追问"机会在哪?"备弹(接定稿 A,详见题 2)
 
-> ⚠️ **这常和定稿 A 合成一道题**:"Your take on the TikTok LIVE business and fit for the role"。答法:先讲定稿 A(行业理解),一句过渡,再接下面的 C,全程约 100 秒。
-> 过渡句:中文 "这是我对行业的理解。说到和岗位的匹配——" / EN **"That's my take on the business. As for the fit —"**
-
-**中文**
-> 我理解这个岗位是负责一个或多个 TikTok LIVE 内容垂类,从创作者供给、内容策略、用户参与、商业化到生态健康做整体经营,用数据分析、战略项目和跨团队协作推动可持续增长。核心指标是垂类的开播和营收。
->
-> 对应我的经验就三条:创作者供给和成长,我在抖音图文和 agency 都实际做过;数据分析,Music 的看板和洞察体系是我搭的;商业化,agency 里品牌和达人的撮合变现就是我在背。
->
-> 所以和岗位职责是比较匹配的。而且我是 LIVE 的重度用户,最近自己也开过播。
-
-**英文(~45s)**
-> "My understanding is that this role owns one or more TikTok LIVE content verticals — running them end to end, from creator supply and content strategy to user engagement, monetization, and ecosystem health — and drives sustainable growth through data, strategic programs, and cross-functional work. The north-star metrics would be the vertical's streaming and revenue.
->
-> Matching that to my experience, three things. Creator supply and growth — I've done that at Douyin and at the agency. Data — I built the dashboards and the insight system at TikTok Music. And monetization — at the agency, matching brands with creators is literally my job.
->
-> So it's a strong match. And I'm a heavy LIVE user — I've gone live myself recently."
-
-**追问"机会在哪?"备弹(接定稿 A 或 C 都行,详见题 2)**
 > "Both supply and demand are still being built, and I think the bigger opportunity is on the supply side. The demand is already proven — what's missing is more creators going live. That's why my signature idea is to find live-streaming supply from short-video creators."
 
 ---
