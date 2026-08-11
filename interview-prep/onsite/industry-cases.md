@@ -94,6 +94,18 @@
 >
 > That's also exactly what my festival case does — the open division is a machine for finding new supply."
 
+## 追问"竞争格局?"备弹(competitive landscape,~60s;骨架:各家强项→TikTok 独有优势=短视频漏斗→学"观众变会员"→金句收口)
+
+> "Let me map it by what each platform is strong at.
+>
+> Twitch owns gaming and community — subscriptions, long sessions, real fan identity. Kai Cenat hit a million subscribers there, and his streams are events, not just broadcasts. YouTube owns stability — creators run scheduled shows for years. Instagram has reach, but live isn't really its focus.
+>
+> TikTok's edge is different — and I think it's the strongest one: the short-video funnel. No other platform has a discovery engine this powerful sitting right next to LIVE. Short video finds you the audience; LIVE deepens the relationship and monetizes it.
+>
+> What we can learn from competitors is how they turn viewers into members — Twitch's subscription culture, YouTube's show-like schedules. That's exactly where beauty and fashion LIVE should go: scheduled shows, fan identity, co-creation.
+>
+> So my one line: TikTok has already won discovery. The next battle is habit — turning discovered viewers into returning fans. And that's an operations job."
+
 ---
 
 # 题 1|你了解哪些直播的优秀案例和 showcase?好在哪?
