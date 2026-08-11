@@ -250,24 +250,26 @@
 > 如果您指的是赛后再给两周:那我会做一次完整的复盘——哪些是亮点、哪些要改进、原因是什么,沉淀成可复用的框架和 SOP,直接用到下一次活动上。
 
 **英文框架(简单版路标)**
-- 开口:"Quick check first: two more weeks on the plan — or two extra weeks in the campaign?"
-- On the plan(主火力,先分身位):"The case data is fictional, so it depends on where I stand." 候选人=benchmark real cases / stress-test the numbers / detail the execution;入职="that's week one and two of my plan"
-- Campaign +2 → warm-up:more sign-ups + more topics + backups
+- 开口:"Quick question first: two more weeks to work on this plan — or two extra weeks in the campaign, so eight weeks become ten?"
+- On the plan(主火力,先分身位):"The case data is made up, so it depends on where I stand." 候选人 = study real examples / test my numbers / detail the execution;入职 = "those two weeks are simply week one and two of my plan"
+- Campaign +2 → warm-up 完整说:one more round of agency outreach + direct invitations / more hot topics / backup plans / double-check baseline & licensing
 - After the festival → full review → playbook and SOPs
 
-**英文逐字稿(简单口语版,约 70 秒)**
+**英文逐字稿(简单口语版,约 95 秒)**
 
-> "Quick check first: do you mean two more weeks to keep working on the plan — or two extra weeks in the campaign, eight becoming ten?
+> "Quick question first: do you mean two more weeks to work on this plan — or two extra weeks in the campaign, so eight weeks become ten?
 >
-> If it's the plan: one thing first — the case data is fictional. So it depends on where I stand.
+> If it's two more weeks on the plan — the case data is made up, so it depends on where I stand.
 >
-> As a candidate, with only public information, I'd do three things. One, benchmark real cases: watch how actual US music LIVE creators and similar competitions work, and sharpen my competition and reward design. Two, stress-test my numbers: find which assumption moves the result most. Three, detail the execution: the timeline, the owners, the risks, and the checkpoints.
+> As a candidate, I only have public information. So I'd do three things. First, I'd study real examples: watch real music creators on TikTok LIVE, see how similar competitions are run, and use that to make my competition rules and rewards better. Second, I'd test my numbers: change each assumption a little, and see which one changes the result the most — that's the number I need to watch most carefully. Third, I'd make the execution plan more detailed: a week-by-week timeline, who owns each part, a risk list, and checkpoints.
 >
-> And if I'm in the seat, with real access — those two weeks are already week one and two of my plan: watch the five creators' streams, build the baselines, clear the licensing, and lock the agency commitments. Either way, I'd hand in a version two — with far fewer assumptions.
+> If I'm already in the job, with real data — then those two weeks are simply week one and two of my plan: I watch the five creators' streams one by one, set up the baselines, clear the music licensing, and lock the agency commitments.
 >
-> If it's two extra weeks in the campaign: they go into the warm-up phase. More reach, more sign-ups, more topics, and backup plans.
+> Either way, after two weeks, you get a version two of this plan — with a lot fewer assumptions.
 >
-> And if you mean after the festival: I'd run a full review — what worked, what didn't, and why — and turn it into a playbook and SOPs for the next campaign."
+> If you mean two extra weeks in the campaign — I'd put them into the warm-up phase, because the warm-up decides how well everything after it goes. With one more week, I can do one more round of agency outreach, and send more direct invitations — that brings reach and sign-ups up. I can also prepare more hot topics to build the heat, and get a few backup plans ready. And along the way, I'd double-check the baseline data and the licensing list one more time.
+>
+> And if you mean after the festival — I'd spend the two weeks on a full review. This is my first project in this role, so I want to see clearly: what worked, what didn't, and why. Then I'd turn the useful parts into a playbook and SOPs, ready for the next campaign."
 
 ## 一7. ⚠️ 哪些经验可以复用到目前的垂类(美妆时尚生活方式)?【几乎必问】
 
