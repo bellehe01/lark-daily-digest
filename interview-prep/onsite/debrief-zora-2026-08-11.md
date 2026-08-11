@@ -27,7 +27,7 @@
 ## 待改进
 
 1. 答案偏长(44k、图文都 3 分钟+):下轮先给 60 秒版 + "want me to go deeper?"
-2. ⚠️ 自我介绍说了 "senior data analyst"(红线):换 "I run creator operations and the data systems"
+2. title 说 "senior data analyst" 没问题(真实 title,照实说);注意的只是叙事重心——干的事说成 "run creator operations and the data systems",且 Zora 已点名数据分析是最大优势,下轮主动放大
 3. 场景题先报结构再展开:"Three parts: diagnose, goals and metrics, actions."
 4. watch penetration 口径:抖音的一半 = double the headroom(不是 50% more)
 
