@@ -145,16 +145,16 @@
 **追问"机会在哪"英文备弹(~30s)**
 > "Both supply and demand are still being built, and I think the bigger opportunity is on the supply side. The demand is already proven — what's missing is more creators going live. That's why my signature idea is to find live-streaming supply from short-video creators."
 
-**Why fit?(定稿:岗位理解一句 + 三条对应 + 收口,~35 秒)**
+**Why fit?(定稿:理解段=老师原版 + 三条对应 + 收口,~45 秒)**
 
-> 我理解这个岗位是负责 TikTok LIVE 的内容垂类,从创作者供给、内容、商业化到生态做整体经营,核心指标是开播和营收。
+> 我理解这个岗位是负责一个或多个 TikTok LIVE 内容垂类,从创作者供给、内容策略、用户参与、商业化到生态健康做整体经营,用数据分析、战略项目和跨团队协作推动可持续增长。核心指标是垂类的开播和营收。
 >
 > 对应我的经验就三条:创作者供给和成长,我在抖音图文和 agency 都实际做过;数据分析,Music 和 IntelliPro 的体系是我搭的;大型活动和跨团队,我办过五千人的线下创作者活动。
 >
 > 所以和岗位职责是比较匹配的。而且我是 LIVE 的重度用户,最近自己也开过播。
 
-**EN(~35s)**
-> "My understanding is this role owns a TikTok LIVE content vertical — creator supply, content, monetization, and ecosystem health — with streaming and revenue as the north stars.
+**EN(~45s)**
+> "My understanding is that this role owns one or more TikTok LIVE content verticals — running them end to end, from creator supply and content strategy to user engagement, monetization, and ecosystem health — and drives sustainable growth through data, strategic programs, and cross-functional work. The north-star metrics would be the vertical's streaming and revenue.
 >
 > Matching that to my experience, three things. Creator supply and growth — I've done that at Douyin and at the agency. Data — I built the systems at Music and IntelliPro. Big campaigns and cross-team work — I ran an offline event for five thousand creators.
 >
