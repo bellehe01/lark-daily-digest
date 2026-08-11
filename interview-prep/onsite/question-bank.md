@@ -78,6 +78,13 @@
 - 怎么衡量:两个北极星——**开播(供给侧:开播 UV/渗透率/留存)和营收(变现侧:打赏+带货双轨)**;过程指标:优质创作者数、开播频次、观看时长、订阅渗透
 - 加一句诚实:具体 KPI 口径想入职后对齐——"这也是我想请教两位的"
 
+**英文简单版(~50s)**
+> "My understanding is this role owns the A-List verticals — beauty, fashion, and lifestyle. It owns the creator supply and their whole lifecycle: finding creators, activating them, growing them, helping them monetize, and keeping them — plus the vertical campaigns.
+>
+> On measurement, I'd look at two north stars. Streaming — how many creators go live, how often, and whether they stay active. And revenue — from both gifting and commerce. Under those, process metrics: the number of quality creators, streaming frequency, and watch time.
+>
+> And honestly, I'd want to align the exact KPIs after joining — that's actually one of my questions for you today."
+
 ## 区 3|内容分析与策略(what drives LIVE content performance & creator lifecycle)
 
 **可能问法**:What makes a LIVE perform well? / How do you think about the creator lifecycle?
@@ -85,6 +92,15 @@
 - 内容表现四驱动(就用四维框架):数据只是结果,驱动在——**内容**(人设体系化+节目感)、**互动**(设计"观众的动作能改变什么":点歌/投票/共创)、**运营**(栏目化=收看习惯,私域=身份认同)、加**情绪价值**(陪伴类的启示)
 - 生命周期按里程碑讲:0→1,000 粉(解锁 Gifts,第一个变现里程碑——jac.trv 卡在这)→ 腰部(栏目化+激励阶梯——Talia)→ 头部(人设+共创+职业化——Tori V);每个阶段运营动作不同
 - 收口:我的 case 音乐节就是按这个生命周期设计的三个漏斗
+
+**英文简单版(~60s)**
+> "Data is the result — the real drivers are content, interaction, and operations.
+>
+> Content: a clear persona, and a show-like structure. Interaction: design moments where the audience's action changes something — song requests, votes, co-creation. Operations: a fixed schedule builds a viewing habit, and a fan community builds identity. And I'd add one more: emotional value — companionship content proves how strong that is.
+>
+> On the lifecycle, I think in milestones. Zero to one thousand followers unlocks gifts — that's the first monetization milestone. Mid-tier creators need scheduled shows and reward ladders. Top creators need persona, co-creation, and a career path. Different stage, different play.
+>
+> My festival case is actually built on this lifecycle — three funnels, one for each stage."
 
 ## 区 4|结构化商业/估算题(think out loud)
 
@@ -98,12 +114,24 @@
 **练手例(美区每天有多少美妆创作者开播)**:供给侧拆——美区月活创作者规模(假设)× 美妆垂类占比(短视频侧占比高,直播侧打折)× 开播渗透率(假设个位数百分比)× 日活跃率 → 得数后 sanity check:对照 Makeup Artists LIVE 分类实时百万级观看,反推供给量级是否合理
 **兜底句**:数字都是假设,重要的是结构——真实工作里我会先拿内部数据校准(和 W1 校准口径呼应)
 
+**英文简单版(五步就五句话,照着说)**
+> 1. "Before I estimate, let me confirm the scope — which region, what time window, unique users or total visits?"
+> 2. "I'll break this down from the supply side, because supply is the smaller and clearer number."
+> 3. "Let me put an assumption on each number — I'll use round numbers to keep the math simple."
+> 4. (边算边说)"So that gives us roughly..."
+> 5. "Let me sanity-check this: does the size make sense? The most uncertain assumption here is..."
+>
+> 兜底:"These numbers are all assumptions — what matters is the structure. In the real job, I'd calibrate them with internal data in week one."
+
 ## 区 5|跨部门协作(aligning a difficult stakeholder,要具体例子)
 
 **可能问法**:Tell me about a time you had to align a difficult stakeholder
 **已备**:特效团队 story(P0 事故+干系人变体)为主;44k(说服 AM 用新工具:先找 20% 的 AM 试点拿结果说话,再规模化到 100%)为辅
 **STAR 提醒**:T 要说"我"不是团队;A 里讲清"为什么选这个做法而不是别的";R 给数字
 **万能协作原则(老师口径)**:先对齐目标口径 → 小试点拿结果 → 数据说话;信任问题就"熟悉的人在前、我出策略在后"
+
+**英文简单版(原则一句话,故事全文在 project-stories 特效段)**
+> "My way of working with a difficult stakeholder is simple: align the goal first, run a small pilot, and let the data talk. And if it's a trust problem — the person they know stays in front, and I drive the strategy from behind."
 
 ## 区 6|你对 TikTok LIVE 业务的看法 + fit
 
@@ -113,6 +141,11 @@
 - 变现双轨(打赏+带货)在美妆时尚垂类天然并存——内容型主播也能挂车(Carolyn 918 单)
 - 我的核心判断:**供需两侧都在建设期,机会在供给**——招牌答案(短视频挖供给,三层样本+官方佐证,见行业问答集)
 - 行业理解定稿(两趋势+矩阵打法)→ 行业问答集"模拟面试定稿 A"
+
+**英文简单版(take,~40s)**
+> "My take: short video is for discovery — LIVE is for deep relationships and monetization. In beauty and fashion, gifting and commerce naturally live together: content creators can sell too, and they do.
+>
+> And my core judgment: both supply and demand are still being built, and the bigger opportunity is on the supply side. The demand is already proven — what's missing is more creators going live. That's why my signature idea is to find live-streaming supply from short-video creators."
 
 **Why fit?(老师模拟面试定稿,直接背)**
 > 我理解这个岗位是负责一个或多个 TikTok LIVE 内容垂类,从创作者供给、内容策略、用户参与、商业化到生态健康做整体经营,用数据分析、战略项目和跨团队协作推动可持续增长。核心指标是垂类的开播和营收。我过去的三个项目,正好分别在这几个领域有实际经验——这些能力和岗位的职责是比较匹配的。另外我是 LIVE 的重度用户,这段准备期每天都在看播,最近自己也开过播。
