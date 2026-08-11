@@ -230,30 +230,36 @@
 ## 一6. 如果再给你两周时间继续做这个 Case,你会做什么?
 
 **中文框架**
-- 先反问确认时点:这两周是活动开始前给的,还是比赛结束后给的?两种答案完全不同
-- 活动前:延长预热期——提高触达率和报名率、铺垫更多热点方案、准备替补;顺带夯实基线和版权清单
-- 赛后:完整复盘——亮点和改进点、原因;沉淀成可复用的框架和 SOP,给下一次活动用
+- 题面有歧义,先确认:是**继续打磨方案**的两周(最可能的意思),还是**活动周期 8→10 周**,还是**赛后**再给两周?
+- **打磨方案(主火力)**:补自己标注过的缺口——①五人直播一场一场看掉(只有数据没看过内容=最大缺口,看完诊断和辅导计划才准)②基线建起来 ③版权清单做完 ④渠道报名预估跟机构提前对一轮,假设换成预承诺 → 交一个假设更少的 2.0 版
+- 活动周期+2:加在预热期——提高触达率和报名率、铺垫更多热点、准备替补
+- 赛后:完整复盘——亮点和改进点、原因;沉淀成可复用的框架和 SOP
 
-**中文逐字稿(约 60 秒)**
+**中文逐字稿(约 75 秒)**
 
-> 我会先确认一个信息:这两周是在什么时候给我的——是活动开始之前就知道多了两周,还是比赛结束之后再给两周?这两种情况的答案完全不同。
+> 我先确认一下:您说的两周,是让我继续打磨这份方案的两周,还是活动周期从八周变成十周?
 >
-> 如果是活动前:我会把这两周主要加在预热期。因为预热期决定了整个营销的效果——第一,提高触达率和报名率,多一周就能多做一轮机构外联和定向邀请;第二,铺垫更多热点话题来造势,并且多准备几套替补方案。顺带,把基线数据和版权清单再夯实一遍。
+> 如果是打磨方案——我会去补作业里我自己标注过的几个缺口。第一,把五个人的直播一场一场看掉:我现在只有他们的数据,没看过内容,这是最大的缺口;看完内容,诊断和辅导计划会准得多。第二,把基线建起来,能拿到什么数据就先用什么。第三,把版权清单做出来。第四,拿着渠道的报名预估,跟机构提前对一轮,把假设换成预承诺。两周之后,我交的是一个假设少得多的 2.0 版本。
 >
-> 如果是赛后:我会用这两周做一次完整的复盘。这是我入职后的第一个项目,我要从里面看清楚哪些是亮点、哪些是改进点、原因分别是什么;然后把有效的执行思路沉淀成可复用的框架和 SOP,直接用到下一次活动上。
+> 如果是活动周期多两周:我会把它加在预热期。预热期决定整个营销的效果——多一周就能多做一轮机构外联和定向邀请,多铺几个热点话题,多备几套替补方案。
+>
+> 如果您指的是赛后再给两周:那我会做一次完整的复盘——哪些是亮点、哪些要改进、原因是什么,沉淀成可复用的框架和 SOP,直接用到下一次活动上。
 
 **英文框架(简单版路标)**
-- 开口:"First I'd ask: before the launch, or after the festival?"
-- Before → warm-up phase: more sign-ups + more topics + backups
-- After → full review: what worked, what didn't, why → turn into a playbook and SOPs
+- 开口:"Quick check first: two more weeks on the plan — or two extra weeks in the campaign?"
+- On the plan(主火力):fill my own flagged gaps — watch the streams / build baselines / licensing list / agency commitments → "a version two with far fewer assumptions"
+- Campaign +2 → warm-up:more sign-ups + more topics + backups
+- After the festival → full review → playbook and SOPs
 
-**英文逐字稿(简单口语版,约 60 秒)**
+**英文逐字稿(简单口语版,约 70 秒)**
 
-> "First I'd ask one question: when do I get the two weeks — before the launch, or after the festival? The answers are completely different.
+> "Quick check first: do you mean two more weeks to keep working on the plan — or two extra weeks in the campaign, eight becoming ten?
 >
-> If it's before launch: the two weeks go into the warm-up phase, because the warm-up decides how everything after it performs. First, push reach and sign-ups — one more week means one more round of agency outreach and direct invitations. Second, seed more topics to build heat, and prepare backup plans. And along the way, double-check the baseline data and the licensing list.
+> If it's the plan: I'd fill the gaps I flagged myself. First, watch the five creators' streams one by one — right now I only have their numbers, not their content. That's the biggest gap. After watching, the diagnosis and the coaching plans get much sharper. Second, build the baselines with whatever data I can get. Third, finish the licensing list. Fourth, take my sign-up estimates to the agencies, and turn assumptions into commitments. In two weeks, I'd hand in a version two — with far fewer assumptions.
 >
-> If it's after: the two weeks go into a full review. This is my first project in the role. I want to see clearly what worked, what didn't, and why — and then turn the parts that worked into a reusable playbook and SOPs for the next campaign."
+> If it's two extra weeks in the campaign: they go into the warm-up phase. More reach, more sign-ups, more topics, and backup plans.
+>
+> And if you mean after the festival: I'd run a full review — what worked, what didn't, and why — and turn it into a playbook and SOPs for the next campaign."
 
 ## 一7. ⚠️ 哪些经验可以复用到目前的垂类(美妆时尚生活方式)?【几乎必问】
 

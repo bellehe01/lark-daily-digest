@@ -15,7 +15,7 @@
 - 核心问题:"Let me answer this on two levels."
 - 假设题:"All the numbers are built on two metrics — streaming and revenue."
 - 其他方案:"I weighed alternatives against the two goals — benchmarks and growth."
-- 再给两周:"First I'd clarify — is that before launch, or after?"
+- 再给两周:"Quick check first: two more weeks on the plan — or two extra weeks in the campaign?"
 - 案例题:"Let me take her through four angles: data, content, interaction, operations."
 - 估算题:"Before I estimate, let me confirm the scope."
 - 项目深挖:"So the background is..."(六要素顺着走)
@@ -59,7 +59,7 @@
 1. **The core problem, and why you framed it that way** → 一3(两层:作业为什么这么做 + 垂类核心矛盾=留存+规模化既要又要)
 2. **Your assumptions — and what changes if they're wrong** → 一4(记忆分组:垂类 1、2 / 头部 3 / 活动 4、5;短版开场:所有数据基于开播和营收两指标)
 3. **Alternatives you considered and rejected, and why** → 一5(两个:跨垂类联合放大——数据不稳没见过内容,做不了纯内容属性的判断;明星站台——预算有限+不可持续)
-4. **What you'd do next with two more weeks** → 一6(先反问时点:活动前=加预热期;赛后=完整复盘沉淀 SOP)
+4. **What you'd do next with two more weeks** → 一6(先确认哪种两周:**打磨方案**=主答,补自己标注的缺口——看内容/建基线/清权/机构预承诺→交 2.0 版;活动周期+2=加预热期;赛后=完整复盘沉淀 SOP)
 
 ## 区 1|项目深挖(2–3 个项目,带指标和你的具体角色)
 
