@@ -1076,6 +1076,28 @@
 
 ---
 
+# 模拟面试定稿 · 防守三条(老师反馈,直接背)
+
+**Q:你运营经验偏少,怎么看?**
+- 要点:不辩解,直接盘自己负责过的运营部分
+- 中文:
+> 我理解这个担心。我直接说一下我实际负责过的运营部分:一是抖音图文的垂类运营——定标准、发掘创作者、做投稿激励活动;二是给五千多个创作者办过线下大型活动,从流程设计到自动化落地;三是在 agency 负责头部达人的内容策略和推荐。所以运营的核心动作——定标准、做发掘、办活动、盘头部——我都实际做过。
+- EN: "Let me walk through the operations work I've actually owned: vertical operations and creator discovery at Douyin — setting standards, discovery, incentive campaigns; a five-thousand-person offline creator event, from process design to automation; and top-creator content strategy at the agency."
+
+**Q:至少 40w 观看 / 拉新 500 人,目标是不是偏低?**
+- 要点:这是"**至少**"的保底口径(60 分目标);对比前 14 天基线保守估计;W1 校准后挑战更高
+- 中文:
+> 这两个数是"至少"的保底口径,相当于 60 分的目标线。定的时候是对比活动前 14 天的基线,做了保守估计。真实工作里,W1 拿内部数据校准之后,我会在保底之上再定一条挑战线。
+- EN: "These are floor targets — the sixty-percent line. They're set conservatively against the trailing fourteen-day baseline, and in week one I'd recalibrate with internal data and set a stretch line above the floor."
+
+**Q:如果报名不及预期怎么办?**
+- 要点:①拿出资源继续 push——投放要加码:原来 8000 的盘子偏小,参考口径一个人 5000 抖加≈五千块 ②名额本来就预留过给头部(音乐节留了 10–20% 备选)
+- 中文:
+> 两个动作。第一,拿出资源继续 push 报名——尤其投放要加码:我原来留的八千的投放盘子偏小了,按国内的经验口径,推一个人起量大概要五千抖加、也就是五千块的量级,这块预算要往上调。第二,名额本来就预留过给头部——音乐节的设计里留了百分之十到二十的备选位,可以直接补上。
+- EN: "Two moves. First, push sign-ups harder — and scale up the paid promotion budget; my original allocation was on the low side, so I'd raise it. Second, lean on the reserved top-creator slots — the festival design keeps ten to twenty percent in reserve."
+
+---
+
 # 心虚点清单(面试前最后过一遍)
 
 | # | 心虚点 | 一句话防线 | 对应题 |

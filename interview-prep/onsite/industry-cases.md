@@ -11,6 +11,59 @@
 
 ---
 
+# 模拟面试定稿(老师反馈,这两段优先背)
+
+## 定稿 A|说说你对 TT 直播行业的理解?你有上手直播过吗?
+
+**要点**:先说"发现了一些趋势"→ 两类分化(纯内容直播提效率和商业化 / 美妆时尚在丰富内容化)→ 场景化举例(李佳琦分约会装;小红书睡衣派对)→ **矩阵打法**(头部见顶难改内容→把内容做丰富变矩阵测试,从地域和人群差异找场景)→ 对比国内(桃黑黑互动强粘性高;时尚品牌矩阵化)→ 收口"我最近自己也上手开过播"
+
+**中文逐字稿(~60 秒)**
+> 首先我发现了一些趋势。我认为直播行业增长到现在,大概分为两类:一类是纯内容直播,在提高增长效率和商业化动作;另一类是美妆时尚这些垂类,在"丰富内容化"。
+>
+> 现在能看到很明显的场景化:国内李佳琦的直播间会分约会装、朋友装、休闲装;小红书的穿搭直播分运动风、居家风,甚至睡衣派对——都是从人群心态里挖需求,把需求变成场景。
+>
+> 这背后其实是矩阵打法:头部的内容增长见顶之后,很难让他直接改内容——所以帮他把内容做丰富,变成各种矩阵去测试,从地域和人群的差异里找内容场景。
+>
+> 对比国内的话:纯内容主播的互动和粘性明显更强,比如桃黑黑;时尚品牌在矩阵化,像睡衣派对直播、运动风直播。我判断这个垂类也会往这个方向走——我最近自己也上手开过播,体验了一下创作者这一侧。
+
+**英文逐字稿(~60s)**
+> "Two trends stand out to me. First, pure content streamers are pushing for growth efficiency and stronger monetization. Second, beauty and fashion LIVE is going through what I'd call content enrichment.
+>
+> I see clear scenario-based segmentation now. In China, Li Jiaqi's beauty room runs themed sessions — date-night looks, casual looks — and on Xiaohongshu, fashion streams split into sporty summer, loungewear, even pajama-party themes. They dig into the audience's mindset, turn needs into scenarios.
+>
+> The smart play behind it is a matrix approach: when a top creator's content growth hits a ceiling, you can't just ask them to change their content — instead you enrich it, spin up scenario variations and test them as a matrix, drawing on regional and audience differences.
+>
+> Comparing markets: China's pure-content streamers have much stronger interaction and stickiness, and fashion brands are going matrix-style. That's the direction I'd expect this vertical to move — and I've gone live myself recently to feel the creator side of it."
+
+## 定稿 B|有看哪些印象深刻的美妆 case 或者主播?
+
+**要点**:先说案例(报人名/报具体直播间)→ 三点:①内容好(万圣节主题房:短视频和直播间妆造统一、导向预热、直播中变装)②短视频引流好(含直播切片分发)③互动好=**共创**(粉丝心愿墙:今天穿什么/组哪些品,粉丝许愿→直播间直接卖 or 盲盒)→ 收尾"其实我看得比较多的,是国内的一些趋势变化"
+⚠️ 基础动作不说(PK/连麦这种);被问产品体会:"所有功能最终都是服务于用户场景的。"
+
+**中文逐字稿(~50 秒)**
+> 我先说一个印象最深的:一个万圣节主题的美妆直播间。三点做得好。
+>
+> 第一,内容好:整场围绕主题——短视频拍摄和直播间的妆造是统一的,提前就把直播预热起来了,直播中还有变装。
+>
+> 第二,短视频引流做得好,包括直播切片的分发。
+>
+> 第三,互动好,是共创的形式:提前有粉丝心愿墙——今天穿什么、组哪些品,粉丝来许愿;呈现出来两种方式,直播间直接售卖,或者组成盲盒来卖。
+>
+> 其实我看得比较多的,是国内的一些趋势变化。
+
+**英文逐字稿(~50s)**
+> "One room that stuck with me was a Halloween-themed beauty LIVE. Three things made it work.
+>
+> One, the content: the whole stream was built around the theme — the short videos and the live-room styling were unified, which warmed up the room before it even started, and she did costume changes during the stream.
+>
+> Two, the short-video funnel: strong pre-stream traffic, including how the live clips got distributed afterwards.
+>
+> Three, the interaction — it was co-creation. She ran a fan wish wall before the stream: fans voted on what she'd wear and which products to bundle. And the wishes showed up two ways — sold directly in the live room, or packaged as mystery boxes.
+>
+> Honestly though, what I watch most is the trend shifts in the China market — that's where the playbook is furthest ahead."
+
+---
+
 # 题 1|你了解哪些直播的优秀案例和 showcase?好在哪?
 
 ## Q1. 主答 · 音乐垂类标杆:Tori V(@torivofficial)
