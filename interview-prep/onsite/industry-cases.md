@@ -114,7 +114,7 @@
 >
 > YouTube. Strong: stability — creators run scheduled shows for years, plus search and replay, so content keeps working after the stream ends. Weak: live is second to video there, and the real-time interaction culture is thinner.
 >
-> Instagram. Strong: reach — and the beauty and fashion audience is native. Weak: live is a feature, not an ecosystem. Weak monetization, no real discovery for live, and no viewing habit.
+> Instagram. Strong: reach — and the beauty and fashion audience is native. Weak: live is a feature, not an ecosystem. A live there mostly reaches people who already follow you — there's no feed pushing it to new viewers. So it works for engaging existing fans, but it doesn't grow you. Weak monetization, and no viewing habit.
 >
 > And one product-level difference matters a lot: screen orientation. Twitch and YouTube are landscape — desktop viewing, long sessions, built for game screens and multi-camera shows. TikTok is portrait — phone-native, one face filling the screen, up close. And for beauty and fashion, portrait is actually an advantage: makeup close-ups and try-ons feel personal — like a video call with the creator.
 >
