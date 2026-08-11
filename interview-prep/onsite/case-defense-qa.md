@@ -231,7 +231,7 @@
 
 **中文框架**
 - 题面有歧义,先确认:是**继续打磨方案**的两周(最可能的意思),还是**活动周期 8→10 周**,还是**赛后**再给两周?
-- **打磨方案(主火力)**:补自己标注过的缺口——①五人直播一场一场看掉(只有数据没看过内容=最大缺口,看完诊断和辅导计划才准)②基线建起来 ③版权清单做完 ④渠道报名预估跟机构提前对一轮,假设换成预承诺 → 交一个假设更少的 2.0 版
+- **打磨方案(主火力,先分身位——case 数据是虚拟的)**:候选人身位(只有公开信息)=①对标真实案例磨机制(看美区真实音乐直播和同类赛事,赛制和激励再细一轮)②估算做敏感性分析(哪个假设波动影响最大)③执行做细(时间表/分工/风险/检查点);入职身位(有内部数据)=方案里写好的 W1、W2——看内容/建基线/清权/锁机构预承诺
 - 活动周期+2:加在预热期——提高触达率和报名率、铺垫更多热点、准备替补
 - 赛后:完整复盘——亮点和改进点、原因;沉淀成可复用的框架和 SOP
 
@@ -239,7 +239,11 @@
 
 > 我先确认一下:您说的两周,是让我继续打磨这份方案的两周,还是活动周期从八周变成十周?
 >
-> 如果是打磨方案——我会去补作业里我自己标注过的几个缺口。第一,把五个人的直播一场一场看掉:我现在只有他们的数据,没看过内容,这是最大的缺口;看完内容,诊断和辅导计划会准得多。第二,把基线建起来,能拿到什么数据就先用什么。第三,把版权清单做出来。第四,拿着渠道的报名预估,跟机构提前对一轮,把假设换成预承诺。两周之后,我交的是一个假设少得多的 2.0 版本。
+> 如果是打磨方案——这里我先分一下身位,因为 case 里的数据是虚拟的。
+>
+> 站在候选人的身位,只有公开信息,我会做三件事:一,对标真实案例——去看美区真实的音乐直播和同类赛事是怎么做的,把赛制和激励机制再磨细一轮;二,给估算做敏感性分析,搞清楚哪个假设的波动对结果影响最大;三,把执行计划做细——时间表、分工、风险清单和检查点。
+>
+> 如果是站在入职后的身位、能拿到内部数据——那这两周其实就是我方案里写好的 W1、W2:把五个人的直播一场一场看掉,基线建起来,版权清完,机构的预承诺锁掉。交出来的就是一个假设少得多的 2.0 版本。
 >
 > 如果是活动周期多两周:我会把它加在预热期。预热期决定整个营销的效果——多一周就能多做一轮机构外联和定向邀请,多铺几个热点话题,多备几套替补方案。
 >
@@ -247,7 +251,7 @@
 
 **英文框架(简单版路标)**
 - 开口:"Quick check first: two more weeks on the plan — or two extra weeks in the campaign?"
-- On the plan(主火力):fill my own flagged gaps — watch the streams / build baselines / licensing list / agency commitments → "a version two with far fewer assumptions"
+- On the plan(主火力,先分身位):"The case data is fictional, so it depends on where I stand." 候选人=benchmark real cases / stress-test the numbers / detail the execution;入职="that's week one and two of my plan"
 - Campaign +2 → warm-up:more sign-ups + more topics + backups
 - After the festival → full review → playbook and SOPs
 
@@ -255,7 +259,11 @@
 
 > "Quick check first: do you mean two more weeks to keep working on the plan — or two extra weeks in the campaign, eight becoming ten?
 >
-> If it's the plan: I'd fill the gaps I flagged myself. First, watch the five creators' streams one by one — right now I only have their numbers, not their content. That's the biggest gap. After watching, the diagnosis and the coaching plans get much sharper. Second, build the baselines with whatever data I can get. Third, finish the licensing list. Fourth, take my sign-up estimates to the agencies, and turn assumptions into commitments. In two weeks, I'd hand in a version two — with far fewer assumptions.
+> If it's the plan: one thing first — the case data is fictional. So it depends on where I stand.
+>
+> As a candidate, with only public information, I'd do three things. One, benchmark real cases: watch how actual US music LIVE creators and similar competitions work, and sharpen my competition and reward design. Two, stress-test my numbers: find which assumption moves the result most. Three, detail the execution: the timeline, the owners, the risks, and the checkpoints.
+>
+> And if I'm in the seat, with real access — those two weeks are already week one and two of my plan: watch the five creators' streams, build the baselines, clear the licensing, and lock the agency commitments. Either way, I'd hand in a version two — with far fewer assumptions.
 >
 > If it's two extra weeks in the campaign: they go into the warm-up phase. More reach, more sign-ups, more topics, and backup plans.
 >
