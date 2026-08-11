@@ -161,26 +161,31 @@
 > 假设五,时间和计划够用。我的策略是把单点 case 的扶持当成融入的抓手,整体节奏前紧后松;真不够用,就把单点 case 压到前两周完成,后面把时间留给音乐节。
 
 **英文框架(简单版路标,分三组记:垂类 1、2 / 头部 3 / 活动 4、5)**
-- 开口:"Five assumptions. For each one, I thought about what happens if it's wrong."
-- A1 垂类阶段 → if wrong, cost is low
-- A2 retention is the problem → if wrong, pivot to monetization efficiency
-- A3 头部愿意改(最难)→ trust problem / strategy problem 两分
-- A4 festival hits several goals → risks planned: push sign-ups early / seed the top / bootcamp catches newcomers
-- A5 time is enough → front-loaded; compress into first two weeks if needed
+- 开口:"I have five assumptions. They fall into three groups: the vertical, the top creators, and the event."
+- 每条套路 = 假设是什么 + If I'm wrong → 怎么办
+- A1 成熟但还能涨 → no big deal
+- A2 retention is the problem → switch the focus to monetization
+- A3 头部愿意改(This is the hardest one)→ trust issue / strategy issue 两分
+- A4 音乐节一箭多雕 → risks planned:push sign-ups early / prepare the top in advance / bootcamp
+- A5 time is enough → heavy at the front;不够压进前两周
 
-**英文逐字稿(简单口语版,约 100 秒)**
+**英文逐字稿(简单口语版,约 90 秒)**
 
-> "Five assumptions. For each one, I thought about what happens if it's wrong.
+> "I have five assumptions. They fall into three groups: the vertical, the top creators, and the event.
 >
-> One: the vertical is mature but still growing, and needs new growth drivers. If that's wrong, the cost is low — these moves still add value at any stage.
+> Group one, the vertical — assumptions one and two.
 >
-> Two: retention is the problem. I read this from the data — and honestly, the data isn't enough; I need more. If retention is actually fine, then I pivot to monetization efficiency: keep the hours, add new formats and paid design, and grow the whole profit pool.
+> One: this vertical is mature, but it can still grow. If I'm wrong — no big deal. These actions help at any stage.
 >
-> Three: the top creators will actually accept changes. Honestly, this is the hardest one. A top creator's content is mature and fixed. Change feels risky to them. And they don't automatically listen to a new operator. If this breaks, two cases. If it's a trust problem — the operator they know stays in front, I give the strategy from behind, and we take time to build trust. If it's a strategy problem — they really can't change — then I stop betting my time on these five. I re-screen the existing pool for fast-growing creators, and I use the festival to find new ones. The plan already keeps ten to twenty percent backup slots.
+> Two: retention is the problem. I got this from the data — and the data is limited, so I need more. If I'm wrong, and retention is actually fine — then I switch the focus to monetization: keep the hours, add new formats and paid design, and grow the profit pool.
 >
-> Four: the festival can hit several goals at once — top showcase, rising stars, new supply. I planned for the risks. Revenue depends on top and mid participation, so I push sign-ups hard and early. A showcase doesn't happen by luck, so the top creators are seeded — content, paid traffic, planned moments. And newcomers won't always keep streaming, so the design catches them after the event: qualified new people go straight into the bootcamp.
+> Group two, the top creators — assumption three. This is the hardest one. I assume the five top creators will accept changes. But their content is already fixed, change feels risky, and I'm new — they may not listen to me. If that happens, two cases. If it's a trust issue: the operator they know talks to them, and I make the strategy behind the scenes. If it's a strategy issue — they really can't change — then I move my time somewhere else. I look for fast-growing creators in the existing pool, and I use the festival to find new ones. The plan already saves ten to twenty percent backup slots.
 >
-> Five: the time is enough. The five-creator work is front-loaded — and if time runs short, it compresses into the first two weeks, and the festival gets the rest."
+> Group three, the event — assumptions four and five.
+>
+> Four: the festival can reach several goals at once. The risks are planned. Revenue needs the top and mid creators to join — so I push sign-ups early. A showcase doesn't happen by luck — so I prepare the top creators' content, paid traffic, and hot moments in advance. And new creators may stop streaming — so after the event, the good ones go straight into a thirty-day bootcamp.
+>
+> Five: the time is enough. The plan is heavy at the front. If time runs short, I finish the five-creator work in the first two weeks, and give the rest to the festival."
 
 ## 一5. 你考虑过哪些其他方案?为什么最终没有选它们?
 
