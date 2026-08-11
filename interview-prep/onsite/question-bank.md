@@ -98,6 +98,17 @@
 
 金句 ×2:"Someone has to run it on purpose. That's this role." / "Good content becomes the most profitable path."
 
+**追问:global vision vs localization 怎么平衡?(官网原话角度,~50s;骨架:methods global / content local / standards consistent)**
+> "My principle is: the methods are global, the content is local.
+>
+> The methods — funnels, tiering, baselines, incentive design — work in any market. What has to be local is the content: the scenarios, the language, the culture.
+>
+> I learned this at TikTok Music. New Release looked fine on the global average — but split by market, it was completely different stories. Brazil's problem was language: over half of listening there is Portuguese, and our pool was English-heavy. The fix wasn't a better global strategy — it was local supply, built with local editors.
+>
+> Same for this vertical. I watch China's playbook a lot, because it's ahead — fan wish walls, themed rooms. But I wouldn't copy it. I'd translate it into US scenarios: Halloween looks, prom season, holiday gifting.
+>
+> And the platform standards — the quality bar, licensing, safety — those stay the same everywhere. That's the balance: global methods, local content, consistent standards."
+
 ## 区 3|内容分析与策略(what drives LIVE content performance & creator lifecycle)
 
 **可能问法**:What makes a LIVE perform well? / How do you think about the creator lifecycle?
