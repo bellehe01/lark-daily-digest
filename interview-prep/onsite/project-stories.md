@@ -310,6 +310,12 @@
 >
 > What I kept from it is the method — funnel diagnosis plus false-kill analysis — and it transfers to any supply chain, including LIVE creator supply: sign-up, first stream, retention, quality. Same diagnosis. And one footnote: the effects being killed were beauty and filter effects. The people who use those are exactly this vertical's users."
 
+**追问 Q&A**
+
+- **Q:"需求是供给的十倍"怎么算出来的?**
+  > 十倍是个量级口径,不是精确数。算法很简单:我们比了两个速度——需求侧,编辑页用户每天消耗特效的量;供给侧,每天真正走完链路、上到编辑页的新特效数量。两边一比,差了大概一个数量级,所以说需求约是供给的十倍。
+  - EN: "Ten times is a rough number, not a precise one. We compared two speeds: how fast users consume effects on the editing page, and how fast new effects actually came through the pipeline. The gap was about ten to one."
+
 ---
 
 # TikTok Music(2023.8–2024.1)· Story:New Release 五市场分化诊断
