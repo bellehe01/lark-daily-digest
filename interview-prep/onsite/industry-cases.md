@@ -106,6 +106,18 @@
 >
 > So my one line: TikTok has already won discovery. The next battle is habit — turning discovered viewers into returning fans. And that's an operations job."
 
+**追问:各家优缺点?(~70s;记忆钩:Twitch community strong/discovery weak · YouTube stability strong/live secondary · IG reach strong/no ecosystem · TikTok funnel strong/habit young)**
+
+> "Quickly, platform by platform — strong side and weak side.
+>
+> Twitch. Strong: the deepest community culture — subscriptions, fan identity, event-level streams. Weak: discovery. New creators are hard to find. And it's mostly gaming — beauty and lifestyle are thin, and commerce is weak.
+>
+> YouTube. Strong: stability — creators run scheduled shows for years, plus search and replay, so content keeps working after the stream ends. Weak: live is second to video there, and the real-time interaction culture is thinner.
+>
+> Instagram. Strong: reach — and the beauty and fashion audience is native. Weak: live is a feature, not an ecosystem. Weak monetization, no real discovery for live, and no viewing habit.
+>
+> And TikTok. Strong: the short-video funnel — the best discovery engine sitting right next to LIVE — plus two monetization tracks, gifting and commerce. Weak, honestly: the viewing habit is still young — we're still turning discovered viewers into returning fans. And that's exactly the job."
+
 ---
 
 # 题 1|你了解哪些直播的优秀案例和 showcase?好在哪?
