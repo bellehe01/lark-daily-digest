@@ -231,7 +231,7 @@
 
 **中文框架**
 - 题面有歧义,先确认:是**继续打磨方案**的两周(最可能的意思),还是**活动周期 8→10 周**,还是**赛后**再给两周?
-- **打磨方案(主火力,先分身位——case 数据是虚拟的)**:候选人身位(只有公开信息)=①对标真实案例磨机制(看美区真实音乐直播和同类赛事,赛制和激励再细一轮)②估算做敏感性分析(哪个假设波动影响最大)③执行做细(时间表/分工/风险/检查点);入职身位(有内部数据)=方案里写好的 W1、W2——看内容/建基线/清权/锁机构预承诺
+- **打磨方案(主火力,先分身位——case 数据是虚拟的)**:候选人身位(只有公开信息)=①对标真实案例磨机制(看美区真实音乐直播和同类赛事,赛制和激励再细一轮)②估算做敏感性分析(哪个假设波动影响最大);⚠️ 别说"执行做细"——时间表/DRI/风险/检查点方案里已经有了;入职身位(有内部数据)=方案里写好的 W1、W2——看内容/建基线/清权/锁机构预承诺
 - 活动周期+2:加在预热期——提高触达率和报名率、铺垫更多热点、准备替补
 - 赛后:完整复盘——亮点和改进点、原因;沉淀成可复用的框架和 SOP
 
@@ -241,7 +241,7 @@
 >
 > 如果是打磨方案——这里我先分一下身位,因为 case 里的数据是虚拟的。
 >
-> 站在候选人的身位,只有公开信息,我会做三件事:一,对标真实案例——去看美区真实的音乐直播和同类赛事是怎么做的,把赛制和激励机制再磨细一轮;二,给估算做敏感性分析,搞清楚哪个假设的波动对结果影响最大;三,把执行计划做细——时间表、分工、风险清单和检查点。
+> 站在候选人的身位,只有公开信息,我会做两件事:一,对标真实案例——去看美区真实的音乐直播和同类赛事是怎么做的,把赛制和激励机制再磨细一轮;二,给估算做敏感性分析,搞清楚哪个假设的波动对结果影响最大。
 >
 > 如果是站在入职后的身位、能拿到内部数据——那这两周其实就是我方案里写好的 W1、W2:把五个人的直播一场一场看掉,基线建起来,版权清完,机构的预承诺锁掉。交出来的就是一个假设少得多的 2.0 版本。
 >
@@ -251,7 +251,7 @@
 
 **英文框架(简单版路标)**
 - 开口:"Quick question first: two more weeks to work on this plan — or two extra weeks in the campaign, so eight weeks become ten?"
-- On the plan(主火力,先分身位):"The case data is made up, so it depends on where I stand." 候选人 = study real examples / test my numbers / detail the execution;入职 = "those two weeks are simply week one and two of my plan"
+- On the plan(主火力,先分身位):"The case data is made up, so it depends on where I stand." 候选人 = study real examples / test my numbers(⚠️ 别说 detail the execution,方案里已有);入职 = "those two weeks are simply week one and two of my plan"
 - Campaign +2 → warm-up 完整说:one more round of agency outreach + direct invitations / more hot topics / backup plans / double-check baseline & licensing
 - After the festival → full review → playbook and SOPs
 
@@ -261,7 +261,7 @@
 >
 > If it's two more weeks on the plan — the case data is made up, so it depends on where I stand.
 >
-> As a candidate, I only have public information. So I'd do three things. First, I'd study real examples: watch real music creators on TikTok LIVE, see how similar competitions are run, and use that to make my competition rules and rewards better. Second, I'd test my numbers: change each assumption a little, and see which one changes the result the most — that's the number I need to watch most carefully. Third, I'd make the execution plan more detailed: a week-by-week timeline, who owns each part, a risk list, and checkpoints.
+> As a candidate, I only have public information. So I'd do two things. First, I'd study real examples: watch real music creators on TikTok LIVE, see how similar competitions are run, and use that to make my competition rules and rewards better. Second, I'd test my numbers: change each assumption a little, and see which one changes the result the most — that's the number I need to watch most carefully.
 >
 > If I'm already in the job, with real data — then those two weeks are simply week one and two of my plan: I watch the five creators' streams one by one, set up the baselines, clear the music licensing, and lock the agency commitments.
 >
