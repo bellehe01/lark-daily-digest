@@ -1109,6 +1109,11 @@
 > 留存不等于流失,它是一个阶段。存量指的是已经不是新人的那部分创作者;把存量数据做好的一切手段,都属于留存期。这份数据里的信号——头部内容固化、增长放缓、腰部在往下掉、整体开播 UV 在降——都是留存期的问题。所以我说的留存问题,是"让存量发展得更好"这件事,不只是防流失。
 - EN: "By retention I don't just mean churn. Retention here is a stage — it covers everything about making the existing creators perform better. In this table, the signs are: top creators' content is getting fixed, their growth is slowing, and streaming UV is trending down. All of that belongs to the retention stage. So the pair is simple: retention means make the existing supply better; scale means bring new supply in."
 
+**追问:那留存和变现什么关系?(接一4假设二)**
+- 要点:广义上留存期包括变现;但**诊断时是两种病**——留存看"人"(播不播/观众回不回来:开播 UV、活跃、回访),变现看"钱"(播了赚没赚够:时薪、付费渗透)。假设二赌的是"人"出了问题;赌错了(行为面健康),就去修"钱"——不动时长,加玩法加付费设计
+- 记法:**留存修"人",变现修"钱"**
+- EN: "Retention is about behavior — do creators keep streaming, do viewers come back. Monetization is about money — how much each hour earns. Broadly, the retention stage includes both. But as a diagnosis, they're two different diseases. My assumption is that the behavior is broken. If I'm wrong — the behavior is actually fine — then the problem is the money side. So I keep the hours, and add monetization design."
+
 ---
 
 # 心虚点清单(面试前最后过一遍)
