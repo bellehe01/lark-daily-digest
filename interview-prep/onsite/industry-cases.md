@@ -64,6 +64,9 @@
 
 ## 定稿 C|Why are you a fit?(理解段=老师原版 + 三条对应,~45 秒)
 
+> ⚠️ **这常和定稿 A 合成一道题**:"Your take on the TikTok LIVE business and fit for the role"。答法:先讲定稿 A(行业理解),一句过渡,再接下面的 C,全程约 100 秒。
+> 过渡句:中文 "这是我对行业的理解。说到和岗位的匹配——" / EN **"That's my take on the business. As for the fit —"**
+
 **中文**
 > 我理解这个岗位是负责一个或多个 TikTok LIVE 内容垂类,从创作者供给、内容策略、用户参与、商业化到生态健康做整体经营,用数据分析、战略项目和跨团队协作推动可持续增长。核心指标是垂类的开播和营收。
 >
