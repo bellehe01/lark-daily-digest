@@ -121,7 +121,7 @@
 >
 > Three, interaction: the detail that impressed me most — her single Big Bad Wolf was written in real time on a livestream, together with her fans. That's a level above song requests: the audience isn't picking content, it's co-producing it.
 >
-> Four, operations: her fandom has its own name, the Looneez — identity-level community. And she herself is the platform's poster story: forklift driver to full-time creator to global champion.
+> Four, operations: her fandom has its own name, the Looneez — identity-level community.
 >
 > So I'd sum her up in three phrases: persona as a system, content as co-creation, career as a path."
 
