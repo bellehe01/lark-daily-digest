@@ -59,7 +59,7 @@
 1. **The core problem, and why you framed it that way** → 一3(两层:作业为什么这么做 + 垂类核心矛盾=留存+规模化既要又要)
 2. **Your assumptions — and what changes if they're wrong** → 一4(记忆分组:垂类 1、2 / 头部 3 / 活动 4、5;短版开场:所有数据基于开播和营收两指标)
 3. **Alternatives you considered and rejected, and why** → 一5(两个:跨垂类联合放大——数据不稳没见过内容,做不了纯内容属性的判断;明星站台——预算有限+不可持续)
-4. **What you'd do next with two more weeks** → 一6(先确认哪种两周:**打磨方案**=主答,先分身位——候选人(公开信息)=对标真实案例磨机制+敏感性分析+执行做细;入职(内部数据)=方案里的 W1、W2,看内容/建基线/清权/预承诺→交 2.0 版;活动周期+2=加预热期;赛后=完整复盘沉淀 SOP)
+4. **What you'd do next with two more weeks** → 一6(先确认哪种两周:**打磨方案**=主答,身位还是候选人只有公开信息——对标真实案例磨机制+估算敏感性分析→交更扎实的 2.0 版;活动周期+2=加预热期,完整说;赛后=完整复盘沉淀 SOP)
 
 ## 区 1|项目深挖(2–3 个项目,带指标和你的具体角色)
 
