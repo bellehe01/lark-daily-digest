@@ -130,6 +130,10 @@
 - **Q:复购率能体现推荐引擎的效果吗?**(链条:引擎→匹配准→首单卖得好→品牌回头→复购涨)
   > 复购率是链条的最后一环:推荐得准,第一单卖得好,品牌才会带着这个达人回来——所以它是匹配质量最终的业务信号。过程上我们还看两个更直接的指标:推荐的采纳率,和推荐撮合的首单表现,包括跨品类合作的占比在往上走。三个一起看,才敢说是引擎的效果。
   - EN: "Repeat rate is the last step of the chain: if the match is right, the first deal sells, and the brand comes back with that creator. So it's the final business signal of match quality. Along the way, we also watched two more direct signals: how often the engine's recommendations got accepted, and how those first deals performed — including a rising share of cross-category deals. Looking at the three together is what tells me the engine worked."
+- **Q:你现在公司的组织架构?你怎么跟他们合作?**
+  > 公司主要三块。一块是品牌侧的 AM 团队,直接服务三百多个品牌;一块是达人侧的运营团队,负责达人的日常管理;我在中间,相当于中台——分层标准、推荐引擎、自动化工具,还有头部达人的内容策略,都是我这边出的。
+  > 合作方式上,AM 和达人运营其实就是我的"用户"。我定期跟两边做访谈,收他们的痛点;机制我来设计,先找百分之二十的 AM 试点,跑通了再铺给全部。日常的链路就是:品牌的需求从 AM 进来,我的引擎给推荐,达人侧的运营去落地执行。
+  - EN: "Three main parts. The AM team faces the brands — three hundred plus of them. The creator-side ops teams manage creators day to day. And I sit in the middle, like a platform team: the tiering, the recommendation engine, the automation tools, and the top-creator content strategy all come from my side. How we work together: the AMs and creator ops are basically my users. I interview both sides regularly to collect their pain points. I design the mechanism, pilot it with twenty percent of the AMs, and then roll it out to everyone. Day to day: brand needs come in through the AMs, my engine gives the recommendations, and the creator-side ops execute with the creators."
 - 原则:讲的每一个机制,都要能答上"为什么这么做"和"还有什么别的做法"。
 
 # 美区 Agency(2025.9–今)· Story 2:5000 人线下创作者活动交付
