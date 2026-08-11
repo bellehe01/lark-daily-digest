@@ -145,32 +145,22 @@
 **追问"机会在哪"英文备弹(~30s)**
 > "Both supply and demand are still being built, and I think the bigger opportunity is on the supply side. The demand is already proven — what's missing is more creators going live. That's why my signature idea is to find live-streaming supply from short-video creators."
 
-**Why fit?(定稿升级版:岗位理解 + 逐条对应匹配度)**
+**Why fit?(定稿:岗位理解一句 + 三条对应 + 收口,~35 秒)**
 
-> 我理解这个岗位是负责一个或多个 TikTok LIVE 内容垂类,从创作者供给、内容策略、用户参与、商业化到生态健康做整体经营,核心指标是垂类的开播和营收。
+> 我理解这个岗位是负责 TikTok LIVE 的内容垂类,从创作者供给、内容、商业化到生态做整体经营,核心指标是开播和营收。
 >
-> 对着这几块职责,我快速对应一下我的经验。
+> 对应我的经验就三条:创作者供给和成长,我在抖音图文和 agency 都实际做过;数据分析,Music 和 IntelliPro 的体系是我搭的;大型活动和跨团队,我办过五千人的线下创作者活动。
 >
-> 创作者供给和成长——我在抖音图文做过垂类运营:定标准、从八千多个创作者里发掘出五六百个优质的、做投稿激励活动;现在在 agency 管着四万多人的达人库,分层和头部内容策略都是我搭的。
->
-> 数据分析和商业化——Music 那段我建看板、第一个从数据里看出五市场分化;agency 的撮合直接背效率口径,复购合作率从 20% 提到 35%。
->
-> 大型活动和跨团队——给五千多个创作者办过线下活动;和产品、特效这些团队都实际配合推过项目。
->
-> 所以一条一条对下来,我的经验和岗位职责是比较匹配的。加上我是 LIVE 的重度用户,最近自己也开过播。
+> 所以和岗位职责是比较匹配的。而且我是 LIVE 的重度用户,最近自己也开过播。
 
-**EN(~60s)**
-> "My understanding is that this role owns one or more TikTok LIVE content verticals — creator supply, content strategy, user engagement, monetization, and ecosystem health — with streaming and revenue as the north stars.
+**EN(~35s)**
+> "My understanding is this role owns a TikTok LIVE content vertical — creator supply, content, monetization, and ecosystem health — with streaming and revenue as the north stars.
 >
-> Now let me match that to my experience, piece by piece.
+> Matching that to my experience, three things. Creator supply and growth — I've done that at Douyin and at the agency. Data — I built the systems at Music and IntelliPro. Big campaigns and cross-team work — I ran an offline event for five thousand creators.
 >
-> Creator supply and growth — at Douyin, I ran vertical operations: I set the standards, screened eight thousand creators down to five or six hundred good ones, and ran incentive campaigns. At the agency, I run a forty-four-thousand-creator system — the tiering and the top-creator content strategy are mine.
->
-> Data and monetization — at TikTok Music, I built the dashboards and was the first to spot a five-market problem. At the agency, the repeat collaboration rate went from twenty to thirty-five percent.
->
-> Big campaigns and cross-team work — I delivered an offline event for over five thousand creators, and I've pushed projects through with product and other teams.
->
-> So piece by piece, my experience matches what this role owns. And on top of that, I'm a heavy LIVE user — I've gone live myself recently."
+> So it's a strong match. And I'm a heavy LIVE user — I've gone live myself recently."
+
+(数字和细节不在这里报——被追问哪条就深挖哪条,长版在 project-stories)
 
 ## 区 7|给两位面试官各备的问题(官方 TIP:每人 2–3 个)
 
