@@ -315,7 +315,35 @@
 - 过程:建看板 → 我第一个从看板里看出 New Release 五市场分化(印尼完播最高、墨西哥/澳洲跳过率偏高、巴西量大质一般)→ 四个归因假设逐个对照(语言供给错配解释力最强:巴西流媒体过半是葡语,新歌池却偏英语)→ 用"市场内本地语言切片"区分产品问题还是供给问题 → 周度洞察 + 分市场内容建议,和对应语言的编辑一起落地
 - 结果:CTR +20%、平均收听时长 +13%;策展时间 4 天→2 天;ad-hoc 数据请求 −70%;沉淀:建看板的人要第一个从里面看出业务问题
 
-**中文逐字稿(约 90 秒)**
+**中文简单版(直接背,约 50 秒)**
+
+> 我在 TikTok Music 的时候,在全球歌单运营团队,做数据方向的内容运营。
+>
+> 当时团队没有自助的数据,所以我建了三个看板,指标口径是我自己定的——除了播放量,我特意加了完播率、跳过率这些质量指标。
+>
+> 看板上线之后,我第一个发现了一个问题:New Release 这个功能,五个市场的表现完全不一样。最典型的是巴西——播放量最大,但跳过率很高。
+>
+> 我去查了原因:巴西人听歌,一半以上是葡语,但我们的新歌池偏英语。语言不匹配,所以大家一听就跳过。
+>
+> 所以我给了分市场的内容建议:提高葡语歌和本地厂牌新歌的占比,然后和当地的编辑一起改。
+>
+> 结果也不错:CTR 涨了 20%,人均收听时长涨了 13%;顺带的,策展时间从四天降到了两天。
+
+**英文简单版(直接背,~50s)**
+
+> "When I was at TikTok Music, I worked on the global playlist team, running the data side of content operations.
+>
+> At that time the team had no self-serve data. So I built three dashboards, and I defined the metrics myself — beyond raw plays, I added quality metrics like finish rate and skip rate.
+>
+> Once the dashboards were live, I was the first to spot a problem: the New Release feature performed very differently across the five markets. The clearest case was Brazil — the biggest volume, but a high skip rate.
+>
+> So I dug into why. It turned out over half of what Brazilians listen to is Portuguese, but our new-release pool was mostly English. The language didn't match, so people just skipped.
+>
+> So I made per-market recommendations: more Portuguese songs, more local-label releases — and worked with the local editors to change the mix.
+>
+> And the results were good: CTR went up twenty percent, listen time per user went up thirteen. And curation time dropped from four days to two."
+
+**中文逐字稿(完整版,约 90 秒——被深挖时再用:四个归因假设、产品还是供给的判断)**
 
 > 背景:TikTok Music 的 Global Programming Team,全球歌单运营团队——一半是英文和 K-pop 的编辑,一半是印尼、巴西、墨西哥、澳洲的本地编辑。我做数据方向的内容产品运营,负责团队的数据基建。
 >
