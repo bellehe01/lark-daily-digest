@@ -71,16 +71,14 @@
 >
 > 其实我看得比较多的,是国内的一些趋势变化。
 
-**英文逐字稿(~50s)**
-> "One room that stuck with me was a Halloween-themed beauty LIVE. Three things made it work.
+**英文逐字稿(简单口语版,~45s;⚠️ 英文版不说"国内趋势"那句)**
+> "One room I remember best was a Halloween-themed beauty LIVE. Three things made it work.
 >
-> One, the content: the whole stream was built around the theme — the short videos and the live-room styling were unified, which warmed up the room before it even started, and she did costume changes during the stream.
+> One, the content. The whole stream was built around the theme. The short videos and the live-room styling matched — so the room was warmed up before it even started. And she did costume changes during the stream.
 >
-> Two, the short-video funnel: strong pre-stream traffic, including how the live clips got distributed afterwards.
+> Two, the short-video traffic. Strong videos before the stream — and after the stream, the live clips got cut and posted too.
 >
-> Three, the interaction — it was co-creation. She ran a fan wish wall before the stream: fans voted on what she'd wear and which products to bundle. And the wishes showed up two ways — sold directly in the live room, or packaged as mystery boxes.
->
-> Honestly though, what I watch most is the trend shifts in the China market — that's where the playbook is furthest ahead."
+> Three, the interaction. It was co-creation. Before the stream, she ran a fan wish wall: fans voted on what she'd wear, and which products to bundle. Then the wishes came true in two ways — sold directly in the live room, or packaged as mystery boxes."
 
 ## 追问"机会在哪?"备弹(接定稿 A,详见题 2)
 
