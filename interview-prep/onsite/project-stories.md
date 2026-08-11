@@ -314,7 +314,7 @@
 
 - **Q:"需求是供给的十倍"怎么算出来的?**
   > 十倍是个量级口径,不是精确数。算法很简单:我们比了两个速度——需求侧,编辑页用户每天消耗特效的量;供给侧,每天真正走完链路、上到编辑页的新特效数量。两边一比,差了大概一个数量级,所以说需求约是供给的十倍。
-  - EN: "Ten times is a rough number, not a precise one. We compared two speeds: how fast users consume effects on the editing page, and how fast new effects actually came through the pipeline. The gap was about ten to one."
+  - EN(~40s): "Ten times is a rough number — it's about the size of the gap, not a precise count. The way we got it was simple. We compared two speeds. On the demand side: how fast users consume effects on the editing page — how many times they open and use effects every day. On the supply side: how fast new effects actually reach the editing page — how many make it through the whole pipeline each day. We put the two numbers side by side, and the gap was about ten to one. So we said: demand is roughly ten times the supply. And honestly, the number's job was just to show the gap was huge — whether it was eight times or twelve times didn't change what we had to do."
 
 ---
 
