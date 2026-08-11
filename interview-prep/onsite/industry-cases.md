@@ -62,6 +62,25 @@
 >
 > Honestly though, what I watch most is the trend shifts in the China market — that's where the playbook is furthest ahead."
 
+## 定稿 C|Why are you a fit?(理解段=老师原版 + 三条对应,~45 秒)
+
+**中文**
+> 我理解这个岗位是负责一个或多个 TikTok LIVE 内容垂类,从创作者供给、内容策略、用户参与、商业化到生态健康做整体经营,用数据分析、战略项目和跨团队协作推动可持续增长。核心指标是垂类的开播和营收。
+>
+> 对应我的经验就三条:创作者供给和成长,我在抖音图文和 agency 都实际做过;数据分析,Music 的看板和洞察体系是我搭的;商业化,agency 里品牌和达人的撮合变现就是我在背。
+>
+> 所以和岗位职责是比较匹配的。而且我是 LIVE 的重度用户,最近自己也开过播。
+
+**英文(~45s)**
+> "My understanding is that this role owns one or more TikTok LIVE content verticals — running them end to end, from creator supply and content strategy to user engagement, monetization, and ecosystem health — and drives sustainable growth through data, strategic programs, and cross-functional work. The north-star metrics would be the vertical's streaming and revenue.
+>
+> Matching that to my experience, three things. Creator supply and growth — I've done that at Douyin and at the agency. Data — I built the dashboards and the insight system at TikTok Music. And monetization — at the agency, matching brands with creators is literally my job.
+>
+> So it's a strong match. And I'm a heavy LIVE user — I've gone live myself recently."
+
+**追问"机会在哪?"备弹(接定稿 A 或 C 都行,详见题 2)**
+> "Both supply and demand are still being built, and I think the bigger opportunity is on the supply side. The demand is already proven — what's missing is more creators going live. That's why my signature idea is to find live-streaming supply from short-video creators."
+
 ---
 
 # 题 1|你了解哪些直播的优秀案例和 showcase?好在哪?

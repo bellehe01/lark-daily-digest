@@ -136,29 +136,9 @@
 ## 区 6|你对 TikTok LIVE 业务的看法 + fit
 
 **可能问法**:What's your take on the LIVE business? / Why are you a fit?
-**思路要点(take)**:
-- LIVE 是 TikTok 从"内容消费"走向"实时关系"的一层:短视频管发现,LIVE 管深度关系和变现
-- 变现双轨(打赏+带货)在美妆时尚垂类天然并存——内容型主播也能挂车(Carolyn 918 单)
-- **Take on TikTok LIVE 的主答 = 老师定稿 A**(两类分化→场景化→矩阵打法→国内对比→自己开过播),中英全文在行业问答集"模拟面试定稿 A"
-- 被追问"机会在哪?"再上招牌判断(短视频挖供给,三层样本+官方佐证,见行业问答集题 2)
-
-**追问"机会在哪"英文备弹(~30s)**
-> "Both supply and demand are still being built, and I think the bigger opportunity is on the supply side. The demand is already proven — what's missing is more creators going live. That's why my signature idea is to find live-streaming supply from short-video creators."
-
-**Why fit?(定稿:理解段=老师原版 + 三条对应 + 收口,~45 秒)**
-
-> 我理解这个岗位是负责一个或多个 TikTok LIVE 内容垂类,从创作者供给、内容策略、用户参与、商业化到生态健康做整体经营,用数据分析、战略项目和跨团队协作推动可持续增长。核心指标是垂类的开播和营收。
->
-> 对应我的经验就三条:创作者供给和成长,我在抖音图文和 agency 都实际做过;数据分析,Music 和 IntelliPro 的体系是我搭的;大型活动和跨团队,我办过五千人的线下创作者活动。
->
-> 所以和岗位职责是比较匹配的。而且我是 LIVE 的重度用户,最近自己也开过播。
-
-**EN(~45s)**
-> "My understanding is that this role owns one or more TikTok LIVE content verticals — running them end to end, from creator supply and content strategy to user engagement, monetization, and ecosystem health — and drives sustainable growth through data, strategic programs, and cross-functional work. The north-star metrics would be the vertical's streaming and revenue.
->
-> Matching that to my experience, three things. Creator supply and growth — I've done that at Douyin and at the agency. Data — I built the systems at Music and IntelliPro. Big campaigns and cross-team work — I ran an offline event for five thousand creators.
->
-> So it's a strong match. And I'm a heavy LIVE user — I've gone live myself recently."
+- **Take 主答 = 老师定稿 A**(两类分化→场景化→矩阵打法→国内对比→自己开过播)→ 行业问答集"模拟面试定稿 A",中英全文
+- **Fit 定稿 = 定稿 C**(理解段老师原版 + 三条对应:图文+agency 供给成长 / Music 数据 / agency 撮合商业化;⚠️ 不提 IntelliPro、不提线下活动)→ 行业问答集"模拟面试定稿 C",中英全文
+- 追问"机会在哪?"→ 行业问答集题 2 招牌答案(定稿 C 下面有 30 秒英文备弹)
 
 (数字和细节不在这里报——被追问哪条就深挖哪条,长版在 project-stories)
 
