@@ -85,20 +85,18 @@
 >
 > And honestly, I'd want to align the exact KPIs after joining — that's actually one of my questions for you today."
 
-**加深版:为什么这个岗位存在?(~60s,骨架:demand fine, supply missing → 三个张力 → 收口金句)**
-> "Here's how I understand why this role exists.
+**加深版:岗位理解四维拆解(①为什么存在②目的③四步闭环④三层指标,~110s)**
+> "Let me break it down in four parts: why the role exists, what it's for, how I'd run it, and how I'd measure it.
 >
-> On LIVE, the demand side is fine — the traffic, the users, the willingness to watch, it's all there. What's missing is the supply side: good creators who stream regularly can't keep up with the demand.
+> First, why it exists. On LIVE, demand is fine — the traffic and the viewers are there. Supply is what's missing: good creators who stream regularly can't keep up. And the current mechanics don't fix this by themselves — gifting rewards cheap, fast content, and resources flow to the top while the real growth hides in the mid and tail. So someone has to run it on purpose. That's this role.
 >
-> And three tensions make the gap bigger.
+> Second, the goal: a healthy vertical ecosystem — enough quality supply, creators keep growing, and engagement and revenue grow with them.
 >
-> One, supply and demand don't line up. Good content clusters in the evening — mature talent rooms — while the daytime gets filled with low-quality chatting.
+> Third, how — a four-step loop. Diagnose: where exactly is the gap — volume, quality, or coverage? Set the standard: define what a quality stream means in this vertical. Build supply, ranked by ROI: first unlock the existing creators who are stuck, then support the ones one step away, then recruit from new pools. And build mechanisms: campaigns, incentives tied to quality, agency networks, and working with product — so that good content becomes the most profitable path.
 >
-> Two, money pulls against quality. Gifting gives instant rewards, so it pushes creators toward cheap, fast content — NPC streams, boring PK battles. That's short-term income versus long-term health.
->
-> Three, the top and the middle are out of balance. Resources and official campaigns flow to the mature creators — but the real growth hides in the mid and tail, the people who are just one step away. And nobody manages them.
->
-> So in one sentence: the platform's long-term value depends on quality supply — but the current mechanics don't naturally get us there. Someone has to run it on purpose. That's this role."
+> Fourth, measurement — three layers. Supply leads: how many creators stream regularly, the share of quality streams, new-creator retention. Engagement sits in the middle: watch time, returning viewers. Revenue comes last — it lags. Leading indicators first; revenue follows."
+
+金句 ×2:"Someone has to run it on purpose. That's this role." / "Good content becomes the most profitable path."
 
 ## 区 3|内容分析与策略(what drives LIVE content performance & creator lifecycle)
 
