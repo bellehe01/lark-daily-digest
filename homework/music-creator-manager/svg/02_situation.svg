@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Noto Sans CJK SC">
+  <defs>
+    <linearGradient id="gradAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <text id="deco-num" data-pptx-role="decoration" x="1200" y="188" font-size="150" font-weight="bold" text-anchor="end" fill="#FFFFFF" fill-opacity="0.04">01</text>
+
+  <g id="header" data-pptx-bounds="80 56 860 108">
+    <rect x="80" y="74" width="4" height="12" rx="2" fill="#8A7CFF"/>
+    <rect x="88" y="68" width="4" height="18" rx="2" fill="#5E8DF5"/>
+    <rect x="96" y="78" width="4" height="8" rx="2" fill="#38BDF8"/>
+    <text x="110" y="88" font-size="15" letter-spacing="3" fill="#8A7CFF">01 · 现状 THE DAILY GRIND</text>
+    <text x="80" y="140" font-size="40" font-weight="bold" fill="#E9EFFB">每天叫醒我的,是 99+ 未读</text>
+  </g>
+
+  <g id="intro-line" data-pptx-bounds="80 176 1120 38">
+    <text x="80" y="202" font-size="20" fill="#9AA9C7">12 位签约音乐人 · 9 个飞书群 · 5 个平台后台——这是我睁眼要面对的信息量。</text>
+  </g>
+
+  <g id="card-comm" data-pptx-bounds="80 228 548 188">
+    <rect x="80" y="228" width="548" height="188" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <!-- icon: tabler-outline/message-circle -->
+  <g transform="translate(112, 258) scale(1.66667)" fill="none" stroke="#8A7CFF" stroke-width="2">
+    <path d="M3 20l1.3 -3.9c-2.324 -3.437 -1.426 -7.872 2.1 -10.374c3.526 -2.501 8.59 -2.296 11.845 .48c3.255 2.777 3.695 7.266 1.029 10.501c-2.666 3.235 -7.615 4.215 -11.574 2.293l-4.7 1" />
+  </g>
+    <text x="170" y="286" font-size="25" font-weight="bold" fill="#E9EFFB">艺人沟通</text>
+    <text x="112" y="342" font-size="19" fill="#9AA9C7">跨 9 个飞书群同步进度,<tspan x="112" dy="32">关键决策淹没在闲聊里。</tspan></text>
+  </g>
+
+  <g id="card-release" data-pptx-bounds="652 228 548 188">
+    <rect x="652" y="228" width="548" height="188" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <!-- icon: tabler-outline/calendar-event -->
+  <g transform="translate(684, 258) scale(1.66667)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+    <path d="M16 3l0 4" />
+    <path d="M8 3l0 4" />
+    <path d="M4 11l16 0" />
+    <path d="M8 15h2v2h-2l0 -2" />
+  </g>
+    <text x="742" y="286" font-size="25" font-weight="bold" fill="#E9EFFB">发行排期</text>
+    <text x="684" y="342" font-size="19" fill="#9AA9C7">收歌、定档、物料、上线,<tspan x="684" dy="32">每个节点都靠人肉盯梢。</tspan></text>
+  </g>
+
+  <g id="card-data" data-pptx-bounds="80 440 548 188">
+    <rect x="80" y="440" width="548" height="188" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <!-- icon: tabler-outline/chart-line -->
+  <g transform="translate(112, 470) scale(1.66667)" fill="none" stroke="#34D399" stroke-width="2">
+    <path d="M4 19l16 0" />
+    <path d="M4 15l4 -6l4 2l4 -5l4 4" />
+  </g>
+    <text x="170" y="498" font-size="25" font-weight="bold" fill="#E9EFFB">数据复盘</text>
+    <text x="112" y="554" font-size="19" fill="#9AA9C7">播放、涨粉、收入各在一个后台,<tspan x="112" dy="32">周报全靠复制粘贴。</tspan></text>
+  </g>
+
+  <g id="card-fans" data-pptx-bounds="652 440 548 188">
+    <rect x="652" y="440" width="548" height="188" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <!-- icon: tabler-outline/bell -->
+  <g transform="translate(684, 470) scale(1.66667)" fill="none" stroke="#FBBF24" stroke-width="2">
+    <path d="M10 5a2 2 0 1 1 4 0a7 7 0 0 1 4 6v3a4 4 0 0 0 2 3h-16a4 4 0 0 0 2 -3v-3a7 7 0 0 1 4 -6" />
+    <path d="M9 17v1a3 3 0 0 0 6 0v-1" />
+  </g>
+    <text x="742" y="498" font-size="25" font-weight="bold" fill="#E9EFFB">粉丝与舆情</text>
+    <text x="684" y="554" font-size="19" fill="#9AA9C7">评论区、热搜、突发状况,<tspan x="684" dy="32">永远在下班后爆雷。</tspan></text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="80 664 1120 40">
+    <text x="80" y="690" font-size="13" letter-spacing="3" fill="#3E5174">MUSIC CREATOR MANAGER</text>
+    <text x="1200" y="690" font-size="13" letter-spacing="2" text-anchor="end" fill="#3E5174">02 / 11</text>
+  </g>
+</svg>

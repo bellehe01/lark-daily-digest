@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Noto Sans CJK SC">
+  <defs>
+    <linearGradient id="gradAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <text id="deco-num" data-pptx-role="decoration" x="1200" y="188" font-size="150" font-weight="bold" text-anchor="end" fill="#FFFFFF" fill-opacity="0.04">01</text>
+
+  <g id="header" data-pptx-bounds="80 56 860 108">
+    <rect x="80" y="74" width="4" height="12" rx="2" fill="#8A7CFF"/>
+    <rect x="88" y="68" width="4" height="18" rx="2" fill="#5E8DF5"/>
+    <rect x="96" y="78" width="4" height="8" rx="2" fill="#38BDF8"/>
+    <text x="110" y="88" font-size="15" letter-spacing="3" fill="#8A7CFF">01 · 现状 THE DAILY GRIND</text>
+    <text x="80" y="140" font-size="40" font-weight="bold" fill="#E9EFFB">每天叫醒我的,是 99+ 未读</text>
+  </g>
+
+  <g id="intro-line" data-pptx-bounds="80 176 1120 38">
+    <text x="80" y="202" font-size="20" fill="#9AA9C7">12 位签约音乐人 · 9 个飞书群 · 5 个平台后台——这是我睁眼要面对的信息量。</text>
+  </g>
+
+  <g id="card-comm" data-pptx-bounds="80 228 548 188">
+    <rect x="80" y="228" width="548" height="188" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <use data-icon="tabler-outline/message-circle" x="112" y="258" width="40" height="40" fill="#8A7CFF"/>
+    <text x="170" y="286" font-size="25" font-weight="bold" fill="#E9EFFB">艺人沟通</text>
+    <text x="112" y="342" font-size="19" fill="#9AA9C7">跨 9 个飞书群同步进度,<tspan x="112" dy="32">关键决策淹没在闲聊里。</tspan></text>
+  </g>
+
+  <g id="card-release" data-pptx-bounds="652 228 548 188">
+    <rect x="652" y="228" width="548" height="188" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <use data-icon="tabler-outline/calendar-event" x="684" y="258" width="40" height="40" fill="#38BDF8"/>
+    <text x="742" y="286" font-size="25" font-weight="bold" fill="#E9EFFB">发行排期</text>
+    <text x="684" y="342" font-size="19" fill="#9AA9C7">收歌、定档、物料、上线,<tspan x="684" dy="32">每个节点都靠人肉盯梢。</tspan></text>
+  </g>
+
+  <g id="card-data" data-pptx-bounds="80 440 548 188">
+    <rect x="80" y="440" width="548" height="188" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <use data-icon="tabler-outline/chart-line" x="112" y="470" width="40" height="40" fill="#34D399"/>
+    <text x="170" y="498" font-size="25" font-weight="bold" fill="#E9EFFB">数据复盘</text>
+    <text x="112" y="554" font-size="19" fill="#9AA9C7">播放、涨粉、收入各在一个后台,<tspan x="112" dy="32">周报全靠复制粘贴。</tspan></text>
+  </g>
+
+  <g id="card-fans" data-pptx-bounds="652 440 548 188">
+    <rect x="652" y="440" width="548" height="188" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <use data-icon="tabler-outline/bell" x="684" y="470" width="40" height="40" fill="#FBBF24"/>
+    <text x="742" y="498" font-size="25" font-weight="bold" fill="#E9EFFB">粉丝与舆情</text>
+    <text x="684" y="554" font-size="19" fill="#9AA9C7">评论区、热搜、突发状况,<tspan x="684" dy="32">永远在下班后爆雷。</tspan></text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="80 664 1120 40">
+    <text x="80" y="690" font-size="13" letter-spacing="3" fill="#3E5174">MUSIC CREATOR MANAGER</text>
+    <text x="1200" y="690" font-size="13" letter-spacing="2" text-anchor="end" fill="#3E5174">02 / 11</text>
+  </g>
+</svg>

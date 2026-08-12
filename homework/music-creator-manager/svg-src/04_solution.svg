@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="section" font-family="Noto Sans CJK SC">
+  <defs>
+    <linearGradient id="gradAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="gradOrb" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glowStatement" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#8A7CFF" flood-opacity="0.40"/>
+    </filter>
+  </defs>
+
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <circle id="deco-orb" data-pptx-role="decoration" cx="640" cy="300" r="320" fill="url(#gradOrb)"/>
+  <path id="deco-frame" data-pptx-role="decoration" d="M80 96H120 M80 96V136 M1200 96H1160 M1200 96V136 M80 624H120 M80 624V584 M1200 624H1160 M1200 624V584" stroke="#2E4468" stroke-width="2" fill="none"/>
+
+  <g id="section-tag" data-pptx-bounds="440 150 400 40">
+    <text x="640" y="176" font-size="15" letter-spacing="4" text-anchor="middle" fill="#8A7CFF">03 · 方案 THE TURN</text>
+  </g>
+
+  <g id="statement" data-pptx-bounds="240 210 800 170">
+    <text x="640" y="288" font-size="60" font-weight="bold" text-anchor="middle" fill="#E9EFFB" filter="url(#glowStatement)">把 AI 装进工作流</text>
+    <text x="640" y="352" font-size="22" text-anchor="middle" fill="#9AA9C7">一个懂音乐运营的智能体,替我盯住每一条信号</text>
+  </g>
+
+  <g id="chip-collect" data-pptx-bounds="150 412 300 150">
+    <rect x="150" y="412" width="300" height="150" rx="16" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <use data-icon="tabler-outline/database" x="282" y="436" width="36" height="36" fill="#38BDF8"/>
+    <text x="300" y="510" font-size="23" font-weight="bold" text-anchor="middle" fill="#E9EFFB">自动收集</text>
+    <text x="300" y="542" font-size="17" text-anchor="middle" fill="#9AA9C7">全渠道信号自动汇入</text>
+  </g>
+
+  <g id="chip-triage" data-pptx-bounds="490 412 300 150">
+    <rect x="490" y="412" width="300" height="150" rx="16" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <use data-icon="tabler-outline/sparkles" x="622" y="436" width="36" height="36" fill="#8A7CFF"/>
+    <text x="640" y="510" font-size="23" font-weight="bold" text-anchor="middle" fill="#E9EFFB">智能分诊</text>
+    <text x="640" y="542" font-size="17" text-anchor="middle" fill="#9AA9C7">红黄绿三级轻重缓急</text>
+  </g>
+
+  <g id="chip-push" data-pptx-bounds="830 412 300 150">
+    <rect x="830" y="412" width="300" height="150" rx="16" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <use data-icon="tabler-outline/send" x="962" y="436" width="36" height="36" fill="#34D399"/>
+    <text x="980" y="510" font-size="23" font-weight="bold" text-anchor="middle" fill="#E9EFFB">一键触达</text>
+    <text x="980" y="542" font-size="17" text-anchor="middle" fill="#9AA9C7">结论直接推进飞书</text>
+  </g>
+
+  <g id="powered-by" data-pptx-bounds="490 592 300 40">
+    <use data-icon="simple-icons/claude" x="556" y="600" width="22" height="22" fill="#D97757"/>
+    <text x="592" y="618" font-size="15" letter-spacing="2" fill="#64789E">POWERED BY CLAUDE</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="80 664 1120 40">
+    <text x="80" y="690" font-size="13" letter-spacing="3" fill="#3E5174">MUSIC CREATOR MANAGER</text>
+    <text x="1200" y="690" font-size="13" letter-spacing="2" text-anchor="end" fill="#3E5174">04 / 11</text>
+  </g>
+</svg>

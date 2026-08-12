@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Noto Sans CJK SC">
+  <defs>
+    <linearGradient id="gradAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="gradTierS" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <text id="deco-num" data-pptx-role="decoration" x="1200" y="188" font-size="150" font-weight="bold" text-anchor="end" fill="#FFFFFF" fill-opacity="0.04">05</text>
+
+  <g id="header" data-pptx-bounds="80 56 860 108">
+    <rect x="80" y="74" width="4" height="12" rx="2" fill="#8A7CFF"/>
+    <rect x="88" y="68" width="4" height="18" rx="2" fill="#5E8DF5"/>
+    <rect x="96" y="78" width="4" height="8" rx="2" fill="#38BDF8"/>
+    <text x="110" y="88" font-size="15" letter-spacing="3" fill="#8A7CFF">05 · 功能一 ROSTER</text>
+    <text x="80" y="140" font-size="40" font-weight="bold" fill="#E9EFFB">艺人档案:先分级,再分配精力</text>
+  </g>
+
+  <g id="roster-intro" data-pptx-bounds="80 196 330 434">
+    <use data-icon="tabler-outline/users" x="80" y="228" width="40" height="40" fill="#8A7CFF"/>
+    <text x="80" y="322" font-size="21" fill="#9AA9C7">12 位艺人不能平均用力。<tspan x="80" dy="36">AI 按阶段与数据自动归档,</tspan><tspan x="80" dy="36">跟进节奏一目了然。</tspan></text>
+    <rect x="80" y="436" width="60" height="3" rx="1.5" fill="url(#gradAccent)"/>
+    <text x="80" y="492" font-size="17" letter-spacing="1" fill="#64789E">12 位签约艺人 · 3 个梯队<tspan x="80" dy="30">档案每日自动刷新</tspan></text>
+  </g>
+
+  <g id="tier-s" data-pptx-bounds="460 196 740 132">
+    <rect x="460" y="196" width="740" height="132" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <rect x="460" y="196" width="6" height="132" rx="3" fill="url(#gradTierS)"/>
+    <text x="500" y="286" font-size="64" font-weight="bold" fill="url(#gradTierS)">S</text>
+    <use data-icon="tabler-outline/user-star" x="580" y="222" width="30" height="30" fill="#8A7CFF"/>
+    <text x="626" y="246" font-size="24" font-weight="bold" fill="#E9EFFB">重点艺人 · 全力护航</text>
+    <text x="580" y="296" font-size="18" fill="#9AA9C7">每日跟进 · 专属企划 · 优先资源位</text>
+  </g>
+
+  <g id="tier-a" data-pptx-bounds="460 348 740 132">
+    <rect x="460" y="348" width="740" height="132" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <rect x="460" y="348" width="6" height="132" rx="3" fill="#38BDF8"/>
+    <text x="498" y="438" font-size="64" font-weight="bold" fill="#38BDF8">A</text>
+    <use data-icon="tabler-outline/trending-up" x="580" y="374" width="30" height="30" fill="#38BDF8"/>
+    <text x="626" y="398" font-size="24" font-weight="bold" fill="#E9EFFB">上升期 · 乘胜追击</text>
+    <text x="580" y="448" font-size="18" fill="#9AA9C7">每周复盘 · 资源倾斜 · 重点保发行</text>
+  </g>
+
+  <g id="tier-b" data-pptx-bounds="460 500 740 132">
+    <rect x="460" y="500" width="740" height="132" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+    <rect x="460" y="500" width="6" height="132" rx="3" fill="#64789E"/>
+    <text x="500" y="590" font-size="64" font-weight="bold" fill="#64789E">B</text>
+    <use data-icon="tabler-outline/headphones" x="580" y="526" width="30" height="30" fill="#64789E"/>
+    <text x="626" y="550" font-size="24" font-weight="bold" fill="#E9EFFB">孵化期 · 静待花开</text>
+    <text x="580" y="600" font-size="18" fill="#9AA9C7">双周同步 · 素材库支持 · 数据观察</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="80 664 1120 40">
+    <text x="80" y="690" font-size="13" letter-spacing="3" fill="#3E5174">MUSIC CREATOR MANAGER</text>
+    <text x="1200" y="690" font-size="13" letter-spacing="2" text-anchor="end" fill="#3E5174">06 / 11</text>
+  </g>
+</svg>

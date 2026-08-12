@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Noto Sans CJK SC">
+  <defs>
+    <linearGradient id="gradAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glowStat" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#8A7CFF" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <text id="deco-num" data-pptx-role="decoration" x="1200" y="188" font-size="150" font-weight="bold" text-anchor="end" fill="#FFFFFF" fill-opacity="0.04">02</text>
+
+  <g id="header" data-pptx-bounds="80 56 860 108">
+    <rect x="80" y="74" width="4" height="12" rx="2" fill="#8A7CFF"/>
+    <rect x="88" y="68" width="4" height="18" rx="2" fill="#5E8DF5"/>
+    <rect x="96" y="78" width="4" height="8" rx="2" fill="#38BDF8"/>
+    <text x="110" y="88" font-size="15" letter-spacing="3" fill="#8A7CFF">02 · 冲突 BREAKING POINT</text>
+    <text x="80" y="140" font-size="40" font-weight="bold" fill="#E9EFFB">人肉调度,撑不住了</text>
+  </g>
+
+  <g id="pain-list" data-pptx-bounds="80 190 610 440">
+    <g id="pain-fragment">
+      <rect x="80" y="204" width="610" height="124" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <!-- icon: tabler-outline/message-circle -->
+  <g transform="translate(112, 238) scale(1.5)" fill="none" stroke="#F87171" stroke-width="2">
+    <path d="M3 20l1.3 -3.9c-2.324 -3.437 -1.426 -7.872 2.1 -10.374c3.526 -2.501 8.59 -2.296 11.845 .48c3.255 2.777 3.695 7.266 1.029 10.501c-2.666 3.235 -7.615 4.215 -11.574 2.293l-4.7 1" />
+  </g>
+      <text x="170" y="252" font-size="24" font-weight="bold" fill="#E9EFFB">信息碎片化</text>
+      <text x="170" y="292" font-size="19" fill="#9AA9C7">重要决策请求,散落在几千条群消息里。</text>
+    </g>
+    <g id="pain-silo">
+      <rect x="80" y="348" width="610" height="124" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <!-- icon: tabler-outline/database -->
+  <g transform="translate(112, 382) scale(1.5)" fill="none" stroke="#FBBF24" stroke-width="2">
+    <path d="M4 6a8 3 0 1 0 16 0a8 3 0 1 0 -16 0" />
+    <path d="M4 6v6a8 3 0 0 0 16 0v-6" />
+    <path d="M4 12v6a8 3 0 0 0 16 0v-6" />
+  </g>
+      <text x="170" y="396" font-size="24" font-weight="bold" fill="#E9EFFB">数据孤岛</text>
+      <text x="170" y="436" font-size="19" fill="#9AA9C7">5 个后台各说各话,没人看得到全局。</text>
+    </g>
+    <g id="pain-repeat">
+      <rect x="80" y="492" width="610" height="124" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <!-- icon: tabler-outline/refresh -->
+  <g transform="translate(112, 526) scale(1.5)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
+    <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
+  </g>
+      <text x="170" y="540" font-size="24" font-weight="bold" fill="#E9EFFB">重复劳动</text>
+      <text x="170" y="580" font-size="19" fill="#9AA9C7">同样的数据搬运和周报,每周再来一遍。</text>
+    </g>
+  </g>
+
+  <g id="stat-panel" data-pptx-bounds="740 190 460 440">
+    <rect x="740" y="204" width="460" height="412" rx="16" fill="#101828" stroke="#2E4468" stroke-width="1"/>
+    <text x="784" y="266" font-size="18" letter-spacing="2" fill="#64789E">每周被吃掉的时间(自测)</text>
+    <text x="784" y="404" font-size="110" font-weight="bold" fill="url(#gradAccent)" filter="url(#glowStat)">20h+</text>
+    <text x="784" y="464" font-size="21" fill="#9AA9C7">花在信息搬运上,<tspan x="784" dy="34">而不是艺人身上。</tspan></text>
+    <rect x="784" y="530" width="372" height="1" fill="#263A5E"/>
+    <!-- icon: tabler-outline/clock -->
+  <g transform="translate(784, 552) scale(0.916667)" fill="none" stroke="#64789E" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M12 7v5l3 3" />
+  </g>
+    <text x="818" y="570" font-size="17" fill="#64789E">≈ 每年 2.5 个月的工作时间</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="80 664 1120 40">
+    <text x="80" y="690" font-size="13" letter-spacing="3" fill="#3E5174">MUSIC CREATOR MANAGER</text>
+    <text x="1200" y="690" font-size="13" letter-spacing="2" text-anchor="end" fill="#3E5174">03 / 11</text>
+  </g>
+</svg>

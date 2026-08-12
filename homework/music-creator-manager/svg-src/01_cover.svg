@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="Noto Sans CJK SC">
+  <defs>
+    <linearGradient id="gradAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="gradBarV" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="gradOrb" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8A7CFF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#8A7CFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glowTitle" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#8A7CFF" flood-opacity="0.40"/>
+    </filter>
+    <filter id="glowBar" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#38BDF8" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <circle id="deco-orb" data-pptx-role="decoration" cx="1020" cy="360" r="300" fill="url(#gradOrb)"/>
+  <path id="deco-grid" data-pptx-role="decoration" d="M80 96H1200 M80 640H1200" stroke="#263A5E" stroke-width="1" stroke-opacity="0.55" fill="none"/>
+  <path id="deco-dots" data-pptx-role="decoration" fill="none" stroke="#38BDF8" stroke-opacity="0.14" stroke-width="1" d="M120 150V158 M150 150V158 M180 150V158 M210 150V158 M240 150V158 M270 150V158 M300 150V158"/>
+
+  <g id="header-tag" data-pptx-bounds="80 108 700 40">
+    <text x="80" y="134" font-size="16" letter-spacing="3" fill="#64789E">个人作业 · 重制版 — REBUILT WITH PPT-MASTER SKILL</text>
+  </g>
+
+  <g id="title-block" data-pptx-bounds="76 200 664 290">
+    <text x="80" y="268" font-size="21" letter-spacing="6" fill="#38BDF8">MUSIC CREATOR MANAGER</text>
+    <text x="76" y="356" font-size="72" font-weight="bold" fill="#E9EFFB" filter="url(#glowTitle)">音乐人运营</text>
+    <text x="76" y="446" font-size="72" font-weight="bold" fill="url(#gradAccent)">AI 工作台</text>
+    <rect x="80" y="478" width="120" height="4" rx="2" fill="url(#gradAccent)"/>
+  </g>
+
+  <g id="subtitle-block" data-pptx-bounds="80 500 700 60">
+    <text x="80" y="536" font-size="24" fill="#9AA9C7">把碎片化的艺人运营日常,交给一条 AI 流水线</text>
+  </g>
+
+  <g id="meta-block" data-pptx-bounds="80 586 700 70">
+    <text x="80" y="614" font-size="17" fill="#64789E">belle · 音乐创作者运营</text>
+    <text x="80" y="642" font-size="15" letter-spacing="2" fill="#4A5D80">2026.08 · SKILL: HUGOHE / PPT-MASTER</text>
+  </g>
+
+  <g id="hero-wave" data-pptx-bounds="850 210 360 370">
+    <circle cx="1030" cy="368" r="150" fill="none" stroke="#263A5E" stroke-width="1"/>
+    <circle cx="1030" cy="368" r="112" fill="none" stroke="#2E4468" stroke-width="1" stroke-dasharray="4,4"/>
+    <g id="hero-wave-bars">
+      <rect x="952" y="332" width="12" height="72" rx="6" fill="url(#gradBarV)" fill-opacity="0.55"/>
+      <rect x="976" y="308" width="12" height="120" rx="6" fill="url(#gradBarV)" fill-opacity="0.75"/>
+      <rect x="1000" y="284" width="12" height="168" rx="6" fill="url(#gradBarV)"/>
+      <rect x="1024" y="258" width="12" height="220" rx="6" fill="url(#gradBarV)" filter="url(#glowBar)"/>
+      <rect x="1048" y="284" width="12" height="168" rx="6" fill="url(#gradBarV)"/>
+      <rect x="1072" y="308" width="12" height="120" rx="6" fill="url(#gradBarV)" fill-opacity="0.75"/>
+      <rect x="1096" y="332" width="12" height="72" rx="6" fill="url(#gradBarV)" fill-opacity="0.55"/>
+    </g>
+    <text x="1030" y="560" font-size="14" letter-spacing="4" fill="#4A5D80" text-anchor="middle">SIGNAL IN · INSIGHT OUT</text>
+  </g>
+</svg>

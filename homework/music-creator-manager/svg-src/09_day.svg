@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Noto Sans CJK SC">
+  <defs>
+    <linearGradient id="gradSpine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="gradAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <text id="deco-num" data-pptx-role="decoration" x="1200" y="188" font-size="150" font-weight="bold" text-anchor="end" fill="#FFFFFF" fill-opacity="0.04">06</text>
+
+  <g id="header" data-pptx-bounds="80 56 860 108">
+    <rect x="80" y="74" width="4" height="12" rx="2" fill="#8A7CFF"/>
+    <rect x="88" y="68" width="4" height="18" rx="2" fill="#5E8DF5"/>
+    <rect x="96" y="78" width="4" height="8" rx="2" fill="#38BDF8"/>
+    <text x="110" y="88" font-size="15" letter-spacing="3" fill="#8A7CFF">06 · 场景 A DAY WITH MCM</text>
+    <text x="80" y="140" font-size="40" font-weight="bold" fill="#E9EFFB">接入之后:我的一天</text>
+  </g>
+
+  <g id="day-flow" data-pptx-bounds="80 196 1120 340">
+    <rect x="211" y="214" width="858" height="3" rx="1.5" fill="url(#gradSpine)"/>
+    <circle cx="211" cy="215.5" r="6" fill="#8A7CFF"/>
+    <circle cx="497" cy="215.5" r="6" fill="#7D8DF9"/>
+    <circle cx="783" cy="215.5" r="6" fill="#54B2F0"/>
+    <circle cx="1069" cy="215.5" r="6" fill="#38BDF8"/>
+
+    <g id="beat-digest">
+      <rect x="80" y="248" width="262" height="272" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <text x="108" y="308" font-size="30" font-weight="bold" fill="url(#gradAccent)">08:45</text>
+      <use data-icon="tabler-outline/bell" x="108" y="336" width="30" height="30" fill="#8A7CFF"/>
+      <text x="108" y="416" font-size="22" font-weight="bold" fill="#E9EFFB">晨报到</text>
+      <text x="108" y="456" font-size="17" fill="#9AA9C7">3 红 2 黄,</text>
+      <text x="108" y="486" font-size="17" fill="#9AA9C7">其余 30 个群静默。</text>
+    </g>
+    <g id="beat-triage">
+      <rect x="366" y="248" width="262" height="272" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <text x="394" y="308" font-size="30" font-weight="bold" fill="#E9EFFB">09:30</text>
+      <use data-icon="tabler-outline/target" x="394" y="336" width="30" height="30" fill="#F87171"/>
+      <text x="394" y="416" font-size="22" font-weight="bold" fill="#E9EFFB">只跟红色</text>
+      <text x="394" y="456" font-size="17" fill="#9AA9C7">半小时清完</text>
+      <text x="394" y="486" font-size="17" fill="#9AA9C7">全部关键事项。</text>
+    </g>
+    <g id="beat-check">
+      <rect x="652" y="248" width="262" height="272" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <text x="680" y="308" font-size="30" font-weight="bold" fill="#E9EFFB">14:00</text>
+      <use data-icon="tabler-outline/calendar-event" x="680" y="336" width="30" height="30" fill="#FBBF24"/>
+      <text x="680" y="416" font-size="22" font-weight="bold" fill="#E9EFFB">排期自检</text>
+      <text x="680" y="456" font-size="17" fill="#9AA9C7">T-7 物料提醒</text>
+      <text x="680" y="486" font-size="17" fill="#9AA9C7">已自动派发到群。</text>
+    </g>
+    <g id="beat-weekly">
+      <rect x="938" y="248" width="262" height="272" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <text x="966" y="308" font-size="30" font-weight="bold" fill="#E9EFFB">18:00</text>
+      <use data-icon="tabler-outline/file-text" x="966" y="336" width="30" height="30" fill="#34D399"/>
+      <text x="966" y="416" font-size="22" font-weight="bold" fill="#E9EFFB">周报草稿</text>
+      <text x="966" y="456" font-size="17" fill="#9AA9C7">补充 5 分钟,</text>
+      <text x="966" y="486" font-size="17" fill="#9AA9C7">直接发给老板。</text>
+    </g>
+  </g>
+
+  <g id="payoff-strip" data-pptx-bounds="80 560 1120 76">
+    <rect x="80" y="560" width="1120" height="76" rx="14" fill="#101828" stroke="#2E4468" stroke-width="1"/>
+    <rect x="80" y="574" width="4" height="48" rx="2" fill="url(#gradAccent)"/>
+    <use data-icon="tabler-outline/music" x="116" y="582" width="30" height="30" fill="#8A7CFF"/>
+    <text x="168" y="606" font-size="20" font-weight="bold" fill="#E9EFFB">信息搬运的时间,还给了艺人——沟通密度不变,决策速度更快。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="80 664 1120 40">
+    <text x="80" y="690" font-size="13" letter-spacing="3" fill="#3E5174">MUSIC CREATOR MANAGER</text>
+    <text x="1200" y="690" font-size="13" letter-spacing="2" text-anchor="end" fill="#3E5174">09 / 11</text>
+  </g>
+</svg>

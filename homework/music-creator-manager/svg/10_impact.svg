@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Noto Sans CJK SC">
+  <defs>
+    <linearGradient id="gradAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <text id="deco-num" data-pptx-role="decoration" x="1200" y="188" font-size="150" font-weight="bold" text-anchor="end" fill="#FFFFFF" fill-opacity="0.04">07</text>
+
+  <g id="header" data-pptx-bounds="80 56 900 108">
+    <rect x="80" y="74" width="4" height="12" rx="2" fill="#8A7CFF"/>
+    <rect x="88" y="68" width="4" height="18" rx="2" fill="#5E8DF5"/>
+    <rect x="96" y="78" width="4" height="8" rx="2" fill="#38BDF8"/>
+    <text x="110" y="88" font-size="15" letter-spacing="3" fill="#8A7CFF">07 · 收益与展望 IMPACT &amp; NEXT</text>
+    <text x="80" y="140" font-size="40" font-weight="bold" fill="#E9EFFB">省下的是时间,换来的是判断力</text>
+  </g>
+
+  <g id="impact-col" data-pptx-bounds="80 190 548 448">
+    <text x="80" y="222" font-size="16" letter-spacing="3" fill="#34D399">现在 · NOW(自测)</text>
+    <g id="impact-routine">
+      <rect x="80" y="244" width="548" height="112" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <!-- icon: tabler-outline/clock -->
+  <g transform="translate(112, 272) scale(1.33333)" fill="none" stroke="#34D399" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M12 7v5l3 3" />
+  </g>
+      <text x="168" y="288" font-size="21" font-weight="bold" fill="#E9EFFB">例行信息工作</text>
+      <text x="168" y="328" font-size="18" fill="#9AA9C7">每周约 20h → 3h</text>
+    </g>
+    <g id="impact-response">
+      <rect x="80" y="384" width="548" height="112" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <!-- icon: tabler-outline/bolt -->
+  <g transform="translate(112, 412) scale(1.33333)" fill="none" stroke="#34D399" stroke-width="2">
+    <path d="M13 3l0 7l6 0l-8 11l0 -7l-6 0l8 -11" />
+  </g>
+      <text x="168" y="428" font-size="21" font-weight="bold" fill="#E9EFFB">红色事项响应</text>
+      <text x="168" y="468" font-size="18" fill="#9AA9C7">从"半天后看到" → "半小时内处理"</text>
+    </g>
+    <g id="impact-weekly">
+      <rect x="80" y="524" width="548" height="112" rx="14" fill="#131C2E" stroke="#263A5E" stroke-width="1"/>
+      <!-- icon: tabler-outline/file-text -->
+  <g transform="translate(112, 552) scale(1.33333)" fill="none" stroke="#34D399" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+      <text x="168" y="568" font-size="21" font-weight="bold" fill="#E9EFFB">周报产出</text>
+      <text x="168" y="608" font-size="18" fill="#9AA9C7">手抄 2h → 自动草稿 + 5 分钟审校</text>
+    </g>
+  </g>
+
+  <g id="roadmap-col" data-pptx-bounds="652 190 548 448">
+    <text x="652" y="222" font-size="16" letter-spacing="3" fill="#38BDF8">下一步 · ROADMAP</text>
+    <g id="road-sources">
+      <rect x="652" y="244" width="548" height="112" rx="14" fill="#101828" stroke="#2E4468" stroke-width="1"/>
+      <!-- icon: tabler-outline/antenna -->
+  <g transform="translate(684, 272) scale(1.33333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M20 4v8" />
+    <path d="M16 4.5v7" />
+    <path d="M12 5v16" />
+    <path d="M8 5.5v5" />
+    <path d="M4 6v4" />
+    <path d="M20 8h-16" />
+  </g>
+      <text x="740" y="288" font-size="21" font-weight="bold" fill="#E9EFFB">更多数据源</text>
+      <text x="740" y="328" font-size="18" fill="#9AA9C7">接入短视频与直播平台数据</text>
+    </g>
+    <g id="road-copy">
+      <rect x="652" y="384" width="548" height="112" rx="14" fill="#101828" stroke="#2E4468" stroke-width="1"/>
+      <!-- icon: tabler-outline/wand -->
+  <g transform="translate(684, 412) scale(1.33333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M6 21l15 -15l-3 -3l-15 15l3 3" />
+    <path d="M15 6l3 3" />
+    <path d="M9 3a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2" />
+    <path d="M19 13a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2" />
+  </g>
+      <text x="740" y="428" font-size="21" font-weight="bold" fill="#E9EFFB">宣发初稿</text>
+      <text x="740" y="468" font-size="18" fill="#9AA9C7">文案与切片脚本自动生成第一版</text>
+    </g>
+    <g id="road-bot">
+      <rect x="652" y="524" width="548" height="112" rx="14" fill="#101828" stroke="#2E4468" stroke-width="1"/>
+      <!-- icon: tabler-outline/robot -->
+  <g transform="translate(684, 552) scale(1.33333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M6 6a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2l0 -4" />
+    <path d="M12 2v2" />
+    <path d="M9 12v9" />
+    <path d="M15 12v9" />
+    <path d="M5 16l4 -2" />
+    <path d="M15 14l4 2" />
+    <path d="M9 18h6" />
+    <path d="M10 8v.01" />
+    <path d="M14 8v.01" />
+  </g>
+      <text x="740" y="568" font-size="21" font-weight="bold" fill="#E9EFFB">艺人自助机器人</text>
+      <text x="740" y="608" font-size="18" fill="#9AA9C7">艺人在群里直接查自己的数据</text>
+    </g>
+  </g>
+
+  <g id="footer" data-pptx-bounds="80 664 1120 40">
+    <text x="80" y="690" font-size="13" letter-spacing="3" fill="#3E5174">MUSIC CREATOR MANAGER</text>
+    <text x="1200" y="690" font-size="13" letter-spacing="2" text-anchor="end" fill="#3E5174">10 / 11</text>
+  </g>
+</svg>
