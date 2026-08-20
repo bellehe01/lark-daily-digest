@@ -62,3 +62,18 @@
 1. 没先立结构(边讲边长)→ 现在:开口报六步或至少 "Three parts"
 2. 没打题眼:"20K+ 不到 1%"=**机会在 99%**,该先问"这 1% 和 99% 之间卡在哪一层"(开播频次?观看?付费转化?)再分层拉动——驱动关系那一步
 3. 没说"影响≠值得投入"的判断和校准条件 → 听起来像计划,不像反馈系统
+
+---
+
+## 用六步重答 Zora 音乐题(标准答案,2026-08 复盘定稿)
+
+**题**:music 垂类供给不小,但月收入 20K+ 的创作者不到 1%;要扩展音乐垂类,运营策略怎么规划?
+
+1. **口径+基线(开头 30 秒,当场缺的)**:20K 什么口径(月?只打赏还是含带货)?1% 的分母是谁(全部 tagged 还是活跃开播)?**基线:这个 1% 过去六个月趋势?其他垂类占比多少?**——若各垂类都 ~1%,是行业幂律不是音乐的病,题从"修复"变"结构性拉动"。目标建议背 20K+ 绝对人数,不背占比(占比可缩分母作弊)。
+2. **驱动关系(题眼:机会在 99%)**:20K+ 人数 = 活跃供给底盘 × 逐级转化(首播→稳定开播→1K→5K→10K→20K);先拉逐级转化率找断点——底盘小=拉新问题;中段断崖=内容/习惯问题;最后一跳=变现机制问题(收入=观看×付费转化×单付费额)。
+3. **可控程度**:直接可调=辅导/playbook/激励;需协同=campaign 资源、订阅礼物机制(产品);短期难改=版权、付费文化。金句:影响结果 ≠ 值得投入——版权影响大但不押,中段辅导见效快,资源先放这。
+4. **前置信号**:收入滞后;每层设先行信号——稳定开播率、场均观看、回访率、付费渗透、首次收礼时间。
+5. **责任边界**:我 own 诊断+playbook+辅导;campaign own 放大;变现机制需求提给产品;底盘和机构拉。
+6. **校准条件**:试点 50–100 个 10K–20K 高潜跑 4–6 周;先行信号连续两周期改善→扩大;**信号动收入不动→驱动关系判错,重查再定资源**;都不动→换杠杆。
+
+**EN 路标句**:"Before I plan, let me confirm the metric... what's the baseline?" → "Then I'd break the result into its drivers — a ladder of conversions; find where it breaks." → "What drives the result and what's worth our investment are two different things." → "Revenue lags, so I'd set leading signals." → "Each rung gets an owner." → "If signals improve for two cycles, scale; if signals move but revenue doesn't, re-examine the driver logic."
