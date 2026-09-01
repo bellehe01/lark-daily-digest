@@ -63,3 +63,4 @@
 ## 补充数字(2026-08,来源:Sound_Interview.docx 本人准备稿)
 | −80% | Music metadata QA checklist 采纳后同类错误(六周窗口) | 本人 SoundCloud 准备稿 claim | 追问:升级协议 48–72h + checklist 三件套 |
 | 数小时 | 大牌专辑 ingestion 延迟事故的恢复时间 | 同上 | Tate McRae 专辑;SQL 查 CMS 定位 |
+| 70,000+ | Creator CRM 达人数(2026-08 本人更新;44,000+ 为 2026-07 旧口径) | 本人确认 | 面试注意与旧材料口径一致性:新申请用 7 万,LIVE 流程期间的材料是 4.4 万 |
