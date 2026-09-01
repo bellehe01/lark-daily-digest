@@ -59,3 +59,7 @@
 - SCF 完整时间线(发现→安抚→根因→自动化→验证)
 - 5 of 30 怎么发现是共性需求的
 - "讲一次失败的经历" ✅ 已定稿(2026-07):SCF 人工分层方案——本人参与制定、没做容量测算 → 3,000+ 积压 + 20+ 投诉 → 止血+自动化根治 → 教训"先算账再承诺"。全文见 experience-outlandish.md 末尾。备胎:Music 小样本错误洞察。⚠️ SCF 成功版与失败版同场面试只用一次
+
+## 补充数字(2026-08,来源:Sound_Interview.docx 本人准备稿)
+| −80% | Music metadata QA checklist 采纳后同类错误(六周窗口) | 本人 SoundCloud 准备稿 claim | 追问:升级协议 48–72h + checklist 三件套 |
+| 数小时 | 大牌专辑 ingestion 延迟事故的恢复时间 | 同上 | Tate McRae 专辑;SQL 查 CMS 定位 |

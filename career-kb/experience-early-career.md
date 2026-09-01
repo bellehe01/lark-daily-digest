@@ -241,3 +241,16 @@
 - 空间紧张时优先砍:T3(除非投 AI 岗)、D1(除非投内容/运营岗)、B3
 - B1 vs B2 二选一规则:创作者增长类岗留 B1,平台治理/支持类岗留 B2
 - T1、D2、D3 几乎所有岗位通用,默认保留
+
+---
+
+## TikTok Music · 版权与 Metadata 运营弹药(来源:Sound_Interview.docx,本人 2025 SoundCloud 面试准备稿,2026-08 归档)
+
+> 这部分此前未进简历/口径库;对 copyright/music-tech 类岗位是正面命中的差异化弹药。
+
+- **每周 metadata 运营**:通过内部 CMS(类 WordPress)管理新歌/新专辑上线;字段:track title、artist、release date、**ISRC、distributor、genre、region**;对照 label 每周/每季度发来的交付时间表逐项核对;缺失/不一致用 SQL 从后端拉数补齐并报 BD
+- **版权合规(rights safeguard)**:编辑歌单策展前核查,**确保不误收无版权内容(当时平台无 UMG 版权)**——歌单侧的 copyright compliance 实操
+- **事故处理 STAR(Tate McRae 专辑延迟)**:S=周五发现大牌新专辑 Spotify/Apple 已上、我方未上 → T=粉丝在搜,影响留存与信任 → A=SQL 交叉核对 CMS,定位 label ingestion 延迟;升级 BD 高优;手动补 distributor 数据;顺带复查歌单排除受限内容 → R=数小时内上线
+- **机制沉淀(被团队采纳)**:①升级协议:发现 mismatch 提前 48–72 小时通知 BD 跟 label ②metadata QA checklist(ISRC/distributor/release region)③大牌 release 上线前人工复核 ④歌单版权 safeguard → **同类错误六周内 −80%**
+- 配套(已在简历):自助看板(KPI+metadata 合一)、培训/help docs/FAQ、区域内容洞察(lo-fi 在越南/印尼完播与收藏率更高 → 调 3 个区域歌单)
+- ⚠️ 数字出处:−80%、"数小时内上线"、"三周内编辑转为活跃用户"均出自本人 SoundCloud 准备稿(本人 claim,无第三方验证);简历可用,追问时口径="上线后六周内的同类错误对比"
