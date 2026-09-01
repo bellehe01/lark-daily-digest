@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Belle He — Resume</title>
+<style>
+  @page { size: letter; margin: 0.38in 0.5in; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 8.7pt;
+    line-height: 1.17;
+    color: #1a1a1a;
+  }
+  h1 {
+    font-size: 18pt;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin-bottom: 2pt;
+  }
+  .contact {
+    text-align: center;
+    font-size: 8.9pt;
+    color: #333;
+    margin-bottom: 5pt;
+  }
+  .contact a { color: #333; text-decoration: none; }
+  h2 {
+    font-size: 10pt;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    border-bottom: 1.2px solid #1a1a1a;
+    padding-bottom: 1pt;
+    margin: 5pt 0 2.5pt;
+  }
+  .job { margin-bottom: 4pt; }
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .job-title { font-size: 9.5pt; }
+  .job-title .co { font-weight: 700; }
+  .job-title .role { font-style: italic; font-weight: 600; }
+  .dates { font-weight: 700; font-size: 9.0pt; white-space: nowrap; }
+  ul { margin: 1.5pt 0 0 11.5pt; }
+  li { margin-bottom: 1pt; text-align: justify; }
+  .summary { margin-bottom: 2pt; text-align: justify; }
+  .skills li { margin-bottom: 1.2pt; text-align: left; }
+  .edu { display: flex; justify-content: space-between; align-items: baseline; margin-top: 3pt; }
+  .edu .school { font-weight: 700; }
+  .edu-detail { font-style: italic; }
+</style>
+</head>
+<body>
+
+<h1>Belle He</h1>
+<div class="contact">
+  San Francisco Bay Area, CA&nbsp;|&nbsp;+1-602-813-8134&nbsp;|&nbsp;<a href="mailto:hebeier@163.com">hebeier@163.com</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/beierhe">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/bellehe01">GitHub</a>&nbsp;|&nbsp;<a href="https://public.tableau.com/app/profile/beier.he/vizzes">Tableau Public</a>
+</div>
+
+<h2>Summary</h2>
+<p class="summary">
+Trust and safety focused product builder with TikTok and ByteDance experience across content governance, policy enforcement, and appeals. Designed moderation and enforcement systems that cut high-risk content exposure while click-through rates held or rose; brokered a layered enforcement policy between Legal and Operations that reduced user complaints by 15%; and built the appeals and reviewer-feedback loops that cut a false-positive class by 78%. Ship 0-to-1 products and AI-driven workflow automation, and measure everything: enforcement precision, appeal win rates, and the counter metrics that keep enforcement honest. Strong SQL; native Mandarin Chinese and fluent English, bridging China-based and US teams daily.
+</p>
+
+<h2>Work Experience</h2>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">Outlandish (TikTok Shop Agency)</span> | <span class="role">Senior Data Analyst, AI Development Team</span></div>
+    <div class="dates">Sep 2025 – Present</div>
+  </div>
+  <ul>
+    <li><b>Verification &amp; integrity workflows:</b> deployed AI-vision verification that replaced manual, gameable data checks in creator tier assignment; when a 5,000-person creator event's manual verification broke down (3,000+ backlog, 20+ complaint tickets), triaged and resolved every complaint case by case, prioritized by actual harm, then automated the workflow with webhooks and TikTok API, cutting check-in from 4 hours to 20 minutes and eliminating that ticket category.</li>
+    <li><b>0-to-1 internal products:</b> own the product portfolio used daily across 300+ brands and 70,000+ creators, including a creator CRM (the operating backbone for account and ops teams) and an AI planning tool that cut planning cycles from ~1 month to 7 days; shipped AI workflow automations (LLM meeting pipeline, C-suite triage agent, open-sourced at <a href="https://github.com/bellehe01/lark-daily-digest">github.com/bellehe01/lark-daily-digest</a>) eliminating ~250 hours of manual work per month.</li>
+    <li><b>User education &amp; support:</b> deliver training, SOPs, user guides, and FAQs for BD, Operations, Legal, Finance, and US/UK teams; handle 10–30 user inquiries daily as the final resolution point, turning recurring issues into product fixes.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">TikTok</span> | <span class="role">Product Manager Intern, Effect Creation Tools Team</span></div>
+    <div class="dates">Jan 2024 – Jun 2024</div>
+  </div>
+  <ul>
+    <li><b>False-positive remediation at scale:</b> diagnosed a content pipeline converting at 0.06% and traced it with SQL to outdated filter rules systematically blocking valid, high-demand content; led a four-layer fix across data warehouse rules, platform filters, QA thresholds, and human review capacity (with reviewer training and a quality dashboard), scaling daily usable supply from under 10 to 4,000+.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">TikTok</span> | <span class="role">Data Analyst Intern, Music User Product Team</span></div>
+    <div class="dates">Aug 2023 – Jan 2024</div>
+  </div>
+  <ul>
+    <li><b>Rights compliance operations:</b> ran weekly metadata operations for new releases, verifying ISRC, distributor, and release region against label delivery schedules with SQL, and enforced rights safeguards during the UMG licensing transition by screening unlicensed tracks out of editorial playlists; my escalation protocol and QA checklist were adopted, cutting similar errors ~80%. Also built the editorial team's self-serve dashboards, cutting ad-hoc requests 70%.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <div class="job-title"><span class="co">ByteDance</span> | <span class="role">Product Operations Intern, Photo &amp; Text Community Team</span></div>
+    <div class="dates">Jan 2023 – Aug 2023</div>
+  </div>
+  <ul>
+    <li><b>Content governance system:</b> designed low-quality and violation identification rules from moderation data and engagement signals for Douyin's Explore feed, cutting low-quality cover exposure from 9% to 3.8% of external page views and high-risk content exposure by 12%, while the feed's click-through rate held and rose (the counter metric that kept enforcement honest).</li>
+    <li><b>Policy enforcement between Legal and Operations:</b> when Legal pushed strict blocking and Operations feared over-enforcement, analyzed three months of violation data (under 20% truly high-risk), proposed layered enforcement (immediate-block terms vs. second-review terms), and ran a two-week trial sharing daily blocking data and user feedback with both sides; high-risk terms blocked at near 100%, user complaints down 20% in trial and 15% after full rollout.</li>
+    <li><b>Appeals &amp; reviewer feedback loop:</b> measured enforcement with offline precision/recall, online false-positive and false-negative rates, and user appeal and appeal-win rates; reviewer-reported false positives fed model retraining, cutting one false-positive class by 78% and removing 3,000+ daily review cases, lifting moderation efficiency ~80%.</li>
+  </ul>
+</div>
+
+<h2>Projects</h2>
+<div class="job">
+  <ul>
+    <li><b>Credit-card fraud detection (ML research):</b> built fraud models on 1.2M transactions with only 0.58% fraud labels; engineered behavioral features, handled class imbalance with SMOTE and ADASYN, and benchmarked XGBoost, Random Forest, Logistic Regression, and KNN with hyperparameter tuning, significantly improving recall and F1 on held-out data.</li>
+  </ul>
+</div>
+
+<h2>Skills</h2>
+<ul class="skills">
+  <li><b>Trust &amp; Safety:</b> Content Governance, Policy Enforcement Design, Appeals &amp; Escalation Workflows, False-Positive Remediation, Fraud &amp; Risk Signals, Counter-Metric Design, Moderation Operations, User Education &amp; Policy Communication</li>
+  <li><b>Product:</b> 0-to-1 Product Development, Requirements &amp; Spec Writing, Roadmap Prioritization, Cross-Functional &amp; Cross-Country Collaboration, SOP &amp; Documentation, Rollout &amp; Training</li>
+  <li><b>Data &amp; AI:</b> SQL (joins, CTEs, window functions), Python (pandas, numpy, scikit-learn), A/B Testing, Tableau, Power BI, LLM Workflow Automation, AI Vision, Prompt Engineering, ML for Fraud Detection (XGBoost, SMOTE/ADASYN)</li>
+  <li><b>Languages:</b> Mandarin Chinese (native), English (fluent); daily cross-country collaboration</li>
+</ul>
+
+<h2>Education</h2>
+<div class="edu">
+  <div><span class="school">University of Arizona</span> — <span class="edu-detail">Master of Science, Business Analytics</span></div>
+  <div class="dates">May 2025</div>
+</div>
+<ul>
+  <li><b>Coursework (all A/A+):</b> Statistics, Python, Database, Econometrics, Data Mining, Data Visualization, Big Data, Enterprise AI</li>
+</ul>
+<div class="edu">
+  <div><span class="school">Shanghai Business School</span> — <span class="edu-detail">Bachelor of Management, Business Administration</span></div>
+  <div class="dates">Jun 2024</div>
+</div>
+<div class="edu">
+  <div><span class="school">Shanghai University of Finance and Economics</span> — <span class="edu-detail">Exchange Program, Business Administration</span></div>
+  <div class="dates">Jun 2023</div>
+</div>
+
+</body>
+</html>

@@ -254,3 +254,42 @@
 - **机制沉淀(被团队采纳)**:①升级协议:发现 mismatch 提前 48–72 小时通知 BD 跟 label ②metadata QA checklist(ISRC/distributor/release region)③大牌 release 上线前人工复核 ④歌单版权 safeguard → **同类错误六周内 −80%**
 - 配套(已在简历):自助看板(KPI+metadata 合一)、培训/help docs/FAQ、区域内容洞察(lo-fi 在越南/印尼完播与收藏率更高 → 调 3 个区域歌单)
 - ⚠️ 数字出处:−80%、"数小时内上线"、"三周内编辑转为活跃用户"均出自本人 SoundCloud 准备稿(本人 claim,无第三方验证);简历可用,追问时口径="上线后六周内的同类错误对比"
+
+---
+
+## Trust & Safety / 反欺诈弹药(来源:TikTok Shop Anti-fraud Solutions PM 面试逐字稿,2025-07,面试官 Mason;2026-08 归档)
+
+> ⚠️ 以下数字均为本人面试中的 claim,无第三方验证;书面/口头使用保持同口径。
+
+### 抖音探索页治理(完整版,比简历版细)
+- 场景:抖音探索页图文瀑布流;低质封面 external PV **9%**,超 5% 阈值
+- 动作:基于审核数据+互动信号设计低质识别规则;改规则+提模型效率+提人审效率
+- 结果:external PV **9%→3.8%**;高风险内容 −12%;**CTR 波动上涨(counter metric)**;"tearful"类误伤 −78%(与积极词组合训练);每天减少 3,000+ 审核 case → 人审效率 +80%
+
+### 法务 vs 运营 · 分层执法 STAR(policy communication 王牌)
+- S:法务要求严规则过审,运营怕过度拦截伤用户体验
+- A:分析近 3 个月违规数据 → **<20% 真高危,~80% 模糊词**(如抱怨客服态度)→ 提分层方案:**立即屏蔽词**(保合规)+ **待复审词**(二轮审核给缓冲)→ 单业务线 2 周试点,每天向双方同步拦截数据和用户反馈
+- R:高危词拦截率近 100%(法务满意);用户投诉率 −20%(运营满意);全量后整体投诉 −15%
+- 学习:分层方案让所有 stakeholder 都能接受;重视用户申诉与人审反馈
+
+### 申诉与指标词汇(实战用过)
+- 离线:precision / recall / F1;线上:FP 率 / FN 率;用户侧:**appeal rate / appeal win rate**、engagement(CTR 做 counter metric)
+- 人审反馈闭环:审核员报误伤实例 → 组合正向词训练 → FP 下降
+
+### 特效故事 · 反欺诈/误伤取景(同素材换皮)
+- 漏斗整体转化率 **0.06%**;SQL 挖历史拒绝原因 → 过滤规则**系统性误杀**高热度有效内容(抠图/人脸分割/背景移除类)
+- 四层修复:数仓选品规则(近7天top→不限发布时间)/ 平台过滤品类规则解封 / QA 放宽内存帧率限制 / 人审扩容+培训+看板(转化率、审核准确率);每天 6,000+ 新进人审
+- 结果:日可用特效 <10 → 4,000+(=400x 口径的出处)
+
+### 信用卡反欺诈 ML 项目(学校,Kaggle 数据集)
+- 数据:120 万交易,仅 **0.58%** 欺诈(极不平衡);15% 邮编缺失(众数填补)、one-hot 编码
+- 特征工程:交易小时、周末 flag、线上交易指示符
+- 方法:XGBoost / Random Forest / Logistic / KNN 对比;**SMOTE + ADASYN** 处理不平衡;超参调优
+- 结果:recall 与 F1 显著提升;XGBoost+ADASYN 最优
+- ⚠️ 口径:offline 数据集、train/test 划分;别说成线上系统
+
+### 反欺诈 PM 面试官透露(Mason,TikTok Shop creator risk 团队)
+- 团队:全球(东南亚/拉美/美国/欧洲);2 新加坡、1 北京、3 西雅图
+- OKR:降低低质内容曝光(VV/PV 口径);项目:inauthentic live detection、群控/bot 检测
+- 新人首项目方向:risk tags / metrics deep dive
+- 他要的特质:self-motivated、拿 ownership(无清晰指令环境)
