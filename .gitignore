@@ -1,3 +1,5 @@
 config.sh
 logs/
 .DS_Store
+# Holds company-confidential analysis; kept out of this public repo pending move to a private career-kb repo
+career-kb/projects-from-code-2026-10.md
