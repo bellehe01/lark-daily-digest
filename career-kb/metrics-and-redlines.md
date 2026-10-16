@@ -75,3 +75,9 @@
 | 1,496 / 1,436 | creatorsamples_web 提交/合并 PR | GitHub 查证 | 仓库同期总 PR 12,054,占 ~12%(🔴 不可说 top contributor) |
 | 186 / 185 | paseo-harness 提交/合并 PR | GitHub 查证 | AI agent 舰队控制台(Mission Control/AI Operators/人审 Inbox) |
 🔴 红线:内部代号(Paseo/Open Outlandish/OpenClaw)不进简历;流程如实=PR 经 Lead Developer review 后合并;agent 舰队细节(Creator Manager 人审环、BD lead 自更新卡片)可作面试故事,公司系统截图仍不可展示。
+
+## AM 容量口径(2026-10-16 本人提供 + 代码查证)
+| 1-2 个店/AM | 当前 AM 管理容量基线 | 本人口径;公司 Account Capacity tab(她建的,2026-08-04 生产数据)实测 shops per person | 基线仪表是她自己建的——面试金句素材 |
+| 6-7 个店/AM | AI agent 舰队(Ollie/Outlandish Companion)**预计**提效目标 | 本人口径 2026-10-16 | 🔴 是 projected/target,不是已实现——简历写 "projected to lift / targeting",不写 lifted |
+| 1 → 2-3 个 | 推荐引擎已实现的容量提升(2026-07 确认) | 本人确认 | 与上面不冲突:阶梯=基线 1-2 → 推荐引擎 2-3(已实现)→ agent 舰队 6-7(目标) |
+Ollie/Companion 事实(代码+设计文档查证,2026-10-16):Companion = 一个产品四级权限(admin 舰队面板 / AM 内部操作员 / 外部卖家 free+paid,规划上 TikTok Shop App Store,订阅+token 计费);每店配 customer service / creator manager / ads manager 等 agent,propose-and-confirm 人审契约;Ollie = Companion 内 AM 的对话 copilot(creator cards in chat、question cards、campaign chat、confirmed tools、memory 提议、direct handoff)。🔴 内部代号 Ollie/Companion/Paseo 不进简历,面试可口头讲机制。
