@@ -4,54 +4,50 @@
 <meta charset="utf-8">
 <title>Belle He — Resume</title>
 <style>
-  @page { size: letter; margin: 0.38in 0.5in; }
+  @page { size: letter; margin: 0.4in 0.5in; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    font-family: "Helvetica Neue", Arial, sans-serif;
-    font-size: 8.8pt;
-    line-height: 1.18;
-    color: #1a1a1a;
+    font-family: "Times New Roman", Georgia, serif;
+    font-size: 9.0pt;
+    line-height: 1.15;
+    color: #111;
   }
   h1 {
-    font-size: 18pt;
+    font-size: 17pt;
     text-align: center;
     font-weight: 700;
-    letter-spacing: 0.5px;
     margin-bottom: 2pt;
   }
   .contact {
     text-align: center;
-    font-size: 8.9pt;
-    color: #333;
-    margin-bottom: 5pt;
+    font-size: 9pt;
+    margin-bottom: 4pt;
   }
-  .contact a { color: #333; text-decoration: none; }
+  .contact a { color: #111; }
   h2 {
-    font-size: 10pt;
+    font-size: 10.2pt;
     font-weight: 700;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.4px;
     text-transform: uppercase;
-    border-bottom: 1.2px solid #1a1a1a;
+    border-bottom: 0.9px solid #333;
     padding-bottom: 1pt;
-    margin: 4.5pt 0 2pt;
+    margin: 4pt 0 2pt;
   }
-  .job { margin-bottom: 3pt; }
-  .job-header {
+  .job { margin-bottom: 3.2pt; }
+  .row {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
   }
-  .job-title { font-size: 9.5pt; }
-  .job-title .co { font-weight: 700; }
-  .job-title .role { font-style: italic; font-weight: 600; }
-  .dates { font-weight: 700; font-size: 9.0pt; white-space: nowrap; }
-  ul { margin: 1.5pt 0 0 11.5pt; }
-  li { margin-bottom: 1pt; text-align: justify; }
-  .summary { margin-bottom: 2pt; text-align: justify; }
+  .co { font-weight: 700; font-size: 10pt; }
+  .role { font-style: italic; }
+  .dates { font-weight: 700; white-space: nowrap; }
+  .loc { font-style: italic; white-space: nowrap; }
+  ul { margin: 1.5pt 0 0 12pt; }
+  li { margin-bottom: 0.8pt; text-align: justify; }
+  .skills { margin-left: 12pt; }
   .skills li { margin-bottom: 1.2pt; text-align: left; }
-  .edu { display: flex; justify-content: space-between; align-items: baseline; margin-top: 3pt; }
-  .edu .school { font-weight: 700; }
-  .edu-detail { font-style: italic; }
+  .edu { margin-bottom: 2.5pt; }
 </style>
 </head>
 <body>
@@ -61,91 +57,77 @@
   San Francisco Bay Area, CA&nbsp;|&nbsp;+1-602-813-8134&nbsp;|&nbsp;<a href="mailto:hebeier@163.com">hebeier@163.com</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/beierhe">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/bellehe01">GitHub</a>&nbsp;|&nbsp;<a href="https://public.tableau.com/app/profile/beier.he/vizzes">Tableau Public</a>
 </div>
 
-<h2>Summary</h2>
-<p class="summary">
-Internal tools and data product builder at a TikTok Shop agency serving 300+ brands. My work is one chain: replace manual, error-prone reporting with trusted automated data, build the internal products that run on that data, then layer AI agents on top so the workflows run themselves. I ship all of it as production code (1,600+ merged pull requests in 7 months, AI-assisted and engineering-reviewed) and own adoption end to end, from intake and training to usage-driven iteration. Based in San Francisco.
-</p>
-
 <h2>Work Experience</h2>
 
 <div class="job">
-  <div class="job-header">
-    <div class="job-title"><span class="co">Outlandish (TikTok Shop Agency)</span> | <span class="role">Senior Data Analyst, AI Development Team</span></div>
-    <div class="dates">Sep 2025 – Present</div>
-  </div>
+  <div class="row"><span class="co">Outlandish (TikTok Shop Agency)</span><span class="dates">Sep 2025 - Present</span></div>
+  <div class="row"><span class="role">Senior Data Analyst - AI Development Team</span><span class="loc">San Francisco Bay Area</span></div>
   <ul>
-    <li><b>Step 1, trusted data:</b> replaced account executives' hand-copied GMV and ad-spend tracking with automated TikTok API feeds and 60+ validation automations, establishing the company's single source of truth: ~250 hours of manual work eliminated per month, frontline data accuracy up from ~70% to nearly 97%, and an entire class of reporting errors gone.</li>
-    <li><b>Step 2, products on that data:</b> built the 0-to-1 creator CRM that is now the operating backbone for account and ops teams across 70,000+ creators; an AI planning tool that cut monthly planning from ~1 month to 7 days (piloted with account managers, then company-wide); and the role-based dashboards and client-facing monthly benchmarks (US/UK) that leadership and clients work from.</li>
-    <li><b>Step 3, AI agents that run the workflows:</b> the company now operates a fleet of production AI agents that run client shops (creator outreach, customer service, ads), projected to lift account-manager capacity from 1-2 shops to 6-7. I shipped the human-approval rail at its core (every outbound creator message or sample approval carries the approving person's own chat message, verified server-side), plus BD lead intake that turns each lead into a self-updating Lark card with one-click claim, a meeting-operations pipeline (calendar discovery, LLM summaries, auto-assigned tasks), and a C-suite daily digest agent (open-sourced: <a href="https://github.com/bellehe01/lark-daily-digest">github.com/bellehe01/lark-daily-digest</a>).</li>
-    <li><b>Run it all like a product:</b> final resolution point for 10-30 tool and data requests daily; recurring-issue reviews feed the roadmap (5 of 30 users filed the same reporting request, so I shipped self-serve report editing and drove the category to zero); SOPs, user guides, and training for BD, Ops, Legal, Finance, and US/UK teams; make the build-direct vs. hand-off call explicitly (prototyped an LLM+RAG approach for two weeks, then chose a lightweight design that account managers actually adopted, lifting their capacity from 1 to 2-3 brands even before the agent fleet).</li>
+    <li>Own the company's internal platform end to end, shipping 1,600+ merged pull requests to production in 7 months (Laravel/React: ops command center, creator CRM covering 70,000+ creators, TikTok data sync and reporting) through AI-assisted development with engineering review.</li>
+    <li>Replaced manual GMV and ad-spend tracking with automated TikTok API data feeds and 60+ validation workflows, eliminating ~250 hours of manual work per month and raising frontline data accuracy from ~70% to 97%.</li>
+    <li>Launched an AI planning tool that cut monthly brand planning from ~1 month to 7 days, piloting with account managers before rolling out across 300+ brands; identified recurring user requests from intake data and shipped self-serve report editing, driving that request category to zero.</li>
+    <li>Built production AI agents that run daily operations: a meeting pipeline turning client meetings into LLM-extracted summaries and auto-assigned Lark tasks, BD lead intake with self-updating claim cards, and creator outreach with server-verified human approvals; the agent fleet is projected to raise account manager capacity from 1-2 shops to 6-7.</li>
+    <li>Automated a 5,000-person creator event's manual tier verification (3,000+ record backlog, 20+ support tickets) with webhooks, TikTok API, and AI-vision checks, cutting check-in from 4 hours to 20 minutes and eliminating the ticket category.</li>
+    <li>Serve as final resolution point for 10-30 daily tool and data requests from internal and external users; deliver SOPs, user guides, and training across BD, Operations, Legal, Finance, and US/UK regional teams.</li>
   </ul>
 </div>
 
 <div class="job">
-  <div class="job-header">
-    <div class="job-title"><span class="co">IntelliPro Group</span> | <span class="role">Product Manager Intern, AI Sourcing</span></div>
-    <div class="dates">May 2025 – Sep 2025</div>
-  </div>
+  <div class="row"><span class="co">IntelliPro Group</span><span class="dates">May 2025 - Sep 2025</span></div>
+  <div class="row"><span class="role">Product Manager Intern - AI Sourcing</span><span class="loc">San Francisco Bay Area</span></div>
   <ul>
-    <li><b>0-to-1 internal tool:</b> designed and drove an AI candidate-sourcing tool (raw job description to a ranked LinkedIn shortlist), piloted inside IntelliPro's ATS and tested by working recruiters; built with a three-engineer team, reporting directly to the CTO and CEO.</li>
-    <li><b>Defining metrics that stick:</b> defined what "good" means and made it measurable: a weighted six-dimension scoring rubric, golden-standard labeled sets built with cross-annotator reconciliation, and offline evaluations reaching ~94% nDCG@30 with 98%+ overlap against recruiters' manual top-30 ranking; benchmarked 8+ LLMs on quality vs. cost.</li>
+    <li>Designed and drove a 0-to-1 AI candidate-sourcing tool (raw job description to ranked LinkedIn shortlist), piloted inside IntelliPro's ATS with working recruiters; built with a three-engineer team, reporting to the CTO and CEO.</li>
+    <li>Defined evaluation standards for LLM output quality: a weighted six-dimension scoring rubric and golden-standard labeled sets with cross-annotator reconciliation, reaching ~94% nDCG@30 and 98%+ overlap against recruiters' manual top-30 ranking; benchmarked 8+ LLMs on quality vs. cost.</li>
   </ul>
 </div>
 
 <div class="job">
-  <div class="job-header">
-    <div class="job-title"><span class="co">TikTok</span> | <span class="role">Product Manager Intern, Effect Creation Tools Team</span></div>
-    <div class="dates">Jan 2024 – Jun 2024</div>
-  </div>
+  <div class="row"><span class="co">TikTok</span><span class="dates">Jan 2024 - Jun 2024</span></div>
+  <div class="row"><span class="role">Product Manager Intern - Effect Creation Tools Team</span><span class="loc">Shanghai</span></div>
   <ul>
-    <li>Drove a 0-to-1 internal asset library (4,000+ categorized assets) launched with engineering, design, ops, QA, and legal, lifting submission penetration 38% and per-user content creation 55%; validated via A/B tests and user interviews.</li>
+    <li>Spearheaded a 0-to-1 initiative to build TikTok's next-gen effect asset library, launching 4,000+ categorized assets with engineering, design, ops, QA, and legal, increasing submission penetration by 38% and per-user content creation by 55%.</li>
+    <li>Unblocked TikTok's top-priority effect migration pipeline after 6+ months of failure, diagnosing root issues across ETL, QA, and ML filters; rebuilt logic with engineering and scaled throughput 400x, restoring effect supply to the recommendation system.</li>
   </ul>
 </div>
 
 <div class="job">
-  <div class="job-header">
-    <div class="job-title"><span class="co">TikTok</span> | <span class="role">Data Analyst Intern, Music User Product Team</span></div>
-    <div class="dates">Aug 2023 – Jan 2024</div>
-  </div>
+  <div class="row"><span class="co">TikTok</span><span class="dates">Aug 2023 - Jan 2024</span></div>
+  <div class="row"><span class="role">Data Analyst Intern - Music User Product Team</span><span class="loc">Shanghai</span></div>
   <ul>
-    <li>Built the team's self-service Tableau dashboards and defined their metric conventions, cutting ad-hoc data requests by 70%; analyzed 5M+ playlist records with SQL and Python; weekly insights drove an 18% WAU increase and cut curation cycle time from 4 days to 2.</li>
+    <li>Queried and analyzed over 5M playlist records using SQL and Python with profiling and validation checks; delivered weekly insights to cross-regional editorial teams, reducing curation time from 4 days to 2 and driving an 18% increase in Weekly Active Users.</li>
+    <li>Built self-service Tableau dashboards monitoring key KPIs (playlist WAU, average streaming time) with drill-down interactions, improving real-time visibility and reducing ad-hoc data requests by 70%.</li>
   </ul>
 </div>
 
 <div class="job">
-  <div class="job-header">
-    <div class="job-title"><span class="co">ByteDance</span> | <span class="role">Product Operations Intern, Photo &amp; Text Community Team</span></div>
-    <div class="dates">Jan 2023 – Aug 2023</div>
-  </div>
+  <div class="row"><span class="co">ByteDance</span><span class="dates">Jan 2023 - Aug 2023</span></div>
+  <div class="row"><span class="role">Product Operation Intern - Photo &amp; Text Community Team</span><span class="loc">Shanghai</span></div>
   <ul>
-    <li>Built a standardized creator-evaluation system and content-governance flagging on moderation data, cutting high-risk content exposure 12%.</li>
+    <li>Launched growth initiatives (traffic support, creator education, submission campaigns) targeting high-quality creators identified via a standardized evaluation system, lifting submission frequency 10% and vertical view volume 7%.</li>
+    <li>Designed and iterated content governance systems for creator submissions, using historical moderation data and behavioral drop-off signals to proactively flag low-quality and policy-violating visuals, cutting high-risk exposure by 12%.</li>
   </ul>
 </div>
 
 <h2>Skills</h2>
 <ul class="skills">
-  <li><b>Internal Tools &amp; Automation:</b> Workflow Automation, REST APIs &amp; Webhooks, AI-assisted Coding (Claude), Lark/Feishu Open API integrations (Calendar/VC/Tasks/IM), Engineering-ready Spec Writing, SOP Development, Issue Triage &amp; Ticket Deflection</li>
-  <li><b>Data &amp; Analytics:</b> SQL (joins, CTEs, window functions), Python (pandas, numpy), Excel, KPI Definition, Data Validation &amp; QA Sampling, Dashboard Construction, Funnel &amp; Cohort Analysis, A/B Testing</li>
-  <li><b>AI &amp; LLM:</b> AI Agent Development &amp; Operations, LLM Workflow Automation, Prompt Engineering, LLM Labeling &amp; Categorization, LLM Evaluation (rubrics, golden-standard sets, nDCG), RAG, AI Vision, Model Selection &amp; Cost Optimization</li>
-  <li><b>Tools:</b> BigQuery, Snowflake, Tableau, Power BI, Amplitude, Mixpanel; HTML/JavaScript (working knowledge)</li>
-  <li><b>Languages:</b> English (fluent), Chinese (native)</li>
+  <li><b>AI &amp; Automation</b>: AI Agent Development &amp; Operations, LLM Workflow Automation, Prompt Engineering, LLM Evaluation (rubrics, golden-standard sets, nDCG), LLM Labeling &amp; Categorization, RAG, AI Vision, AI-assisted Coding (Claude), Model Selection &amp; Cost Optimization</li>
+  <li><b>Internal Tools &amp; Product</b>: Workflow Automation, REST APIs &amp; Webhooks, Lark/Feishu Open API, Engineering-ready Spec Writing, Roadmap Prioritization, SOP Development, Issue Triage &amp; Ticket Deflection, User Training &amp; Enablement</li>
+  <li><b>Data &amp; Analytics</b>: SQL (joins, CTEs, window functions), Python (pandas, numpy), Excel, Tableau, Power BI, BigQuery, Snowflake, Amplitude, Mixpanel, KPI Definition, Data Validation &amp; QA Sampling, A/B Testing</li>
+  <li><b>Languages</b>: English (fluent), Mandarin Chinese (native)</li>
 </ul>
 
 <h2>Education</h2>
 <div class="edu">
-  <div><span class="school">University of Arizona</span> — <span class="edu-detail">Master of Science, Business Analytics</span></div>
-  <div class="dates">May 2025</div>
-</div>
-<ul>
-  <li><b>Coursework (all A/A+):</b> Statistics, Python, Database, Econometrics, Data Mining, Data Visualization, Big Data, Enterprise AI</li>
-</ul>
-<div class="edu">
-  <div><span class="school">Shanghai Business School</span> — <span class="edu-detail">Bachelor of Management, Business Administration</span></div>
-  <div class="dates">Jun 2024</div>
+  <div class="row"><span class="co">University of Arizona</span><span class="dates">May 2025</span></div>
+  <div class="row"><span class="role">Master of Science, Business Analytics</span></div>
 </div>
 <div class="edu">
-  <div><span class="school">Shanghai University of Finance and Economics</span> — <span class="edu-detail">Exchange Program, Business Administration</span></div>
-  <div class="dates">Jun 2023</div>
+  <div class="row"><span class="co">Shanghai Business School</span><span class="dates">Jun 2024</span></div>
+  <div class="row"><span class="role">Bachelor of Management, Business Administration</span></div>
+</div>
+<div class="edu">
+  <div class="row"><span class="co">Shanghai University of Finance and Economics</span><span class="dates">Jun 2023</span></div>
+  <div class="row"><span class="role">Exchange Program, Business Administration</span></div>
 </div>
 
 </body>
