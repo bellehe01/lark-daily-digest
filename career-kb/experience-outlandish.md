@@ -117,6 +117,28 @@
 **追问**:①为何选人工 → 系统不打通、接 API 有开发成本、"一次性活动"错觉;本质是低估规模和错误率、高估人力弹性;②个人错在哪 → 方案期没提容量账;积压后先想加人硬扛,转自动化转晚了;③教训怎么用 → 250h、倒推公式。
 **⚠️ 战术**:SCF 有"最大挑战"(成功版)和"失败"两个取景,**同一场面试只用一次**;若已用成功版,失败题切备胎——Music 小样本错误洞察(发过基于个位数消费歌单波动的错误 insight → 被质疑 → 加最小样本过滤并写进看板注释)。
 
+## P12 · 生产代码交付量 + AI agent 舰队(GitHub 直接验证,2026-10-16 查证)
+
+**两个公司私有仓库的 PR 数据(按 author:bellehe01 查询,可随时复核)**:
+- **creatorsamples_web**("Outlandish Web Platform":Laravel 11 + React SPA,含 /ops 运营指挥中心、/creator-crm、Profit Calculator、TikTok 数据同步、Lark 集成、outreach 自动化):**提交 1,496 个 PR,合并 1,436 个**,首个合并 PR 2026-03-25,即 **约 7 个月**。同期仓库总 PR 12,054,她占 ~12%
+- **paseo-harness**(公司 **autonomous AI agent 舰队**的控制台:Mission Control / AI Operators / Inbox 人工决策审批;agents 含 Creator Manager、Companion、Shop agents、EA/BD/SO bots):**提交 186 个,合并 185 个**,全部在 2026-09-29 之后(**约 3 周**)。仓库总 1,232,她占 ~15%
+- **合计 1,621 个已合并生产 PR** → 简历口径 **"1,600+ merged pull requests"**(或保守 "1,400+" 只算主平台)
+
+**近期 PR 主题(标题可证,面试细节素材)**:
+- BD lead intake(/grow):新 lead 变成一张**自更新的 Lark 卡片 + "I'll take it" 一键认领**;邮箱笔误自动标记、员工修正需填原因;每个 lead 一次免费 call,各处展示已约时间和改期入口
+- Agents Prospects 管线看板:brand × stage 的 kanban;修过选 owner 超时的性能问题
+- 数据一致性:TikTok 对零销量视频的两次读取(一份缺货币/商品字段)不再互相矛盾
+- Weekly report pacing:报告写明统计哪些天、按天配速
+- **Agent 人审环(human-in-the-loop)**:Creator Manager agent 批准 sample 时发送的是**本人的 yes**;无法私信 creator 时明确说缺什么;AM 在 Companion 聊天里给 outreach/sample 审批
+- Release check:发布前检测角色版本是否落后于模板
+
+**叙事升级(这条是核心)**:旧简历说"shipped AI workflow automations"(听着像写脚本的分析师);真实情况是——**用 AI 辅助开发直接向生产系统交付代码(每个 PR 过工程 review 后合并),且公司运营着一支生产环境的 AI agent 舰队,她既给 agent 建功能、也建管理这支舰队的控制台**。这是 "AI-native builder" 的实证,比任何形容词硬。
+
+**🔴 红线**:
+- 不可说 "top contributor"(占比 12–15%,未核他人;团队整体都是 AI 辅助高产模式)
+- 内部代号(Paseo、Open Outlandish、OpenClaw)不进简历,用 generic 描述
+- 流程如实:PR 由 Lead Developer review 后 merge(公司 citizen-coder 工作流),不说"独立上线无人审核"
+
 ## P11 · 数据质量治理(60+ 自动化流程,来源:TikTok_Platform_Ops.docx 本人定稿,2026-08 归档)
 - 痛点:AE 手工录入关键运营/财务数据,缺失/重复/无效/延迟问题频发,看板不准、人工核对来回沟通多
 - 方案:问题分类(missing/duplicate/invalid/late)→ 预防性校验逻辑嵌入内部平台 → 人工核对转为系统触发的检测/提醒/跟进 → **60+ 自动化流程** → 全部逻辑沉淀 Wiki 作为培训资源

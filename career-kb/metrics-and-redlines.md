@@ -69,3 +69,9 @@
 | −76% / −380条/天 / +18% | 封面治理:误伤下降/日均减少人审/审核效率(⚠️ 定稿口径;弃面试口述的−78%/3000+/+80%) | 同上 | 分层审核+例外处理("泪目") |
 | 100K/2周/α0.05/power80% | 单图模板 A/B 试验设计(t-test+卡方,按设备与流量来源分层) | 同上 | 结果:渗透+0.2%,投稿量+7% |
 | 2%→2.1% | 图文点击-投稿转化率 | 同上+KR截图 | O2 |
+
+## 补充数字(2026-10-16,来源:GitHub PR 直接查证,author:bellehe01)
+| 1,600+(精确 1,621) | 已合并生产 PR 总数(creatorsamples_web 1,436 + paseo-harness 185) | GitHub 查证 | 时间跨度:主平台 2026-03-25 起 ~7 个月;agent 控制台 2026-09-29 起 ~3 周 |
+| 1,496 / 1,436 | creatorsamples_web 提交/合并 PR | GitHub 查证 | 仓库同期总 PR 12,054,占 ~12%(🔴 不可说 top contributor) |
+| 186 / 185 | paseo-harness 提交/合并 PR | GitHub 查证 | AI agent 舰队控制台(Mission Control/AI Operators/人审 Inbox) |
+🔴 红线:内部代号(Paseo/Open Outlandish/OpenClaw)不进简历;流程如实=PR 经 Lead Developer review 后合并;agent 舰队细节(Creator Manager 人审环、BD lead 自更新卡片)可作面试故事,公司系统截图仍不可展示。

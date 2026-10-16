@@ -8,8 +8,8 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     font-family: "Helvetica Neue", Arial, sans-serif;
-    font-size: 8.85pt;
-    line-height: 1.19;
+    font-size: 8.45pt;
+    line-height: 1.12;
     color: #1a1a1a;
   }
   h1 {
@@ -33,9 +33,9 @@
     text-transform: uppercase;
     border-bottom: 1.2px solid #1a1a1a;
     padding-bottom: 1pt;
-    margin: 5pt 0 2.5pt;
+    margin: 4.5pt 0 2pt;
   }
-  .job { margin-bottom: 4pt; }
+  .job { margin-bottom: 3pt; }
   .job-header {
     display: flex;
     justify-content: space-between;
@@ -46,7 +46,7 @@
   .job-title .role { font-style: italic; font-weight: 600; }
   .dates { font-weight: 700; font-size: 9.0pt; white-space: nowrap; }
   ul { margin: 1.5pt 0 0 11.5pt; }
-  li { margin-bottom: 1.1pt; text-align: justify; }
+  li { margin-bottom: 0.7pt; text-align: justify; }
   .summary { margin-bottom: 2pt; text-align: justify; }
   .skills li { margin-bottom: 1.2pt; text-align: left; }
   .edu { display: flex; justify-content: space-between; align-items: baseline; margin-top: 3pt; }
@@ -63,7 +63,7 @@
 
 <h2>Summary</h2>
 <p class="summary">
-Internal tools &amp; data product builder: I find where manual, spreadsheet-driven work is slowing teams down and turn it into shipped fixes — automated data feeds and self-serve dashboards trusted by execs, workflow automation that replaces manual coordination, and a visible, triaged intake pipeline. I ship lightweight tools directly with SQL, REST APIs/webhooks, and AI-assisted coding, or write engineering-ready specs for hand-off. Measured in outcomes: ~250 hours/month of manual reporting eliminated, entire support-ticket categories eliminated, ad-hoc data requests down 70%. Based in San Francisco.
+Internal tools and data product builder: I find where manual, spreadsheet-driven work is slowing teams down and turn it into shipped fixes: automated data feeds, self-serve dashboards trusted by execs, and workflow automation that replaces manual coordination. I ship production code directly with SQL, REST APIs and webhooks, and AI-assisted coding (1,600+ merged pull requests in the past 7 months), or write engineering-ready specs for hand-off. Measured in outcomes: ~250 hours per month of manual reporting eliminated, frontline data accuracy up from ~70% to nearly 97%, entire support-ticket categories eliminated. Based in San Francisco.
 </p>
 
 <h2>Work Experience</h2>
@@ -74,12 +74,13 @@ Internal tools &amp; data product builder: I find where manual, spreadsheet-driv
     <div class="dates">Sep 2025 – Present</div>
   </div>
   <ul>
-    <li><b>Internal tools &amp; data product portfolio:</b> own the internal systems used daily across 300+ brands and 44,000+ creators — a 0→1 creator CRM that became the operating backbone for account and ops teams, an AI planning tool that cut the monthly planning cycle from ~1 month to 7 days (piloted with a few account managers, iterated on feedback, then rolled out company-wide), and the single-source-of-truth metrics layer behind role-based dashboards and client-facing monthly benchmarks (US/UK).</li>
-    <li><b>Reporting automation:</b> replaced manual performance tracking — account executives hand-copying GMV, ad-spend, and AOV into spreadsheets with frequent errors — with automated TikTok API data feeds into live brand dashboards, eliminating an entire class of data errors and ~250 hours/month of manual work.</li>
-    <li><b>Workflow automation, end to end:</b> shipped a fully automated meeting-operations pipeline (calendar discovery → LLM-extracted summaries and action items → auto-created, auto-assigned Lark tasks with daily status sync-back) that replaced manual coordination; automated a 5,000-person event's manual GMV-tier verification (3,000+ record backlog, 20+ support tickets) with webhook + API auto-tiering and AI-vision verification — check-in queue cut from 4 hours to 20 minutes and the ticket category eliminated.</li>
-    <li><b>Build-direct vs. hand-off judgment:</b> ship small fixes directly with AI-assisted coding on a Laravel/Railway stack — e.g., prototyped a heavyweight LLM+RAG matching approach for two weeks, then deliberately chose a lightweight LLM pain-point-labeling design; the resulting creator–brand recommendation engine lifted account managers' capacity from 1 to 2–3 brands each. Also built a RAG proposal assistant that cut drafting from ~2 hours to 15 minutes for a 5-person BD team (~5 proposals/week).</li>
-    <li><b>Intake, triage &amp; user-driven roadmap:</b> handle 10–30 tool and data requests daily from internal (AM, Ops, Finance) and external users with same-day resolution; run recurring-issue reviews that feed the tooling roadmap — e.g., spotted 5 of 30 users filing the same reporting request and shipped self-serve report editing that drove the request category to zero; deliver SOPs, user guides, and training across BD, Ops, Legal, Finance, and US/UK regional teams.</li>
-    <li><b>Exec-facing product:</b> built Lark Daily Digest for the C-suite — an AI tool that triages every group chat by urgency into a daily brief — then productized it as a one-click installable team tool (open-sourced: <a href="https://github.com/bellehe01/lark-daily-digest">github.com/bellehe01/lark-daily-digest</a>).</li>
+    <li><b>Shipped deliverables, not recommendations:</b> 1,600+ merged pull requests in 7 months into the company's production platform (Laravel and React: internal ops command center, creator CRM, TikTok data sync, reporting layer) and its AI agent console, written with AI-assisted coding and reviewed by engineering before merge.</li>
+    <li><b>Internal tools and data product portfolio:</b> own the internal systems used daily across 300+ brands and 70,000+ creators: a 0-to-1 creator CRM that became the operating backbone for account and ops teams, an AI planning tool that cut the monthly planning cycle from ~1 month to 7 days (piloted with account managers, then company-wide), and the single-source-of-truth metrics layer behind role-based dashboards and client-facing monthly benchmarks (US/UK).</li>
+    <li><b>Reporting automation and data quality:</b> replaced manual performance tracking (account executives hand-copying GMV, ad spend, and AOV into spreadsheets, with frequent errors) with automated TikTok API feeds into live brand dashboards, eliminating an entire error class and ~250 hours of manual work per month; built and maintain 60+ validation and follow-up automations that raised frontline data accuracy from ~70% to nearly 97%.</li>
+    <li><b>Workflow automation, end to end:</b> shipped a fully automated meeting-operations pipeline (calendar discovery, LLM-extracted summaries and action items, auto-assigned Lark tasks with daily status sync-back) that replaced manual coordination; automated a 5,000-person event's manual GMV-tier verification (3,000+ record backlog, 20+ support tickets) with webhook and API auto-tiering plus AI-vision checks, cutting check-in from 4 hours to 20 minutes and eliminating that ticket category.</li>
+    <li><b>AI agents in production:</b> build and operate AI agents that run daily operations, including BD lead intake that turns each new lead into a self-updating Lark card with one-click claim, and creator outreach with human-in-the-loop approvals; built Lark Daily Digest for the C-suite, an AI agent that triages every group chat by urgency into a daily brief (open-sourced: <a href="https://github.com/bellehe01/lark-daily-digest">github.com/bellehe01/lark-daily-digest</a>).</li>
+    <li><b>Build-direct vs. hand-off judgment:</b> prototyped a heavyweight LLM+RAG matching approach for two weeks, then deliberately chose a lightweight LLM pain-point-labeling design; the resulting creator-brand recommendation engine lifted account managers' capacity from 1 to 2-3 brands each. Also built a RAG proposal assistant that cut drafting from ~2 hours to 15 minutes for a 5-person BD team.</li>
+    <li><b>Intake, triage and user-driven roadmap:</b> handle 10-30 tool and data requests daily from internal (AM, Ops, Finance) and external users with same-day resolution; run recurring-issue reviews that feed the tooling roadmap: spotted 5 of 30 users filing the same reporting request and shipped self-serve report editing that drove the category to zero; deliver SOPs, user guides, and training across BD, Ops, Legal, Finance, and US/UK teams.</li>
   </ul>
 </div>
 
@@ -89,8 +90,8 @@ Internal tools &amp; data product builder: I find where manual, spreadsheet-driv
     <div class="dates">May 2025 – Sep 2025</div>
   </div>
   <ul>
-    <li><b>0→1 internal tool:</b> designed and drove an AI candidate-sourcing tool — raw job description to a ranked LinkedIn shortlist — piloted inside IntelliPro's ATS and tested by working recruiters; built with a three-engineer team, reporting directly to the CTO and CEO.</li>
-    <li><b>Defining metrics that stick:</b> core contribution was defining what "good" means and making it measurable — a weighted six-dimension scoring rubric, golden-standard labeled sets built with cross-annotator reconciliation, and offline evaluations reaching ~94% nDCG@30 with 98%+ overlap against recruiters' manual top-30 ranking; benchmarked 8+ LLMs on quality vs. cost (~$4–8 per JD).</li>
+    <li><b>0-to-1 internal tool:</b> designed and drove an AI candidate-sourcing tool (raw job description to a ranked LinkedIn shortlist), piloted inside IntelliPro's ATS and tested by working recruiters; built with a three-engineer team, reporting directly to the CTO and CEO.</li>
+    <li><b>Defining metrics that stick:</b> defined what "good" means and made it measurable: a weighted six-dimension scoring rubric, golden-standard labeled sets built with cross-annotator reconciliation, and offline evaluations reaching ~94% nDCG@30 with 98%+ overlap against recruiters' manual top-30 ranking; benchmarked 8+ LLMs on quality vs. cost.</li>
   </ul>
 </div>
 
@@ -100,7 +101,7 @@ Internal tools &amp; data product builder: I find where manual, spreadsheet-driv
     <div class="dates">Jan 2024 – Jun 2024</div>
   </div>
   <ul>
-    <li>Drove a 0→1 internal asset library (4,000+ categorized assets) launched with engineering, design, ops, QA, and legal — lifting submission penetration 38% and per-user content creation 55%; validated via A/B tests and user interviews.</li>
+    <li>Drove a 0-to-1 internal asset library (4,000+ categorized assets) launched with engineering, design, ops, QA, and legal, lifting submission penetration 38% and per-user content creation 55%; validated via A/B tests and user interviews.</li>
   </ul>
 </div>
 
@@ -110,7 +111,7 @@ Internal tools &amp; data product builder: I find where manual, spreadsheet-driv
     <div class="dates">Aug 2023 – Jan 2024</div>
   </div>
   <ul>
-    <li>Built the team's self-service Tableau dashboards and defined their metric conventions, cutting ad-hoc data requests by 70%; analyzed 5M+ playlist records with SQL/Python — weekly insights drove an 18% WAU increase and cut curation cycle time from 4 days to 2.</li>
+    <li>Built the team's self-service Tableau dashboards and defined their metric conventions, cutting ad-hoc data requests by 70%; analyzed 5M+ playlist records with SQL and Python; weekly insights drove an 18% WAU increase and cut curation cycle time from 4 days to 2.</li>
   </ul>
 </div>
 
@@ -128,7 +129,7 @@ Internal tools &amp; data product builder: I find where manual, spreadsheet-driv
 <ul class="skills">
   <li><b>Internal Tools &amp; Automation:</b> Workflow Automation, REST APIs &amp; Webhooks, AI-assisted Coding (Claude), Lark/Feishu Open API integrations (Calendar/VC/Tasks/IM), Engineering-ready Spec Writing, SOP Development, Issue Triage &amp; Ticket Deflection</li>
   <li><b>Data &amp; Analytics:</b> SQL (joins, CTEs, window functions), Python (pandas, numpy), Excel, KPI Definition, Data Validation &amp; QA Sampling, Dashboard Construction, Funnel &amp; Cohort Analysis, A/B Testing</li>
-  <li><b>AI &amp; LLM:</b> LLM Workflow Automation, Prompt Engineering, LLM Labeling &amp; Categorization, LLM Evaluation (rubrics, golden-standard sets, nDCG), RAG, AI Vision, Model Selection &amp; Cost Optimization</li>
+  <li><b>AI &amp; LLM:</b> AI Agent Development &amp; Operations, LLM Workflow Automation, Prompt Engineering, LLM Labeling &amp; Categorization, LLM Evaluation (rubrics, golden-standard sets, nDCG), RAG, AI Vision, Model Selection &amp; Cost Optimization</li>
   <li><b>Tools:</b> BigQuery, Snowflake, Tableau, Power BI, Amplitude, Mixpanel; HTML/JavaScript (working knowledge)</li>
   <li><b>Languages:</b> English (fluent), Chinese (native)</li>
 </ul>
